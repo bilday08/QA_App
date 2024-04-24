@@ -1,0 +1,413 @@
+<Element>
+
+    <!--GENERAL-->
+    <Item>
+        <TextId>9000</TextId>
+        <Text>Междуетажна плоча</Text>
+    </Item>
+
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Геометрия</Text>
+    </Item>
+
+    <!--PLATE-->
+    <Item>
+        <TextId>1000</TextId>
+        <Text>Параметри плоча</Text>
+    </Item>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Ширина</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Дълбочина</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Дебелина</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Стандартно</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Автоматично</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Разстояние</Text>
+    </Item>
+
+    <Item>
+        <TextId>1007</TextId>
+        <Text>Размер</Text>
+    </Item>
+
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Правоъгълник</Text>
+    </Item>
+
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Окръжност</Text>
+    </Item>
+
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Форма на плоча</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Диаметър</Text>
+    </Item>
+
+    <!--BOLT-->
+    <Item>
+        <TextId>2000</TextId>
+        <Text>Параметри на болтове</Text>
+    </Item>
+
+    <Item>
+        <TextId>2001</TextId>
+        <Text>Разстояние от ръба</Text>
+    </Item>
+
+    <Item>
+        <TextId>2002</TextId>
+        <Text>Брой болтове</Text>
+    </Item>
+
+    <Item>
+        <TextId>2003</TextId>
+        <Text>Брой болтове</Text>
+    </Item>
+
+    <Item>
+        <TextId>2004</TextId>
+        <Text>Тип кука</Text>
+    </Item>
+
+    <Item>
+        <TextId>2005</TextId>
+        <Text>С глава/L-кука/J-кука</Text>
+    </Item>
+
+    <Item>
+        <TextId>2006</TextId>
+        <Text>Размер</Text>
+    </Item>
+
+    <Item>
+        <TextId>2007</TextId>
+        <Text>Дължина</Text>
+    </Item>
+
+    <Item>
+        <TextId>2008</TextId>
+        <Text>Шайби</Text>
+    </Item>
+
+    <Item>
+        <TextId>2009</TextId>
+        <Text>Клас на болт</Text>
+    </Item>
+
+    <Item>
+        <TextId>2010</TextId>
+        <Text>Ниво на детайлиране</Text>
+    </Item>
+
+    <Item>
+        <TextId>2011</TextId>
+        <Text>Ниско</Text>
+    </Item>
+
+    <Item>
+        <TextId>2012</TextId>
+        <Text>Средно</Text>
+    </Item>
+
+    <Item>
+        <TextId>2013</TextId>
+        <Text>Високо</Text>
+    </Item>
+
+    <Item>
+        <TextId>2014</TextId>
+        <Text>Брой болтове</Text>
+    </Item>
+
+    <!--WELD-->
+    <Item>
+        <TextId>3000</TextId>
+        <Text>Параметри на заварка</Text>
+    </Item>
+
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Заварка</Text>
+    </Item>
+
+    <Item>
+        <TextId>3002</TextId>
+        <Text>Полилиния / Закръгляне / Изпъкнала / Вдлъбната</Text>
+    </Item>
+
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Ширина на заварка</Text>
+    </Item>
+
+    <Item>
+        <TextId>3004</TextId>
+        <Text>Ъгъл на заварка</Text>
+    </Item>
+
+    <Item>
+        <TextId>3005</TextId>
+        <Text>Дължина на заварка</Text>
+    </Item>
+
+    <Item>
+        <TextId>3006</TextId>
+        <Text>Ширина на заварка</Text>
+    </Item>
+
+    <Item>
+        <TextId>3007</TextId>
+        <Text>Площна заварка</Text>
+    </Item>
+
+    <Item>
+        <TextId>3008</TextId>
+        <Text>Забележка</Text>
+    </Item>
+
+    <Item>
+        <TextId>3009</TextId>
+        <Text>Стандартно</Text>
+    </Item>
+
+    <Item>
+        <TextId>3010</TextId>
+        <Text>Стебло/фланш</Text>
+    </Item>
+
+    <Item>
+        <TextId>3011</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>3012</TextId>
+        <Text>Заварка на фланш</Text>
+    </Item>
+
+    <Item>
+        <TextId>3013</TextId>
+        <Text>Заварка на стебло</Text>
+    </Item>
+
+    <!--STIFFENER-->
+    <Item>
+        <TextId>4000</TextId>
+        <Text>Параметри на закоравяващи елементи</Text>
+    </Item>
+
+    <Item>
+        <TextId>4001</TextId>
+        <Text>Хоризонтални закоравяващи елементи</Text>
+    </Item>
+
+    <Item>
+        <TextId>4002</TextId>
+        <Text>Централно</Text>
+    </Item>
+
+    <Item>
+        <TextId>4003</TextId>
+        <Text>Брой закоравяващи елементи</Text>
+    </Item>
+
+    <Item>
+        <TextId>4004</TextId>
+        <Text>Ръб</Text>
+    </Item>
+
+    <Item>
+        <TextId>4005</TextId>
+        <Text>Вертикални закоравяващи елементи</Text>
+    </Item>
+
+    <Item>
+        <TextId>4006</TextId>
+        <Text>Централно</Text>
+    </Item>
+
+    <Item>
+        <TextId>4007</TextId>
+        <Text>Брой закоравяващи елементи</Text>
+    </Item>
+
+    <Item>
+        <TextId>4008</TextId>
+        <Text>Ръб</Text>
+    </Item>
+
+    <Item>
+        <TextId>4009</TextId>
+        <Text>Дебелина</Text>
+    </Item>
+
+    <Item>
+        <TextId>4010</TextId>
+        <Text>Дължина</Text>
+    </Item>
+
+    <Item>
+        <TextId>4011</TextId>
+        <Text>Ширина</Text>
+    </Item>
+
+    <Item>
+        <TextId>4012</TextId>
+        <Text>Дължина на закръгляне</Text>
+    </Item>
+
+    <Item>
+        <TextId>4013</TextId>
+        <Text>План</Text>
+    </Item>
+
+    <Item>
+        <TextId>4014</TextId>
+        <Text>Ръб/Център</Text>
+    </Item>
+
+    <Item>
+        <TextId>4015</TextId>
+        <Text>Кръгъл</Text>
+    </Item>
+
+    <Item>
+        <TextId>4016</TextId>
+        <Text>Брой закоравяващи елементи</Text>
+    </Item>
+
+    <Item>
+        <TextId>4017</TextId>
+        <Text>Начален ъгъл</Text>
+    </Item>
+
+    <!-- DIALOG LINES -->
+
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Изберете колона от скелетна конструкция</Text>
+    </Item>
+
+    <Item>
+        <TextId>10001</TextId>
+        <Text>Редактиране параметри</Text>
+    </Item>
+
+    <!-- POP-UP MESSAGE -->
+
+    <Item>
+        <TextId>11000</TextId>
+        <Text>Колоната от скелетна конструкция е изтрита. Искате ли да изберете друга колона?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11001</TextId>
+        <Text>Копирали сте Python Part, свързана с Колона от скелетна конструкция. Искате ли да я свържете с новата Колона от скелетна конструкция?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11002</TextId>
+        <Text>Тази функция не е в съответствие с вашия текущ лиценз</Text>
+    </Item>
+
+    <Item>
+        <TextId>11003</TextId>
+        <Text>Тази функция не е в съответствие с версията на Allplan, която използвате.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11004</TextId>
+        <Text>Моля, изберете колона от скелетна конструкция без наклон в края.</Text>
+    </Item>
+
+    <!-- PROFILE NAME -->
+    <Item>
+        <TextId>12000</TextId>
+        <Text>I</Text>
+    </Item>
+
+    <Item>
+        <TextId>12001</TextId>
+        <Text>Правоъгълник - кух</Text>
+    </Item>
+
+    <Item>
+        <TextId>12002</TextId>
+        <Text>L</Text>
+    </Item>
+
+    <Item>
+        <TextId>12003</TextId>
+        <Text>Окръжност - куха</Text>
+    </Item>
+
+    <Item>
+        <TextId>12004</TextId>
+        <Text>C</Text>
+    </Item>
+
+    <Item>
+        <TextId>12005</TextId>
+        <Text>T</Text>
+    </Item>
+
+    <Item>
+        <TextId>12006</TextId>
+        <Text>Правоъгълник</Text>
+    </Item>
+
+    <Item>
+        <TextId>12007</TextId>
+        <Text>Окръжност</Text>
+    </Item>
+
+    <Item>
+        <TextId>12008</TextId>
+        <Text>I Asym</Text>
+    </Item>
+
+    <Item>
+        <TextId>12009</TextId>
+        <Text>Студено огънат</Text>
+    </Item>
+
+    <Item>
+        <TextId>12010</TextId>
+        <Text>Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>12011</TextId>
+        <Text>Шини</Text>
+    </Item>
+
+</Element>

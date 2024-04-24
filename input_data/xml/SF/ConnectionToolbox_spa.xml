@@ -1,0 +1,2472 @@
+<Element>
+
+    <!--GENERAL-->
+
+    <Item>
+        <TextId>9000</TextId>
+		<Text>Geometría</Text>
+    </Item>
+
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Seleccionar elemento</Text>
+    </Item>
+
+    <Item>
+        <TextId>9002</TextId>
+        <Text>Placa|Soporte|Anclaje|Soldadura|Agujero|Condición final</Text>
+    </Item>
+
+    <Item>
+        <TextId>9003</TextId>
+        <Text>Representación</Text>
+    </Item>
+
+    <Item>
+        <TextId>9004</TextId>
+        <Text>Connection Toolbox</Text>
+    </Item>
+
+    <!--PLATE-->
+
+    <Item>
+        <TextId>1000</TextId>
+        <Text>Placa</Text>
+    </Item>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Tipo de placa</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Placa final|Rigidizador</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Forma de placa</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Calidad</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Estilo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Forma</Text>
+    </Item>
+
+    <Item>
+        <TextId>1007</TextId>
+        <Text>Estilo de placa</Text>
+    </Item>
+
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Número del rigidizador</Text>
+    </Item>
+
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Calidad</Text>
+    </Item>
+
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Parámetros de placa</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Puntos</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>Seleccionar polilínea 2D</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>Seleccionar polilínea 3D</Text>
+    </Item>
+
+    <Item>
+        <TextId>1014</TextId>
+        <Text>Espesor</Text>
+    </Item>
+
+    <Item>
+        <TextId>1015</TextId>
+        <Text>Ancho</Text>
+    </Item>
+
+    <Item>
+        <TextId>1016</TextId>
+        <Text>Longitud</Text>
+    </Item>
+
+    <Item>
+        <TextId>1017</TextId>
+        <Text>Forma de vértice</Text>
+    </Item>
+
+    <Item>
+        <TextId>1018</TextId>
+        <Text>Esquina rectangular|Esquina con chaflán recto|Esquina con chaflán curvo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Radio</Text>
+    </Item>
+
+    <Item>
+        <TextId>1020</TextId>
+        <Text>Radio del chaflán curvo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text> Chaflán curvo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>  Chaflán curvo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>   Chaflán curvo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Chaflán curvo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text> Chaflán recto</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Longitud</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Ancho</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>  Chaflán recto</Text>
+    </Item>
+
+    <Item>
+        <TextId>1029</TextId>
+        <Text>Longitud</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Ancho</Text>
+    </Item>
+
+    <Item>
+        <TextId>1031</TextId>
+        <Text>   Chaflán recto</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Longitud</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Ancho</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Chaflán recto</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Longitud</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Ancho</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Colocación</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Orientación</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Forma</Text>
+    </Item>
+
+    <Item>
+        <TextId>1040</TextId>
+        <Text>Orientación</Text>
+    </Item>
+
+    <Item>
+        <TextId>1041</TextId>
+        <Text>Punto</Text>
+    </Item>
+
+    <Item>
+        <TextId>1042</TextId>
+        <Text>Vector</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Punto de referencia</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Punto de referencia</Text>
+    </Item>
+
+    <Item>
+        <TextId>1045</TextId>
+        <Text>Ángulo de giro</Text>
+    </Item>
+
+    <Item>
+        <TextId>1046</TextId>
+        <Text>Ángulo </Text>
+    </Item>
+
+    <Item>
+        <TextId>1047</TextId>
+        <Text>Placa invertida</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Crear elemento</Text>
+    </Item>
+
+    <Item>
+        <TextId>1050</TextId>
+        <Text>Confirmar</Text>
+    </Item>
+
+    <Item>
+        <TextId>1051</TextId>
+        <Text>Seleccionar punto de grosor</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Rectángulo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Círculo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Polilínea</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Auto</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Manual</Text>
+    </Item>
+
+    <Item>
+        <TextId>1057</TextId>
+        <Text>Parámetros de la forma del vértice</Text>
+    </Item>
+
+    <Item>
+        <TextId>1058</TextId>
+        <Text>Desfase</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Desfase </Text>
+    </Item>
+
+    <Item>
+        <TextId>1060</TextId>
+        <Text>Ubicación en la polilínea</Text>
+    </Item>
+
+    <Item>
+        <TextId>1061</TextId>
+        <Text>Personalizar</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Ancho libre</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Espacio libre</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Radio</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Longitud libre</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>Dependiente del perfil</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>Mostrar puntos de captura</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Formato</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>Layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1502</TextId>
+        <Text>Pluma</Text>
+    </Item>
+
+    <Item>
+        <TextId>1503</TextId>
+        <Text>Pluma de layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1504</TextId>
+        <Text>Línea</Text>
+    </Item>
+
+    <Item>
+        <TextId>1505</TextId>
+        <Text>Línea desde layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1506</TextId>
+        <Text>Color</Text>
+    </Item>
+
+    <Item>
+        <TextId>1507</TextId>
+        <Text>Color de layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1508</TextId>
+        <Text>Elemento de superficie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1509</TextId>
+        <Text>Superficie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1510</TextId>
+        <Text>Elemento de superficie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1511</TextId>
+        <Text>Rayado</Text>
+    </Item>
+
+    <Item>
+        <TextId>1512</TextId>
+        <Text>Trama</Text>
+    </Item>
+
+    <Item>
+        <TextId>1513</TextId>
+        <Text>Relleno</Text>
+    </Item>
+
+    <Item>
+        <TextId>1514</TextId>
+        <Text>Superficie de mapa de bits</Text>
+    </Item>
+
+    <Item>
+        <TextId>1515</TextId>
+        <Text>Superficie de estilo</Text>
+    </Item>
+
+    <!--CLEAT-->
+
+    <Item>
+        <TextId>2000</TextId>
+        <Text>Soporte</Text>
+    </Item>
+
+    <Item>
+        <TextId>2001</TextId>
+        <Text>Forma del soporte</Text>
+    </Item>
+
+    <Item>
+        <TextId>2002</TextId>
+        <Text>Perfil / Placa doblada</Text>
+    </Item>
+
+    <Item>
+        <TextId>2003</TextId>
+        <Text>Seleccionar perfil</Text>
+    </Item>
+
+    <Item>
+        <TextId>2004</TextId>
+        <Text>Calidad</Text>
+    </Item>
+
+    <Item>
+        <TextId>2005</TextId>
+        <Text>Parámetros de soporte</Text>
+    </Item>
+
+    <Item>
+        <TextId>2006</TextId>
+        <Text>Longitud de soporte</Text>
+    </Item>
+
+    <Item>
+        <TextId>2007</TextId>
+        <Text> Longitud de la unión atornillada articulada</Text>
+    </Item>
+
+    <Item>
+        <TextId>2008</TextId>
+        <Text>Grosor de unión atornillada articulada</Text>
+    </Item>
+
+    <Item>
+        <TextId>2009</TextId>
+        <Text>Ángulo de unión atornillada articulada</Text>
+    </Item>
+
+    <Item>
+        <TextId>2010</TextId>
+        <Text>Nivel de detalle</Text>
+    </Item>
+
+    <Item>
+        <TextId>2011</TextId>
+        <Text>Ancho del chaflán recto</Text>
+    </Item>
+
+    <Item>
+        <TextId>2012</TextId>
+        <Text>Radio del chaflán curvo</Text>
+    </Item>
+
+    <Item>
+        <TextId>2013</TextId>
+        <Text>Colocación</Text>
+    </Item>
+
+    <Item>
+        <TextId>2014</TextId>
+        <Text>Desfase</Text>
+    </Item>
+
+    <Item>
+        <TextId>2015</TextId>
+        <Text>Estilo de colocación</Text>
+    </Item>
+
+    <Item>
+        <TextId>2016</TextId>
+        <Text>Seleccionar puntos</Text>
+    </Item>
+
+    <Item>
+        <TextId>2017</TextId>
+        <Text>Primer punto</Text>
+    </Item>
+
+    <Item>
+        <TextId>2018</TextId>
+        <Text>Segundo punto</Text>
+    </Item>
+
+    <Item>
+        <TextId>2019</TextId>
+        <Text>Punto de referencia</Text>
+    </Item>
+
+    <Item>
+        <TextId>2020</TextId>
+        <Text>Punto de referencia</Text>
+    </Item>
+
+    <Item>
+        <TextId>2021</TextId>
+        <Text>Desfase</Text>
+    </Item>
+
+    <Item>
+        <TextId>2022</TextId>
+        <Text>Giro de unión atornillada articulada</Text>
+    </Item>
+
+    <Item>
+        <TextId>2023</TextId>
+        <Text>Agujero</Text>
+    </Item>
+
+    <Item>
+        <TextId>2024</TextId>
+        <Text>Crear agujero</Text>
+    </Item>
+
+    <Item>
+        <TextId>2025</TextId>
+        <Text>Número de agujeros</Text>
+    </Item>
+
+    <Item>
+        <TextId>2026</TextId>
+        <Text>Distancia del agujero 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>2027</TextId>
+        <Text>Distancia del agujero 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>2028</TextId>
+        <Text>Radio del agujero</Text>
+    </Item>
+
+    <Item>
+        <TextId>2029</TextId>
+        <Text>Radio del agujero 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>2030</TextId>
+        <Text>Radio del agujero 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>2031</TextId>
+        <Text>Número de aristas</Text>
+    </Item>
+
+    <Item>
+        <TextId>2032</TextId>
+        <Text>Longitud de la arista</Text>
+    </Item>
+
+    <Item>
+        <TextId>2033</TextId>
+        <Text>Crear elemento</Text>
+    </Item>
+
+    <Item>
+        <TextId>2034</TextId>
+        <Text>Confirmar</Text>
+    </Item>
+
+    <Item>
+        <TextId>2035</TextId>
+        <Text>Seleccionar puntos para determinar el ángulo del soporte</Text>
+    </Item>
+
+    <Item>
+        <TextId>2036</TextId>
+        <Text>Bajo</Text>
+    </Item>
+
+    <Item>
+        <TextId>2037</TextId>
+        <Text>Medio</Text>
+    </Item>
+
+    <Item>
+        <TextId>2038</TextId>
+        <Text>Alto</Text>
+    </Item>
+
+    <Item>
+        <TextId>2039</TextId>
+        <Text>Auto</Text>
+    </Item>
+
+    <Item>
+        <TextId>2040</TextId>
+        <Text>Manual</Text>
+    </Item>
+
+    <Item>
+        <TextId>2041</TextId>
+        <Text>Nada</Text>
+    </Item>
+
+    <Item>
+        <TextId>2042</TextId>
+        <Text>Círculo</Text>
+    </Item>
+
+    <Item>
+        <TextId>2043</TextId>
+        <Text>Arco</Text>
+    </Item>
+
+    <Item>
+        <TextId>2044</TextId>
+        <Text>Polígono</Text>
+    </Item>
+
+    <Item>
+        <TextId>2500</TextId>
+        <Text>Formato</Text>
+    </Item>
+
+    <Item>
+        <TextId>2501</TextId>
+        <Text>Layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>2502</TextId>
+        <Text>Pluma</Text>
+    </Item>
+
+    <Item>
+        <TextId>2503</TextId>
+        <Text>Pluma de layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>2504</TextId>
+        <Text>Línea</Text>
+    </Item>
+
+    <Item>
+        <TextId>2505</TextId>
+        <Text>Línea desde layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>2506</TextId>
+        <Text>Color</Text>
+    </Item>
+
+    <Item>
+        <TextId>2507</TextId>
+        <Text>Color de layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>2508</TextId>
+        <Text>Elemento de superficie</Text>
+    </Item>
+
+    <Item>
+        <TextId>2509</TextId>
+        <Text>Superficie</Text>
+    </Item>
+
+    <Item>
+        <TextId>2510</TextId>
+        <Text>Elemento de superficie</Text>
+    </Item>
+
+    <Item>
+        <TextId>2511</TextId>
+        <Text>Rayado</Text>
+    </Item>
+
+    <Item>
+        <TextId>2512</TextId>
+        <Text>Trama</Text>
+    </Item>
+
+    <Item>
+        <TextId>2513</TextId>
+        <Text>Relleno</Text>
+    </Item>
+
+    <Item>
+        <TextId>2514</TextId>
+        <Text>Superficie de mapa de bits</Text>
+    </Item>
+
+    <Item>
+        <TextId>2515</TextId>
+        <Text>Superficie de estilo</Text>
+    </Item>
+
+    <Item>
+        <TextId>2516</TextId>
+        <Text>Desfase</Text>
+    </Item>
+
+    <Item>
+        <TextId>2517</TextId>
+        <Text>Desfase</Text>
+    </Item>
+
+    <!--BOLT-->
+
+    <Item>
+        <TextId>3000</TextId>
+        <Text>Anclaje</Text>
+    </Item>
+
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Tipo de anclaje</Text>
+    </Item>
+
+    <Item>
+        <TextId>3002</TextId>
+        <Text>Perno general |Perno de anclaje</Text>
+    </Item>
+
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Tipo de gancho</Text>
+    </Item>
+
+    <Item>
+        <TextId>3004</TextId>
+        <Text>Con cabeza|Gancho en L|Gancho en J</Text>
+    </Item>
+
+    <Item>
+        <TextId>3005</TextId>
+        <Text>Forma de la cabeza</Text>
+    </Item>
+
+    <Item>
+        <TextId>3006</TextId>
+        <Text>Hexágono|Avellanador</Text>
+    </Item>
+
+    <Item>
+        <TextId>3007</TextId>
+        <Text>Parámetros del anclaje</Text>
+    </Item>
+
+    <Item>
+        <TextId>3008</TextId>
+        <Text>Tamaño</Text>
+    </Item>
+
+    <Item>
+        <TextId>3009</TextId>
+        <Text>Tamaño</Text>
+    </Item>
+
+    <Item>
+        <TextId>3010</TextId>
+        <Text>Longitud</Text>
+    </Item>
+
+    <Item>
+        <TextId>3011</TextId>
+        <Text>Arandelas</Text>
+    </Item>
+
+    <Item>
+        <TextId>3012</TextId>
+        <Text>Arandelas de tuerca</Text>
+    </Item>
+
+    <Item>
+        <TextId>3013</TextId>
+        <Text>Clase del anclaje</Text>
+    </Item>
+
+    <Item>
+        <TextId>3014</TextId>
+        <Text>Nivel de detalle</Text>
+    </Item>
+
+    <Item>
+        <TextId>3015</TextId>
+        <Text>Colocación</Text>
+    </Item>
+
+    <Item>
+        <TextId>3016</TextId>
+        <Text>Número de anclajes</Text>
+    </Item>
+
+    <Item>
+        <TextId>3017</TextId>
+        <Text>Orientación</Text>
+    </Item>
+
+    <Item>
+        <TextId>3018</TextId>
+        <Text>Orientación</Text>
+    </Item>
+
+    <Item>
+        <TextId>3019</TextId>
+        <Text>Personalizar</Text>
+    </Item>
+
+    <Item>
+        <TextId>3020</TextId>
+        <Text>Punto</Text>
+    </Item>
+
+    <Item>
+        <TextId>3021</TextId>
+        <Text>Vector</Text>
+    </Item>
+
+    <Item>
+        <TextId>3022</TextId>
+        <Text>Superior</Text>
+    </Item>
+
+    <Item>
+        <TextId>3023</TextId>
+        <Text>Medio</Text>
+    </Item>
+
+    <Item>
+        <TextId>3024</TextId>
+        <Text>Inferior</Text>
+    </Item>
+
+    <Item>
+        <TextId>3025</TextId>
+        <Text>Punto de referencia</Text>
+    </Item>
+
+    <Item>
+        <TextId>3026</TextId>
+        <Text>Dimensión del grupo de tornillos</Text>
+    </Item>
+
+    <Item>
+        <TextId>3027</TextId>
+        <Text>Desfase</Text>
+    </Item>
+
+    <Item>
+        <TextId>3028</TextId>
+        <Text> Distancia</Text>
+    </Item>
+
+    <Item>
+        <TextId>3029</TextId>
+        <Text>  Distancia</Text>
+    </Item>
+
+    <Item>
+        <TextId>3030</TextId>
+        <Text>   Distancia</Text>
+    </Item>
+
+    <Item>
+        <TextId>3031</TextId>
+        <Text>Ángulo de giro</Text>
+    </Item>
+
+    <Item>
+        <TextId>3032</TextId>
+        <Text>Ángulo de giro</Text>
+    </Item>
+
+    <Item>
+        <TextId>3033</TextId>
+        <Text>Perno invertido</Text>
+    </Item>
+
+    <Item>
+        <TextId>3034</TextId>
+        <Text>Desfase</Text>
+    </Item>
+
+    <Item>
+        <TextId>3035</TextId>
+        <Text>Desfase </Text>
+    </Item>
+
+    <Item>
+        <TextId>3036</TextId>
+        <Text>Crear elemento</Text>
+    </Item>
+
+    <Item>
+        <TextId>3037</TextId>
+        <Text>Confirmar</Text>
+    </Item>
+
+    <Item>
+        <TextId>3038</TextId>
+        <Text>Seleccionar punto de retícula</Text>
+    </Item>
+
+    <Item>
+        <TextId>3039</TextId>
+        <Text>Bajo</Text>
+    </Item>
+
+    <Item>
+        <TextId>3040</TextId>
+        <Text>Medio</Text>
+    </Item>
+
+    <Item>
+        <TextId>3041</TextId>
+        <Text>Alto</Text>
+    </Item>
+
+    <Item>
+        <TextId>3500</TextId>
+        <Text>Formato</Text>
+    </Item>
+
+    <Item>
+        <TextId>3501</TextId>
+        <Text>Layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>3502</TextId>
+        <Text>Pluma</Text>
+    </Item>
+
+    <Item>
+        <TextId>3503</TextId>
+        <Text>Pluma de layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>3504</TextId>
+        <Text>Línea</Text>
+    </Item>
+
+    <Item>
+        <TextId>3505</TextId>
+        <Text>Línea desde layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>3506</TextId>
+        <Text>Color</Text>
+    </Item>
+
+    <Item>
+        <TextId>3507</TextId>
+        <Text>Color de layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>3508</TextId>
+        <Text>Elemento de superficie</Text>
+    </Item>
+
+    <Item>
+        <TextId>3509</TextId>
+        <Text>Superficie</Text>
+    </Item>
+
+    <Item>
+        <TextId>3510</TextId>
+        <Text>Elemento de superficie</Text>
+    </Item>
+
+    <Item>
+        <TextId>3511</TextId>
+        <Text>Rayado</Text>
+    </Item>
+
+    <Item>
+        <TextId>3512</TextId>
+        <Text>Trama</Text>
+    </Item>
+
+    <Item>
+        <TextId>3513</TextId>
+        <Text>Relleno</Text>
+    </Item>
+
+    <Item>
+        <TextId>3514</TextId>
+        <Text>Superficie de mapa de bits</Text>
+    </Item>
+
+    <Item>
+        <TextId>3515</TextId>
+        <Text>Superficie de estilo</Text>
+    </Item>
+
+    <!--WELD-->
+
+    <Item>
+        <TextId>4000</TextId>
+        <Text>Soldadura</Text>
+    </Item>
+
+    <Item>
+        <TextId>4001</TextId>
+        <Text>Tipo de soldadura</Text>
+    </Item>
+
+    <Item>
+        <TextId>4002</TextId>
+        <Text>Polilínea|Chaflán curvo|Convexo|Cóncavo</Text>
+    </Item>
+
+    <Item>
+        <TextId>4003</TextId>
+        <Text>Valores generales</Text>
+    </Item>
+
+    <Item>
+        <TextId>4004</TextId>
+        <Text>Longitud de soldadura</Text>
+    </Item>
+
+    <Item>
+        <TextId>4005</TextId>
+        <Text>Ancho de soldadura</Text>
+    </Item>
+
+    <Item>
+        <TextId>4006</TextId>
+        <Text>Ángulo de soldadura</Text>
+    </Item>
+
+    <Item>
+        <TextId>4010</TextId>
+        <Text>Colocación</Text>
+    </Item>
+
+    <Item>
+        <TextId>4011</TextId>
+        <Text>Giro</Text>
+    </Item>
+
+    <Item>
+        <TextId>4012</TextId>
+        <Text>Crear elemento</Text>
+    </Item>
+
+    <Item>
+        <TextId>4013</TextId>
+        <Text>Confirmar</Text>
+    </Item>
+
+    <Item>
+        <TextId>4014</TextId>
+        <Text>Modificación</Text>
+    </Item>
+
+    <Item>
+        <TextId>4015</TextId>
+        <Text>Volver a empezar</Text>
+    </Item>
+
+    <Item>
+        <TextId>4016</TextId>
+        <Text>Borrar último punto</Text>
+    </Item>
+
+    <Item>
+        <TextId>4017</TextId>
+        <Text>Nuevo punto</Text>
+    </Item>
+
+    <Item>
+        <TextId>4018</TextId>
+        <Text>Mover punto</Text>
+    </Item>
+
+    <Item>
+        <TextId>4500</TextId>
+        <Text>Formato</Text>
+    </Item>
+
+    <Item>
+        <TextId>4501</TextId>
+        <Text>Layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>4502</TextId>
+        <Text>Pluma</Text>
+    </Item>
+
+    <Item>
+        <TextId>4503</TextId>
+        <Text>Pluma de layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>4504</TextId>
+        <Text>Línea</Text>
+    </Item>
+
+    <Item>
+        <TextId>4505</TextId>
+        <Text>Línea desde layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>4506</TextId>
+        <Text>Color</Text>
+    </Item>
+
+    <Item>
+        <TextId>4507</TextId>
+        <Text>Color de layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>4508</TextId>
+        <Text>Elemento de superficie</Text>
+    </Item>
+
+    <Item>
+        <TextId>4509</TextId>
+        <Text>Superficie</Text>
+    </Item>
+
+    <Item>
+        <TextId>4510</TextId>
+        <Text>Elemento de superficie</Text>
+    </Item>
+
+    <Item>
+        <TextId>4511</TextId>
+        <Text>Rayado</Text>
+    </Item>
+
+    <Item>
+        <TextId>4512</TextId>
+        <Text>Trama</Text>
+    </Item>
+
+    <Item>
+        <TextId>4513</TextId>
+        <Text>Relleno</Text>
+    </Item>
+
+    <Item>
+        <TextId>4514</TextId>
+        <Text>Superficie de mapa de bits</Text>
+    </Item>
+
+    <Item>
+        <TextId>4515</TextId>
+        <Text>Superficie de estilo</Text>
+    </Item>
+
+    <!--STIFFENER-->
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Parámetros del rigidizador</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>Puntos</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>Seleccionar polilínea 2D</Text>
+    </Item>
+
+    <Item>
+        <TextId>5003</TextId>
+        <Text>Seleccionar polilínea 3D</Text>
+    </Item>
+
+    <Item>
+        <TextId>5004</TextId>
+        <Text>Espesor</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>Longitud</Text>
+    </Item>
+
+    <Item>
+        <TextId>5006</TextId>
+        <Text>Ancho</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>Distancia Ox</Text>
+    </Item>
+
+    <Item>
+        <TextId>5008</TextId>
+        <Text>Radio</Text>
+    </Item>
+
+    <Item>
+        <TextId>5009</TextId>
+        <Text>Forma de vértice</Text>
+    </Item>
+
+    <Item>
+        <TextId>5010</TextId>
+        <Text>Esquina rectangular|Esquina con chaflán recto|Esquina con chaflán curvo</Text>
+    </Item>
+
+    <Item>
+        <TextId>5011</TextId>
+        <Text>Radio del chaflán curvo</Text>
+    </Item>
+
+    <Item>
+        <TextId>5012</TextId>
+        <Text> Chaflán curvo</Text>
+    </Item>
+
+    <Item>
+        <TextId>5013</TextId>
+        <Text>  Chaflán curvo</Text>
+    </Item>
+
+    <Item>
+        <TextId>5014</TextId>
+        <Text>   Chaflán curvo</Text>
+    </Item>
+
+    <Item>
+        <TextId>5015</TextId>
+        <Text>Chaflán curvo</Text>
+    </Item>
+
+    <Item>
+        <TextId>5016</TextId>
+        <Text> Chaflán recto</Text>
+    </Item>
+
+    <Item>
+        <TextId>5017</TextId>
+        <Text>Longitud</Text>
+    </Item>
+
+    <Item>
+        <TextId>5018</TextId>
+        <Text>Ancho</Text>
+    </Item>
+
+    <Item>
+        <TextId>5019</TextId>
+        <Text>  Chaflán recto</Text>
+    </Item>
+
+    <Item>
+        <TextId>5020</TextId>
+        <Text>Longitud</Text>
+    </Item>
+
+    <Item>
+        <TextId>5021</TextId>
+        <Text>Ancho</Text>
+    </Item>
+
+    <Item>
+        <TextId>5022</TextId>
+        <Text>   Chaflán</Text>
+    </Item>
+
+    <Item>
+        <TextId>5023</TextId>
+        <Text>Longitud</Text>
+    </Item>
+
+    <Item>
+        <TextId>5024</TextId>
+        <Text>Ancho</Text>
+    </Item>
+
+    <Item>
+        <TextId>5025</TextId>
+        <Text>Chaflán recto</Text>
+    </Item>
+
+    <Item>
+        <TextId>5026</TextId>
+        <Text>Longitud</Text>
+    </Item>
+
+    <Item>
+        <TextId>5027</TextId>
+        <Text>Ancho</Text>
+    </Item>
+
+    <Item>
+        <TextId>5028</TextId>
+        <Text>Colocación</Text>
+    </Item>
+
+    <Item>
+        <TextId>5029</TextId>
+        <Text>Orientación</Text>
+    </Item>
+
+    <Item>
+        <TextId>5030</TextId>
+        <Text>Orientación</Text>
+    </Item>
+
+    <Item>
+        <TextId>5031</TextId>
+        <Text>Personalizado</Text>
+    </Item>
+
+    <Item>
+        <TextId>5032</TextId>
+        <Text>Forma</Text>
+    </Item>
+
+    <Item>
+        <TextId>5033</TextId>
+        <Text>Vector </Text>
+    </Item>
+
+    <Item>
+        <TextId>5034</TextId>
+        <Text>Punto de referencia</Text>
+    </Item>
+
+    <Item>
+        <TextId>5035</TextId>
+        <Text>Punto de referencia</Text>
+    </Item>
+
+    <Item>
+        <TextId>5036</TextId>
+        <Text>Ángulo de giro</Text>
+    </Item>
+
+    <Item>
+        <TextId>5037</TextId>
+        <Text>Ángulo Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>5038</TextId>
+        <Text>Ángulo Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>5039</TextId>
+        <Text>Desfase</Text>
+    </Item>
+
+    <Item>
+        <TextId>5040</TextId>
+        <Text>Desfase X</Text>
+    </Item>
+
+    <Item>
+        <TextId>5041</TextId>
+        <Text>Desfase Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>5042</TextId>
+        <Text>Desfase Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>5043</TextId>
+        <Text>Crear elemento</Text>
+    </Item>
+
+    <Item>
+        <TextId>5044</TextId>
+        <Text>Confirmar</Text>
+    </Item>
+
+    <Item>
+        <TextId>5045</TextId>
+        <Text>Longitud del chaflán</Text>
+    </Item>
+
+    <Item>
+        <TextId>5046</TextId>
+        <Text>Rectángulo</Text>
+    </Item>
+
+    <Item>
+        <TextId>5047</TextId>
+        <Text>Triángulo</Text>
+    </Item>
+
+    <Item>
+        <TextId>5048</TextId>
+        <Text>Parámetros de la forma del vértice</Text>
+    </Item>
+
+    <Item>
+        <TextId>5049</TextId>
+        <Text>Tamaño/posición de placa</Text>
+    </Item>
+
+    <Item>
+        <TextId>5050</TextId>
+        <Text>Mostrar puntos de captura</Text>
+    </Item>
+
+    <Item>
+        <TextId>5051</TextId>
+        <Text>Trapezoide</Text>
+    </Item>
+
+    <Item>
+        <TextId>5052</TextId>
+        <Text>Dim 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>5053</TextId>
+        <Text>Dim 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>5054</TextId>
+        <Text>Distancia Oy</Text>
+    </Item>
+
+    <Item>
+        <TextId>5055</TextId>
+        <Text>Ángulo X</Text>
+    </Item>
+
+    <Item>
+        <TextId>5500</TextId>
+        <Text>Propiedades</Text>
+    </Item>
+
+    <Item>
+        <TextId>5501</TextId>
+        <Text>Layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>5502</TextId>
+        <Text>Pluma</Text>
+    </Item>
+
+    <Item>
+        <TextId>5503</TextId>
+        <Text>Pluma de layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>5504</TextId>
+        <Text>Línea</Text>
+    </Item>
+
+    <Item>
+        <TextId>5505</TextId>
+        <Text>Línea desde layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>5506</TextId>
+        <Text>Color</Text>
+    </Item>
+
+    <Item>
+        <TextId>5507</TextId>
+        <Text>Color de layer</Text>
+    </Item>
+
+    <!--WELD SYMBOL-->
+
+    <Item>
+        <TextId>6000</TextId>
+        <Text>Añadir símbolo</Text>
+    </Item>
+
+    <Item>
+        <TextId>6001</TextId>
+        <Text>Longitud de soldadura</Text>
+    </Item>
+
+    <Item>
+        <TextId>6002</TextId>
+        <Text>Profundidad de la soldadura</Text>
+    </Item>
+
+    <Item>
+        <TextId>6003</TextId>
+        <Text>Detalles</Text>
+    </Item>
+
+    <Item>
+        <TextId>6004</TextId>
+        <Text>Soldar por todos lados</Text>
+    </Item>
+
+    <Item>
+        <TextId>6005</TextId>
+        <Text>Zona de soldadura</Text>
+    </Item>
+
+    <Item>
+        <TextId>6006</TextId>
+        <Text>Nota</Text>
+    </Item>
+
+    <Item>
+        <TextId>6007</TextId>
+        <Text>Tipo de soldadura</Text>
+    </Item>
+
+    <Item>
+        <TextId>6500</TextId>
+        <Text>Símbolo de soldadura</Text>
+    </Item>
+
+    <Item>
+        <TextId>6501</TextId>
+        <Text>Longitud de línea de ref.</Text>
+    </Item>
+
+    <Item>
+        <TextId>6502</TextId>
+        <Text>Escala de texto</Text>
+    </Item>
+
+    <Item>
+        <TextId>6503</TextId>
+        <Text>Layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>6504</TextId>
+        <Text>Pluma</Text>
+    </Item>
+
+    <Item>
+        <TextId>6505</TextId>
+        <Text>Pluma por layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>6506</TextId>
+        <Text>Tipo de línea</Text>
+    </Item>
+
+    <Item>
+        <TextId>6507</TextId>
+        <Text>Tipo de línea por layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>6508</TextId>
+        <Text>Color</Text>
+    </Item>
+
+    <Item>
+        <TextId>6509</TextId>
+        <Text>Color por layer</Text>
+    </Item>
+
+    <!--HOLE-->
+
+    <Item>
+        <TextId>7000</TextId>
+        <Text>Hueco</Text>
+    </Item>
+
+    <Item>
+        <TextId>7001</TextId>
+        <Text>Forma del hueco</Text>
+    </Item>
+
+    <Item>
+        <TextId>7002</TextId>
+        <Text> Círculo</Text>
+    </Item>
+
+    <Item>
+        <TextId>7003</TextId>
+        <Text>Rectangular</Text>
+    </Item>
+
+    <Item>
+        <TextId>7004</TextId>
+        <Text>Diámetro</Text>
+    </Item>
+
+    <Item>
+        <TextId>7005</TextId>
+        <Text>Profundidad</Text>
+    </Item>
+
+    <Item>
+        <TextId>7006</TextId>
+        <Text>Ancho</Text>
+    </Item>
+
+    <Item>
+        <TextId>7007</TextId>
+        <Text>Longitud</Text>
+    </Item>
+
+    <Item>
+        <TextId>7008</TextId>
+        <Text>Forma de esquina</Text>
+    </Item>
+
+    <Item>
+        <TextId>7009</TextId>
+        <Text>Chaflán recto</Text>
+    </Item>
+
+    <Item>
+        <TextId>7010</TextId>
+        <Text>Chaflán curvo</Text>
+    </Item>
+
+    <Item>
+        <TextId>7011</TextId>
+        <Text>Confirmar</Text>
+    </Item>
+
+    <Item>
+        <TextId>7012</TextId>
+        <Text>Crear elemento</Text>
+    </Item>
+
+    <Item>
+        <TextId>7013</TextId>
+        <Text>Esquina rectangular|Esquina con chaflán recto|Esquina con chaflán curvo</Text>
+    </Item>
+
+    <Item>
+        <TextId>7014</TextId>
+        <Text> Chaflán recto</Text>
+    </Item>
+
+    <Item>
+        <TextId>7015</TextId>
+        <Text>  Chaflán recto</Text>
+    </Item>
+
+    <Item>
+        <TextId>7016</TextId>
+        <Text>   Chaflán recto</Text>
+    </Item>
+
+    <Item>
+        <TextId>7017</TextId>
+        <Text>Tamaño del chaflán recto</Text>
+    </Item>
+
+    <Item>
+        <TextId>7018</TextId>
+        <Text> Chaflán curvo</Text>
+    </Item>
+
+    <Item>
+        <TextId>7019</TextId>
+        <Text>  Chaflán curvo</Text>
+    </Item>
+
+    <Item>
+        <TextId>7020</TextId>
+        <Text>   Chaflán curvo</Text>
+    </Item>
+
+    <Item>
+        <TextId>7021</TextId>
+        <Text>Radio del chaflán curvo</Text>
+    </Item>
+
+    <Item>
+        <TextId>7022</TextId>
+        <Text>´NAgulo</Text>
+    </Item>
+
+    <Item>
+        <TextId>7023</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>7024</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>7025</TextId>
+        <Text>Crear hueco</Text>
+    </Item>
+
+    <Item>
+        <TextId>7026</TextId>
+        <Text>Borrar hueco</Text>
+    </Item>
+
+    <Item>
+        <TextId>7027</TextId>
+        <Text>Parámetros de posición</Text>
+    </Item>
+
+    <Item>
+        <TextId>7028</TextId>
+        <Text>Desfase X</Text>
+    </Item>
+
+    <Item>
+        <TextId>7029</TextId>
+        <Text>Desfase Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>7030</TextId>
+        <Text>Ranura</Text>
+    </Item>
+
+    <!-- ENDCONDITION -->
+
+    <Item>
+        <TextId>8000</TextId>
+        <Text>Condición final</Text>
+    </Item>
+
+    <Item>
+        <TextId>8001</TextId>
+        <Text>Crear elemento</Text>
+    </Item>
+
+    <Item>
+        <TextId>8002</TextId>
+        <Text>Confirmar</Text>
+    </Item>
+
+    <Item>
+        <TextId>8003</TextId>
+        <Text>Operación superior</Text>
+    </Item>
+
+    <Item>
+        <TextId>8004</TextId>
+        <Text>Operación inferior</Text>
+    </Item>
+
+    <Item>
+        <TextId>8005</TextId>
+        <Text>Tipo de operación</Text>
+    </Item>
+
+    <Item>
+        <TextId>8006</TextId>
+        <Text>Nada</Text>
+    </Item>
+
+    <Item>
+        <TextId>8007</TextId>
+        <Text>Cope plain</Text>
+    </Item>
+
+    <Item>
+        <TextId>8008</TextId>
+        <Text>Cope Std</Text>
+    </Item>
+
+    <Item>
+        <TextId>8009</TextId>
+        <Text>Cope FEMA</Text>
+    </Item>
+
+    <Item>
+        <TextId>8010</TextId>
+        <Text>Cope seismic</Text>
+    </Item>
+
+    <Item>
+        <TextId>8011</TextId>
+        <Text>Cortar ancho de brida</Text>
+    </Item>
+
+    <Item><!-- profile-->
+        <TextId>8012</TextId>
+        <Text>I</Text>
+    </Item>
+
+    <Item>
+        <TextId>8013</TextId>
+        <Text>Viga de cajón rectangular</Text>
+    </Item>
+
+    <Item>
+        <TextId>8014</TextId>
+        <Text>L</Text>
+    </Item>
+
+    <Item>
+        <TextId>8015</TextId>
+        <Text>Viga de cajón círcular</Text>
+    </Item>
+
+    <Item>
+        <TextId>8016</TextId>
+        <Text>C</Text>
+    </Item>
+
+    <Item>
+        <TextId>8017</TextId>
+        <Text>T</Text>
+    </Item>
+
+    <Item>
+        <TextId>8018</TextId>
+        <Text>Formato</Text>
+    </Item>
+
+    <Item>
+        <TextId>8019</TextId>
+        <Text>Círculo</Text>
+    </Item>
+
+    <Item>
+        <TextId>8020</TextId>
+        <Text>I Asim.</Text>
+    </Item>
+
+    <Item>
+        <TextId>8021</TextId>
+        <Text>Conformado en frío</Text>
+    </Item>
+
+    <Item>
+        <TextId>8022</TextId>
+        <Text>Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>8023</TextId>
+        <Text>Carriles</Text>
+    </Item>
+
+    <Item>
+        <TextId>8024</TextId>
+        <Text>Muesca</Text>
+    </Item>
+
+    <Item><!-- Cope plain-->
+        <TextId>8025</TextId>
+        <Text>Cope length</Text>
+    </Item>
+
+    <Item>
+        <TextId>8026</TextId>
+        <Text>Cope depth</Text>
+    </Item>
+
+    <Item>
+        <TextId>8027</TextId>
+        <Text>Cope radius</Text>
+    </Item>
+
+    <Item><!-- Cope Std-->
+        <TextId>8028</TextId>
+        <Text>Cope length</Text>
+    </Item>
+
+    <Item>
+        <TextId>8029</TextId>
+        <Text>Cope depth</Text>
+    </Item>
+
+    <Item>
+        <TextId>8030</TextId>
+        <Text>Radio de reentrada</Text>
+    </Item>
+
+    <Item>
+        <TextId>8031</TextId>
+        <Text>Root face</Text>
+    </Item>
+
+    <Item>
+        <TextId>8032</TextId>
+        <Text>Ángulo de ranura</Text>
+    </Item>
+
+    <Item>
+        <TextId>8033</TextId>
+        <Text>Shop cope</Text>
+    </Item>
+
+    <Item>
+        <TextId>8034</TextId>
+        <Text>Recortar alma</Text>
+    </Item>
+
+    <Item><!-- Cope FEMA-->
+        <TextId>8035</TextId>
+        <Text>Cope length</Text>
+    </Item>
+
+    <Item>
+        <TextId>8036</TextId>
+        <Text>Longitud de reentrada</Text>
+    </Item>
+
+    <Item>
+        <TextId>8037</TextId>
+        <Text>Profundidad de reentrada</Text>
+    </Item>
+
+    <Item>
+        <TextId>8038</TextId>
+        <Text>Longitud de brida al ras</Text>
+    </Item>
+
+    <Item>
+        <TextId>8039</TextId>
+        <Text>Radio de reentrada</Text>
+    </Item>
+
+    <Item>
+        <TextId>8040</TextId>
+        <Text>Ángulo de ranura</Text>
+    </Item>
+
+    <Item>
+        <TextId>8041</TextId>
+        <Text>Distancia del hueco de reentrada</Text>
+    </Item>
+
+    <Item>
+        <TextId>8042</TextId>
+        <Text>Root face</Text>
+    </Item>
+
+    <Item>
+        <TextId>8043</TextId>
+        <Text>Viga de cantil</Text>
+    </Item>
+
+    <Item>
+        <TextId>8044</TextId>
+        <Text>Recortar alma</Text>
+    </Item>
+
+    <Item><!-- Cope Seismic-->
+        <TextId>8045</TextId>
+        <Text>Longitud de la viga de cantil</Text>
+    </Item>
+
+    <Item>
+        <TextId>8046</TextId>
+        <Text>Longitud de reentrada</Text>
+    </Item>
+
+    <Item>
+        <TextId>8047</TextId>
+        <Text>Profundidad de reentrada</Text>
+    </Item>
+
+    <Item>
+        <TextId>8048</TextId>
+        <Text>Longitud de brida al ras</Text>
+    </Item>
+
+    <Item>
+        <TextId>8049</TextId>
+        <Text>Radio de reentrada</Text>
+    </Item>
+
+    <Item>
+        <TextId>8050</TextId>
+        <Text>Ángulo de ranura</Text>
+    </Item>
+
+    <Item>
+        <TextId>8051</TextId>
+        <Text>Distancia del hueco de reentrada</Text>
+    </Item>
+
+    <Item>
+        <TextId>8052</TextId>
+        <Text>Root face</Text>
+    </Item>
+
+    <Item><!-- Cut flange width-->
+        <TextId>8053</TextId>
+        <Text>Lado cercano de la longitud de brida</Text>
+    </Item>
+
+    <Item>
+        <TextId>8054</TextId>
+        <Text>Longitud de brida lado lejano</Text>
+    </Item>
+
+    <Item>
+        <TextId>8055</TextId>
+        <Text>Cortar brida al ras</Text>
+    </Item>
+
+    <Item>
+        <TextId>8056</TextId>
+        <Text>Cortar ancho de la brida</Text>
+    </Item>
+
+    <Item><!-- Notch-->
+        <TextId>8057</TextId>
+        <Text>Longitud de muesca</Text>
+    </Item>
+
+    <Item>
+        <TextId>8058</TextId>
+        <Text>Ancho de muesca</Text>
+    </Item>
+
+    <Item>
+        <TextId>8059</TextId>
+        <Text>Distancia de muesca</Text>
+    </Item>
+
+    <Item>
+        <TextId>8060</TextId>
+        <Text>Radio de muesca</Text>
+    </Item>
+
+    <Item>
+        <TextId>8061</TextId>
+        <Text>Operación del lado cercano</Text>
+    </Item>
+
+    <Item>
+        <TextId>8062</TextId>
+        <Text>Operación del lado remoto</Text>
+    </Item>
+
+    <Item><!-- Moment connection -->
+        <TextId>8063</TextId>
+        <Text>Distancia mínima de conexión del alma para transferencia del momento</Text>
+    </Item>
+
+    <!-- DIALOG LINES -->
+
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Por favor selecciona dos puntos para colocar el elemento de soporte</Text>
+    </Item>
+
+    <Item>
+        <TextId>10001</TextId>
+        <Text>Insertar punto</Text>
+    </Item>
+
+    <Item>
+        <TextId>10002</TextId>
+        <Text>Pulsa el botón "Puntos" para elegir la polilínea</Text>
+    </Item>
+
+    <Item>
+        <TextId>10005</TextId>
+        <Text>Haz clic para ubicar el nuevo punto</Text>
+    </Item>
+
+    <Item>
+        <TextId>10006</TextId>
+        <Text>Seleccionar punto de iserción</Text>
+    </Item>
+
+    <Item>
+        <TextId>10007</TextId>
+        <Text>Seleccionar primer punto de inserción</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>Seleccionar segundo punto de inserción</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Seleccionar punto a lo largo de la dirección del anclaje</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Seleccionar punto de inicio de la dirección del anclaje</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>Seleccionar primer punto de inserción</Text>
+    </Item>
+
+    <Item>
+        <TextId>10012</TextId>
+        <Text>Seleccionar segundo punto de inserción</Text>
+    </Item>
+
+    <Item>
+        <TextId>10013</TextId>
+        <Text>Selecciona el primer punto del ángulo</Text>
+    </Item>
+
+    <Item>
+        <TextId>10014</TextId>
+        <Text>Selecciona el segundo punto de ángulo</Text>
+    </Item>
+
+    <Item>
+        <TextId>10015</TextId>
+        <Text>Seleccionar punto de iserción</Text>
+    </Item>
+
+    <Item>
+        <TextId>10016</TextId>
+        <Text>Seleccionar primer punto de inserción</Text>
+    </Item>
+
+    <Item>
+        <TextId>10017</TextId>
+        <Text>Seleccionar segundo punto de inserción</Text>
+    </Item>
+
+    <Item>
+        <TextId>10018</TextId>
+        <Text>Seleccionar punto a lo largo de la dirección de la placaa</Text>
+    </Item>
+
+    <Item>
+        <TextId>10019</TextId>
+        <Text>Seleccionar el origen de la dirección de placa</Text>
+    </Item>
+
+    <Item>
+        <TextId>10020</TextId>
+        <Text>Seleccionar punto de iserción</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Seleccionar polilínea</Text>
+    </Item>
+
+    <Item>
+        <TextId>10024</TextId>
+        <Text>Seleccionar punto de grosor</Text>
+    </Item>
+
+    <Item>
+        <TextId>10027</TextId>
+        <Text>Seleccionar punto de iserción</Text>
+    </Item>
+
+    <Item>
+        <TextId>10028</TextId>
+        <Text>Seleccionar primer punto de inserción</Text>
+    </Item>
+
+    <Item>
+        <TextId>10029</TextId>
+        <Text>Seleccionar siguiente punto de inserción</Text>
+    </Item>
+
+    <Item>
+        <TextId>10030</TextId>
+        <Text>Selecciona el elemento estructural</Text>
+    </Item>
+
+    <Item>
+        <TextId>10031</TextId>
+        <Text>Seleccionar nuevo punto a lo largo de la soldadura</Text>
+    </Item>
+
+    <Item>
+        <TextId>10032</TextId>
+        <Text>Selecciona un perfil en la paleta.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10033</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>10034</TextId>
+        <Text>Selecciona un pinzamiento y después arrastra y modifica los parámetros de soldadura.</Text>
+    </Item>
+
+    <!-- POP-UP MESSAGE -->
+
+    <Item>
+        <TextId>11000</TextId>
+        <Text>Primero tienes que colocar el anclaje.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11001</TextId>
+        <Text>Esto no es una polilínea cerrada.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11002</TextId>
+        <Text>No todos los puntos están en el mismo plano 3D</Text>
+    </Item>
+
+    <Item>
+        <TextId>11003</TextId>
+        <Text>Selecciona entre dos puntos existentes.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11004</TextId>
+        <Text>Ubicación no disponible.\n</Text>
+    </Item>
+
+    <Item>
+        <TextId>11005</TextId>
+        <Text>Este PythonPart solo se puede ejecutar correctamente con un archivo de localización válido.\n</Text>
+    </Item>
+
+    <Item>
+        <TextId>11006</TextId>
+        <Text>No se creará geometría.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11007</TextId>
+        <Text>Se requieren al menos 2 puntos</Text>
+    </Item>
+
+    <Item>
+        <TextId>11008</TextId>
+        <Text>Tienes que seleccionar un primer punto de inserción</Text>
+    </Item>
+
+    <Item>
+        <TextId>11009</TextId>
+        <Text>Vuelve a seleccionar un punto porque los dos puntos seleccionados no pueden pertenecer a la misma superficie.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11010</TextId>
+        <Text>Selecciona primero una placa o un elemento de estructura metálica.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11011</TextId>
+        <Text>Con esta operación eliminará los huecos que den como resultado una geometría no válida. ¿Deseas continuar con la eliminación?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11012</TextId>
+        <Text>El perfil del elemento seleccionado no es compatible con la connection toolbox.
+Utiliza el catálogo de perfiles de Nemetschek.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11013</TextId>
+        <Text>Selecciona un elemento de estructura metálica.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11014</TextId>
+        <Text>Tipo de operación no compatible</Text>
+    </Item>
+
+    <Item>
+        <TextId>11015</TextId>
+        <Text>Tipo de elemento no compatible</Text>
+    </Item>
+
+    <Item>
+        <TextId>11016</TextId>
+        <Text>Esta función no es compatible con tu licencia actual.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11017</TextId>
+        <Text>Esta función no es compatible con la versión de Allplan que estás usando.</Text>
+    </Item>
+
+    <!-- NOT USED TO EXPRESS -->
+
+    <Item>
+        <TextId>12000</TextId>
+        <Text>Ox</Text>
+    </Item>
+
+    <Item>
+        <TextId>12001</TextId>
+        <Text>Oy</Text>
+    </Item>
+
+    <Item>
+        <TextId>12002</TextId>
+        <Text>Oz</Text>
+    </Item>
+
+    <Item>
+        <TextId>12003</TextId>
+        <Text>Ox: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12004</TextId>
+        <Text>Oy: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12005</TextId>
+        <Text>Oz: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12006</TextId>
+        <Text>Hueco</Text>
+    </Item>
+
+    <Item>
+        <TextId>12007</TextId>
+        <Text>Crear hueco</Text>
+    </Item>
+
+    <Item>
+        <TextId>12008</TextId>
+        <Text>Radio del hueco</Text>
+    </Item>
+
+    <Item>
+        <TextId>12009</TextId>
+        <Text>Longitud de la ranura</Text>
+    </Item>
+
+    <Item>
+        <TextId>12010</TextId>
+        <Text>Ángulo del agujero</Text>
+    </Item>
+
+    <Item>
+        <TextId>12011</TextId>
+        <Text>Distancia del agujero</Text>
+    </Item>
+
+    <Item>
+        <TextId>12012</TextId>
+        <Text>Colocar</Text>
+    </Item>
+
+    <Item>
+        <TextId>12013</TextId>
+        <Text>Propiedades de altura</Text>
+    </Item>
+
+    <Item>
+        <TextId>12014</TextId>
+        <Text>Punto de referencia</Text>
+    </Item>
+
+    <Item>
+        <TextId>12015</TextId>
+        <Text>Punto inicial</Text>
+    </Item>
+
+    <Item>
+        <TextId>12016</TextId>
+        <Text>Punto final</Text>
+    </Item>
+
+    <Item>
+        <TextId>12017</TextId>
+        <Text>2</Text>
+    </Item>
+
+    <Item>
+        <TextId>12018</TextId>
+        <Text>3</Text>
+    </Item>
+
+    <Item>
+        <TextId>12019</TextId>
+        <Text>Soporte</Text>
+    </Item>
+
+    <Item>
+        <TextId>12020</TextId>
+        <Text>Anclaje</Text>
+    </Item>
+
+    <Item>
+        <TextId>12021</TextId>
+        <Text>Soldadura</Text>
+    </Item>
+
+    <Item>
+        <TextId>12022</TextId>
+        <Text>Puntos</Text>
+    </Item>
+
+    <Item>
+        <TextId>12023</TextId>
+        <Text>Rigidizador</Text>
+    </Item>
+</Element>

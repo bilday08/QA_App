@@ -1,0 +1,18 @@
+TestCase Name,TestCase Description,TestCase Result,Note,Status
+Plate - Checking workflow of creation and undo/redo behaviour,"Plate - Checking workflow of creation and undo/redo behaviour. No crash or exception occurs, the BasePlate is created with settings provided.",As expected,Main feature,Pass
+Plate - Checking behaviour of creation when modify geometry parameters,"No crash or exception occurs, the BasePlate is created with settings provided.",As expected,Main feature,Pass
+Plate - Checking edit mode - modify geometry parameters,"No crash or exception occurs, the BasePlate is created with settings provided.",As expected,Main feature,Pass
+Bolt - Checking workflow of creation and undo/redo behaviour,"No crash or exception occurs, the BasePlate is created with settings provided.",As expected,Main feature,Pass
+Bolt - Checking behaviour of creation when modify geometry parameters,"No crash or exception occurs, the BasePlate is created with settings provided.",As expected,Main feature,Pass
+Bolt - Checking edit mode - modify geometry parameters,"No crash or exception occurs, the BasePlate is created with settings provided.",As expected,Main feature,Pass
+Stiffener - Checking workflow of creation and undo/redo behaviour,"No crash or exception occurs, the BasePlate is created with settings provided.",As expected,Main feature,Pass
+Stiffener - Checking behaviour of creation when modify geometry parameters,"No crash or exception occurs, the BasePlate is created with settings provided.",As expected,Main feature,Pass
+Stiffener - Checking edit mode - modify geometry parameters,"No crash or exception occurs, the BasePlate is created with settings provided.",As expected,Main feature,Pass
+Weld - Checking workflow of creation and undo/redo behaviour,"No crash or exception occurs, the BasePlate is created with settings provided.",As expected,Main feature,Pass
+Weld - Checking behaviour of creation when modify geometry parameters,"No crash or exception occurs, the BasePlate is created with settings provided.",As expected,Main feature,Pass
+Weld - Checking edit mode - modify geometry parameters,"No crash or exception occurs, the BasePlate is created with settings provided.",As expected,Main feature,Pass
+"General - Checking copy, double right workflow","No crash or exception occurs, the BasePlate is created with settings provided.",As expected,Main feature,Pass
+General - Checking save load reset favorite,"No crash or exception occurs, the BasePlate is created with settings provided.",As expected,Main feature,Pass
+General - Checking last settings,"No crash or exception occurs, the BasePlate is created with settings provided.",As expected,Main feature,Pass
+General - Checking working in different languages,"No crash or exception occurs, the BasePlate is created with settings provided.",As expected,Main feature,Pass
+General - checking validation,"No crash or exception occurs, pop up message will shown correctly.",As expected,Main feature,Pass

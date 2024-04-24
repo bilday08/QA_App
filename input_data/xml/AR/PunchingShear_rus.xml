@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Element>
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Поток работ</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Доп. информация:</Text>
+    </Item>
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Пособие</Text>
+    </Item>
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Общее</Text>
+    </Item>
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Высотная отметка</Text>
+    </Item>
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Защ. сл. бетона</Text>
+    </Item>
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Шины</Text>
+    </Item>
+    <Item>
+        <TextId>1040</TextId>
+        <Text>Производитель</Text>
+    </Item>
+    <Item>
+        <TextId>1041</TextId>
+        <Text>Обозн продукта</Text>
+    </Item>
+    <Item>
+        <TextId>1042</TextId>
+        <Text>Диаметр </Text>
+    </Item>
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Высота (b) </Text>
+    </Item>
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Встроено из</Text>
+    </Item>
+    <Item>
+        <TextId>1045</TextId>
+        <Text>Области для шин</Text>
+    </Item>
+    <Item>
+        <TextId>1046</TextId>
+        <Text>Область 1</Text>
+    </Item>
+    <Item>
+        <TextId>1047</TextId>
+        <Text>Обознач позиции</Text>
+    </Item>
+    <Item>
+        <TextId>1048</TextId>
+        <Text>Кол-во дюбелей</Text>
+    </Item>
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Начальное расстояние </Text>
+    </Item>
+    <Item>
+        <TextId>1050</TextId>
+        <Text>Расст. {1} </Text>
+    </Item>
+    <Item>
+        <TextId>1051</TextId>
+        <Text>Расст. {1} </Text>
+    </Item>
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Расст. {1} </Text>
+    </Item>
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Расст. {1} </Text>
+    </Item>
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Расст. {1} </Text>
+    </Item>
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Расст. {1} </Text>
+    </Item>
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Расст. Конец </Text>
+    </Item>
+    <Item>
+        <TextId>1057</TextId>
+        <Text>Область 2</Text>
+    </Item>
+    <Item>
+        <TextId>1068</TextId>
+        <Text>Область 3</Text>
+    </Item>
+    <Item>
+        <TextId>1079</TextId>
+        <Text>Область 4</Text>
+    </Item>
+    <Item>
+        <TextId>1090</TextId>
+        <Text>Компоновка</Text>
+    </Item>
+    <Item>
+        <TextId>1095</TextId>
+        <Text>Расст</Text>
+    </Item>
+    <Item>
+        <TextId>1099</TextId>
+        <Text>Повернутые шины</Text>
+    </Item>
+    <Item>
+        <TextId>1100</TextId>
+        <Text>Размещение угла</Text>
+    </Item>
+    <Item>
+        <TextId>1101</TextId>
+        <Text>Начальн. угол</Text>
+    </Item>
+    <Item>
+        <TextId>1102</TextId>
+        <Text>К-во шин</Text>
+    </Item>
+    <Item>
+        <TextId>1103</TextId>
+        <Text>Углов шины</Text>
+    </Item>
+    <Item>
+        <TextId>1108</TextId>
+        <Text>Боковая шина</Text>
+    </Item>
+    <Item>
+        <TextId>1115</TextId>
+        <Text>Создать</Text>
+    </Item>
+    <Item>
+        <TextId>1117</TextId>
+        <Text>Разрезы</Text>
+    </Item>
+    <Item>
+        <TextId>1118</TextId>
+        <Text>Общая информация</Text>
+    </Item>
+    <Item>
+        <TextId>1119</TextId>
+        <Text>Создание размещения и геометрии</Text>
+    </Item>
+    <Item>
+        <TextId>1201</TextId>
+        <Text>Расст. {1} </Text>
+    </Item>
+    <Item>
+        <TextId>1205</TextId>
+        <Text>Элементы</Text>
+    </Item>
+    <Item>
+        <TextId>1206</TextId>
+        <Text>Выбрать перекр для заимств. высот</Text>
+    </Item>
+
+    <Item>
+        <TextId>1210</TextId>
+        <Text>Поместить разрезы</Text>
+    </Item>
+    <Item>
+        <TextId>1211</TextId>
+        <Text>Описание 1</Text>
+    </Item>
+    <Item>
+        <TextId>1212</TextId>
+        <Text>Описание 2</Text>
+    </Item>
+    <Item>
+        <TextId>1213</TextId>
+        <Text>Обознач разреза</Text>
+    </Item>
+    <Item>
+        <TextId>1214</TextId>
+        <Text>Надпись</Text>
+    </Item>
+    <Item>
+        <TextId>1215</TextId>
+        <Text>Python Part</Text>
+    </Item>
+    <Item>
+        <TextId>1216</TextId>
+        <Text>Выбрать тип</Text>
+    </Item>
+    <Item>
+        <TextId>1217</TextId>
+        <Text>Объект 3D</Text>
+    </Item>
+    <Item>
+        <TextId>1218</TextId>
+        <Text>Выбрать элементы</Text>
+    </Item>
+    <Item>
+        <TextId>1219</TextId>
+        <Text>Разместить шины</Text>
+    </Item>
+    <Item>
+        <TextId>1220</TextId>
+        <Text>Колонна</Text>
+    </Item>
+    <Item>
+        <TextId>1221</TextId>
+        <Text>Угол стены</Text>
+    </Item>
+    <Item>
+        <TextId>1222</TextId>
+        <Text>Конец стены</Text>
+    </Item>
+    <Item>
+        <TextId>1226</TextId>
+        <Text>Надопорное армирование</Text>
+    </Item>
+    <Item>
+        <TextId>1228</TextId>
+        <Text>Горизонт. разрез</Text>
+    </Item>
+    <Item>
+        <TextId>1229</TextId>
+        <Text>Вертик. разрез</Text>
+    </Item>
+    <Item>
+        <TextId>1233</TextId>
+        <Text>Наверху</Text>
+    </Item>
+    <Item>
+        <TextId>1234</TextId>
+        <Text>Внизу</Text>
+    </Item>
+    <Item>
+        <TextId>1235</TextId>
+        <Text>Формат</Text>
+    </Item>
+    <Item>
+        <TextId>1236</TextId>
+        <Text>Арматура</Text>
+    </Item>
+    <Item>
+        <TextId>1237</TextId>
+        <Text>Шины и болты</Text>
+    </Item>
+    
+    <Item>
+        <TextId>4999</TextId>
+        <Text>Этот PythonPart позволяет Вам автоматич создание планок для пробоя для круглых и прямоуг. колонн а также углов стен и концов стен.\n\nЧтобы начать, следуйте ниже названным шагам.\n 1) Выберите тип надопорного армир. который хотите создать.\n 2) Выберите соотв элементы.\n 3) Для автоматич заимствования ВысОтм выберите перекрытие. (По желанию) \n 4) Пройдите вкладки  "Общее", "Шины", "Компоновка" чтобы определить надопорное армир. \n    Щелкните  "Создать" чтобы проверить и создать арматуру. \n 5) Пройдите вкладку "Разрезы" чтобы определить параметры разреза. Щелкните \n    "Создать" и поместите разрезы.</Text>
+    </Item>
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Пож. выберите элементы</Text>
+    </Item>
+    <Item>
+        <TextId>5001</TextId>
+        <Text>чтобы посмотреть вкладку "Общее".</Text>
+    </Item>
+    <Item>
+        <TextId>5003</TextId>
+        <Text>чтобы посмотреть вкладку "Шины".</Text>
+    </Item>
+    <Item>
+        <TextId>5005</TextId>
+        <Text>чтобы посмотреть вкладку "Компоновка"..</Text>
+    </Item>
+    <Item>
+        <TextId>5007</TextId>
+        <Text>чтобы посмотреть вкладку "Разрезы".</Text>
+    </Item>
+    <Item>
+        <TextId>5008</TextId>
+        <Text>чтобы увидеть вкладку "Формат".</Text>
+    </Item>
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Нельзя создать точку продавливания из-за следующей ошибки: \n</Text>
+    </Item>
+    <Item>
+        <TextId>10001</TextId>
+        <Text> - Высота дюбеля больше чем = {} мм\nХотите скорректировать эти параметры автоматически?</Text>
+    </Item>
+    <Item>
+        <TextId>10002</TextId>
+        <Text>Пож выберите перекрытие в 3D виде.</Text>
+    </Item>
+    <Item>
+        <TextId>10003</TextId>
+        <Text>Пож. выберите колонну в 3D виде.</Text>
+    </Item>
+    <Item>
+        <TextId>10005</TextId>
+        <Text>Пож. выберите стену в 3D виде</Text>
+    </Item>
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Выберите точки в плане по часовой стрелке</Text>
+    </Item>
+    <Item>
+        <TextId>10018</TextId>
+        <Text>Пож. вновь выберите стену</Text>
+    </Item>
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Пож. выберите элементы</Text>
+    </Item>
+    <Item>
+        <TextId>10023</TextId>
+        <Text>Вначале создайте надопорное армирование</Text>
+    </Item>
+    <Item>
+        <TextId>10024</TextId>
+        <Text>Надопорное армирование уже размещено на этой позиции</Text>
+    </Item>
+    <Item>
+        <TextId>10026</TextId>
+        <Text>Введите параметры и выберите Создать, чтобы создать надопорное армирование</Text>
+    </Item>
+    <Item>
+        <TextId>10027</TextId>
+        <Text>Пожалуйста, выберите точку вставки для размещения разрезов</Text>
+    </Item>
+    <Item>
+        <TextId>10028</TextId>
+        <Text>Пож введите параметры и щелкните Создать чтобы создать разрезы</Text>
+    </Item>
+    <Item>
+        <TextId>10029</TextId>
+        <Text>Процесс был завершен. Пож. покиньте Python Part нажав ESC или выбрав кнопку Закрыть</Text>
+    </Item>
+    <Item>
+        <TextId>10030</TextId>
+        <Text>Этот PythonPart связан с архитек компон, с которыми он был создан.\nПож обратите внимание,что Вы не можете скопировать этот PythonPart в другое место.</Text>
+    </Item>
+    <Item>
+        <TextId>10031</TextId>
+        <Text>Вы скопировали Python Part, который связан с архитектурным объектом.</Text>
+    </Item>
+    <Item>
+        <TextId>10032</TextId>
+        <Text>Хотите подключить его с новым архитектурным объектом?</Text>
+    </Item>
+</Element>

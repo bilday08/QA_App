@@ -1,0 +1,2472 @@
+<Element>
+
+    <!--GENERAL-->
+
+    <Item>
+        <TextId>9000</TextId>
+		<Text>Geometrie</Text>
+    </Item>
+
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Selecteer element</Text>
+    </Item>
+
+    <Item>
+        <TextId>9002</TextId>
+        <Text>Plaat|Hoekstaal|Bouten|Las|Uitsparing|Eindverbinding</Text>
+    </Item>
+
+    <Item>
+        <TextId>9003</TextId>
+        <Text>Weergave</Text>
+    </Item>
+
+    <Item>
+        <TextId>9004</TextId>
+        <Text>Staalverbindingen</Text>
+    </Item>
+
+    <!--PLATE-->
+
+    <Item>
+        <TextId>1000</TextId>
+        <Text>Plaat</Text>
+    </Item>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Type plaat</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Eindplaat|Verstijver</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Plaatvorm</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Kwaliteit</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Stijl</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Vorm</Text>
+    </Item>
+
+    <Item>
+        <TextId>1007</TextId>
+        <Text>Plaatsing stijl</Text>
+    </Item>
+
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Aantal verstijvers</Text>
+    </Item>
+
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Kwaliteit</Text>
+    </Item>
+
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Plaat instellingen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Punten</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>Selecteer 2D polylijn</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>Selecteer 3D polylijn</Text>
+    </Item>
+
+    <Item>
+        <TextId>1014</TextId>
+        <Text>Dikte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1015</TextId>
+        <Text>Dikte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1016</TextId>
+        <Text>Lengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1017</TextId>
+        <Text>Hoekvorm</Text>
+    </Item>
+
+    <Item>
+        <TextId>1018</TextId>
+        <Text>Hoekvierkant|Hoekafschuining|Hoekafronding</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Straal</Text>
+    </Item>
+
+    <Item>
+        <TextId>1020</TextId>
+        <Text>Straal afronding</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text> Afronden</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>  Afronden</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>   Afronden</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Afronden</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text> Afschuinen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Lengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Dikte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>  Afschuinen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1029</TextId>
+        <Text>Lengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Dikte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1031</TextId>
+        <Text>   Afschuinen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Lengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Dikte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Kamers</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Lengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Dikte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Positionering</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Oriëntatie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Vorm</Text>
+    </Item>
+
+    <Item>
+        <TextId>1040</TextId>
+        <Text>Oriëntatie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1041</TextId>
+        <Text>Punt</Text>
+    </Item>
+
+    <Item>
+        <TextId>1042</TextId>
+        <Text>Vector</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Referentiepunt</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Referentiepunt</Text>
+    </Item>
+
+    <Item>
+        <TextId>1045</TextId>
+        <Text>Rotatiehoek</Text>
+    </Item>
+
+    <Item>
+        <TextId>1046</TextId>
+        <Text>Hoek </Text>
+    </Item>
+
+    <Item>
+        <TextId>1047</TextId>
+        <Text>Plaat omgekeerd</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Element creëren</Text>
+    </Item>
+
+    <Item>
+        <TextId>1050</TextId>
+        <Text>Bevestigen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1051</TextId>
+        <Text>Selecteer dikte punt</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Rechthoek</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Cirkel</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Polylijn</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Auto</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Manueel</Text>
+    </Item>
+
+    <Item>
+        <TextId>1057</TextId>
+        <Text>Hoekvorm instellingen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1058</TextId>
+        <Text>Offset</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Offset </Text>
+    </Item>
+
+    <Item>
+        <TextId>1060</TextId>
+        <Text>Positie bij polylijn</Text>
+    </Item>
+
+    <Item>
+        <TextId>1061</TextId>
+        <Text>Aangepast</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Vrije breedte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Speling</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Straal</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Vrije lengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>Profiel afhankelijk</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>Snap punten weergeven</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Formaat</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>Sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1502</TextId>
+        <Text>Pendikte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1503</TextId>
+        <Text>Pendikte van sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1504</TextId>
+        <Text>Den</Text>
+    </Item>
+
+    <Item>
+        <TextId>1505</TextId>
+        <Text>Lijntype van sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1506</TextId>
+        <Text>Lijnkleur</Text>
+    </Item>
+
+    <Item>
+        <TextId>1507</TextId>
+        <Text>Lijnkleur van sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1508</TextId>
+        <Text>Vlakelement</Text>
+    </Item>
+
+    <Item>
+        <TextId>1509</TextId>
+        <Text>Oppervlakte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1510</TextId>
+        <Text>Vlakelement</Text>
+    </Item>
+
+    <Item>
+        <TextId>1511</TextId>
+        <Text>Arcering</Text>
+    </Item>
+
+    <Item>
+        <TextId>1512</TextId>
+        <Text>Patroon</Text>
+    </Item>
+
+    <Item>
+        <TextId>1513</TextId>
+        <Text>Filling</Text>
+    </Item>
+
+    <Item>
+        <TextId>1514</TextId>
+        <Text>Afbeelding</Text>
+    </Item>
+
+    <Item>
+        <TextId>1515</TextId>
+        <Text>Stijlvlak</Text>
+    </Item>
+
+    <!--CLEAT-->
+
+    <Item>
+        <TextId>2000</TextId>
+        <Text>Hoekstaal</Text>
+    </Item>
+
+    <Item>
+        <TextId>2001</TextId>
+        <Text>Hoekstaal vorm</Text>
+    </Item>
+
+    <Item>
+        <TextId>2002</TextId>
+        <Text>Profiel|Geplooide plaat</Text>
+    </Item>
+
+    <Item>
+        <TextId>2003</TextId>
+        <Text>Selecteer profiel</Text>
+    </Item>
+
+    <Item>
+        <TextId>2004</TextId>
+        <Text>Kwaliteit</Text>
+    </Item>
+
+    <Item>
+        <TextId>2005</TextId>
+        <Text>Hoekstaal instellingen</Text>
+    </Item>
+
+    <Item>
+        <TextId>2006</TextId>
+        <Text>Beenlengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>2007</TextId>
+        <Text> Hoekstaal lengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>2008</TextId>
+        <Text>Hoekstaal dikte</Text>
+    </Item>
+
+    <Item>
+        <TextId>2009</TextId>
+        <Text>Hoekstaal hoek</Text>
+    </Item>
+
+    <Item>
+        <TextId>2010</TextId>
+        <Text>Detailniveau</Text>
+    </Item>
+
+    <Item>
+        <TextId>2011</TextId>
+        <Text>Breedte afschuining</Text>
+    </Item>
+
+    <Item>
+        <TextId>2012</TextId>
+        <Text>Straal afronding</Text>
+    </Item>
+
+    <Item>
+        <TextId>2013</TextId>
+        <Text>Positionering</Text>
+    </Item>
+
+    <Item>
+        <TextId>2014</TextId>
+        <Text>Offset</Text>
+    </Item>
+
+    <Item>
+        <TextId>2015</TextId>
+        <Text>Type plaatsing</Text>
+    </Item>
+
+    <Item>
+        <TextId>2016</TextId>
+        <Text>Selecteer punten</Text>
+    </Item>
+
+    <Item>
+        <TextId>2017</TextId>
+        <Text>Eerste punt</Text>
+    </Item>
+
+    <Item>
+        <TextId>2018</TextId>
+        <Text>Tweede punt</Text>
+    </Item>
+
+    <Item>
+        <TextId>2019</TextId>
+        <Text>Referentiepunt</Text>
+    </Item>
+
+    <Item>
+        <TextId>2020</TextId>
+        <Text>Referentiepunt</Text>
+    </Item>
+
+    <Item>
+        <TextId>2021</TextId>
+        <Text>Offset</Text>
+    </Item>
+
+    <Item>
+        <TextId>2022</TextId>
+        <Text>Hoekstaal rotatie</Text>
+    </Item>
+
+    <Item>
+        <TextId>2023</TextId>
+        <Text>Uitsparing</Text>
+    </Item>
+
+    <Item>
+        <TextId>2024</TextId>
+        <Text>Uitsparing aanmaken</Text>
+    </Item>
+
+    <Item>
+        <TextId>2025</TextId>
+        <Text>Aantal uitsparingen</Text>
+    </Item>
+
+    <Item>
+        <TextId>2026</TextId>
+        <Text>Afstand uitsparing 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>2027</TextId>
+        <Text>Afstand uitsparing 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>2028</TextId>
+        <Text>Straal uitsparing</Text>
+    </Item>
+
+    <Item>
+        <TextId>2029</TextId>
+        <Text>Straal uitsparing 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>2030</TextId>
+        <Text>Straal uitsparing 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>2031</TextId>
+        <Text>Aantal randen</Text>
+    </Item>
+
+    <Item>
+        <TextId>2032</TextId>
+        <Text>randlengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>2033</TextId>
+        <Text>Element creëren</Text>
+    </Item>
+
+    <Item>
+        <TextId>2034</TextId>
+        <Text>Bevestigen</Text>
+    </Item>
+
+    <Item>
+        <TextId>2035</TextId>
+        <Text>Selecteer punten om de hoek van de hoekstaal te bepalen</Text>
+    </Item>
+
+    <Item>
+        <TextId>2036</TextId>
+        <Text>Laag</Text>
+    </Item>
+
+    <Item>
+        <TextId>2037</TextId>
+        <Text>Medium</Text>
+    </Item>
+
+    <Item>
+        <TextId>2038</TextId>
+        <Text>Hoog</Text>
+    </Item>
+
+    <Item>
+        <TextId>2039</TextId>
+        <Text>Auto</Text>
+    </Item>
+
+    <Item>
+        <TextId>2040</TextId>
+        <Text>Manueel</Text>
+    </Item>
+
+    <Item>
+        <TextId>2041</TextId>
+        <Text>Geen</Text>
+    </Item>
+
+    <Item>
+        <TextId>2042</TextId>
+        <Text>Cirkel</Text>
+    </Item>
+
+    <Item>
+        <TextId>2043</TextId>
+        <Text>Boog</Text>
+    </Item>
+
+    <Item>
+        <TextId>2044</TextId>
+        <Text>Polygoon</Text>
+    </Item>
+
+    <Item>
+        <TextId>2500</TextId>
+        <Text>Formaat</Text>
+    </Item>
+
+    <Item>
+        <TextId>2501</TextId>
+        <Text>Sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>2502</TextId>
+        <Text>Pendikte</Text>
+    </Item>
+
+    <Item>
+        <TextId>2503</TextId>
+        <Text>Pendikte van sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>2504</TextId>
+        <Text>Den</Text>
+    </Item>
+
+    <Item>
+        <TextId>2505</TextId>
+        <Text>Lijntype van sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>2506</TextId>
+        <Text>Lijnkleur</Text>
+    </Item>
+
+    <Item>
+        <TextId>2507</TextId>
+        <Text>Lijnkleur van sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>2508</TextId>
+        <Text>Vlakelement</Text>
+    </Item>
+
+    <Item>
+        <TextId>2509</TextId>
+        <Text>Oppervlakte</Text>
+    </Item>
+
+    <Item>
+        <TextId>2510</TextId>
+        <Text>Vlakelement</Text>
+    </Item>
+
+    <Item>
+        <TextId>2511</TextId>
+        <Text>Arcering</Text>
+    </Item>
+
+    <Item>
+        <TextId>2512</TextId>
+        <Text>Patroon</Text>
+    </Item>
+
+    <Item>
+        <TextId>2513</TextId>
+        <Text>Filling</Text>
+    </Item>
+
+    <Item>
+        <TextId>2514</TextId>
+        <Text>Afbeelding</Text>
+    </Item>
+
+    <Item>
+        <TextId>2515</TextId>
+        <Text>Stijlvlak</Text>
+    </Item>
+
+    <Item>
+        <TextId>2516</TextId>
+        <Text>Offset</Text>
+    </Item>
+
+    <Item>
+        <TextId>2517</TextId>
+        <Text>Offset</Text>
+    </Item>
+
+    <!--BOLT-->
+
+    <Item>
+        <TextId>3000</TextId>
+        <Text>Boot</Text>
+    </Item>
+
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Bout type</Text>
+    </Item>
+
+    <Item>
+        <TextId>3002</TextId>
+        <Text>Algemene bout|Ankerbout</Text>
+    </Item>
+
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Haaktype</Text>
+    </Item>
+
+    <Item>
+        <TextId>3004</TextId>
+        <Text>Ankerbout|L-haak|J-haak</Text>
+    </Item>
+
+    <Item>
+        <TextId>3005</TextId>
+        <Text>Kopvorm</Text>
+    </Item>
+
+    <Item>
+        <TextId>3006</TextId>
+        <Text>Zeshoek|Verzonken</Text>
+    </Item>
+
+    <Item>
+        <TextId>3007</TextId>
+        <Text>Bout instellingen</Text>
+    </Item>
+
+    <Item>
+        <TextId>3008</TextId>
+        <Text>Grootte</Text>
+    </Item>
+
+    <Item>
+        <TextId>3009</TextId>
+        <Text>Grootte</Text>
+    </Item>
+
+    <Item>
+        <TextId>3010</TextId>
+        <Text>Lengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>3011</TextId>
+        <Text>Rondellen</Text>
+    </Item>
+
+    <Item>
+        <TextId>3012</TextId>
+        <Text>Rondellen met moer</Text>
+    </Item>
+
+    <Item>
+        <TextId>3013</TextId>
+        <Text>Boutkwaliteit</Text>
+    </Item>
+
+    <Item>
+        <TextId>3014</TextId>
+        <Text>Detailniveau</Text>
+    </Item>
+
+    <Item>
+        <TextId>3015</TextId>
+        <Text>Positionering</Text>
+    </Item>
+
+    <Item>
+        <TextId>3016</TextId>
+        <Text>Aantal bouten</Text>
+    </Item>
+
+    <Item>
+        <TextId>3017</TextId>
+        <Text>Oriëntatie</Text>
+    </Item>
+
+    <Item>
+        <TextId>3018</TextId>
+        <Text>Oriëntatie</Text>
+    </Item>
+
+    <Item>
+        <TextId>3019</TextId>
+        <Text>Gebruikersgedifinieerd</Text>
+    </Item>
+
+    <Item>
+        <TextId>3020</TextId>
+        <Text>Punt</Text>
+    </Item>
+
+    <Item>
+        <TextId>3021</TextId>
+        <Text>Vector</Text>
+    </Item>
+
+    <Item>
+        <TextId>3022</TextId>
+        <Text>Boven</Text>
+    </Item>
+
+    <Item>
+        <TextId>3023</TextId>
+        <Text>Midden</Text>
+    </Item>
+
+    <Item>
+        <TextId>3024</TextId>
+        <Text>Onder</Text>
+    </Item>
+
+    <Item>
+        <TextId>3025</TextId>
+        <Text>Referentiepunt</Text>
+    </Item>
+
+    <Item>
+        <TextId>3026</TextId>
+        <Text>Afmeting boutgroep</Text>
+    </Item>
+
+    <Item>
+        <TextId>3027</TextId>
+        <Text>Afstand</Text>
+    </Item>
+
+    <Item>
+        <TextId>3028</TextId>
+        <Text> Afstand</Text>
+    </Item>
+
+    <Item>
+        <TextId>3029</TextId>
+        <Text>  Afstand</Text>
+    </Item>
+
+    <Item>
+        <TextId>3030</TextId>
+        <Text>   Afstand</Text>
+    </Item>
+
+    <Item>
+        <TextId>3031</TextId>
+        <Text>Rotatiehoek</Text>
+    </Item>
+
+    <Item>
+        <TextId>3032</TextId>
+        <Text>Rotatiehoek</Text>
+    </Item>
+
+    <Item>
+        <TextId>3033</TextId>
+        <Text>Bouten omgekeerd</Text>
+    </Item>
+
+    <Item>
+        <TextId>3034</TextId>
+        <Text>Offset</Text>
+    </Item>
+
+    <Item>
+        <TextId>3035</TextId>
+        <Text>Offset </Text>
+    </Item>
+
+    <Item>
+        <TextId>3036</TextId>
+        <Text>Element creëren</Text>
+    </Item>
+
+    <Item>
+        <TextId>3037</TextId>
+        <Text>Bevestigen</Text>
+    </Item>
+
+    <Item>
+        <TextId>3038</TextId>
+        <Text>Selecteer Grip Punt</Text>
+    </Item>
+
+    <Item>
+        <TextId>3039</TextId>
+        <Text>Laag</Text>
+    </Item>
+
+    <Item>
+        <TextId>3040</TextId>
+        <Text>Medium</Text>
+    </Item>
+
+    <Item>
+        <TextId>3041</TextId>
+        <Text>Hoog</Text>
+    </Item>
+
+    <Item>
+        <TextId>3500</TextId>
+        <Text>Formaat</Text>
+    </Item>
+
+    <Item>
+        <TextId>3501</TextId>
+        <Text>Sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>3502</TextId>
+        <Text>Pendikte</Text>
+    </Item>
+
+    <Item>
+        <TextId>3503</TextId>
+        <Text>Pendikte van sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>3504</TextId>
+        <Text>Den</Text>
+    </Item>
+
+    <Item>
+        <TextId>3505</TextId>
+        <Text>Lijntype van sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>3506</TextId>
+        <Text>Lijnkleur</Text>
+    </Item>
+
+    <Item>
+        <TextId>3507</TextId>
+        <Text>Lijnkleur van sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>3508</TextId>
+        <Text>Vlakelement</Text>
+    </Item>
+
+    <Item>
+        <TextId>3509</TextId>
+        <Text>Oppervlakte</Text>
+    </Item>
+
+    <Item>
+        <TextId>3510</TextId>
+        <Text>Vlakelement</Text>
+    </Item>
+
+    <Item>
+        <TextId>3511</TextId>
+        <Text>Arcering</Text>
+    </Item>
+
+    <Item>
+        <TextId>3512</TextId>
+        <Text>Patroon</Text>
+    </Item>
+
+    <Item>
+        <TextId>3513</TextId>
+        <Text>Filling</Text>
+    </Item>
+
+    <Item>
+        <TextId>3514</TextId>
+        <Text>Afbeelding</Text>
+    </Item>
+
+    <Item>
+        <TextId>3515</TextId>
+        <Text>Stijlvlak</Text>
+    </Item>
+
+    <!--WELD-->
+
+    <Item>
+        <TextId>4000</TextId>
+        <Text>Lassen</Text>
+    </Item>
+
+    <Item>
+        <TextId>4001</TextId>
+        <Text>Lastype</Text>
+    </Item>
+
+    <Item>
+        <TextId>4002</TextId>
+        <Text>Polylijn|Afgerond|Convex|Concaaf</Text>
+    </Item>
+
+    <Item>
+        <TextId>4003</TextId>
+        <Text>Algemene waardes</Text>
+    </Item>
+
+    <Item>
+        <TextId>4004</TextId>
+        <Text>Laslengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>4005</TextId>
+        <Text>Lasbreedte</Text>
+    </Item>
+
+    <Item>
+        <TextId>4006</TextId>
+        <Text>Lashoek</Text>
+    </Item>
+
+    <Item>
+        <TextId>4010</TextId>
+        <Text>Positionering</Text>
+    </Item>
+
+    <Item>
+        <TextId>4011</TextId>
+        <Text>Locatie</Text>
+    </Item>
+
+    <Item>
+        <TextId>4012</TextId>
+        <Text>Element creëren</Text>
+    </Item>
+
+    <Item>
+        <TextId>4013</TextId>
+        <Text>Bevestigen</Text>
+    </Item>
+
+    <Item>
+        <TextId>4014</TextId>
+        <Text>Wijziging</Text>
+    </Item>
+
+    <Item>
+        <TextId>4015</TextId>
+        <Text>Opnieuw beginnen</Text>
+    </Item>
+
+    <Item>
+        <TextId>4016</TextId>
+        <Text>Laatste pu</Text>
+    </Item>
+
+    <Item>
+        <TextId>4017</TextId>
+        <Text>Nieuw punt</Text>
+    </Item>
+
+    <Item>
+        <TextId>4018</TextId>
+        <Text>Punt verplaatsen</Text>
+    </Item>
+
+    <Item>
+        <TextId>4500</TextId>
+        <Text>Formaat</Text>
+    </Item>
+
+    <Item>
+        <TextId>4501</TextId>
+        <Text>Sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>4502</TextId>
+        <Text>Pendikte</Text>
+    </Item>
+
+    <Item>
+        <TextId>4503</TextId>
+        <Text>Pendikte van sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>4504</TextId>
+        <Text>Den</Text>
+    </Item>
+
+    <Item>
+        <TextId>4505</TextId>
+        <Text>Lijntype van sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>4506</TextId>
+        <Text>Lijnkleur</Text>
+    </Item>
+
+    <Item>
+        <TextId>4507</TextId>
+        <Text>Lijnkleur van sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>4508</TextId>
+        <Text>Vlakelement</Text>
+    </Item>
+
+    <Item>
+        <TextId>4509</TextId>
+        <Text>Oppervlakte</Text>
+    </Item>
+
+    <Item>
+        <TextId>4510</TextId>
+        <Text>Vlakelement</Text>
+    </Item>
+
+    <Item>
+        <TextId>4511</TextId>
+        <Text>Arcering</Text>
+    </Item>
+
+    <Item>
+        <TextId>4512</TextId>
+        <Text>Patroon</Text>
+    </Item>
+
+    <Item>
+        <TextId>4513</TextId>
+        <Text>Filling</Text>
+    </Item>
+
+    <Item>
+        <TextId>4514</TextId>
+        <Text>Afbeelding</Text>
+    </Item>
+
+    <Item>
+        <TextId>4515</TextId>
+        <Text>Stijlvlak</Text>
+    </Item>
+
+    <!--STIFFENER-->
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Instellingen verstijver</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>Punten</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>Selecteer 2D polylijn</Text>
+    </Item>
+
+    <Item>
+        <TextId>5003</TextId>
+        <Text>Selecteer 3D polylijn</Text>
+    </Item>
+
+    <Item>
+        <TextId>5004</TextId>
+        <Text>Dikte</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>Lengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>5006</TextId>
+        <Text>Dikte</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>Afstand Ox</Text>
+    </Item>
+
+    <Item>
+        <TextId>5008</TextId>
+        <Text>Straal</Text>
+    </Item>
+
+    <Item>
+        <TextId>5009</TextId>
+        <Text>Hoekvorm</Text>
+    </Item>
+
+    <Item>
+        <TextId>5010</TextId>
+        <Text>Hoekvierkant|Hoekafschuining|Hoekafronding</Text>
+    </Item>
+
+    <Item>
+        <TextId>5011</TextId>
+        <Text>Straal afronding</Text>
+    </Item>
+
+    <Item>
+        <TextId>5012</TextId>
+        <Text> Afronden</Text>
+    </Item>
+
+    <Item>
+        <TextId>5013</TextId>
+        <Text>  Afronden</Text>
+    </Item>
+
+    <Item>
+        <TextId>5014</TextId>
+        <Text>   Afronden</Text>
+    </Item>
+
+    <Item>
+        <TextId>5015</TextId>
+        <Text>Afronden</Text>
+    </Item>
+
+    <Item>
+        <TextId>5016</TextId>
+        <Text> Afschuinen</Text>
+    </Item>
+
+    <Item>
+        <TextId>5017</TextId>
+        <Text>Lengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>5018</TextId>
+        <Text>Dikte</Text>
+    </Item>
+
+    <Item>
+        <TextId>5019</TextId>
+        <Text>  Afschuinen</Text>
+    </Item>
+
+    <Item>
+        <TextId>5020</TextId>
+        <Text>Lengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>5021</TextId>
+        <Text>Dikte</Text>
+    </Item>
+
+    <Item>
+        <TextId>5022</TextId>
+        <Text>Afschuinen</Text>
+    </Item>
+
+    <Item>
+        <TextId>5023</TextId>
+        <Text>Lengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>5024</TextId>
+        <Text>Dikte</Text>
+    </Item>
+
+    <Item>
+        <TextId>5025</TextId>
+        <Text>Kamers</Text>
+    </Item>
+
+    <Item>
+        <TextId>5026</TextId>
+        <Text>Lengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>5027</TextId>
+        <Text>Dikte</Text>
+    </Item>
+
+    <Item>
+        <TextId>5028</TextId>
+        <Text>Positionering</Text>
+    </Item>
+
+    <Item>
+        <TextId>5029</TextId>
+        <Text>Oriëntatie</Text>
+    </Item>
+
+    <Item>
+        <TextId>5030</TextId>
+        <Text>Oriëntatie</Text>
+    </Item>
+
+    <Item>
+        <TextId>5031</TextId>
+        <Text>Gebruikersgedifinieerd</Text>
+    </Item>
+
+    <Item>
+        <TextId>5032</TextId>
+        <Text>Vorm</Text>
+    </Item>
+
+    <Item>
+        <TextId>5033</TextId>
+        <Text>Vector </Text>
+    </Item>
+
+    <Item>
+        <TextId>5034</TextId>
+        <Text>Referentiepunt</Text>
+    </Item>
+
+    <Item>
+        <TextId>5035</TextId>
+        <Text>Referentiepunt</Text>
+    </Item>
+
+    <Item>
+        <TextId>5036</TextId>
+        <Text>Rotatiehoek</Text>
+    </Item>
+
+    <Item>
+        <TextId>5037</TextId>
+        <Text>Hoek Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>5038</TextId>
+        <Text>Hoek Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>5039</TextId>
+        <Text>Offset</Text>
+    </Item>
+
+    <Item>
+        <TextId>5040</TextId>
+        <Text>Offset</Text>
+    </Item>
+
+    <Item>
+        <TextId>5041</TextId>
+        <Text>Offset</Text>
+    </Item>
+
+    <Item>
+        <TextId>5042</TextId>
+        <Text>Offset</Text>
+    </Item>
+
+    <Item>
+        <TextId>5043</TextId>
+        <Text>Element creëren</Text>
+    </Item>
+
+    <Item>
+        <TextId>5044</TextId>
+        <Text>Bevestigen</Text>
+    </Item>
+
+    <Item>
+        <TextId>5045</TextId>
+        <Text>Lengte afschuining</Text>
+    </Item>
+
+    <Item>
+        <TextId>5046</TextId>
+        <Text>Rechthoek</Text>
+    </Item>
+
+    <Item>
+        <TextId>5047</TextId>
+        <Text>Driehoek</Text>
+    </Item>
+
+    <Item>
+        <TextId>5048</TextId>
+        <Text>Hoekvorm instellingen</Text>
+    </Item>
+
+    <Item>
+        <TextId>5049</TextId>
+        <Text>Plaat grootte/positie</Text>
+    </Item>
+
+    <Item>
+        <TextId>5050</TextId>
+        <Text>Snap punten weergeven</Text>
+    </Item>
+
+    <Item>
+        <TextId>5051</TextId>
+        <Text>Trapezium</Text>
+    </Item>
+
+    <Item>
+        <TextId>5052</TextId>
+        <Text>Dim 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>5053</TextId>
+        <Text>Dim 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>5054</TextId>
+        <Text>Afstand Oy</Text>
+    </Item>
+
+    <Item>
+        <TextId>5055</TextId>
+        <Text>Hoek X</Text>
+    </Item>
+
+    <Item>
+        <TextId>5500</TextId>
+        <Text>Eigenschappen</Text>
+    </Item>
+
+    <Item>
+        <TextId>5501</TextId>
+        <Text>Sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>5502</TextId>
+        <Text>Pendikte</Text>
+    </Item>
+
+    <Item>
+        <TextId>5503</TextId>
+        <Text>Pendikte van sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>5504</TextId>
+        <Text>Den</Text>
+    </Item>
+
+    <Item>
+        <TextId>5505</TextId>
+        <Text>Lijntype van sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>5506</TextId>
+        <Text>Lijnkleur</Text>
+    </Item>
+
+    <Item>
+        <TextId>5507</TextId>
+        <Text>Lijnkleur van sublayer</Text>
+    </Item>
+
+    <!--WELD SYMBOL-->
+
+    <Item>
+        <TextId>6000</TextId>
+        <Text>Symbool toevoegen</Text>
+    </Item>
+
+    <Item>
+        <TextId>6001</TextId>
+        <Text>Laslengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>6002</TextId>
+        <Text>Lasafstand</Text>
+    </Item>
+
+    <Item>
+        <TextId>6003</TextId>
+        <Text>Details</Text>
+    </Item>
+
+    <Item>
+        <TextId>6004</TextId>
+        <Text>Volledig rond lassen</Text>
+    </Item>
+
+    <Item>
+        <TextId>6005</TextId>
+        <Text>Veldlas</Text>
+    </Item>
+
+    <Item>
+        <TextId>6006</TextId>
+        <Text>Staart opmerking</Text>
+    </Item>
+
+    <Item>
+        <TextId>6007</TextId>
+        <Text>Lastype</Text>
+    </Item>
+
+    <Item>
+        <TextId>6500</TextId>
+        <Text>Lassymbool</Text>
+    </Item>
+
+    <Item>
+        <TextId>6501</TextId>
+        <Text>Referentie lijnlengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>6502</TextId>
+        <Text>Tekstschaal</Text>
+    </Item>
+
+    <Item>
+        <TextId>6503</TextId>
+        <Text>Sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>6504</TextId>
+        <Text>Pendikte</Text>
+    </Item>
+
+    <Item>
+        <TextId>6505</TextId>
+        <Text>Pendikte van sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>6506</TextId>
+        <Text>Lijntype</Text>
+    </Item>
+
+    <Item>
+        <TextId>6507</TextId>
+        <Text>Lijntype van sublayer</Text>
+    </Item>
+
+    <Item>
+        <TextId>6508</TextId>
+        <Text>Lijnkleur</Text>
+    </Item>
+
+    <Item>
+        <TextId>6509</TextId>
+        <Text>Lijnkleur van sublayer</Text>
+    </Item>
+
+    <!--HOLE-->
+
+    <Item>
+        <TextId>7000</TextId>
+        <Text>Uitsparing</Text>
+    </Item>
+
+    <Item>
+        <TextId>7001</TextId>
+        <Text>Vorm uitsparing</Text>
+    </Item>
+
+    <Item>
+        <TextId>7002</TextId>
+        <Text> Cirkel</Text>
+    </Item>
+
+    <Item>
+        <TextId>7003</TextId>
+        <Text>Rechthoekig</Text>
+    </Item>
+
+    <Item>
+        <TextId>7004</TextId>
+        <Text>Diameter</Text>
+    </Item>
+
+    <Item>
+        <TextId>7005</TextId>
+        <Text>Diepte</Text>
+    </Item>
+
+    <Item>
+        <TextId>7006</TextId>
+        <Text>Breedte</Text>
+    </Item>
+
+    <Item>
+        <TextId>7007</TextId>
+        <Text>Lengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>7008</TextId>
+        <Text>Hoervorm</Text>
+    </Item>
+
+    <Item>
+        <TextId>7009</TextId>
+        <Text>Afschuinen</Text>
+    </Item>
+
+    <Item>
+        <TextId>7010</TextId>
+        <Text>Afronden</Text>
+    </Item>
+
+    <Item>
+        <TextId>7011</TextId>
+        <Text>Bevestigen</Text>
+    </Item>
+
+    <Item>
+        <TextId>7012</TextId>
+        <Text>Element generen</Text>
+    </Item>
+
+    <Item>
+        <TextId>7013</TextId>
+        <Text>Hoekvierkant|Hoekafschuining|Hoekafronding</Text>
+    </Item>
+
+    <Item>
+        <TextId>7014</TextId>
+        <Text> Afschuinen</Text>
+    </Item>
+
+    <Item>
+        <TextId>7015</TextId>
+        <Text>  Afschuinen</Text>
+    </Item>
+
+    <Item>
+        <TextId>7016</TextId>
+        <Text>   Afschuinen</Text>
+    </Item>
+
+    <Item>
+        <TextId>7017</TextId>
+        <Text>Groote afschuining</Text>
+    </Item>
+
+    <Item>
+        <TextId>7018</TextId>
+        <Text> Afronden</Text>
+    </Item>
+
+    <Item>
+        <TextId>7019</TextId>
+        <Text>  Afronden</Text>
+    </Item>
+
+    <Item>
+        <TextId>7020</TextId>
+        <Text>   Afronden</Text>
+    </Item>
+
+    <Item>
+        <TextId>7021</TextId>
+        <Text>Straal afronding</Text>
+    </Item>
+
+    <Item>
+        <TextId>7022</TextId>
+        <Text>Hoek</Text>
+    </Item>
+
+    <Item>
+        <TextId>7023</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>7024</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>7025</TextId>
+        <Text>Uitsparing generen</Text>
+    </Item>
+
+    <Item>
+        <TextId>7026</TextId>
+        <Text>Uitsparing wissen</Text>
+    </Item>
+
+    <Item>
+        <TextId>7027</TextId>
+        <Text>Positie parameters</Text>
+    </Item>
+
+    <Item>
+        <TextId>7028</TextId>
+        <Text>Offset X</Text>
+    </Item>
+
+    <Item>
+        <TextId>7029</TextId>
+        <Text>Offset Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>7030</TextId>
+        <Text>Sleuf</Text>
+    </Item>
+
+    <!-- ENDCONDITION -->
+
+    <Item>
+        <TextId>8000</TextId>
+        <Text>Eindverbinden</Text>
+    </Item>
+
+    <Item>
+        <TextId>8001</TextId>
+        <Text>Element generen</Text>
+    </Item>
+
+    <Item>
+        <TextId>8002</TextId>
+        <Text>Bevestigen</Text>
+    </Item>
+
+    <Item>
+        <TextId>8003</TextId>
+        <Text>Bewerking boven</Text>
+    </Item>
+
+    <Item>
+        <TextId>8004</TextId>
+        <Text>Berwerking onder</Text>
+    </Item>
+
+    <Item>
+        <TextId>8005</TextId>
+        <Text>Berwerkingstype</Text>
+    </Item>
+
+    <Item>
+        <TextId>8006</TextId>
+        <Text>Geen</Text>
+    </Item>
+
+    <Item>
+        <TextId>8007</TextId>
+        <Text>Flensuitsnede Plain</Text>
+    </Item>
+
+    <Item>
+        <TextId>8008</TextId>
+        <Text>Flensuitsnede Std</Text>
+    </Item>
+
+    <Item>
+        <TextId>8009</TextId>
+        <Text>Flensuitsnede FEMA</Text>
+    </Item>
+
+    <Item>
+        <TextId>8010</TextId>
+        <Text>Seismische flensuitsnede</Text>
+    </Item>
+
+    <Item>
+        <TextId>8011</TextId>
+        <Text>Flensbreedte uitsnijden</Text>
+    </Item>
+
+    <Item><!-- profile-->
+        <TextId>8012</TextId>
+        <Text>I</Text>
+    </Item>
+
+    <Item>
+        <TextId>8013</TextId>
+        <Text>Rechthoek hol</Text>
+    </Item>
+
+    <Item>
+        <TextId>8014</TextId>
+        <Text>L</Text>
+    </Item>
+
+    <Item>
+        <TextId>8015</TextId>
+        <Text>Cirkel hol</Text>
+    </Item>
+
+    <Item>
+        <TextId>8016</TextId>
+        <Text>C</Text>
+    </Item>
+
+    <Item>
+        <TextId>8017</TextId>
+        <Text>T</Text>
+    </Item>
+
+    <Item>
+        <TextId>8018</TextId>
+        <Text>Rechthoek</Text>
+    </Item>
+
+    <Item>
+        <TextId>8019</TextId>
+        <Text>Cirkel</Text>
+    </Item>
+
+    <Item>
+        <TextId>8020</TextId>
+        <Text>I Asym</Text>
+    </Item>
+
+    <Item>
+        <TextId>8021</TextId>
+        <Text>Koud gevormd</Text>
+    </Item>
+
+    <Item>
+        <TextId>8022</TextId>
+        <Text>Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>8023</TextId>
+        <Text>Rails</Text>
+    </Item>
+
+    <Item>
+        <TextId>8024</TextId>
+        <Text>Inkeping</Text>
+    </Item>
+
+    <Item><!-- Cope plain-->
+        <TextId>8025</TextId>
+        <Text>Flensuitsnede lengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>8026</TextId>
+        <Text>Flensuitsnede diepte</Text>
+    </Item>
+
+    <Item>
+        <TextId>8027</TextId>
+        <Text>Flensuitsnede straal</Text>
+    </Item>
+
+    <Item><!-- Cope Std-->
+        <TextId>8028</TextId>
+        <Text>Flensuitsnede lengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>8029</TextId>
+        <Text>Flensuitsnede diepte</Text>
+    </Item>
+
+    <Item>
+        <TextId>8030</TextId>
+        <Text>Bondek straal</Text>
+    </Item>
+
+    <Item>
+        <TextId>8031</TextId>
+        <Text>Root aanzicht</Text>
+    </Item>
+
+    <Item>
+        <TextId>8032</TextId>
+        <Text>Hoek groef</Text>
+    </Item>
+
+    <Item>
+        <TextId>8033</TextId>
+        <Text>Flensuitsnede fabriek</Text>
+    </Item>
+
+    <Item>
+        <TextId>8034</TextId>
+        <Text>Clip web</Text>
+    </Item>
+
+    <Item><!-- Cope FEMA-->
+        <TextId>8035</TextId>
+        <Text>Flensuitsnede lengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>8036</TextId>
+        <Text>Bondek lengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>8037</TextId>
+        <Text>Bondek diepte</Text>
+    </Item>
+
+    <Item>
+        <TextId>8038</TextId>
+        <Text>Flens spoellengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>8039</TextId>
+        <Text>Bondek straal</Text>
+    </Item>
+
+    <Item>
+        <TextId>8040</TextId>
+        <Text>Hoek groef</Text>
+    </Item>
+
+    <Item>
+        <TextId>8041</TextId>
+        <Text>Bondek uitsparing afstand</Text>
+    </Item>
+
+    <Item>
+        <TextId>8042</TextId>
+        <Text>Root aanzicht</Text>
+    </Item>
+
+    <Item>
+        <TextId>8043</TextId>
+        <Text>Flensuitsnede fabriek</Text>
+    </Item>
+
+    <Item>
+        <TextId>8044</TextId>
+        <Text>Clip web</Text>
+    </Item>
+
+    <Item><!-- Cope Seismic-->
+        <TextId>8045</TextId>
+        <Text>Flensuitsnede lengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>8046</TextId>
+        <Text>Bondek lengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>8047</TextId>
+        <Text>Bondek diepte</Text>
+    </Item>
+
+    <Item>
+        <TextId>8048</TextId>
+        <Text>Flens spoellengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>8049</TextId>
+        <Text>Bondek straal</Text>
+    </Item>
+
+    <Item>
+        <TextId>8050</TextId>
+        <Text>Hoek groef</Text>
+    </Item>
+
+    <Item>
+        <TextId>8051</TextId>
+        <Text>Bondek uitsparing afstand</Text>
+    </Item>
+
+    <Item>
+        <TextId>8052</TextId>
+        <Text>Root aanzicht</Text>
+    </Item>
+
+    <Item><!-- Cut flange width-->
+        <TextId>8053</TextId>
+        <Text>Flens lengte dichte zijde</Text>
+    </Item>
+
+    <Item>
+        <TextId>8054</TextId>
+        <Text>Flens lengte verre zijde</Text>
+    </Item>
+
+    <Item>
+        <TextId>8055</TextId>
+        <Text>Flens gelijk afsnijden</Text>
+    </Item>
+
+    <Item>
+        <TextId>8056</TextId>
+        <Text>Flens breedte afsnijden</Text>
+    </Item>
+
+    <Item><!-- Notch-->
+        <TextId>8057</TextId>
+        <Text>Lengte inkeping</Text>
+    </Item>
+
+    <Item>
+        <TextId>8058</TextId>
+        <Text>Breedte inkeping</Text>
+    </Item>
+
+    <Item>
+        <TextId>8059</TextId>
+        <Text>Offset inkeping</Text>
+    </Item>
+
+    <Item>
+        <TextId>8060</TextId>
+        <Text>Straal inkeping</Text>
+    </Item>
+
+    <Item>
+        <TextId>8061</TextId>
+        <Text>Korte zijde</Text>
+    </Item>
+
+    <Item>
+        <TextId>8062</TextId>
+        <Text>Verre zijde</Text>
+    </Item>
+
+    <Item><!-- Moment connection -->
+        <TextId>8063</TextId>
+        <Text>Moment verbinding</Text>
+    </Item>
+
+    <!-- DIALOG LINES -->
+
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Selecteer 2 punten om het hoekstaal te plaatsen</Text>
+    </Item>
+
+    <Item>
+        <TextId>10001</TextId>
+        <Text>Punt ingeven</Text>
+    </Item>
+
+    <Item>
+        <TextId>10002</TextId>
+        <Text>Druk op de knop Punten om Polylijn te kiezen</Text>
+    </Item>
+
+    <Item>
+        <TextId>10005</TextId>
+        <Text>Klik om een nieuw punt te lokaliseren</Text>
+    </Item>
+
+    <Item>
+        <TextId>10006</TextId>
+        <Text>Selecteer in te voegen punt</Text>
+    </Item>
+
+    <Item>
+        <TextId>10007</TextId>
+        <Text>Selecteer eerste in te voegen punt</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>Selecteer tweede in te voegen punt</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Selecteer een punt in de richting van de bout</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Selecteer oorsprong van boutrichting</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>Selecteer eerste in te voegen punt</Text>
+    </Item>
+
+    <Item>
+        <TextId>10012</TextId>
+        <Text>Selecteer tweede in te voegen punt</Text>
+    </Item>
+
+    <Item>
+        <TextId>10013</TextId>
+        <Text>Selecteer eerste hoekpunt</Text>
+    </Item>
+
+    <Item>
+        <TextId>10014</TextId>
+        <Text>Selecteer tweede hoekpunt</Text>
+    </Item>
+
+    <Item>
+        <TextId>10015</TextId>
+        <Text>Selecteer in te voegen punt</Text>
+    </Item>
+
+    <Item>
+        <TextId>10016</TextId>
+        <Text>Selecteer eerste in te voegen punt</Text>
+    </Item>
+
+    <Item>
+        <TextId>10017</TextId>
+        <Text>Selecteer tweede in te voegen punt</Text>
+    </Item>
+
+    <Item>
+        <TextId>10018</TextId>
+        <Text>Selecteer een punt in de plaatrichting</Text>
+    </Item>
+
+    <Item>
+        <TextId>10019</TextId>
+        <Text>Selecteer oorsprong van de plaatrichting</Text>
+    </Item>
+
+    <Item>
+        <TextId>10020</TextId>
+        <Text>Selecteer in te voegen punt</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Selecteer polylijn</Text>
+    </Item>
+
+    <Item>
+        <TextId>10024</TextId>
+        <Text>Selecteer dikte punt</Text>
+    </Item>
+
+    <Item>
+        <TextId>10027</TextId>
+        <Text>Selecteer in te voegen punt</Text>
+    </Item>
+
+    <Item>
+        <TextId>10028</TextId>
+        <Text>Selecteer eerste in te voegen punt</Text>
+    </Item>
+
+    <Item>
+        <TextId>10029</TextId>
+        <Text>Selecteer volgende in te voegen punt</Text>
+    </Item>
+
+    <Item>
+        <TextId>10030</TextId>
+        <Text>Selecteer staalbouw element</Text>
+    </Item>
+
+    <Item>
+        <TextId>10031</TextId>
+        <Text>Selecteer nieuw punt langs de las</Text>
+    </Item>
+
+    <Item>
+        <TextId>10032</TextId>
+        <Text>Selecteer een profiel in het palet</Text>
+    </Item>
+
+    <Item>
+        <TextId>10033</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>10034</TextId>
+        <Text>Selecteer een grip, sleep en wijzig vervolgens de instellingen van de las</Text>
+    </Item>
+
+    <!-- POP-UP MESSAGE -->
+
+    <Item>
+        <TextId>11000</TextId>
+        <Text>De bou moet eerst geplaatst worden</Text>
+    </Item>
+
+    <Item>
+        <TextId>11001</TextId>
+        <Text>Dit is geen gesloten polylijn</Text>
+    </Item>
+
+    <Item>
+        <TextId>11002</TextId>
+        <Text>Niet alle punten zijn op hetzelfde 3D vlak</Text>
+    </Item>
+
+    <Item>
+        <TextId>11003</TextId>
+        <Text>Selecteer tussen twee bestaande punten</Text>
+    </Item>
+
+    <Item>
+        <TextId>11004</TextId>
+        <Text>Geen lokalisatie beschikbaar.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11005</TextId>
+        <Text>Dit PythonPart kan alleen correct worden uitgevoerd met een geldig lokalisatiebestand.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11006</TextId>
+        <Text>Er wordt geen geometrie aangemaakt.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11007</TextId>
+        <Text>Minimum 2 punten nodig</Text>
+    </Item>
+
+    <Item>
+        <TextId>11008</TextId>
+        <Text>U moet eerst een invoegpunt selecteren</Text>
+    </Item>
+
+    <Item>
+        <TextId>11009</TextId>
+        <Text>Selecteer een nieuw punt omdat 2 geselecteerde punten niet tot hetzelfde oppervlak kunnen behoren.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11010</TextId>
+        <Text>Selecteer eerst een Plaat of een Staalbouw element</Text>
+    </Item>
+
+    <Item>
+        <TextId>11011</TextId>
+        <Text>Met deze bewerking worden uitsparingen verwijderd die resulteren in een ongeldige geometrie. Doorgaan met verwijderen?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11012</TextId>
+        <Text>Het profiel van het geselecteerde element is niet compatibel met de verbindingstoolbox.
+  Gebruik de Nemetschek profielcatalogus.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11013</TextId>
+        <Text>Selecteer een Staalbouw element</Text>
+    </Item>
+
+    <Item>
+        <TextId>11014</TextId>
+        <Text>Incompatibel bewerkingstype</Text>
+    </Item>
+
+    <Item>
+        <TextId>11015</TextId>
+        <Text>Incompatibel elementtype</Text>
+    </Item>
+
+    <Item>
+        <TextId>11016</TextId>
+        <Text>Deze functie is niet compatibel met uw huidige licentie</Text>
+    </Item>
+
+    <Item>
+        <TextId>11017</TextId>
+        <Text>Deze functie is niet compatibel met de versie van Allplan die u gebruikt.</Text>
+    </Item>
+
+    <!-- NOT USED TO EXPRESS -->
+
+    <Item>
+        <TextId>12000</TextId>
+        <Text>Ox</Text>
+    </Item>
+
+    <Item>
+        <TextId>12001</TextId>
+        <Text>Oy</Text>
+    </Item>
+
+    <Item>
+        <TextId>12002</TextId>
+        <Text>Oz</Text>
+    </Item>
+
+    <Item>
+        <TextId>12003</TextId>
+        <Text>Ox: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12004</TextId>
+        <Text>Oy: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12005</TextId>
+        <Text>Oz: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12006</TextId>
+        <Text>Uitsparing</Text>
+    </Item>
+
+    <Item>
+        <TextId>12007</TextId>
+        <Text>Uitsparing generen</Text>
+    </Item>
+
+    <Item>
+        <TextId>12008</TextId>
+        <Text>Straal uitsparing</Text>
+    </Item>
+
+    <Item>
+        <TextId>12009</TextId>
+        <Text>Lengte sleuf</Text>
+    </Item>
+
+    <Item>
+        <TextId>12010</TextId>
+        <Text>Hoek uitsparing</Text>
+    </Item>
+
+    <Item>
+        <TextId>12011</TextId>
+        <Text>Offset uitsparing</Text>
+    </Item>
+
+    <Item>
+        <TextId>12012</TextId>
+        <Text>Plaats</Text>
+    </Item>
+
+    <Item>
+        <TextId>12013</TextId>
+        <Text>Hoogte instellingen</Text>
+    </Item>
+
+    <Item>
+        <TextId>12014</TextId>
+        <Text>Referentiepunt</Text>
+    </Item>
+
+    <Item>
+        <TextId>12015</TextId>
+        <Text>BeginPunt</Text>
+    </Item>
+
+    <Item>
+        <TextId>12016</TextId>
+        <Text>EindPunt</Text>
+    </Item>
+
+    <Item>
+        <TextId>12017</TextId>
+        <Text>2</Text>
+    </Item>
+
+    <Item>
+        <TextId>12018</TextId>
+        <Text>3</Text>
+    </Item>
+
+    <Item>
+        <TextId>12019</TextId>
+        <Text>Hoekstaal</Text>
+    </Item>
+
+    <Item>
+        <TextId>12020</TextId>
+        <Text>Bout</Text>
+    </Item>
+
+    <Item>
+        <TextId>12021</TextId>
+        <Text>Las</Text>
+    </Item>
+
+    <Item>
+        <TextId>12022</TextId>
+        <Text>Punten</Text>
+    </Item>
+
+    <Item>
+        <TextId>12023</TextId>
+        <Text>Verstijver</Text>
+    </Item>
+</Element>

@@ -1,0 +1,2472 @@
+<Element>
+
+    <!--GENERAL-->
+
+    <Item>
+        <TextId>9000</TextId>
+		<Text>Геометрия</Text>
+    </Item>
+
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Выбрать элемент</Text>
+    </Item>
+
+    <Item>
+        <TextId>9002</TextId>
+        <Text>Плита | Скоба | Болт | Сварной шов</Text>
+    </Item>
+
+    <Item>
+        <TextId>9003</TextId>
+        <Text>Отображение</Text>
+    </Item>
+
+    <Item>
+        <TextId>9004</TextId>
+        <Text>Связанное меню инструментов</Text>
+    </Item>
+
+    <!--PLATE-->
+
+    <Item>
+        <TextId>1000</TextId>
+        <Text>Плита</Text>
+    </Item>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Тип плиты</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Конечная плита | Элемент жесткости</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Форма плиты</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Материал</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Стиль</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Форма</Text>
+    </Item>
+
+    <Item>
+        <TextId>1007</TextId>
+        <Text>Разместить артикул</Text>
+    </Item>
+
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Кол-во эл-тов жесткости</Text>
+    </Item>
+
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Материал</Text>
+    </Item>
+
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Параметры плиты</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Точки</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>Выбрать ломаную 2D</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>Выбрать ломаную 3D</Text>
+    </Item>
+
+    <Item>
+        <TextId>1014</TextId>
+        <Text>Толщ</Text>
+    </Item>
+
+    <Item>
+        <TextId>1015</TextId>
+        <Text>Ширина</Text>
+    </Item>
+
+    <Item>
+        <TextId>1016</TextId>
+        <Text>Длина</Text>
+    </Item>
+
+    <Item>
+        <TextId>1017</TextId>
+        <Text>Форма угла</Text>
+    </Item>
+
+    <Item>
+        <TextId>1018</TextId>
+        <Text>Прямой угол / Угол с фаской / Скругленный угол</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Радиус</Text>
+    </Item>
+
+    <Item>
+        <TextId>1020</TextId>
+        <Text>Радиус закругления</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text> Закругление</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>  Закругление</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>   Закругление</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Закругление</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text> Фаска</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Длина</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Ширина</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>  Фаска</Text>
+    </Item>
+
+    <Item>
+        <TextId>1029</TextId>
+        <Text>Длина</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Ширина</Text>
+    </Item>
+
+    <Item>
+        <TextId>1031</TextId>
+        <Text>   Фаска</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Длина</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Ширина</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Фаска</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Длина</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Ширина</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Позиционирование</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Ориентация</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Форма</Text>
+    </Item>
+
+    <Item>
+        <TextId>1040</TextId>
+        <Text>Ориентация</Text>
+    </Item>
+
+    <Item>
+        <TextId>1041</TextId>
+        <Text>Точка</Text>
+    </Item>
+
+    <Item>
+        <TextId>1042</TextId>
+        <Text>Вектор</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Базисная точка</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Базисная точка</Text>
+    </Item>
+
+    <Item>
+        <TextId>1045</TextId>
+        <Text>Угол поворота</Text>
+    </Item>
+
+    <Item>
+        <TextId>1046</TextId>
+        <Text>Угол </Text>
+    </Item>
+
+    <Item>
+        <TextId>1047</TextId>
+        <Text>Перевернутая плита</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Создать элемент</Text>
+    </Item>
+
+    <Item>
+        <TextId>1050</TextId>
+        <Text>Подтвердить</Text>
+    </Item>
+
+    <Item>
+        <TextId>1051</TextId>
+        <Text>Выбрать толщину по точке</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Прямоугольник</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Окружность</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Ломаная</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Авто</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Вручную</Text>
+    </Item>
+
+    <Item>
+        <TextId>1057</TextId>
+        <Text>Параметры угловой формы</Text>
+    </Item>
+
+    <Item>
+        <TextId>1058</TextId>
+        <Text>Расстояние</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Расстояние </Text>
+    </Item>
+
+    <Item>
+        <TextId>1060</TextId>
+        <Text>Позиция ломаной</Text>
+    </Item>
+
+    <Item>
+        <TextId>1061</TextId>
+        <Text>Польз</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Пролёт в свету</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Свет</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Радиус</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Ось Длина</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>Зависит от профиля</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>Показать точку привязки</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Формат</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>Слой</Text>
+    </Item>
+
+    <Item>
+        <TextId>1502</TextId>
+        <Text>Перо</Text>
+    </Item>
+
+    <Item>
+        <TextId>1503</TextId>
+        <Text>Перо из слоя</Text>
+    </Item>
+
+    <Item>
+        <TextId>1504</TextId>
+        <Text>Линия</Text>
+    </Item>
+
+    <Item>
+        <TextId>1505</TextId>
+        <Text>Тип линии из слоя</Text>
+    </Item>
+
+    <Item>
+        <TextId>1506</TextId>
+        <Text>Цвет</Text>
+    </Item>
+
+    <Item>
+        <TextId>1507</TextId>
+        <Text>Цвет из слоя</Text>
+    </Item>
+
+    <Item>
+        <TextId>1508</TextId>
+        <Text>Элемент поверхности</Text>
+    </Item>
+
+    <Item>
+        <TextId>1509</TextId>
+        <Text>Площадь</Text>
+    </Item>
+
+    <Item>
+        <TextId>1510</TextId>
+        <Text>Элемент поверхности</Text>
+    </Item>
+
+    <Item>
+        <TextId>1511</TextId>
+        <Text>Штриховка</Text>
+    </Item>
+
+    <Item>
+        <TextId>1512</TextId>
+        <Text>Узор</Text>
+    </Item>
+
+    <Item>
+        <TextId>1513</TextId>
+        <Text>Заливка</Text>
+    </Item>
+
+    <Item>
+        <TextId>1514</TextId>
+        <Text>Растровая поверхность</Text>
+    </Item>
+
+    <Item>
+        <TextId>1515</TextId>
+        <Text>Стилевая поверхность</Text>
+    </Item>
+
+    <!--CLEAT-->
+
+    <Item>
+        <TextId>2000</TextId>
+        <Text>Скоба</Text>
+    </Item>
+
+    <Item>
+        <TextId>2001</TextId>
+        <Text>Форма скобы</Text>
+    </Item>
+
+    <Item>
+        <TextId>2002</TextId>
+        <Text>Профиль | Гнутая плита</Text>
+    </Item>
+
+    <Item>
+        <TextId>2003</TextId>
+        <Text>Выбрать профиль</Text>
+    </Item>
+
+    <Item>
+        <TextId>2004</TextId>
+        <Text>Материал</Text>
+    </Item>
+
+    <Item>
+        <TextId>2005</TextId>
+        <Text>Параметры скобы</Text>
+    </Item>
+
+    <Item>
+        <TextId>2006</TextId>
+        <Text>Длина скобы</Text>
+    </Item>
+
+    <Item>
+        <TextId>2007</TextId>
+        <Text> Длина скобы</Text>
+    </Item>
+
+    <Item>
+        <TextId>2008</TextId>
+        <Text>Толщ. скобы</Text>
+    </Item>
+
+    <Item>
+        <TextId>2009</TextId>
+        <Text>Угол скобы</Text>
+    </Item>
+
+    <Item>
+        <TextId>2010</TextId>
+        <Text>Степень детализ.</Text>
+    </Item>
+
+    <Item>
+        <TextId>2011</TextId>
+        <Text>Ширина фаски</Text>
+    </Item>
+
+    <Item>
+        <TextId>2012</TextId>
+        <Text>Радиус закругления</Text>
+    </Item>
+
+    <Item>
+        <TextId>2013</TextId>
+        <Text>Позиционирование</Text>
+    </Item>
+
+    <Item>
+        <TextId>2014</TextId>
+        <Text>Расстояние</Text>
+    </Item>
+
+    <Item>
+        <TextId>2015</TextId>
+        <Text>Стиль размещ.</Text>
+    </Item>
+
+    <Item>
+        <TextId>2016</TextId>
+        <Text>Выбрать точки</Text>
+    </Item>
+
+    <Item>
+        <TextId>2017</TextId>
+        <Text>Первая точка</Text>
+    </Item>
+
+    <Item>
+        <TextId>2018</TextId>
+        <Text>Вторая точка</Text>
+    </Item>
+
+    <Item>
+        <TextId>2019</TextId>
+        <Text>Базисная точка</Text>
+    </Item>
+
+    <Item>
+        <TextId>2020</TextId>
+        <Text>Базисная точка</Text>
+    </Item>
+
+    <Item>
+        <TextId>2021</TextId>
+        <Text>Расстояние</Text>
+    </Item>
+
+    <Item>
+        <TextId>2022</TextId>
+        <Text>Поворот скобы</Text>
+    </Item>
+
+    <Item>
+        <TextId>2023</TextId>
+        <Text>Отверстие</Text>
+    </Item>
+
+    <Item>
+        <TextId>2024</TextId>
+        <Text>Создать отверстие</Text>
+    </Item>
+
+    <Item>
+        <TextId>2025</TextId>
+        <Text>К-во проемов</Text>
+    </Item>
+
+    <Item>
+        <TextId>2026</TextId>
+        <Text>Расст. 1 отверстия</Text>
+    </Item>
+
+    <Item>
+        <TextId>2027</TextId>
+        <Text>Расст. 2 отверстия</Text>
+    </Item>
+
+    <Item>
+        <TextId>2028</TextId>
+        <Text>Радиус отв.</Text>
+    </Item>
+
+    <Item>
+        <TextId>2029</TextId>
+        <Text>Радиус 1 отв.</Text>
+    </Item>
+
+    <Item>
+        <TextId>2030</TextId>
+        <Text>Радиус 2 отв</Text>
+    </Item>
+
+    <Item>
+        <TextId>2031</TextId>
+        <Text>Кол-во краев</Text>
+    </Item>
+
+    <Item>
+        <TextId>2032</TextId>
+        <Text>Длина края</Text>
+    </Item>
+
+    <Item>
+        <TextId>2033</TextId>
+        <Text>Создать элемент</Text>
+    </Item>
+
+    <Item>
+        <TextId>2034</TextId>
+        <Text>Подтвердить</Text>
+    </Item>
+
+    <Item>
+        <TextId>2035</TextId>
+        <Text>Выберите точки, чтобы определить угол скобы</Text>
+    </Item>
+
+    <Item>
+        <TextId>2036</TextId>
+        <Text>Низкий(ая,ое)</Text>
+    </Item>
+
+    <Item>
+        <TextId>2037</TextId>
+        <Text>Средний</Text>
+    </Item>
+
+    <Item>
+        <TextId>2038</TextId>
+        <Text>Сверху</Text>
+    </Item>
+
+    <Item>
+        <TextId>2039</TextId>
+        <Text>Авто</Text>
+    </Item>
+
+    <Item>
+        <TextId>2040</TextId>
+        <Text>Вручную</Text>
+    </Item>
+
+    <Item>
+        <TextId>2041</TextId>
+        <Text>Нет</Text>
+    </Item>
+
+    <Item>
+        <TextId>2042</TextId>
+        <Text>Окружность</Text>
+    </Item>
+
+    <Item>
+        <TextId>2043</TextId>
+        <Text>Дуга</Text>
+    </Item>
+
+    <Item>
+        <TextId>2044</TextId>
+        <Text>Многоугольник</Text>
+    </Item>
+
+    <Item>
+        <TextId>2500</TextId>
+        <Text>Формат</Text>
+    </Item>
+
+    <Item>
+        <TextId>2501</TextId>
+        <Text>Слой</Text>
+    </Item>
+
+    <Item>
+        <TextId>2502</TextId>
+        <Text>Перо</Text>
+    </Item>
+
+    <Item>
+        <TextId>2503</TextId>
+        <Text>Перо из слоя</Text>
+    </Item>
+
+    <Item>
+        <TextId>2504</TextId>
+        <Text>Линия</Text>
+    </Item>
+
+    <Item>
+        <TextId>2505</TextId>
+        <Text>Тип линии из слоя</Text>
+    </Item>
+
+    <Item>
+        <TextId>2506</TextId>
+        <Text>Цвет</Text>
+    </Item>
+
+    <Item>
+        <TextId>2507</TextId>
+        <Text>Цвет из слоя</Text>
+    </Item>
+
+    <Item>
+        <TextId>2508</TextId>
+        <Text>Элемент поверхности</Text>
+    </Item>
+
+    <Item>
+        <TextId>2509</TextId>
+        <Text>Площадь</Text>
+    </Item>
+
+    <Item>
+        <TextId>2510</TextId>
+        <Text>Элемент поверхности</Text>
+    </Item>
+
+    <Item>
+        <TextId>2511</TextId>
+        <Text>Штриховка</Text>
+    </Item>
+
+    <Item>
+        <TextId>2512</TextId>
+        <Text>Узор</Text>
+    </Item>
+
+    <Item>
+        <TextId>2513</TextId>
+        <Text>Заливка</Text>
+    </Item>
+
+    <Item>
+        <TextId>2514</TextId>
+        <Text>Растровая поверхность</Text>
+    </Item>
+
+    <Item>
+        <TextId>2515</TextId>
+        <Text>Стилевая поверхность</Text>
+    </Item>
+
+    <Item>
+        <TextId>2516</TextId>
+        <Text>Расстояние</Text>
+    </Item>
+
+    <Item>
+        <TextId>2517</TextId>
+        <Text>Расстояние</Text>
+    </Item>
+
+    <!--BOLT-->
+
+    <Item>
+        <TextId>3000</TextId>
+        <Text>Болт</Text>
+    </Item>
+
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Тип болта</Text>
+    </Item>
+
+    <Item>
+        <TextId>3002</TextId>
+        <Text>Общий болт | Анкерный болт</Text>
+    </Item>
+
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Тип крюка</Text>
+    </Item>
+
+    <Item>
+        <TextId>3004</TextId>
+        <Text>С головкой | L-крюк | J-крюк</Text>
+    </Item>
+
+    <Item>
+        <TextId>3005</TextId>
+        <Text>Форма головки</Text>
+    </Item>
+
+    <Item>
+        <TextId>3006</TextId>
+        <Text>Шестигранник | Потайная головка</Text>
+    </Item>
+
+    <Item>
+        <TextId>3007</TextId>
+        <Text>Параметры болта</Text>
+    </Item>
+
+    <Item>
+        <TextId>3008</TextId>
+        <Text>Размер</Text>
+    </Item>
+
+    <Item>
+        <TextId>3009</TextId>
+        <Text>Размер</Text>
+    </Item>
+
+    <Item>
+        <TextId>3010</TextId>
+        <Text>Длина</Text>
+    </Item>
+
+    <Item>
+        <TextId>3011</TextId>
+        <Text>Подкладные шайбы</Text>
+    </Item>
+
+    <Item>
+        <TextId>3012</TextId>
+        <Text>Гайка подкл. шайбы</Text>
+    </Item>
+
+    <Item>
+        <TextId>3013</TextId>
+        <Text>Класс болта</Text>
+    </Item>
+
+    <Item>
+        <TextId>3014</TextId>
+        <Text>Степень детализ</Text>
+    </Item>
+
+    <Item>
+        <TextId>3015</TextId>
+        <Text>Позиционирование</Text>
+    </Item>
+
+    <Item>
+        <TextId>3016</TextId>
+        <Text>Кол-во болтов</Text>
+    </Item>
+
+    <Item>
+        <TextId>3017</TextId>
+        <Text>Ориентация</Text>
+    </Item>
+
+    <Item>
+        <TextId>3018</TextId>
+        <Text>Ориентация</Text>
+    </Item>
+
+    <Item>
+        <TextId>3019</TextId>
+        <Text>Польз</Text>
+    </Item>
+
+    <Item>
+        <TextId>3020</TextId>
+        <Text>Точка</Text>
+    </Item>
+
+    <Item>
+        <TextId>3021</TextId>
+        <Text>Вектор</Text>
+    </Item>
+
+    <Item>
+        <TextId>3022</TextId>
+        <Text>Наверху</Text>
+    </Item>
+
+    <Item>
+        <TextId>3023</TextId>
+        <Text>По центру</Text>
+    </Item>
+
+    <Item>
+        <TextId>3024</TextId>
+        <Text>Внизу</Text>
+    </Item>
+
+    <Item>
+        <TextId>3025</TextId>
+        <Text>Базисная точка</Text>
+    </Item>
+
+    <Item>
+        <TextId>3026</TextId>
+        <Text>Размеры болт. группы</Text>
+    </Item>
+
+    <Item>
+        <TextId>3027</TextId>
+        <Text>Расстояние</Text>
+    </Item>
+
+    <Item>
+        <TextId>3028</TextId>
+        <Text> Расстояние</Text>
+    </Item>
+
+    <Item>
+        <TextId>3029</TextId>
+        <Text>  Расстояние</Text>
+    </Item>
+
+    <Item>
+        <TextId>3030</TextId>
+        <Text>   X-Расстояние</Text>
+    </Item>
+
+    <Item>
+        <TextId>3031</TextId>
+        <Text>Угол поворота</Text>
+    </Item>
+
+    <Item>
+        <TextId>3032</TextId>
+        <Text>Угол поворота</Text>
+    </Item>
+
+    <Item>
+        <TextId>3033</TextId>
+        <Text>Перевернутый болт</Text>
+    </Item>
+
+    <Item>
+        <TextId>3034</TextId>
+        <Text>Расстояние</Text>
+    </Item>
+
+    <Item>
+        <TextId>3035</TextId>
+        <Text>Расстояние </Text>
+    </Item>
+
+    <Item>
+        <TextId>3036</TextId>
+        <Text>Создать элемент</Text>
+    </Item>
+
+    <Item>
+        <TextId>3037</TextId>
+        <Text>Подтвердить</Text>
+    </Item>
+
+    <Item>
+        <TextId>3038</TextId>
+        <Text>Выбрать точку ручки</Text>
+    </Item>
+
+    <Item>
+        <TextId>3039</TextId>
+        <Text>Низкий(ая,ое)</Text>
+    </Item>
+
+    <Item>
+        <TextId>3040</TextId>
+        <Text>Средний</Text>
+    </Item>
+
+    <Item>
+        <TextId>3041</TextId>
+        <Text>Сверху</Text>
+    </Item>
+
+    <Item>
+        <TextId>3500</TextId>
+        <Text>Формат</Text>
+    </Item>
+
+    <Item>
+        <TextId>3501</TextId>
+        <Text>Слой</Text>
+    </Item>
+
+    <Item>
+        <TextId>3502</TextId>
+        <Text>Перо</Text>
+    </Item>
+
+    <Item>
+        <TextId>3503</TextId>
+        <Text>Перо из слоя</Text>
+    </Item>
+
+    <Item>
+        <TextId>3504</TextId>
+        <Text>Линия</Text>
+    </Item>
+
+    <Item>
+        <TextId>3505</TextId>
+        <Text>Тип линии из слоя</Text>
+    </Item>
+
+    <Item>
+        <TextId>3506</TextId>
+        <Text>Цвет</Text>
+    </Item>
+
+    <Item>
+        <TextId>3507</TextId>
+        <Text>Цвет из слоя</Text>
+    </Item>
+
+    <Item>
+        <TextId>3508</TextId>
+        <Text>Элемент поверхности</Text>
+    </Item>
+
+    <Item>
+        <TextId>3509</TextId>
+        <Text>Площадь</Text>
+    </Item>
+
+    <Item>
+        <TextId>3510</TextId>
+        <Text>Элемент поверхности</Text>
+    </Item>
+
+    <Item>
+        <TextId>3511</TextId>
+        <Text>Штриховка</Text>
+    </Item>
+
+    <Item>
+        <TextId>3512</TextId>
+        <Text>Узор</Text>
+    </Item>
+
+    <Item>
+        <TextId>3513</TextId>
+        <Text>Заливка</Text>
+    </Item>
+
+    <Item>
+        <TextId>3514</TextId>
+        <Text>Растровая поверхность</Text>
+    </Item>
+
+    <Item>
+        <TextId>3515</TextId>
+        <Text>Стилевая поверхность</Text>
+    </Item>
+
+    <!--WELD-->
+
+    <Item>
+        <TextId>4000</TextId>
+        <Text>Сварной шов</Text>
+    </Item>
+
+    <Item>
+        <TextId>4001</TextId>
+        <Text>Тип сварного шва</Text>
+    </Item>
+
+    <Item>
+        <TextId>4002</TextId>
+        <Text>Полилиния | Закругление | Выпуклость | Вогнутость</Text>
+    </Item>
+
+    <Item>
+        <TextId>4003</TextId>
+        <Text>Общие значения</Text>
+    </Item>
+
+    <Item>
+        <TextId>4004</TextId>
+        <Text>Длина сварного шва</Text>
+    </Item>
+
+    <Item>
+        <TextId>4005</TextId>
+        <Text>Ширина сварного шва</Text>
+    </Item>
+
+    <Item>
+        <TextId>4006</TextId>
+        <Text>Угол сварного шва</Text>
+    </Item>
+
+    <Item>
+        <TextId>4010</TextId>
+        <Text>Позиционирование</Text>
+    </Item>
+
+    <Item>
+        <TextId>4011</TextId>
+        <Text>Поворот</Text>
+    </Item>
+
+    <Item>
+        <TextId>4012</TextId>
+        <Text>Создать элемент</Text>
+    </Item>
+
+    <Item>
+        <TextId>4013</TextId>
+        <Text>Подтвердить</Text>
+    </Item>
+
+    <Item>
+        <TextId>4014</TextId>
+        <Text>Модификация</Text>
+    </Item>
+
+    <Item>
+        <TextId>4015</TextId>
+        <Text>Начать сначала</Text>
+    </Item>
+
+    <Item>
+        <TextId>4016</TextId>
+        <Text>Удалить последнюю точку</Text>
+    </Item>
+
+    <Item>
+        <TextId>4017</TextId>
+        <Text>Новая точка угла</Text>
+    </Item>
+
+    <Item>
+        <TextId>4018</TextId>
+        <Text>Переместить точку</Text>
+    </Item>
+
+    <Item>
+        <TextId>4500</TextId>
+        <Text>Формат</Text>
+    </Item>
+
+    <Item>
+        <TextId>4501</TextId>
+        <Text>Слой</Text>
+    </Item>
+
+    <Item>
+        <TextId>4502</TextId>
+        <Text>Перо</Text>
+    </Item>
+
+    <Item>
+        <TextId>4503</TextId>
+        <Text>Перо из слоя</Text>
+    </Item>
+
+    <Item>
+        <TextId>4504</TextId>
+        <Text>Линия</Text>
+    </Item>
+
+    <Item>
+        <TextId>4505</TextId>
+        <Text>Тип линии из слоя</Text>
+    </Item>
+
+    <Item>
+        <TextId>4506</TextId>
+        <Text>Цвет</Text>
+    </Item>
+
+    <Item>
+        <TextId>4507</TextId>
+        <Text>Цвет из слоя</Text>
+    </Item>
+
+    <Item>
+        <TextId>4508</TextId>
+        <Text>Элемент поверхности</Text>
+    </Item>
+
+    <Item>
+        <TextId>4509</TextId>
+        <Text>Площадь</Text>
+    </Item>
+
+    <Item>
+        <TextId>4510</TextId>
+        <Text>Элемент поверхности</Text>
+    </Item>
+
+    <Item>
+        <TextId>4511</TextId>
+        <Text>Штриховка</Text>
+    </Item>
+
+    <Item>
+        <TextId>4512</TextId>
+        <Text>Узор</Text>
+    </Item>
+
+    <Item>
+        <TextId>4513</TextId>
+        <Text>Заливка</Text>
+    </Item>
+
+    <Item>
+        <TextId>4514</TextId>
+        <Text>Растровая поверхность</Text>
+    </Item>
+
+    <Item>
+        <TextId>4515</TextId>
+        <Text>Стилевая поверхность</Text>
+    </Item>
+
+    <!--STIFFENER-->
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Параметры эл-та жесткости</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>Точки</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>Выбрать ломаную 2D</Text>
+    </Item>
+
+    <Item>
+        <TextId>5003</TextId>
+        <Text>Выбрать ломаную 3D</Text>
+    </Item>
+
+    <Item>
+        <TextId>5004</TextId>
+        <Text>Толщ</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>Длина</Text>
+    </Item>
+
+    <Item>
+        <TextId>5006</TextId>
+        <Text>Ширина</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>Расстояние Ox</Text>
+    </Item>
+
+    <Item>
+        <TextId>5008</TextId>
+        <Text>Радиус</Text>
+    </Item>
+
+    <Item>
+        <TextId>5009</TextId>
+        <Text>Форма угла</Text>
+    </Item>
+
+    <Item>
+        <TextId>5010</TextId>
+        <Text>Прямой угол | Угол с фаской | Скругленный угол</Text>
+    </Item>
+
+    <Item>
+        <TextId>5011</TextId>
+        <Text>Радиус закругления</Text>
+    </Item>
+
+    <Item>
+        <TextId>5012</TextId>
+        <Text> Закругление</Text>
+    </Item>
+
+    <Item>
+        <TextId>5013</TextId>
+        <Text>  Закругление</Text>
+    </Item>
+
+    <Item>
+        <TextId>5014</TextId>
+        <Text>   Закругление</Text>
+    </Item>
+
+    <Item>
+        <TextId>5015</TextId>
+        <Text>Закругление</Text>
+    </Item>
+
+    <Item>
+        <TextId>5016</TextId>
+        <Text> Фаска</Text>
+    </Item>
+
+    <Item>
+        <TextId>5017</TextId>
+        <Text>Длина</Text>
+    </Item>
+
+    <Item>
+        <TextId>5018</TextId>
+        <Text>Ширина</Text>
+    </Item>
+
+    <Item>
+        <TextId>5019</TextId>
+        <Text>  Фаска</Text>
+    </Item>
+
+    <Item>
+        <TextId>5020</TextId>
+        <Text>Длина</Text>
+    </Item>
+
+    <Item>
+        <TextId>5021</TextId>
+        <Text>Ширина</Text>
+    </Item>
+
+    <Item>
+        <TextId>5022</TextId>
+        <Text>   Фаска</Text>
+    </Item>
+
+    <Item>
+        <TextId>5023</TextId>
+        <Text>Длина</Text>
+    </Item>
+
+    <Item>
+        <TextId>5024</TextId>
+        <Text>Ширина</Text>
+    </Item>
+
+    <Item>
+        <TextId>5025</TextId>
+        <Text>Фаска</Text>
+    </Item>
+
+    <Item>
+        <TextId>5026</TextId>
+        <Text>Длина</Text>
+    </Item>
+
+    <Item>
+        <TextId>5027</TextId>
+        <Text>Ширина</Text>
+    </Item>
+
+    <Item>
+        <TextId>5028</TextId>
+        <Text>Позиционирование</Text>
+    </Item>
+
+    <Item>
+        <TextId>5029</TextId>
+        <Text>Ориентация</Text>
+    </Item>
+
+    <Item>
+        <TextId>5030</TextId>
+        <Text>Ориентация</Text>
+    </Item>
+
+    <Item>
+        <TextId>5031</TextId>
+        <Text>Польз.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5032</TextId>
+        <Text>Форма</Text>
+    </Item>
+
+    <Item>
+        <TextId>5033</TextId>
+        <Text>Вектор </Text>
+    </Item>
+
+    <Item>
+        <TextId>5034</TextId>
+        <Text>Базисная точка</Text>
+    </Item>
+
+    <Item>
+        <TextId>5035</TextId>
+        <Text>Базисная точка</Text>
+    </Item>
+
+    <Item>
+        <TextId>5036</TextId>
+        <Text>Угол поворота</Text>
+    </Item>
+
+    <Item>
+        <TextId>5037</TextId>
+        <Text>Угол Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>5038</TextId>
+        <Text>Угол Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>5039</TextId>
+        <Text>Расстояние</Text>
+    </Item>
+
+    <Item>
+        <TextId>5040</TextId>
+        <Text>Расст. X</Text>
+    </Item>
+
+    <Item>
+        <TextId>5041</TextId>
+        <Text>Расст. Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>5042</TextId>
+        <Text>Расстояние Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>5043</TextId>
+        <Text>Создать 3D-элемент</Text>
+    </Item>
+
+    <Item>
+        <TextId>5044</TextId>
+        <Text>Подтвердить</Text>
+    </Item>
+
+    <Item>
+        <TextId>5045</TextId>
+        <Text>Длина стержня</Text>
+    </Item>
+
+    <Item>
+        <TextId>5046</TextId>
+        <Text>Прямоугольник</Text>
+    </Item>
+
+    <Item>
+        <TextId>5047</TextId>
+        <Text>Треугольник</Text>
+    </Item>
+
+    <Item>
+        <TextId>5048</TextId>
+        <Text>Параметры формы угла</Text>
+    </Item>
+
+    <Item>
+        <TextId>5049</TextId>
+        <Text>Размер/-позиция плиты</Text>
+    </Item>
+
+    <Item>
+        <TextId>5050</TextId>
+        <Text>Показать точки привязки</Text>
+    </Item>
+
+    <Item>
+        <TextId>5051</TextId>
+        <Text>Трапеция</Text>
+    </Item>
+
+    <Item>
+        <TextId>5052</TextId>
+        <Text>Разм 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>5053</TextId>
+        <Text>Разм 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>5054</TextId>
+        <Text>Расстояние Oy</Text>
+    </Item>
+
+    <Item>
+        <TextId>5055</TextId>
+        <Text>Угол X</Text>
+    </Item>
+
+    <Item>
+        <TextId>5500</TextId>
+        <Text>Свойства</Text>
+    </Item>
+
+    <Item>
+        <TextId>5501</TextId>
+        <Text>Слой</Text>
+    </Item>
+
+    <Item>
+        <TextId>5502</TextId>
+        <Text>Перо</Text>
+    </Item>
+
+    <Item>
+        <TextId>5503</TextId>
+        <Text>Перо из слоя</Text>
+    </Item>
+
+    <Item>
+        <TextId>5504</TextId>
+        <Text>Линия</Text>
+    </Item>
+
+    <Item>
+        <TextId>5505</TextId>
+        <Text>Тип линии из слоя</Text>
+    </Item>
+
+    <Item>
+        <TextId>5506</TextId>
+        <Text>Цвет</Text>
+    </Item>
+
+    <Item>
+        <TextId>5507</TextId>
+        <Text>Цвет из слоя</Text>
+    </Item>
+
+    <!--WELD SYMBOL-->
+
+    <Item>
+        <TextId>6000</TextId>
+        <Text>Вставить символ</Text>
+    </Item>
+
+    <Item>
+        <TextId>6001</TextId>
+        <Text>Длина сварного шва</Text>
+    </Item>
+
+    <Item>
+        <TextId>6002</TextId>
+        <Text>Глубина сварного шва</Text>
+    </Item>
+
+    <Item>
+        <TextId>6003</TextId>
+        <Text>Подробности</Text>
+    </Item>
+
+    <Item>
+        <TextId>6004</TextId>
+        <Text>Сварить со всех сторон</Text>
+    </Item>
+
+    <Item>
+        <TextId>6005</TextId>
+        <Text>Сварка в полевых условиях</Text>
+    </Item>
+
+    <Item>
+        <TextId>6006</TextId>
+        <Text>Отметка</Text>
+    </Item>
+
+    <Item>
+        <TextId>6007</TextId>
+        <Text>Тип сварного шва</Text>
+    </Item>
+
+    <Item>
+        <TextId>6500</TextId>
+        <Text>Символ сварного шва</Text>
+    </Item>
+
+    <Item>
+        <TextId>6501</TextId>
+        <Text>Длина опорной линии</Text>
+    </Item>
+
+    <Item>
+        <TextId>6502</TextId>
+        <Text>Масштаб текста</Text>
+    </Item>
+
+    <Item>
+        <TextId>6503</TextId>
+        <Text>Слой</Text>
+    </Item>
+
+    <Item>
+        <TextId>6504</TextId>
+        <Text>Перо</Text>
+    </Item>
+
+    <Item>
+        <TextId>6505</TextId>
+        <Text>Перо из слоя</Text>
+    </Item>
+
+    <Item>
+        <TextId>6506</TextId>
+        <Text>Тип линий</Text>
+    </Item>
+
+    <Item>
+        <TextId>6507</TextId>
+        <Text>Тип линии по слою</Text>
+    </Item>
+
+    <Item>
+        <TextId>6508</TextId>
+        <Text>Цвет</Text>
+    </Item>
+
+    <Item>
+        <TextId>6509</TextId>
+        <Text>Цвет по слою</Text>
+    </Item>
+
+    <!--HOLE-->
+
+    <Item>
+        <TextId>7000</TextId>
+        <Text>Отверстие</Text>
+    </Item>
+
+    <Item>
+        <TextId>7001</TextId>
+        <Text>Форма отверстия</Text>
+    </Item>
+
+    <Item>
+        <TextId>7002</TextId>
+        <Text> Окружность</Text>
+    </Item>
+
+    <Item>
+        <TextId>7003</TextId>
+        <Text>Прямоугольный</Text>
+    </Item>
+
+    <Item>
+        <TextId>7004</TextId>
+        <Text>Диаметр</Text>
+    </Item>
+
+    <Item>
+        <TextId>7005</TextId>
+        <Text>Глубина</Text>
+    </Item>
+
+    <Item>
+        <TextId>7006</TextId>
+        <Text>Ширина</Text>
+    </Item>
+
+    <Item>
+        <TextId>7007</TextId>
+        <Text>Длина</Text>
+    </Item>
+
+    <Item>
+        <TextId>7008</TextId>
+        <Text>Форма угла</Text>
+    </Item>
+
+    <Item>
+        <TextId>7009</TextId>
+        <Text>Фаска</Text>
+    </Item>
+
+    <Item>
+        <TextId>7010</TextId>
+        <Text>Закругление</Text>
+    </Item>
+
+    <Item>
+        <TextId>7011</TextId>
+        <Text>Подтвердить</Text>
+    </Item>
+
+    <Item>
+        <TextId>7012</TextId>
+        <Text>Создать элемент</Text>
+    </Item>
+
+    <Item>
+        <TextId>7013</TextId>
+        <Text>Прямой угол | Угол с фаской | Скругленный угол</Text>
+    </Item>
+
+    <Item>
+        <TextId>7014</TextId>
+        <Text> Фаска</Text>
+    </Item>
+
+    <Item>
+        <TextId>7015</TextId>
+        <Text>  Фаска</Text>
+    </Item>
+
+    <Item>
+        <TextId>7016</TextId>
+        <Text>   Фаска</Text>
+    </Item>
+
+    <Item>
+        <TextId>7017</TextId>
+        <Text>Размер фаски</Text>
+    </Item>
+
+    <Item>
+        <TextId>7018</TextId>
+        <Text> Закругление</Text>
+    </Item>
+
+    <Item>
+        <TextId>7019</TextId>
+        <Text>  Закругление</Text>
+    </Item>
+
+    <Item>
+        <TextId>7020</TextId>
+        <Text>   Закругление</Text>
+    </Item>
+
+    <Item>
+        <TextId>7021</TextId>
+        <Text>Радиус закругления</Text>
+    </Item>
+
+    <Item>
+        <TextId>7022</TextId>
+        <Text>Угол</Text>
+    </Item>
+
+    <Item>
+        <TextId>7023</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>7024</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>7025</TextId>
+        <Text>Создать отверстие</Text>
+    </Item>
+
+    <Item>
+        <TextId>7026</TextId>
+        <Text>Удалить отверстие</Text>
+    </Item>
+
+    <Item>
+        <TextId>7027</TextId>
+        <Text>Параметры позиции</Text>
+    </Item>
+
+    <Item>
+        <TextId>7028</TextId>
+        <Text>Расстояние X</Text>
+    </Item>
+
+    <Item>
+        <TextId>7029</TextId>
+        <Text>Расстояние Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>7030</TextId>
+        <Text>Отверстие с прорезью</Text>
+    </Item>
+
+    <!-- ENDCONDITION -->
+
+    <Item>
+        <TextId>8000</TextId>
+        <Text>Конечное состояние</Text>
+    </Item>
+
+    <Item>
+        <TextId>8001</TextId>
+        <Text>Создать элемент</Text>
+    </Item>
+
+    <Item>
+        <TextId>8002</TextId>
+        <Text>Подтвердить</Text>
+    </Item>
+
+    <Item>
+        <TextId>8003</TextId>
+        <Text>Операция вверху</Text>
+    </Item>
+
+    <Item>
+        <TextId>8004</TextId>
+        <Text>Операция внизу</Text>
+    </Item>
+
+    <Item>
+        <TextId>8005</TextId>
+        <Text>Тип операции</Text>
+    </Item>
+
+    <Item>
+        <TextId>8006</TextId>
+        <Text>Без</Text>
+    </Item>
+
+    <Item>
+        <TextId>8007</TextId>
+        <Text>Плоскость выемки</Text>
+    </Item>
+
+    <Item>
+        <TextId>8008</TextId>
+        <Text>Выемка Std</Text>
+    </Item>
+
+    <Item>
+        <TextId>8009</TextId>
+        <Text>Выемка FEMA</Text>
+    </Item>
+
+    <Item>
+        <TextId>8010</TextId>
+        <Text>Сейсмика выемки</Text>
+    </Item>
+
+    <Item>
+        <TextId>8011</TextId>
+        <Text>Разрезать ширину фланца</Text>
+    </Item>
+
+    <Item><!-- profile-->
+        <TextId>8012</TextId>
+        <Text>I</Text>
+    </Item>
+
+    <Item>
+        <TextId>8013</TextId>
+        <Text>Высота прямоугольника</Text>
+    </Item>
+
+    <Item>
+        <TextId>8014</TextId>
+        <Text>L</Text>
+    </Item>
+
+    <Item>
+        <TextId>8015</TextId>
+        <Text>Окружность Пустота</Text>
+    </Item>
+
+    <Item>
+        <TextId>8016</TextId>
+        <Text>С</Text>
+    </Item>
+
+    <Item>
+        <TextId>8017</TextId>
+        <Text>Т</Text>
+    </Item>
+
+    <Item>
+        <TextId>8018</TextId>
+        <Text>Формат</Text>
+    </Item>
+
+    <Item>
+        <TextId>8019</TextId>
+        <Text>Окружность</Text>
+    </Item>
+
+    <Item>
+        <TextId>8020</TextId>
+        <Text>I Ассиметричный</Text>
+    </Item>
+
+    <Item>
+        <TextId>8021</TextId>
+        <Text>Холодногнутый</Text>
+    </Item>
+
+    <Item>
+        <TextId>8022</TextId>
+        <Text>Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>8023</TextId>
+        <Text>Шины</Text>
+    </Item>
+
+    <Item>
+        <TextId>8024</TextId>
+        <Text>Надрез</Text>
+    </Item>
+
+    <Item><!-- Cope plain-->
+        <TextId>8025</TextId>
+        <Text>Длина выемки</Text>
+    </Item>
+
+    <Item>
+        <TextId>8026</TextId>
+        <Text>Глубина выемки</Text>
+    </Item>
+
+    <Item>
+        <TextId>8027</TextId>
+        <Text>Радиус выемки</Text>
+    </Item>
+
+    <Item><!-- Cope Std-->
+        <TextId>8028</TextId>
+        <Text>Длина выемки</Text>
+    </Item>
+
+    <Item>
+        <TextId>8029</TextId>
+        <Text>Глубина выемки</Text>
+    </Item>
+
+    <Item>
+        <TextId>8030</TextId>
+        <Text>Загибающийся радиус</Text>
+    </Item>
+
+    <Item>
+        <TextId>8031</TextId>
+        <Text>Притупление корня</Text>
+    </Item>
+
+    <Item>
+        <TextId>8032</TextId>
+        <Text>Угол паза</Text>
+    </Item>
+
+    <Item>
+        <TextId>8033</TextId>
+        <Text>Операция выемки</Text>
+    </Item>
+
+    <Item>
+        <TextId>8034</TextId>
+        <Text>Отсечённый сегмент</Text>
+    </Item>
+
+    <Item><!-- Cope FEMA-->
+        <TextId>8035</TextId>
+        <Text>Длина выемки</Text>
+    </Item>
+
+    <Item>
+        <TextId>8036</TextId>
+        <Text>Загибающаяся длина</Text>
+    </Item>
+
+    <Item>
+        <TextId>8037</TextId>
+        <Text>Загибающаяся глубина</Text>
+    </Item>
+
+    <Item>
+        <TextId>8038</TextId>
+        <Text>Длина фланца заподлицо</Text>
+    </Item>
+
+    <Item>
+        <TextId>8039</TextId>
+        <Text>Загибающийся радиус</Text>
+    </Item>
+
+    <Item>
+        <TextId>8040</TextId>
+        <Text>Угол паза</Text>
+    </Item>
+
+    <Item>
+        <TextId>8041</TextId>
+        <Text>Расстояние до загибающегося отверстия</Text>
+    </Item>
+
+    <Item>
+        <TextId>8042</TextId>
+        <Text>Притупление корня</Text>
+    </Item>
+
+    <Item>
+        <TextId>8043</TextId>
+        <Text>Операция выемки</Text>
+    </Item>
+
+    <Item>
+        <TextId>8044</TextId>
+        <Text>Отсечённый сегмент</Text>
+    </Item>
+
+    <Item><!-- Cope Seismic-->
+        <TextId>8045</TextId>
+        <Text>Длина выемки</Text>
+    </Item>
+
+    <Item>
+        <TextId>8046</TextId>
+        <Text>Загибающаяся длина</Text>
+    </Item>
+
+    <Item>
+        <TextId>8047</TextId>
+        <Text>Загибающаяся глубина</Text>
+    </Item>
+
+    <Item>
+        <TextId>8048</TextId>
+        <Text>Длина фланца заподлицо</Text>
+    </Item>
+
+    <Item>
+        <TextId>8049</TextId>
+        <Text>Загибающийся радиус</Text>
+    </Item>
+
+    <Item>
+        <TextId>8050</TextId>
+        <Text>Угол паза</Text>
+    </Item>
+
+    <Item>
+        <TextId>8051</TextId>
+        <Text>Расстояние до загибающегося отверстия</Text>
+    </Item>
+
+    <Item>
+        <TextId>8052</TextId>
+        <Text>Притупление корня</Text>
+    </Item>
+
+    <Item><!-- Cut flange width-->
+        <TextId>8053</TextId>
+        <Text>Ближняя сторона длины фланца</Text>
+    </Item>
+
+    <Item>
+        <TextId>8054</TextId>
+        <Text>Дальняя сторона длины фланца</Text>
+    </Item>
+
+    <Item>
+        <TextId>8055</TextId>
+        <Text>Разрезать фланец заподлицо</Text>
+    </Item>
+
+    <Item>
+        <TextId>8056</TextId>
+        <Text>Разрезать ширину фланца</Text>
+    </Item>
+
+    <Item><!-- Notch-->
+        <TextId>8057</TextId>
+        <Text>Длина надреза</Text>
+    </Item>
+
+    <Item>
+        <TextId>8058</TextId>
+        <Text>Ширина надреза</Text>
+    </Item>
+
+    <Item>
+        <TextId>8059</TextId>
+        <Text>Расстояние до надреза</Text>
+    </Item>
+
+    <Item>
+        <TextId>8060</TextId>
+        <Text>Радиус надреза</Text>
+    </Item>
+
+    <Item>
+        <TextId>8061</TextId>
+        <Text>Операция ближней стороны</Text>
+    </Item>
+
+    <Item>
+        <TextId>8062</TextId>
+        <Text>Операция дальней стороны</Text>
+    </Item>
+
+    <Item><!-- Moment connection -->
+        <TextId>8063</TextId>
+        <Text>Мгновенное соединение прилегающего участка сегмента</Text>
+    </Item>
+
+    <!-- DIALOG LINES -->
+
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Пож., выберите 2 точки, чтобы разместить крепежный элемент</Text>
+    </Item>
+
+    <Item>
+        <TextId>10001</TextId>
+        <Text>Вставить точку</Text>
+    </Item>
+
+    <Item>
+        <TextId>10002</TextId>
+        <Text>Щелкните по значку точки, чтобы выбрать ломаную</Text>
+    </Item>
+
+    <Item>
+        <TextId>10005</TextId>
+        <Text>Щелкните, чтобы рассчитать новую точку</Text>
+    </Item>
+
+    <Item>
+        <TextId>10006</TextId>
+        <Text>Выбрать точку вставки</Text>
+    </Item>
+
+    <Item>
+        <TextId>10007</TextId>
+        <Text>Выбрать первую точку вставки</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>Выбрать вторую точку вставки</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Выбрать точку вдоль направления болта</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Выбрать исходную точку направления болта</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>Выбрать первую точку вставки</Text>
+    </Item>
+
+    <Item>
+        <TextId>10012</TextId>
+        <Text>Выбрать вторую точку вставки</Text>
+    </Item>
+
+    <Item>
+        <TextId>10013</TextId>
+        <Text>Выбрать первую точку угла</Text>
+    </Item>
+
+    <Item>
+        <TextId>10014</TextId>
+        <Text>Выбрать вторую точку угла</Text>
+    </Item>
+
+    <Item>
+        <TextId>10015</TextId>
+        <Text>Выбрать точку вставки</Text>
+    </Item>
+
+    <Item>
+        <TextId>10016</TextId>
+        <Text>Выбрать первую точку вставки</Text>
+    </Item>
+
+    <Item>
+        <TextId>10017</TextId>
+        <Text>Выбрать вторую точку вставки</Text>
+    </Item>
+
+    <Item>
+        <TextId>10018</TextId>
+        <Text>Выбрать точку вдоль направления плиты</Text>
+    </Item>
+
+    <Item>
+        <TextId>10019</TextId>
+        <Text>Выбрать исходную точку направления плиты</Text>
+    </Item>
+
+    <Item>
+        <TextId>10020</TextId>
+        <Text>Выбрать точку вставки</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Выбрать ломаную 2D</Text>
+    </Item>
+
+    <Item>
+        <TextId>10024</TextId>
+        <Text>Выбрать толщину по точке</Text>
+    </Item>
+
+    <Item>
+        <TextId>10027</TextId>
+        <Text>Выбрать точку вставки</Text>
+    </Item>
+
+    <Item>
+        <TextId>10028</TextId>
+        <Text>Выбрать первую точку вставки</Text>
+    </Item>
+
+    <Item>
+        <TextId>10029</TextId>
+        <Text>Выбрать следующую точку вставки</Text>
+    </Item>
+
+    <Item>
+        <TextId>10030</TextId>
+        <Text>Выбрать элемент несущей конструкции</Text>
+    </Item>
+
+    <Item>
+        <TextId>10031</TextId>
+        <Text>Выбрать новую точку вдоль сварного шва</Text>
+    </Item>
+
+    <Item>
+        <TextId>10032</TextId>
+        <Text>Выбрать профиль в палитре</Text>
+    </Item>
+
+    <Item>
+        <TextId>10033</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>10034</TextId>
+        <Text>Выберите ручку, затем потяните и измените параметры сварного шва</Text>
+    </Item>
+
+    <!-- POP-UP MESSAGE -->
+
+    <Item>
+        <TextId>11000</TextId>
+        <Text>Пож разместите сначала болты</Text>
+    </Item>
+
+    <Item>
+        <TextId>11001</TextId>
+        <Text>Это не замкнутая ломаная</Text>
+    </Item>
+
+    <Item>
+        <TextId>11002</TextId>
+        <Text>Не все точки расположены на одной 3D-плоскости</Text>
+    </Item>
+
+    <Item>
+        <TextId>11003</TextId>
+        <Text>Пож., выберите между двумя существующими точками</Text>
+    </Item>
+
+    <Item>
+        <TextId>11004</TextId>
+        <Text>Локализация не доступна.\n</Text>
+    </Item>
+
+    <Item>
+        <TextId>11005</TextId>
+        <Text>Этот PythonPart может работать корректно только с действующим файлом локализации.\n</Text>
+    </Item>
+
+    <Item>
+        <TextId>11006</TextId>
+        <Text>Геометрия не будет создана.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11007</TextId>
+        <Text>Необходимо мин 2 точки</Text>
+    </Item>
+
+    <Item>
+        <TextId>11008</TextId>
+        <Text>Пожалуйста, выберите сначала точку вставки</Text>
+    </Item>
+
+    <Item>
+        <TextId>11009</TextId>
+        <Text>Пожалуйста, выберите заново точку, поскольку 2 выбранные точки не могут принадлежать одной поверхности.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11010</TextId>
+        <Text>Пожалуйста, выберите сначала точку или элемент несущей конструкции</Text>
+    </Item>
+
+    <Item>
+        <TextId>11011</TextId>
+        <Text>В этом процессе будут удалены проемы, которые ведут к недопустимой геометрии. Продолжить процесс удаления?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11012</TextId>
+        <Text>Профиль выбранных элементов не совместим с Connection-Toolbox.
+Пожалуйста, используйте каталог профилей Nemetschek .</Text>
+    </Item>
+
+    <Item>
+        <TextId>11013</TextId>
+        <Text>Выберите элемент несущей конструкции</Text>
+    </Item>
+
+    <Item>
+        <TextId>11014</TextId>
+        <Text>Методика работы не совместима</Text>
+    </Item>
+
+    <Item>
+        <TextId>11015</TextId>
+        <Text>Тип элемента не совместим</Text>
+    </Item>
+
+    <Item>
+        <TextId>11016</TextId>
+        <Text>Эта функция не совместима с текущей лицензией</Text>
+    </Item>
+
+    <Item>
+        <TextId>11017</TextId>
+        <Text>Эта функция не совместима с используемой версией Allplan.</Text>
+    </Item>
+
+    <!-- NOT USED TO EXPRESS -->
+
+    <Item>
+        <TextId>12000</TextId>
+        <Text>Ox</Text>
+    </Item>
+
+    <Item>
+        <TextId>12001</TextId>
+        <Text>Oy</Text>
+    </Item>
+
+    <Item>
+        <TextId>12002</TextId>
+        <Text>Oz</Text>
+    </Item>
+
+    <Item>
+        <TextId>12003</TextId>
+        <Text>Ox: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12004</TextId>
+        <Text>Oy: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12005</TextId>
+        <Text>Oz: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12006</TextId>
+        <Text>Отверстие</Text>
+    </Item>
+
+    <Item>
+        <TextId>12007</TextId>
+        <Text>Создать отверстие</Text>
+    </Item>
+
+    <Item>
+        <TextId>12008</TextId>
+        <Text>Радиус отверстия</Text>
+    </Item>
+
+    <Item>
+        <TextId>12009</TextId>
+        <Text>Длина отверстия с прорезью</Text>
+    </Item>
+
+    <Item>
+        <TextId>12010</TextId>
+        <Text>Угол отверстия</Text>
+    </Item>
+
+    <Item>
+        <TextId>12011</TextId>
+        <Text>Расстояние до отверстия</Text>
+    </Item>
+
+    <Item>
+        <TextId>12012</TextId>
+        <Text>Разместить</Text>
+    </Item>
+
+    <Item>
+        <TextId>12013</TextId>
+        <Text>Свойства высоты</Text>
+    </Item>
+
+    <Item>
+        <TextId>12014</TextId>
+        <Text>Опорная точка</Text>
+    </Item>
+
+    <Item>
+        <TextId>12015</TextId>
+        <Text>Начальная точка</Text>
+    </Item>
+
+    <Item>
+        <TextId>12016</TextId>
+        <Text>Конечная точка</Text>
+    </Item>
+
+    <Item>
+        <TextId>12017</TextId>
+        <Text>2</Text>
+    </Item>
+
+    <Item>
+        <TextId>12018</TextId>
+        <Text>3</Text>
+    </Item>
+
+    <Item>
+        <TextId>12019</TextId>
+        <Text>Скоба</Text>
+    </Item>
+
+    <Item>
+        <TextId>12020</TextId>
+        <Text>Болт</Text>
+    </Item>
+
+    <Item>
+        <TextId>12021</TextId>
+        <Text>Сварной шов</Text>
+    </Item>
+
+    <Item>
+        <TextId>12022</TextId>
+        <Text>Точки</Text>
+    </Item>
+
+    <Item>
+        <TextId>12023</TextId>
+        <Text>Элемент жесткости</Text>
+    </Item>
+</Element>

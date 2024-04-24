@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+  <Item>
+    <TextId>1001</TextId>
+    <Text>Flujo de trabajo</Text>
+  </Item>
+  <Item>
+    <TextId>1002</TextId>
+    <Text>Para más información por favor haz clic aquí:</Text>
+  </Item>
+
+  <Item>
+    <TextId>1003</TextId>
+    <Text>Tutorial</Text>
+  </Item>
+
+  <Item>
+    <TextId>1004</TextId>
+    <Text>Elementos</Text>
+  </Item>
+
+  <Item>
+    <TextId>1005</TextId>
+    <Text>Armado</Text>
+  </Item>
+
+  <Item>
+    <TextId>1006</TextId>
+    <Text>Secciones</Text>
+  </Item>
+
+  <Item>
+    <TextId>1007</TextId>
+    <Text>Crear</Text>
+  </Item>
+
+  <Item>
+    <TextId>1009</TextId>
+    <Text>Objeto 3D</Text>
+  </Item>
+
+  <Item>
+    <TextId>1011</TextId>
+    <Text>Elegir tipo</Text>
+  </Item>
+
+  <Item>
+    <TextId>1012</TextId>
+    <Text>General</Text>
+  </Item>
+
+  <Item>
+    <TextId>1013</TextId>
+    <Text>Parámetros generales</Text>
+  </Item>
+
+  <Item>
+    <TextId>1020</TextId>
+    <Text>Recubrimiento de hormigón</Text>
+  </Item>
+
+  <Item>
+    <TextId>1021</TextId>
+    <Text>Calidad del hormigón</Text>
+  </Item>
+
+  <Item>
+    <TextId>1024</TextId>
+    <Text>Parámetros de barra del armado</Text>
+  </Item>
+
+  <Item>
+    <TextId>1025</TextId>
+    <Text>Valor mín. Ø horizontal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1026</TextId>
+    <Text>Diámetro mín. de la barra vertical</Text>
+  </Item>
+
+  <Item>
+    <TextId>1027</TextId>
+    <Text>Espacio máx. de la barra horizontal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1028</TextId>
+    <Text>Espacio máx. de la barra vertical</Text>
+  </Item>
+
+  <Item>
+    <TextId>1029</TextId>
+    <Text>Ángulo del gancho</Text>
+  </Item>
+
+  <Item>
+    <TextId>1030</TextId>
+    <Text>Longitud máx. de las barras horizontales</Text>
+  </Item>
+
+  <Item>
+    <TextId>1031</TextId>
+    <Text>Solapamiento transversal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1032</TextId>
+    <Text>Ángulo de colocación</Text>
+  </Item>
+
+  <Item>
+    <TextId>1033</TextId>
+    <Text>Tipo de mall</Text>
+  </Item>
+
+  <Item>
+    <TextId>1034</TextId>
+    <Text>Barra principal del armado</Text>
+  </Item>
+
+  <Item>
+    <TextId>1035</TextId>
+    <Text>Barra de armado</Text>
+  </Item>
+
+  <Item>
+    <TextId>1036</TextId>
+    <Text>Armadura de mallas</Text>
+  </Item>
+
+  <Item>
+    <TextId>1037</TextId>
+    <Text>Parámetros de mall</Text>
+  </Item>
+
+  <Item>
+    <TextId>1038</TextId>
+    <Text>Armado vertical</Text>
+  </Item>
+
+  <Item>
+    <TextId>1039</TextId>
+    <Text>Diámetro</Text>
+  </Item>
+
+  <Item>
+    <TextId>1040</TextId>
+    <Text>Espaciado</Text>
+  </Item>
+
+  <Item>
+    <TextId>1041</TextId>
+    <Text>Longitud de la barra inicial</Text>
+  </Item>
+
+  <Item>
+    <TextId>1042</TextId>
+    <Text>Barra horizontal principal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1043</TextId>
+    <Text>Tipo de armado</Text>
+  </Item>
+
+  <Item>
+    <TextId>1045</TextId>
+    <Text>Superponer longitud</Text>
+  </Item>
+
+  <Item>
+    <TextId>1046</TextId>
+    <Text>Muro del armado en borde</Text>
+  </Item>
+
+  <Item>
+    <TextId>1047</TextId>
+    <Text>Número de barras</Text>
+  </Item>
+
+  <Item>
+    <TextId>1048</TextId>
+    <Text>Longitud inicial</Text>
+  </Item>
+
+  <Item>
+    <TextId>1049</TextId>
+    <Text>Ancho inicial</Text>
+  </Item>
+
+  <Item>
+    <TextId>1050</TextId>
+    <Text>Solape longitudinal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1051</TextId>
+    <Text>Dirección de disposición</Text>
+  </Item>
+
+  <Item>
+    <TextId>1052</TextId>
+    <Text>Longitudinal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1053</TextId>
+    <Text>PythonPart</Text>
+  </Item>
+
+  <Item>
+    <TextId>1054</TextId>
+    <Text>Barra del vano del muro</Text>
+  </Item>
+
+  <Item>
+    <TextId>1055</TextId>
+    <Text>Añadir barra alrededor del vano</Text>
+  </Item>
+
+  <Item>
+    <TextId>1056</TextId>
+    <Text>Transversal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1057</TextId>
+    <Text>Cortar malla</Text>
+  </Item>
+
+  <Item>
+    <TextId>1058</TextId>
+    <Text>Cambiar dirección de la disposición</Text>
+  </Item>
+
+  <Item>
+    <TextId>1059</TextId>
+    <Text>Colocar malla</Text>
+  </Item>
+
+  <Item>
+    <TextId>1060</TextId>
+    <Text>Estribos</Text>
+  </Item>
+
+  <Item>
+    <TextId>1061</TextId>
+    <Text>Bulones horizontales</Text>
+  </Item>
+
+  <Item>
+    <TextId>1062</TextId>
+    <Text/>
+  </Item>
+
+  <Item>
+    <TextId>1063</TextId>
+    <Text>Grupo de mallas</Text>
+  </Item>
+
+  <Item>
+    <TextId>1065</TextId>
+    <Text>Longitud del bulón</Text>
+  </Item>
+
+  <Item>
+    <TextId>1067</TextId>
+    <Text>Bulones verticales</Text>
+  </Item>
+
+  <Item>
+    <TextId>1072</TextId>
+    <Text>Longitud de solape del bulón</Text>
+  </Item>
+
+  <Item>
+    <TextId>1073</TextId>
+    <Text>Estribos horizontales</Text>
+  </Item>
+
+  <Item>
+    <TextId>1077</TextId>
+    <Text>Estribos verticales</Text>
+  </Item>
+
+  <Item>
+    <TextId>1081</TextId>
+    <Text>Colocar secciones</Text>
+  </Item>
+
+  <Item>
+    <TextId>1082</TextId>
+    <Text>Selecciona el muro superio</Text>
+  </Item>
+
+  <Item>
+    <TextId>1083</TextId>
+    <Text>Seleccionar vanos</Text>
+  </Item>
+
+  <Item>
+    <TextId>1084</TextId>
+    <Text>Selecciona el primer muro</Text>
+  </Item>
+
+  <Item>
+    <TextId>1085</TextId>
+    <Text>Verificar y colocar el armado</Text>
+  </Item>
+
+  <Item>
+    <TextId>1086</TextId>
+    <Text>Usar estribo horizontal para h &lt;</Text>
+  </Item>
+
+  <Item>
+    <TextId>1087</TextId>
+    <Text>Usar estribo vertical para h &lt;</Text>
+  </Item>
+
+  <Item>
+    <TextId>1088</TextId>
+    <Text>Extender horizontalmente</Text>
+  </Item>
+
+  <Item>
+    <TextId>1089</TextId>
+    <Text>Extender verticalmente</Text>
+  </Item>
+
+  <Item>
+    <TextId>1090</TextId>
+    <Text>Alzado</Text>
+  </Item>
+
+  <Item>
+    <TextId>1091</TextId>
+    <Text>Bulón de la barra principal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1092</TextId>
+    <Text>Bulón del estribo</Text>
+  </Item>
+
+  <Item>
+    <TextId>1094</TextId>
+    <Text>Sección vertical</Text>
+  </Item>
+
+  <Item>
+    <TextId>1098</TextId>
+    <Text>Sección horizontal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1099</TextId>
+    <Text>Distancia de la sección desde la izquierda</Text>
+  </Item>
+
+  <Item>
+    <TextId>1100</TextId>
+    <Text>Catálogo de secciones transversales</Text>
+  </Item>
+
+  <Item>
+    <TextId>1104</TextId>
+    <Text>Longitud mín. de las barras horizontales</Text>
+  </Item>
+
+  <Item>
+    <TextId>1105</TextId>
+    <Text>Longitud mínima de las barras verticales</Text>
+  </Item>
+
+  <Item>
+    <TextId>1113</TextId>
+    <Text>Distancia de la sección desde la parte inferior</Text>
+  </Item>
+
+  <Item>
+    <TextId>1114</TextId>
+    <Text>Muro</Text>
+  </Item>
+
+  <Item>
+    <TextId>1115</TextId>
+    <Text>Etiquetado de barras de armado</Text>
+  </Item>
+
+  <Item>
+    <TextId>1116</TextId>
+    <Text>Nombre del muro</Text>
+  </Item>
+
+  <Item>
+    <TextId>1117</TextId>
+    <Text>Descripción 1</Text>
+  </Item>
+
+  <Item>
+    <TextId>1118</TextId>
+    <Text>Descripción 2</Text>
+  </Item>
+
+  <Item>
+    <TextId>1119</TextId>
+    <Text>Sección 1-1</Text>
+  </Item>
+
+  <Item>
+    <TextId>1120</TextId>
+    <Text>Descripción</Text>
+  </Item>
+
+  <Item>
+    <TextId>1121</TextId>
+    <Text>Sección A-A</Text>
+  </Item>
+
+  <Item>
+    <TextId>1123</TextId>
+    <Text>Longitud de gancho</Text>
+  </Item>
+
+  <Item>
+    <TextId>1124</TextId>
+    <Text>Valores de barra</Text>
+  </Item>
+
+  <Item>
+    <TextId>1125</TextId>
+    <Text>Manual</Text>
+  </Item>
+
+  <Item>
+    <TextId>1126</TextId>
+    <Text>Basado en la normativa</Text>
+  </Item>
+
+  <Item>
+    <TextId>1127</TextId>
+    <Text>Todo igual</Text>
+  </Item>
+
+  <Item>
+    <TextId>1134</TextId>
+    <Text>Superior</Text>
+  </Item>
+
+  <Item>
+    <TextId>1135</TextId>
+    <Text>Inferior</Text>
+  </Item>
+
+  <Item>
+    <TextId>1136</TextId>
+    <Text>Dentro</Text>
+  </Item>
+
+  <Item>
+    <TextId>1137</TextId>
+    <Text>Izquierda</Text>
+  </Item>
+
+  <Item>
+    <TextId>1138</TextId>
+    <Text>Derecha</Text>
+  </Item>
+
+  <Item>
+    <TextId>1139</TextId>
+    <Text>Fuera</Text>
+  </Item>
+
+  <Item>
+    <TextId>1140</TextId>
+    <Text>Armado adicional</Text>
+  </Item>
+
+  <Item>
+    <TextId>1141</TextId>
+    <Text>Espaciador</Text>
+  </Item>
+
+  <Item>
+    <TextId>1142</TextId>
+    <Text>Off</Text>
+  </Item>
+
+  <Item>
+    <TextId>1143</TextId>
+    <Text>Brida</Text>
+  </Item>
+
+  <Item>
+    <TextId>1144</TextId>
+    <Text>Tipo</Text>
+  </Item>
+
+  <Item>
+    <TextId>1145</TextId>
+    <Text>Alineación</Text>
+  </Item>
+
+  <Item>
+    <TextId>1146</TextId>
+    <Text>Verical</Text>
+  </Item>
+
+  <Item>
+    <TextId>1147</TextId>
+    <Text>Horizontal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1148</TextId>
+    <Text>Arriba</Text>
+  </Item>
+
+  <Item>
+    <TextId>1149</TextId>
+    <Text>Abajo</Text>
+  </Item>
+
+  <Item>
+    <TextId>1150</TextId>
+    <Text>Derecha</Text>
+  </Item>
+
+  <Item>
+    <TextId>1151</TextId>
+    <Text>Dirección</Text>
+  </Item>
+
+  <Item>
+    <TextId>1152</TextId>
+    <Text>Izquierda</Text>
+  </Item>
+
+  <Item>
+    <TextId>1153</TextId>
+    <Text> </Text>
+  </Item>
+
+  <Item>
+    <TextId>1154</TextId>
+    <Text> espaciadores por metro cuadrado</Text>
+  </Item>
+
+  <Item>
+    <TextId>1155</TextId>
+    <Text> espaciadores por yarda cuadrada</Text>
+  </Item>
+
+  <Item>
+    <TextId>1156</TextId>
+    <Text> bridas por metro cuadrado</Text>
+  </Item>
+
+  <Item>
+    <TextId>1157</TextId>
+    <Text> bridas por yarda cuadrada</Text>
+  </Item>
+
+  <Item>
+    <TextId>1158</TextId>
+    <Text>Número por unidad de superf.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1159</TextId>
+    <Text>No es posible mostrar el valor para la creación múltiple</Text>
+  </Item>
+
+  <Item>
+    <TextId>1160</TextId>
+    <Text>Formato</Text>
+  </Item>
+
+  <Item>
+    <TextId>1161</TextId>
+    <Text>Barra</Text>
+  </Item>
+
+  <Item>
+    <TextId>1162</TextId>
+    <Text>Horizontal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1163</TextId>
+    <Text>Verical</Text>
+  </Item>
+
+  <Item>
+    <TextId>1164</TextId>
+    <Text>Malla</Text>
+  </Item>
+
+  <Item>
+    <TextId>1165</TextId>
+    <Text>Arista de muro</Text>
+  </Item>
+
+  <Item>
+    <TextId>1166</TextId>
+    <Text>Vano del muro</Text>
+  </Item>
+
+  <Item>
+    <TextId>1167</TextId>
+    <Text>estribo</Text>
+  </Item>
+
+  <Item>
+    <TextId>1168</TextId>
+    <Text>Bulones horizontales</Text>
+  </Item>
+
+  <Item>
+    <TextId>1169</TextId>
+    <Text>Bulones verticales</Text>
+  </Item>
+
+  <Item>
+    <TextId>1170</TextId>
+    <Text>Estrbos horizontales</Text>
+  </Item>
+
+  <Item>
+    <TextId>1171</TextId>
+    <Text>Estribos verticales</Text>
+  </Item>
+
+  <Item>
+    <TextId>1172</TextId>
+    <Text>Espaciador, brida</Text>
+  </Item>
+
+  <Item>
+    <TextId>4999</TextId>
+    <Text>Este PythonPart te permitirá crear automáticamente el armado en los muros. Para empezar sigue los siguientes pasos: 1) Selecciona el muro que quieres armar. 2)Selecciona un segundo muro en la parte superior del primer muro (opcional). 3) Selecciona los vanos de muro (Opcional) 4) Navega por las pestañas "General", "Barra principal","Estribos" para definir los parámetros del armado de muro. Haz clic en "Crear" para comprobar y generar el armado del muro. 5)Dirígete a la pestaña "Secciones" para definir los parámetros de sección. Haz clic en "Crear" y coloca las secciones.</Text>
+  </Item>
+
+  <Item>
+    <TextId>5000</TextId>
+    <Text>Por favor selecciona elementos</Text>
+  </Item>
+
+  <Item>
+    <TextId>5001</TextId>
+    <Text>acceder a la pestaña "General"</Text>
+  </Item>
+
+  <Item>
+    <TextId>5003</TextId>
+    <Text>accede a la pestaña "Barra principal"</Text>
+  </Item>
+
+  <Item>
+    <TextId>5004</TextId>
+    <Text>accede a la pestaña "Armado adicional"</Text>
+  </Item>
+
+  <Item>
+    <TextId>5005</TextId>
+    <Text>accede a la pestaña "Estribos"</Text>
+  </Item>
+
+  <Item>
+    <TextId>5007</TextId>
+    <Text>accede a la pestaña "Secciones"</Text>
+  </Item>
+
+  <Item>
+    <TextId>5008</TextId>
+    <Text>accede a la pestaña "Formato"</Text>
+  </Item>
+
+  <Item>
+    <TextId>10010</TextId>
+    <Text>No se puede crear el armado por los siguientes errores: \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10016</TextId>
+    <Text>El muro seleccionado ya tiene armado.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10018</TextId>
+    <Text>Primero crea el armado</Text>
+  </Item>
+
+  <Item>
+    <TextId>10019</TextId>
+    <Text>Haz clic en un punto de la vista en planta para colocar las secciones.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10020</TextId>
+    <Text>El diámetro de la barra horizontal es menor que Ømin = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10021</TextId>
+    <Text>El diámetro de la barra vertical es menor que Ømin = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10022</TextId>
+    <Text>El espaciado de la barra horizontal principal es mayor que  Smax = {} mm \\n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10023</TextId>
+    <Text>El espaciado de la barra vertical principal es mayor que Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10024</TextId>
+    <Text>El espaciado de la barra horizontal del estribo es mayor que Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10025</TextId>
+    <Text>El espaciado de las barras verticales del estribo es mayor que Smax = {} mm \\n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10026</TextId>
+    <Text>¿Te gustaría corregir estos parámetros automáticamente?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10027</TextId>
+    <Text>Introduce los parámetros y haz clic en "Crear" para generar el armado</Text>
+  </Item>
+
+  <Item>
+    <TextId>10028</TextId>
+    <Text>Selecciona los muros y sus vanos en la vista del modelo 3D.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10029</TextId>
+    <Text>Se ha completado el proceso. Por favor haz clic en Cerrar o pulsa la tecla Esc para salir.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10030</TextId>
+    <Text>Introduce los parámetros y haz clic en Crear para generar secciones</Text>
+  </Item>
+
+  <Item>
+    <TextId>10031</TextId>
+    <Text>Por favor comprueba la vista previa de la barra del armado para los vanos. \n La barra de armado puede extenderse fuera de la geom. del muro.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10032</TextId>
+    <Text>Selecciona el objeto en la vista 3D.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10035</TextId>
+    <Text>El espesor de los muros seleccionados es distinto. Esto podría ocasionar errores de disposición de las barras. ¿Estás seguro de que quieres continuar?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10036</TextId>
+    <Text>La barra principal no se puede crear debido a los siguientes parámetros:</Text>
+  </Item>
+
+  <Item>
+    <TextId>10037</TextId>
+    <Text> - Longitud del bulón insuficiente</Text>
+  </Item>
+
+  <Item>
+    <TextId>10038</TextId>
+    <Text> - Longitud mín. de la barra insuficiente</Text>
+  </Item>
+
+  <Item>
+    <TextId>10039</TextId>
+    <Text>¿Quieres continuar con la creación del armado e ignorar este aviso?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10040</TextId>
+    <Text>Este PythonPart está vinculado con el componente arquitectónico con el que se creó.\nTen en cuenta que no puedes copiar este PythonPart en otra ubicación.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10041</TextId>
+    <Text>Se ha modificado el parámetro.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10042</TextId>
+    <Text>¿Quieres actualizar el número de posición de la barra?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10043</TextId>
+    <Text>Has copiado el PythonPart vinculado con un objeto arquitectónico.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10044</TextId>
+    <Text>¿Quieres vincularlo al nuevo objeto arquitectónico?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10045</TextId>
+    <Text>El armado en borde debería cortarse porque los objetos del vano está cerrado hasta el borde del muro.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10046</TextId>
+    <Text>¿Te gustaría dividir la</Text>
+  </Item>
+
+  <Item>
+    <TextId>10047</TextId>
+    <Text>Selecciona los muros haciendo clic con el botón izquierdo del ratón o en la selección.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10048</TextId>
+    <Text>No se ha encontrado un muro sup. válido.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10049</TextId>
+    <Text>El programa solo es compatible con los muros y los muros que hay por encima con el mismo grosor.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10050</TextId>
+    <Text>El programa solo es compatible con muros y muros por encima con la misma proyección en la vista en planta.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10051</TextId>
+    <Text>El programa solo es compatible con los muros y el muro que hay por encima con el mismo ángulo de rotación en la vista en planta.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10052</TextId>
+    <Text>Vuelve a seleccionar los muros o deshabilita el segundo muro en la casilla superior.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10053</TextId>
+    <Text>Selección no válida:</Text>
+  </Item>
+
+  <Item>
+    <TextId>10054</TextId>
+    <Text>El programa solo es compatible con muros con una sección transversal rectangular horizontal.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10055</TextId>
+    <Text>El programa solo es compatible con muros sin superficies inclinadas en la parte sup. e inf.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10056</TextId>
+    <Text>El programa solo es compatible con los muros son inclinación.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10057</TextId>
+    <Text>El programa solo es compatible con los muros sin huecos o ménsulas.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10058</TextId>
+    <Text>El programa solo es compatible con los muros cuya longitud es cuatro veces mayor que el grosor.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10059</TextId>
+    <Text>Vuelve a seleccionar los muros</Text>
+  </Item>
+
+  <Item>
+    <TextId>10060</TextId>
+    <Text>Con esta herramienta no podrás detectar una layer para aplicar un armado por obra o grosor para algunos muros. Para mejor la selección, asigna la obra "Trabajo de hormigón" a las layers de muro correspondientes o selecciona las layers de muro que a las que quieras aplicar el armado de forma individual a través de la función Suma y la selección individual en vez de la selección de toda la superficie. Repite tu selección.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10061</TextId>
+    <Text>Hay un vano fuera del muro.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10062</TextId>
+    <Text>Modificar el vano.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10063</TextId>
+    <Text>En la selección actual, hay al menos un muro que parece no tener ningún muro encima. En este caso, no se aplican las barras de conexión.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10064</TextId>
+    <Text>Un vano no está completamente dentro del muro que has seleccionado.</Text>
+  </Item>
+
+</Element>

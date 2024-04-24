@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+  <Item>
+    <TextId>1001</TextId>
+    <Text>Tijek rada</Text>
+  </Item>
+  <Item>
+    <TextId>1002</TextId>
+    <Text>Više informacija:</Text>
+  </Item>
+
+  <Item>
+    <TextId>1003</TextId>
+    <Text>Tutorijal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1004</TextId>
+    <Text>Elementi</Text>
+  </Item>
+
+  <Item>
+    <TextId>1005</TextId>
+    <Text>Armiranje</Text>
+  </Item>
+
+  <Item>
+    <TextId>1006</TextId>
+    <Text>Presjeci</Text>
+  </Item>
+
+  <Item>
+    <TextId>1007</TextId>
+    <Text>Kreiraj</Text>
+  </Item>
+
+  <Item>
+    <TextId>1009</TextId>
+    <Text>3D objekt</Text>
+  </Item>
+
+  <Item>
+    <TextId>1011</TextId>
+    <Text>Odaberi vrstu</Text>
+  </Item>
+
+  <Item>
+    <TextId>1012</TextId>
+    <Text>Općenito</Text>
+  </Item>
+
+  <Item>
+    <TextId>1013</TextId>
+    <Text>Opće postavke</Text>
+  </Item>
+
+  <Item>
+    <TextId>1020</TextId>
+    <Text>Zaštitni sloj</Text>
+  </Item>
+
+  <Item>
+    <TextId>1021</TextId>
+    <Text>Klasa čvrstoće betona</Text>
+  </Item>
+
+  <Item>
+    <TextId>1024</TextId>
+    <Text>Parametri armature</Text>
+  </Item>
+
+  <Item>
+    <TextId>1025</TextId>
+    <Text>Minimalni promjer horizontalne šipke</Text>
+  </Item>
+
+  <Item>
+    <TextId>1026</TextId>
+    <Text>Minimalni promjer vertikalne šipke</Text>
+  </Item>
+
+  <Item>
+    <TextId>1027</TextId>
+    <Text>Minimalni razmak horizontalnih šipki</Text>
+  </Item>
+
+  <Item>
+    <TextId>1028</TextId>
+    <Text>Maksimalni razmak vertikalnih šipki</Text>
+  </Item>
+
+  <Item>
+    <TextId>1029</TextId>
+    <Text>Kut kuke</Text>
+  </Item>
+
+  <Item>
+    <TextId>1030</TextId>
+    <Text>Maksimalni razmak horizontalnih šipki</Text>
+  </Item>
+
+  <Item>
+    <TextId>1031</TextId>
+    <Text>Poprečni preklop</Text>
+  </Item>
+
+  <Item>
+    <TextId>1032</TextId>
+    <Text>Kut postavljanja</Text>
+  </Item>
+
+  <Item>
+    <TextId>1033</TextId>
+    <Text>Vrsta mreže</Text>
+  </Item>
+
+  <Item>
+    <TextId>1034</TextId>
+    <Text>Glavna armatura</Text>
+  </Item>
+
+  <Item>
+    <TextId>1035</TextId>
+    <Text>Armiranje šipkama</Text>
+  </Item>
+
+  <Item>
+    <TextId>1036</TextId>
+    <Text>Armiranje mrežama</Text>
+  </Item>
+
+  <Item>
+    <TextId>1037</TextId>
+    <Text>Parametri mreža</Text>
+  </Item>
+
+  <Item>
+    <TextId>1038</TextId>
+    <Text>Vertikalna armatura</Text>
+  </Item>
+
+  <Item>
+    <TextId>1039</TextId>
+    <Text>Promjer</Text>
+  </Item>
+
+  <Item>
+    <TextId>1040</TextId>
+    <Text>Razmak</Text>
+  </Item>
+
+  <Item>
+    <TextId>1041</TextId>
+    <Text>Duljina početnih šipki</Text>
+  </Item>
+
+  <Item>
+    <TextId>1042</TextId>
+    <Text>Horizontalno armiranje</Text>
+  </Item>
+
+  <Item>
+    <TextId>1043</TextId>
+    <Text>Vrsta armature</Text>
+  </Item>
+
+  <Item>
+    <TextId>1045</TextId>
+    <Text>Duljina preklopa</Text>
+  </Item>
+
+  <Item>
+    <TextId>1046</TextId>
+    <Text>Armatura ruba zida</Text>
+  </Item>
+
+  <Item>
+    <TextId>1047</TextId>
+    <Text>Broj šipki</Text>
+  </Item>
+
+  <Item>
+    <TextId>1048</TextId>
+    <Text>Početna duljina</Text>
+  </Item>
+
+  <Item>
+    <TextId>1049</TextId>
+    <Text>početna širina</Text>
+  </Item>
+
+  <Item>
+    <TextId>1050</TextId>
+    <Text>LängsübergreifendUzdužni preklop</Text>
+  </Item>
+
+  <Item>
+    <TextId>1051</TextId>
+    <Text>mjer postavljanja</Text>
+  </Item>
+
+  <Item>
+    <TextId>1052</TextId>
+    <Text>zdužno</Text>
+  </Item>
+
+  <Item>
+    <TextId>1053</TextId>
+    <Text>Python Part</Text>
+  </Item>
+
+  <Item>
+    <TextId>1054</TextId>
+    <Text>Armatura otvora zida</Text>
+  </Item>
+
+  <Item>
+    <TextId>1055</TextId>
+    <Text>Dodaj armaturu oko otvora</Text>
+  </Item>
+
+  <Item>
+    <TextId>1056</TextId>
+    <Text>Poprečno</Text>
+  </Item>
+
+  <Item>
+    <TextId>1057</TextId>
+    <Text>Izreži mrežu</Text>
+  </Item>
+
+  <Item>
+    <TextId>1058</TextId>
+    <Text>Promijeni smjer polaganja</Text>
+  </Item>
+
+  <Item>
+    <TextId>1059</TextId>
+    <Text>Pomakni mrežu</Text>
+  </Item>
+
+  <Item>
+    <TextId>1060</TextId>
+    <Text>Otvorena spona</Text>
+  </Item>
+
+  <Item>
+    <TextId>1061</TextId>
+    <Text>Horizontalne spone</Text>
+  </Item>
+
+  <Item>
+    <TextId>1062</TextId>
+    <Text>Isto kao i glavna armatura</Text>
+  </Item>
+
+  <Item>
+    <TextId>1063</TextId>
+    <Text>Grupa mreža</Text>
+  </Item>
+
+  <Item>
+    <TextId>1065</TextId>
+    <Text>Duljina kraka</Text>
+  </Item>
+
+  <Item>
+    <TextId>1067</TextId>
+    <Text>Vertikalne spone</Text>
+  </Item>
+
+  <Item>
+    <TextId>1072</TextId>
+    <Text>Duljina kruga spone</Text>
+  </Item>
+
+  <Item>
+    <TextId>1073</TextId>
+    <Text>Horizontalne spone</Text>
+  </Item>
+
+  <Item>
+    <TextId>1077</TextId>
+    <Text>Vertikalne spone</Text>
+  </Item>
+
+  <Item>
+    <TextId>1081</TextId>
+    <Text>Postavi presjeke</Text>
+  </Item>
+
+  <Item>
+    <TextId>1082</TextId>
+    <Text>Odaberi gornji zid</Text>
+  </Item>
+
+  <Item>
+    <TextId>1083</TextId>
+    <Text>Odaberi otvore</Text>
+  </Item>
+
+  <Item>
+    <TextId>1084</TextId>
+    <Text>Odaberi prvi zid</Text>
+  </Item>
+
+  <Item>
+    <TextId>1085</TextId>
+    <Text>Provjeri i postavi</Text>
+  </Item>
+
+  <Item>
+    <TextId>1086</TextId>
+    <Text>Zatvorena horizontalna spona za h &lt;</Text>
+  </Item>
+
+  <Item>
+    <TextId>1087</TextId>
+    <Text>Zatvorena vertikalna spona za h &lt;</Text>
+  </Item>
+
+  <Item>
+    <TextId>1088</TextId>
+    <Text>Produži horizontalno</Text>
+  </Item>
+
+  <Item>
+    <TextId>1089</TextId>
+    <Text>Produži vertikalno</Text>
+  </Item>
+
+  <Item>
+    <TextId>1090</TextId>
+    <Text>Pogled</Text>
+  </Item>
+
+  <Item>
+    <TextId>1091</TextId>
+    <Text>Glavni trn za savijanje armature</Text>
+  </Item>
+
+  <Item>
+    <TextId>1092</TextId>
+    <Text>Trn za savijanje spona</Text>
+  </Item>
+
+  <Item>
+    <TextId>1094</TextId>
+    <Text>Vertikalni presjek</Text>
+  </Item>
+
+  <Item>
+    <TextId>1098</TextId>
+    <Text>Horizontalni presjek</Text>
+  </Item>
+
+  <Item>
+    <TextId>1099</TextId>
+    <Text>Odmak presjeka sa lijeva</Text>
+  </Item>
+
+  <Item>
+    <TextId>1100</TextId>
+    <Text>Katalog popr. presjeka</Text>
+  </Item>
+
+  <Item>
+    <TextId>1104</TextId>
+    <Text>Min. duljina horizontalne šipke</Text>
+  </Item>
+
+  <Item>
+    <TextId>1105</TextId>
+    <Text>Min. duljina vertikalne šipke</Text>
+  </Item>
+
+  <Item>
+    <TextId>1113</TextId>
+    <Text>Odmak presjeka od dna</Text>
+  </Item>
+
+  <Item>
+    <TextId>1114</TextId>
+    <Text>Zid</Text>
+  </Item>
+
+  <Item>
+    <TextId>1115</TextId>
+    <Text>Oznaka armature</Text>
+  </Item>
+
+  <Item>
+    <TextId>1116</TextId>
+    <Text>Naziv zida</Text>
+  </Item>
+
+  <Item>
+    <TextId>1117</TextId>
+    <Text>Opis 1</Text>
+  </Item>
+
+  <Item>
+    <TextId>1118</TextId>
+    <Text>Opis 2</Text>
+  </Item>
+
+  <Item>
+    <TextId>1119</TextId>
+    <Text>Presjek 1-1</Text>
+  </Item>
+
+  <Item>
+    <TextId>1120</TextId>
+    <Text>Opis</Text>
+  </Item>
+
+  <Item>
+    <TextId>1121</TextId>
+    <Text>Presjek A-A</Text>
+  </Item>
+
+  <Item>
+    <TextId>1123</TextId>
+    <Text>Duljina kuke</Text>
+  </Item>
+
+  <Item>
+    <TextId>1124</TextId>
+    <Text>Vrijednosti armature</Text>
+  </Item>
+
+  <Item>
+    <TextId>1125</TextId>
+    <Text>Manualno</Text>
+  </Item>
+
+  <Item>
+    <TextId>1126</TextId>
+    <Text>Zasnovano na normi</Text>
+  </Item>
+
+  <Item>
+    <TextId>1127</TextId>
+    <Text>Sve isto</Text>
+  </Item>
+
+  <Item>
+    <TextId>1134</TextId>
+    <Text>Gore</Text>
+  </Item>
+
+  <Item>
+    <TextId>1135</TextId>
+    <Text>Dolje</Text>
+  </Item>
+
+  <Item>
+    <TextId>1136</TextId>
+    <Text>Iznutra</Text>
+  </Item>
+
+  <Item>
+    <TextId>1137</TextId>
+    <Text>Lijevo</Text>
+  </Item>
+
+  <Item>
+    <TextId>1138</TextId>
+    <Text>Desno</Text>
+  </Item>
+
+  <Item>
+    <TextId>1139</TextId>
+    <Text>Izvana</Text>
+  </Item>
+
+  <Item>
+    <TextId>1140</TextId>
+    <Text>Dodatna armatura</Text>
+  </Item>
+
+  <Item>
+    <TextId>1141</TextId>
+    <Text>Distancer</Text>
+  </Item>
+
+  <Item>
+    <TextId>1142</TextId>
+    <Text>Isključeno</Text>
+  </Item>
+
+  <Item>
+    <TextId>1143</TextId>
+    <Text>Stezaljka</Text>
+  </Item>
+
+  <Item>
+    <TextId>1144</TextId>
+    <Text>Vrsta</Text>
+  </Item>
+
+  <Item>
+    <TextId>1145</TextId>
+    <Text>Orijentacija</Text>
+  </Item>
+
+  <Item>
+    <TextId>1146</TextId>
+    <Text>Vertikalno</Text>
+  </Item>
+
+  <Item>
+    <TextId>1147</TextId>
+    <Text>Horizontalno</Text>
+  </Item>
+
+  <Item>
+    <TextId>1148</TextId>
+    <Text>Gore</Text>
+  </Item>
+
+  <Item>
+    <TextId>1149</TextId>
+    <Text>Dolje</Text>
+  </Item>
+
+  <Item>
+    <TextId>1150</TextId>
+    <Text>Desno</Text>
+  </Item>
+
+  <Item>
+    <TextId>1151</TextId>
+    <Text>Smjer</Text>
+  </Item>
+
+  <Item>
+    <TextId>1152</TextId>
+    <Text>Lijevo</Text>
+  </Item>
+
+  <Item>
+    <TextId>1153</TextId>
+    <Text> </Text>
+  </Item>
+
+  <Item>
+    <TextId>1154</TextId>
+    <Text> Distancera po m2</Text>
+  </Item>
+
+  <Item>
+    <TextId>1155</TextId>
+    <Text> Distancera po y2</Text>
+  </Item>
+
+  <Item>
+    <TextId>1156</TextId>
+    <Text> Stezaljka po m2</Text>
+  </Item>
+
+  <Item>
+    <TextId>1157</TextId>
+    <Text> Stezaljka po y2</Text>
+  </Item>
+
+  <Item>
+    <TextId>1158</TextId>
+    <Text>Broj po jedinici površine</Text>
+  </Item>
+
+  <Item>
+    <TextId>1159</TextId>
+    <Text>Vrijednost se ne može prikazati za višestruko kreiranje</Text>
+  </Item>
+
+  <Item>
+    <TextId>1160</TextId>
+    <Text>Format</Text>
+  </Item>
+
+  <Item>
+    <TextId>1161</TextId>
+    <Text>Armatura</Text>
+  </Item>
+
+  <Item>
+    <TextId>1162</TextId>
+    <Text>Horizontalno</Text>
+  </Item>
+
+  <Item>
+    <TextId>1163</TextId>
+    <Text>Vertikalno</Text>
+  </Item>
+
+  <Item>
+    <TextId>1164</TextId>
+    <Text>Mreže</Text>
+  </Item>
+
+  <Item>
+    <TextId>1165</TextId>
+    <Text>Rub zida</Text>
+  </Item>
+
+  <Item>
+    <TextId>1166</TextId>
+    <Text>Otvor u zidu</Text>
+  </Item>
+
+  <Item>
+    <TextId>1167</TextId>
+    <Text>Spone</Text>
+  </Item>
+
+  <Item>
+    <TextId>1168</TextId>
+    <Text>Horizontalni trnovi</Text>
+  </Item>
+
+  <Item>
+    <TextId>1169</TextId>
+    <Text>Vertikalni trnovi</Text>
+  </Item>
+
+  <Item>
+    <TextId>1170</TextId>
+    <Text>Horizontalne spone</Text>
+  </Item>
+
+  <Item>
+    <TextId>1171</TextId>
+    <Text>Vertikalne spone</Text>
+  </Item>
+
+  <Item>
+    <TextId>1172</TextId>
+    <Text>Distancer, Stezaljka</Text>
+  </Item>
+
+  <Item>
+    <TextId>4999</TextId>
+    <Text>Ovaj PythonPart vam omogućuje da automatski napravite armaturu u pravokutnom zidu.\n\nZa početak slijedite ove korake:\n 1) Odaberite zid koji želite armirati. \n 2) Odaberite drugi zid iznad prvog zida. (nije obavezno)\n 3) Odaberite otvore. (nije obavezno) \n 4) Prođite kroz kartice "Općenito", "Glavna armatura", "Spone" da definirate armaturu zida. \n     Kliknite "Kreiraj" za provjeru i izradu armature. \n 5) Prijeđite na karticu "Presjeci" da biste definirali parametre presjeka. \n     Kliknite "Postavi" i postavite presjeke.</Text>
+  </Item>
+
+  <Item>
+    <TextId>5000</TextId>
+    <Text>Odaberite elemente za</Text>
+  </Item>
+
+  <Item>
+    <TextId>5001</TextId>
+    <Text>Prikaz kartice "Općenito".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5003</TextId>
+    <Text>prikaz kartice "Glavna armatura".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5004</TextId>
+    <Text>da vidite karticu "Dodatna armatura".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5005</TextId>
+    <Text>prikaz kartice "Moždanici-Spone".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5007</TextId>
+    <Text>prikaz kartice "Presjeci".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5008</TextId>
+    <Text>da vidite katricu "Svojstva".</Text>
+  </Item>
+
+  <Item>
+    <TextId>10010</TextId>
+    <Text>Armatura se ne može stvoriti radi sljedećih pogrešaka: \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10016</TextId>
+    <Text>Odabrani zid već ima armaturu</Text>
+  </Item>
+
+  <Item>
+    <TextId>10018</TextId>
+    <Text>Najprije kreirajte armaturu</Text>
+  </Item>
+
+  <Item>
+    <TextId>10019</TextId>
+    <Text>Kliknite u tlocrt za postavljanje presjeka</Text>
+  </Item>
+
+  <Item>
+    <TextId>10020</TextId>
+    <Text>Promjer horizontalne armature je manji od min = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10021</TextId>
+    <Text>Promjer vertikalne armature je manji od min = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10022</TextId>
+    <Text>Razmak glavne horizontalne armature veći je od Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10023</TextId>
+    <Text>Razmak glavne vertikalne armature veći je od Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10024</TextId>
+    <Text>Razmak između horizontalnih spona veći je od Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10025</TextId>
+    <Text>Razmak između vertikalnih spona veći je od Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10026</TextId>
+    <Text>Ispraviti ove parametre automatski?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10027</TextId>
+    <Text>Unesi parametre i klikni na Kreiraj za generiranje armature</Text>
+  </Item>
+
+  <Item>
+    <TextId>10028</TextId>
+    <Text>Odaberi zid u 3D prikazu</Text>
+  </Item>
+
+  <Item>
+    <TextId>10029</TextId>
+    <Text>Proces je završen. Kliknite Zatvori ili pritisnite tipku ESC</Text>
+  </Item>
+
+  <Item>
+    <TextId>10030</TextId>
+    <Text>Unesi parametre i klikni na Kreiraj za generiranje presjeka</Text>
+  </Item>
+
+  <Item>
+    <TextId>10031</TextId>
+    <Text>Molimo provjerite pregled armature oko otvora. \ n Ako je potrebno, armatura se nalazi izvan presjeka zida.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10032</TextId>
+    <Text>Odaberi objekt u 3D modelu</Text>
+  </Item>
+
+  <Item>
+    <TextId>10035</TextId>
+    <Text>Debljina dva odabrana zida ne odgovara. To bi moglo dovesti do toga da neke od armaturnih šipki nisu pravilno usmjerene. Ipak nastaviti?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10036</TextId>
+    <Text>+ Nije uspjelo stvaranje glavne armaturne šipke zbog sljedećih parametara:</Text>
+  </Item>
+
+  <Item>
+    <TextId>10037</TextId>
+    <Text> - Nedovoljna duljina role</Text>
+  </Item>
+
+  <Item>
+    <TextId>10038</TextId>
+    <Text>-Min. duljina šipke je nedovoljna</Text>
+  </Item>
+
+  <Item>
+    <TextId>10039</TextId>
+    <Text>Želite li nastaviti sa kreiranjem armature unatoč ovom upozorenju?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10040</TextId>
+    <Text>Ovaj PythonPart povezan je s arhitektonskom komponentom s kojom je stvoren.\nImajte na umu da ne možete kopirati ovaj PythonPart na drugu lokaciju.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10041</TextId>
+    <Text>Parametar je promijenjen.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10042</TextId>
+    <Text>Želite li ažurirati broj pozicije armature?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10043</TextId>
+    <Text>Kopirali ste PythonPart povezan s objektom arhitekture.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10044</TextId>
+    <Text>Želite li ga povezati s novim arhitektonskim objektom?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10045</TextId>
+    <Text>+ Rubna armatura koju treba izraditi bila bi odrezana jer je objekt otvora blizu ruba zida.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10046</TextId>
+    <Text>Želite li razdvojiti rubnu armaturu u području otvora?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10047</TextId>
+    <Text>Odaberite zid(ove) lijevim klikom ili odabirom područja</Text>
+  </Item>
+
+  <Item>
+    <TextId>10048</TextId>
+    <Text>Nije pronađen valjan gornji zid.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10049</TextId>
+    <Text>Aplikacija podržava samo zidove i zid iznad njih koji su iste debljine.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10050</TextId>
+    <Text>Aplikacija podržava samo zidove i zid iznad njih s istim prepustom u tlocrtu.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10051</TextId>
+    <Text>Aplikacija podržava samo zidove i zid iznad njih s istim kutom rotacije u tlocrtu.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10052</TextId>
+    <Text>Ponovno odaberite zid(ove) ili poništite odabir drugog zida iznad</Text>
+  </Item>
+
+  <Item>
+    <TextId>10053</TextId>
+    <Text>Nevažeći odabir:</Text>
+  </Item>
+
+  <Item>
+    <TextId>10054</TextId>
+    <Text>Aplikacija podržava samo zidove horizontalnog, pravokutnog poprečnog presjeka.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10055</TextId>
+    <Text>Aplikacija podržava samo zidove bez nagnutih površina pri vrhu ili dnu.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10056</TextId>
+    <Text>Aplikacija podržava samo zidove bez nagiba.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10057</TextId>
+    <Text>Aplikacija podržava samo zidove bez usjeka ili konzola.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10058</TextId>
+    <Text>Aplikacija podržava samo zidove čija je duljina 4 puta veća od debljine.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10059</TextId>
+    <Text>Ponovo odaberite zid/zidove</Text>
+  </Item>
+
+  <Item>
+    <TextId>10060</TextId>
+    <Text>Za neke zidove alat nije mogao otkriti slojeve u koje se može postaviti armatura prema struci ili debljini. \nKako bi se poboljšao odabir, dotičnim zidnim slojevima treba dodijeliti vrstu rada "Betonski i AB radovi" ili zidne slojeve treba armirati pojedinačno \n pomoću funkcije zbroja i jednim klikom umjesto odabira područja.\nMolimo ponovite odabir.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10061</TextId>
+    <Text>Otvor je izvan zida.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10062</TextId>
+    <Text>ili promijeniti otvor</Text>
+  </Item>
+
+  <Item>
+    <TextId>10063</TextId>
+    <Text>Uz trenutni odabir, čini se da najmanje jedan zid nema zid iznad sebe. U ovom slučaju se ne koriste spojni klinovi.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10064</TextId>
+    <Text>Otvor nije u potpunosti unutar odabranog zida.</Text>
+  </Item>
+
+</Element>

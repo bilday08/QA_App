@@ -1,0 +1,2472 @@
+<Element>
+
+    <!--GENERAL-->
+
+    <Item>
+        <TextId>9000</TextId>
+		<Text>Geometrija</Text>
+    </Item>
+
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Izberi element</Text>
+    </Item>
+
+    <Item>
+        <TextId>9002</TextId>
+        <Text>Plošča | Spojka | Čep | Zvar | Luknja | Končno stanje</Text>
+    </Item>
+
+    <Item>
+        <TextId>9003</TextId>
+        <Text>Prikaz</Text>
+    </Item>
+
+    <Item>
+        <TextId>9004</TextId>
+        <Text>Orodjarna za povezave</Text>
+    </Item>
+
+    <!--PLATE-->
+
+    <Item>
+        <TextId>1000</TextId>
+        <Text>Plošča</Text>
+    </Item>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Tip plošče</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Končna plošča | Povezje</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Oblika plošče</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Material</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Stil</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Oblika</Text>
+    </Item>
+
+    <Item>
+        <TextId>1007</TextId>
+        <Text>Položi stil</Text>
+    </Item>
+
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Število povezij</Text>
+    </Item>
+
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Material</Text>
+    </Item>
+
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Parametri plošče</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Točke</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>Izberi 2D poligon</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>Izberi 3D poligon</Text>
+    </Item>
+
+    <Item>
+        <TextId>1014</TextId>
+        <Text>Debelina</Text>
+    </Item>
+
+    <Item>
+        <TextId>1015</TextId>
+        <Text>Širina</Text>
+    </Item>
+
+    <Item>
+        <TextId>1016</TextId>
+        <Text>Dolžina</Text>
+    </Item>
+
+    <Item>
+        <TextId>1017</TextId>
+        <Text>Oblika vogala</Text>
+    </Item>
+
+    <Item>
+        <TextId>1018</TextId>
+        <Text>Vogal pravokoten | Vogal porezan | Vogal zaokrožen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Radij</Text>
+    </Item>
+
+    <Item>
+        <TextId>1020</TextId>
+        <Text>Radij zaokrožitve</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text> Zaokrožitev</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>  Zaokrožitev</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>   Zaokrožitev</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Zaokrožitev</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text> Porezava</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Dolžina</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Širina</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>  Porezava</Text>
+    </Item>
+
+    <Item>
+        <TextId>1029</TextId>
+        <Text>Dolžina</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Širina</Text>
+    </Item>
+
+    <Item>
+        <TextId>1031</TextId>
+        <Text>   Porezava</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Dolžina</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Širina</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Porezava</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Dolžina</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Širina</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Pozicioniranje</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Usmerjenost</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Oblika</Text>
+    </Item>
+
+    <Item>
+        <TextId>1040</TextId>
+        <Text>Usmerjenost</Text>
+    </Item>
+
+    <Item>
+        <TextId>1041</TextId>
+        <Text>Točka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1042</TextId>
+        <Text>Vektor</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Referenčna točka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Referenčna točka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1045</TextId>
+        <Text>Kót vrtenja</Text>
+    </Item>
+
+    <Item>
+        <TextId>1046</TextId>
+        <Text>Kót </Text>
+    </Item>
+
+    <Item>
+        <TextId>1047</TextId>
+        <Text>Plošča zavrtena</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Izdelaj element</Text>
+    </Item>
+
+    <Item>
+        <TextId>1050</TextId>
+        <Text>Potrdi</Text>
+    </Item>
+
+    <Item>
+        <TextId>1051</TextId>
+        <Text>Izberi debelino preko točke</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Pravokotnik</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Krog</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Poligon</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Samodejno</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Ročno</Text>
+    </Item>
+
+    <Item>
+        <TextId>1057</TextId>
+        <Text>Parametri oblike vogala</Text>
+    </Item>
+
+    <Item>
+        <TextId>1058</TextId>
+        <Text>Razmak</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Razmak </Text>
+    </Item>
+
+    <Item>
+        <TextId>1060</TextId>
+        <Text>Pozicija na poligonu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1061</TextId>
+        <Text>Definicija uporabnika</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Svetla širina</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Svetla</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Radij</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Svetla dolžina</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>Odvisno od profila</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>Prikaži ujete točke</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Format</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>Plast</Text>
+    </Item>
+
+    <Item>
+        <TextId>1502</TextId>
+        <Text>Pero</Text>
+    </Item>
+
+    <Item>
+        <TextId>1503</TextId>
+        <Text>Pero iz plasti</Text>
+    </Item>
+
+    <Item>
+        <TextId>1504</TextId>
+        <Text>Črta</Text>
+    </Item>
+
+    <Item>
+        <TextId>1505</TextId>
+        <Text>Črta iz plasti</Text>
+    </Item>
+
+    <Item>
+        <TextId>1506</TextId>
+        <Text>Barva</Text>
+    </Item>
+
+    <Item>
+        <TextId>1507</TextId>
+        <Text>Barva iz plasti</Text>
+    </Item>
+
+    <Item>
+        <TextId>1508</TextId>
+        <Text>Ploskovni element</Text>
+    </Item>
+
+    <Item>
+        <TextId>1509</TextId>
+        <Text>Površina</Text>
+    </Item>
+
+    <Item>
+        <TextId>1510</TextId>
+        <Text>Ploskovni element</Text>
+    </Item>
+
+    <Item>
+        <TextId>1511</TextId>
+        <Text>Šrafura</Text>
+    </Item>
+
+    <Item>
+        <TextId>1512</TextId>
+        <Text>Vzorec</Text>
+    </Item>
+
+    <Item>
+        <TextId>1513</TextId>
+        <Text>Polnilo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1514</TextId>
+        <Text>Rastrska slika</Text>
+    </Item>
+
+    <Item>
+        <TextId>1515</TextId>
+        <Text>Stil površine</Text>
+    </Item>
+
+    <!--CLEAT-->
+
+    <Item>
+        <TextId>2000</TextId>
+        <Text>Sponka</Text>
+    </Item>
+
+    <Item>
+        <TextId>2001</TextId>
+        <Text>Oblika spojke</Text>
+    </Item>
+
+    <Item>
+        <TextId>2002</TextId>
+        <Text>Profil | Ukrivljena plošča</Text>
+    </Item>
+
+    <Item>
+        <TextId>2003</TextId>
+        <Text>Izberi profil</Text>
+    </Item>
+
+    <Item>
+        <TextId>2004</TextId>
+        <Text>Material</Text>
+    </Item>
+
+    <Item>
+        <TextId>2005</TextId>
+        <Text>Parametri spojke</Text>
+    </Item>
+
+    <Item>
+        <TextId>2006</TextId>
+        <Text>Dolžina spojke</Text>
+    </Item>
+
+    <Item>
+        <TextId>2007</TextId>
+        <Text> Dolžina spojke</Text>
+    </Item>
+
+    <Item>
+        <TextId>2008</TextId>
+        <Text>Debelina spojke</Text>
+    </Item>
+
+    <Item>
+        <TextId>2009</TextId>
+        <Text>Kót spojke</Text>
+    </Item>
+
+    <Item>
+        <TextId>2010</TextId>
+        <Text>Stopnja detajliranosti</Text>
+    </Item>
+
+    <Item>
+        <TextId>2011</TextId>
+        <Text>Širina porezovanja</Text>
+    </Item>
+
+    <Item>
+        <TextId>2012</TextId>
+        <Text>Radij zaokrožitve</Text>
+    </Item>
+
+    <Item>
+        <TextId>2013</TextId>
+        <Text>Pozicioniranje</Text>
+    </Item>
+
+    <Item>
+        <TextId>2014</TextId>
+        <Text>Razmak</Text>
+    </Item>
+
+    <Item>
+        <TextId>2015</TextId>
+        <Text>Stil polaganja</Text>
+    </Item>
+
+    <Item>
+        <TextId>2016</TextId>
+        <Text>Izberi točke</Text>
+    </Item>
+
+    <Item>
+        <TextId>2017</TextId>
+        <Text>Prva točka</Text>
+    </Item>
+
+    <Item>
+        <TextId>2018</TextId>
+        <Text>Druga točka</Text>
+    </Item>
+
+    <Item>
+        <TextId>2019</TextId>
+        <Text>Referenčna točka</Text>
+    </Item>
+
+    <Item>
+        <TextId>2020</TextId>
+        <Text>Referenčna točka</Text>
+    </Item>
+
+    <Item>
+        <TextId>2021</TextId>
+        <Text>Razmak</Text>
+    </Item>
+
+    <Item>
+        <TextId>2022</TextId>
+        <Text>Vrtenje spojke</Text>
+    </Item>
+
+    <Item>
+        <TextId>2023</TextId>
+        <Text>Luknja</Text>
+    </Item>
+
+    <Item>
+        <TextId>2024</TextId>
+        <Text>Izdelaj luknjo</Text>
+    </Item>
+
+    <Item>
+        <TextId>2025</TextId>
+        <Text>Število odprtin</Text>
+    </Item>
+
+    <Item>
+        <TextId>2026</TextId>
+        <Text>Luknja odmik 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>2027</TextId>
+        <Text>Luknja odmik 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>2028</TextId>
+        <Text>Radij luknje</Text>
+    </Item>
+
+    <Item>
+        <TextId>2029</TextId>
+        <Text>Radij luknje 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>2030</TextId>
+        <Text>Radij luknje 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>2031</TextId>
+        <Text>Število robov</Text>
+    </Item>
+
+    <Item>
+        <TextId>2032</TextId>
+        <Text>Dolžina roba</Text>
+    </Item>
+
+    <Item>
+        <TextId>2033</TextId>
+        <Text>Izdelaj element</Text>
+    </Item>
+
+    <Item>
+        <TextId>2034</TextId>
+        <Text>Potrdi</Text>
+    </Item>
+
+    <Item>
+        <TextId>2035</TextId>
+        <Text>Za potrditev kota stojke izberite točke</Text>
+    </Item>
+
+    <Item>
+        <TextId>2036</TextId>
+        <Text>Nizko</Text>
+    </Item>
+
+    <Item>
+        <TextId>2037</TextId>
+        <Text>Srednje</Text>
+    </Item>
+
+    <Item>
+        <TextId>2038</TextId>
+        <Text>Visoko</Text>
+    </Item>
+
+    <Item>
+        <TextId>2039</TextId>
+        <Text>Samodejno</Text>
+    </Item>
+
+    <Item>
+        <TextId>2040</TextId>
+        <Text>Ročno</Text>
+    </Item>
+
+    <Item>
+        <TextId>2041</TextId>
+        <Text>Brez</Text>
+    </Item>
+
+    <Item>
+        <TextId>2042</TextId>
+        <Text>Krog</Text>
+    </Item>
+
+    <Item>
+        <TextId>2043</TextId>
+        <Text>Lok</Text>
+    </Item>
+
+    <Item>
+        <TextId>2044</TextId>
+        <Text>Poligon</Text>
+    </Item>
+
+    <Item>
+        <TextId>2500</TextId>
+        <Text>Format</Text>
+    </Item>
+
+    <Item>
+        <TextId>2501</TextId>
+        <Text>Plast</Text>
+    </Item>
+
+    <Item>
+        <TextId>2502</TextId>
+        <Text>Pero</Text>
+    </Item>
+
+    <Item>
+        <TextId>2503</TextId>
+        <Text>Pero iz plasti</Text>
+    </Item>
+
+    <Item>
+        <TextId>2504</TextId>
+        <Text>Črta</Text>
+    </Item>
+
+    <Item>
+        <TextId>2505</TextId>
+        <Text>Črta iz plasti</Text>
+    </Item>
+
+    <Item>
+        <TextId>2506</TextId>
+        <Text>Barva</Text>
+    </Item>
+
+    <Item>
+        <TextId>2507</TextId>
+        <Text>Barva iz plasti</Text>
+    </Item>
+
+    <Item>
+        <TextId>2508</TextId>
+        <Text>Ploskovni element</Text>
+    </Item>
+
+    <Item>
+        <TextId>2509</TextId>
+        <Text>Površina</Text>
+    </Item>
+
+    <Item>
+        <TextId>2510</TextId>
+        <Text>Ploskovni element</Text>
+    </Item>
+
+    <Item>
+        <TextId>2511</TextId>
+        <Text>Šrafura</Text>
+    </Item>
+
+    <Item>
+        <TextId>2512</TextId>
+        <Text>Vzorec</Text>
+    </Item>
+
+    <Item>
+        <TextId>2513</TextId>
+        <Text>Polnilo</Text>
+    </Item>
+
+    <Item>
+        <TextId>2514</TextId>
+        <Text>Rastrska slika</Text>
+    </Item>
+
+    <Item>
+        <TextId>2515</TextId>
+        <Text>Stil površine</Text>
+    </Item>
+
+    <Item>
+        <TextId>2516</TextId>
+        <Text>Razmak</Text>
+    </Item>
+
+    <Item>
+        <TextId>2517</TextId>
+        <Text>Razmak</Text>
+    </Item>
+
+    <!--BOLT-->
+
+    <Item>
+        <TextId>3000</TextId>
+        <Text>Čep</Text>
+    </Item>
+
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Tip čepa</Text>
+    </Item>
+
+    <Item>
+        <TextId>3002</TextId>
+        <Text>Splošni čep | Sidrni čep</Text>
+    </Item>
+
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Tip kljuke</Text>
+    </Item>
+
+    <Item>
+        <TextId>3004</TextId>
+        <Text>Z glavo | L kljuka | J kljuka</Text>
+    </Item>
+
+    <Item>
+        <TextId>3005</TextId>
+        <Text>Špičena oblika</Text>
+    </Item>
+
+    <Item>
+        <TextId>3006</TextId>
+        <Text>Šestkotnik | Ugreznjena glava</Text>
+    </Item>
+
+    <Item>
+        <TextId>3007</TextId>
+        <Text>Parametri čepa</Text>
+    </Item>
+
+    <Item>
+        <TextId>3008</TextId>
+        <Text>Velikost</Text>
+    </Item>
+
+    <Item>
+        <TextId>3009</TextId>
+        <Text>Velikost</Text>
+    </Item>
+
+    <Item>
+        <TextId>3010</TextId>
+        <Text>Dolžina</Text>
+    </Item>
+
+    <Item>
+        <TextId>3011</TextId>
+        <Text>Podložne ploščice</Text>
+    </Item>
+
+    <Item>
+        <TextId>3012</TextId>
+        <Text>Matica podložne plošče</Text>
+    </Item>
+
+    <Item>
+        <TextId>3013</TextId>
+        <Text>Razred čepa</Text>
+    </Item>
+
+    <Item>
+        <TextId>3014</TextId>
+        <Text>Stopnja detajliranosti</Text>
+    </Item>
+
+    <Item>
+        <TextId>3015</TextId>
+        <Text>Pozicioniranje</Text>
+    </Item>
+
+    <Item>
+        <TextId>3016</TextId>
+        <Text>Število čepov</Text>
+    </Item>
+
+    <Item>
+        <TextId>3017</TextId>
+        <Text>Usmerjenost</Text>
+    </Item>
+
+    <Item>
+        <TextId>3018</TextId>
+        <Text>Usmerjenost</Text>
+    </Item>
+
+    <Item>
+        <TextId>3019</TextId>
+        <Text>Definicija uporabnika</Text>
+    </Item>
+
+    <Item>
+        <TextId>3020</TextId>
+        <Text>Točka</Text>
+    </Item>
+
+    <Item>
+        <TextId>3021</TextId>
+        <Text>Vektor</Text>
+    </Item>
+
+    <Item>
+        <TextId>3022</TextId>
+        <Text>Zgoraj</Text>
+    </Item>
+
+    <Item>
+        <TextId>3023</TextId>
+        <Text>Center</Text>
+    </Item>
+
+    <Item>
+        <TextId>3024</TextId>
+        <Text>Spodaj</Text>
+    </Item>
+
+    <Item>
+        <TextId>3025</TextId>
+        <Text>Referenčna točka</Text>
+    </Item>
+
+    <Item>
+        <TextId>3026</TextId>
+        <Text>Dimenzije skupine čepov</Text>
+    </Item>
+
+    <Item>
+        <TextId>3027</TextId>
+        <Text>Razmak</Text>
+    </Item>
+
+    <Item>
+        <TextId>3028</TextId>
+        <Text> Razmak</Text>
+    </Item>
+
+    <Item>
+        <TextId>3029</TextId>
+        <Text>  Razmak</Text>
+    </Item>
+
+    <Item>
+        <TextId>3030</TextId>
+        <Text>   Razmak</Text>
+    </Item>
+
+    <Item>
+        <TextId>3031</TextId>
+        <Text>Kót vrtenja</Text>
+    </Item>
+
+    <Item>
+        <TextId>3032</TextId>
+        <Text>Kót vrtenja</Text>
+    </Item>
+
+    <Item>
+        <TextId>3033</TextId>
+        <Text>Čep zavrten</Text>
+    </Item>
+
+    <Item>
+        <TextId>3034</TextId>
+        <Text>Razmak</Text>
+    </Item>
+
+    <Item>
+        <TextId>3035</TextId>
+        <Text>Razmak </Text>
+    </Item>
+
+    <Item>
+        <TextId>3036</TextId>
+        <Text>Izdelaj element</Text>
+    </Item>
+
+    <Item>
+        <TextId>3037</TextId>
+        <Text>Potrdi</Text>
+    </Item>
+
+    <Item>
+        <TextId>3038</TextId>
+        <Text>Izberi prijemališče</Text>
+    </Item>
+
+    <Item>
+        <TextId>3039</TextId>
+        <Text>Nizko</Text>
+    </Item>
+
+    <Item>
+        <TextId>3040</TextId>
+        <Text>Srednje</Text>
+    </Item>
+
+    <Item>
+        <TextId>3041</TextId>
+        <Text>Visoko</Text>
+    </Item>
+
+    <Item>
+        <TextId>3500</TextId>
+        <Text>Format</Text>
+    </Item>
+
+    <Item>
+        <TextId>3501</TextId>
+        <Text>Plast</Text>
+    </Item>
+
+    <Item>
+        <TextId>3502</TextId>
+        <Text>Pero</Text>
+    </Item>
+
+    <Item>
+        <TextId>3503</TextId>
+        <Text>Pero iz plasti</Text>
+    </Item>
+
+    <Item>
+        <TextId>3504</TextId>
+        <Text>Črta</Text>
+    </Item>
+
+    <Item>
+        <TextId>3505</TextId>
+        <Text>Črta iz plasti</Text>
+    </Item>
+
+    <Item>
+        <TextId>3506</TextId>
+        <Text>Barva</Text>
+    </Item>
+
+    <Item>
+        <TextId>3507</TextId>
+        <Text>Barva iz plasti</Text>
+    </Item>
+
+    <Item>
+        <TextId>3508</TextId>
+        <Text>Ploskovni element</Text>
+    </Item>
+
+    <Item>
+        <TextId>3509</TextId>
+        <Text>Površina</Text>
+    </Item>
+
+    <Item>
+        <TextId>3510</TextId>
+        <Text>Ploskovni element</Text>
+    </Item>
+
+    <Item>
+        <TextId>3511</TextId>
+        <Text>Šrafura</Text>
+    </Item>
+
+    <Item>
+        <TextId>3512</TextId>
+        <Text>Vzorec</Text>
+    </Item>
+
+    <Item>
+        <TextId>3513</TextId>
+        <Text>Polnilo</Text>
+    </Item>
+
+    <Item>
+        <TextId>3514</TextId>
+        <Text>Rastrska slika</Text>
+    </Item>
+
+    <Item>
+        <TextId>3515</TextId>
+        <Text>Stil površine</Text>
+    </Item>
+
+    <!--WELD-->
+
+    <Item>
+        <TextId>4000</TextId>
+        <Text>Tip zvara</Text>
+    </Item>
+
+    <Item>
+        <TextId>4001</TextId>
+        <Text>Tip zvara</Text>
+    </Item>
+
+    <Item>
+        <TextId>4002</TextId>
+        <Text>Poličrta | zaokrožitev | konveksno | konkavno</Text>
+    </Item>
+
+    <Item>
+        <TextId>4003</TextId>
+        <Text>Splošne vrednosti</Text>
+    </Item>
+
+    <Item>
+        <TextId>4004</TextId>
+        <Text>Dolžina zvara</Text>
+    </Item>
+
+    <Item>
+        <TextId>4005</TextId>
+        <Text>Širina zvara</Text>
+    </Item>
+
+    <Item>
+        <TextId>4006</TextId>
+        <Text>Kót zvara</Text>
+    </Item>
+
+    <Item>
+        <TextId>4010</TextId>
+        <Text>Pozicioniranje</Text>
+    </Item>
+
+    <Item>
+        <TextId>4011</TextId>
+        <Text>Vrtenje</Text>
+    </Item>
+
+    <Item>
+        <TextId>4012</TextId>
+        <Text>Izdelaj element</Text>
+    </Item>
+
+    <Item>
+        <TextId>4013</TextId>
+        <Text>Potrdi</Text>
+    </Item>
+
+    <Item>
+        <TextId>4014</TextId>
+        <Text>Modifikacija</Text>
+    </Item>
+
+    <Item>
+        <TextId>4015</TextId>
+        <Text>Začenši od začetka</Text>
+    </Item>
+
+    <Item>
+        <TextId>4016</TextId>
+        <Text>Odstrani zadnjo točko</Text>
+    </Item>
+
+    <Item>
+        <TextId>4017</TextId>
+        <Text>Nova točka</Text>
+    </Item>
+
+    <Item>
+        <TextId>4018</TextId>
+        <Text>Premakni točko</Text>
+    </Item>
+
+    <Item>
+        <TextId>4500</TextId>
+        <Text>Format</Text>
+    </Item>
+
+    <Item>
+        <TextId>4501</TextId>
+        <Text>Plast</Text>
+    </Item>
+
+    <Item>
+        <TextId>4502</TextId>
+        <Text>Pero</Text>
+    </Item>
+
+    <Item>
+        <TextId>4503</TextId>
+        <Text>Pero iz plasti</Text>
+    </Item>
+
+    <Item>
+        <TextId>4504</TextId>
+        <Text>Črta</Text>
+    </Item>
+
+    <Item>
+        <TextId>4505</TextId>
+        <Text>Črta iz plasti</Text>
+    </Item>
+
+    <Item>
+        <TextId>4506</TextId>
+        <Text>Barva</Text>
+    </Item>
+
+    <Item>
+        <TextId>4507</TextId>
+        <Text>Barva iz plasti</Text>
+    </Item>
+
+    <Item>
+        <TextId>4508</TextId>
+        <Text>Ploskovni element</Text>
+    </Item>
+
+    <Item>
+        <TextId>4509</TextId>
+        <Text>Površina</Text>
+    </Item>
+
+    <Item>
+        <TextId>4510</TextId>
+        <Text>Ploskovni element</Text>
+    </Item>
+
+    <Item>
+        <TextId>4511</TextId>
+        <Text>Šrafura</Text>
+    </Item>
+
+    <Item>
+        <TextId>4512</TextId>
+        <Text>Vzorec</Text>
+    </Item>
+
+    <Item>
+        <TextId>4513</TextId>
+        <Text>Polnilo</Text>
+    </Item>
+
+    <Item>
+        <TextId>4514</TextId>
+        <Text>Rastrska slika</Text>
+    </Item>
+
+    <Item>
+        <TextId>4515</TextId>
+        <Text>Stil površine</Text>
+    </Item>
+
+    <!--STIFFENER-->
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Parametri povezja</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>Točke</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>Izberi 2D poligon</Text>
+    </Item>
+
+    <Item>
+        <TextId>5003</TextId>
+        <Text>Izberi 3D poligon</Text>
+    </Item>
+
+    <Item>
+        <TextId>5004</TextId>
+        <Text>Debelina</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>Dolžina</Text>
+    </Item>
+
+    <Item>
+        <TextId>5006</TextId>
+        <Text>Širina</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>Razdalja Ox</Text>
+    </Item>
+
+    <Item>
+        <TextId>5008</TextId>
+        <Text>Radij</Text>
+    </Item>
+
+    <Item>
+        <TextId>5009</TextId>
+        <Text>Oblika vogala</Text>
+    </Item>
+
+    <Item>
+        <TextId>5010</TextId>
+        <Text>Vogal pravokoten | Vogal porezan | Vogal zaokrožen</Text>
+    </Item>
+
+    <Item>
+        <TextId>5011</TextId>
+        <Text>Radij zaokrožitve</Text>
+    </Item>
+
+    <Item>
+        <TextId>5012</TextId>
+        <Text> Zaokrožitev</Text>
+    </Item>
+
+    <Item>
+        <TextId>5013</TextId>
+        <Text>  Zaokrožitev</Text>
+    </Item>
+
+    <Item>
+        <TextId>5014</TextId>
+        <Text>   Zaokrožitev</Text>
+    </Item>
+
+    <Item>
+        <TextId>5015</TextId>
+        <Text>Zaokrožitev</Text>
+    </Item>
+
+    <Item>
+        <TextId>5016</TextId>
+        <Text> Porezava</Text>
+    </Item>
+
+    <Item>
+        <TextId>5017</TextId>
+        <Text>Dolžina</Text>
+    </Item>
+
+    <Item>
+        <TextId>5018</TextId>
+        <Text>Širina</Text>
+    </Item>
+
+    <Item>
+        <TextId>5019</TextId>
+        <Text>  Porezava</Text>
+    </Item>
+
+    <Item>
+        <TextId>5020</TextId>
+        <Text>Dolžina</Text>
+    </Item>
+
+    <Item>
+        <TextId>5021</TextId>
+        <Text>Širina</Text>
+    </Item>
+
+    <Item>
+        <TextId>5022</TextId>
+        <Text>   Porezava</Text>
+    </Item>
+
+    <Item>
+        <TextId>5023</TextId>
+        <Text>Dolžina</Text>
+    </Item>
+
+    <Item>
+        <TextId>5024</TextId>
+        <Text>Širina</Text>
+    </Item>
+
+    <Item>
+        <TextId>5025</TextId>
+        <Text>Porezava</Text>
+    </Item>
+
+    <Item>
+        <TextId>5026</TextId>
+        <Text>Dolžina</Text>
+    </Item>
+
+    <Item>
+        <TextId>5027</TextId>
+        <Text>Širina</Text>
+    </Item>
+
+    <Item>
+        <TextId>5028</TextId>
+        <Text>Pozicioniranje</Text>
+    </Item>
+
+    <Item>
+        <TextId>5029</TextId>
+        <Text>Usmerjenost</Text>
+    </Item>
+
+    <Item>
+        <TextId>5030</TextId>
+        <Text>Usmerjenost</Text>
+    </Item>
+
+    <Item>
+        <TextId>5031</TextId>
+        <Text>Definicija uporabnika</Text>
+    </Item>
+
+    <Item>
+        <TextId>5032</TextId>
+        <Text>Oblika</Text>
+    </Item>
+
+    <Item>
+        <TextId>5033</TextId>
+        <Text>Vektor </Text>
+    </Item>
+
+    <Item>
+        <TextId>5034</TextId>
+        <Text>Referenčna točka</Text>
+    </Item>
+
+    <Item>
+        <TextId>5035</TextId>
+        <Text>Referenčna točka</Text>
+    </Item>
+
+    <Item>
+        <TextId>5036</TextId>
+        <Text>Kót vrtenja</Text>
+    </Item>
+
+    <Item>
+        <TextId>5037</TextId>
+        <Text>Kót Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>5038</TextId>
+        <Text>Kót Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>5039</TextId>
+        <Text>Razmak</Text>
+    </Item>
+
+    <Item>
+        <TextId>5040</TextId>
+        <Text>Odmik X</Text>
+    </Item>
+
+    <Item>
+        <TextId>5041</TextId>
+        <Text>Odmik Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>5042</TextId>
+        <Text>Odmik Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>5043</TextId>
+        <Text>Izdelaj element</Text>
+    </Item>
+
+    <Item>
+        <TextId>5044</TextId>
+        <Text>Potrdi</Text>
+    </Item>
+
+    <Item>
+        <TextId>5045</TextId>
+        <Text>Dolžina porezovanja</Text>
+    </Item>
+
+    <Item>
+        <TextId>5046</TextId>
+        <Text>Pravokotnik</Text>
+    </Item>
+
+    <Item>
+        <TextId>5047</TextId>
+        <Text>Trikotnik</Text>
+    </Item>
+
+    <Item>
+        <TextId>5048</TextId>
+        <Text>Parametri oblike vogala</Text>
+    </Item>
+
+    <Item>
+        <TextId>5049</TextId>
+        <Text>Pložaj/velikost plošče</Text>
+    </Item>
+
+    <Item>
+        <TextId>5050</TextId>
+        <Text>Prikaži ujete točke</Text>
+    </Item>
+
+    <Item>
+        <TextId>5051</TextId>
+        <Text>Trapez</Text>
+    </Item>
+
+    <Item>
+        <TextId>5052</TextId>
+        <Text>Dim 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>5053</TextId>
+        <Text>Dim 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>5054</TextId>
+        <Text>Odmik Oy</Text>
+    </Item>
+
+    <Item>
+        <TextId>5055</TextId>
+        <Text>Kòt X</Text>
+    </Item>
+
+    <Item>
+        <TextId>5500</TextId>
+        <Text>Lastnosti</Text>
+    </Item>
+
+    <Item>
+        <TextId>5501</TextId>
+        <Text>Plast</Text>
+    </Item>
+
+    <Item>
+        <TextId>5502</TextId>
+        <Text>Pero</Text>
+    </Item>
+
+    <Item>
+        <TextId>5503</TextId>
+        <Text>Pero iz plasti</Text>
+    </Item>
+
+    <Item>
+        <TextId>5504</TextId>
+        <Text>Črta</Text>
+    </Item>
+
+    <Item>
+        <TextId>5505</TextId>
+        <Text>Črta iz plasti</Text>
+    </Item>
+
+    <Item>
+        <TextId>5506</TextId>
+        <Text>Barva</Text>
+    </Item>
+
+    <Item>
+        <TextId>5507</TextId>
+        <Text>Barva iz plasti</Text>
+    </Item>
+
+    <!--WELD SYMBOL-->
+
+    <Item>
+        <TextId>6000</TextId>
+        <Text>Dodaj simbol</Text>
+    </Item>
+
+    <Item>
+        <TextId>6001</TextId>
+        <Text>Dolžina zvara</Text>
+    </Item>
+
+    <Item>
+        <TextId>6002</TextId>
+        <Text>Globina zvara</Text>
+    </Item>
+
+    <Item>
+        <TextId>6003</TextId>
+        <Text>Detajli</Text>
+    </Item>
+
+    <Item>
+        <TextId>6004</TextId>
+        <Text>Zvar z vseh strani</Text>
+    </Item>
+
+    <Item>
+        <TextId>6005</TextId>
+        <Text>Zvar polja</Text>
+    </Item>
+
+    <Item>
+        <TextId>6006</TextId>
+        <Text>Opomba</Text>
+    </Item>
+
+    <Item>
+        <TextId>6007</TextId>
+        <Text>Tip zvara</Text>
+    </Item>
+
+    <Item>
+        <TextId>6500</TextId>
+        <Text>Simbol za zvar</Text>
+    </Item>
+
+    <Item>
+        <TextId>6501</TextId>
+        <Text>Dolžina referenčne črte</Text>
+    </Item>
+
+    <Item>
+        <TextId>6502</TextId>
+        <Text>Merilo teksta</Text>
+    </Item>
+
+    <Item>
+        <TextId>6503</TextId>
+        <Text>Plast</Text>
+    </Item>
+
+    <Item>
+        <TextId>6504</TextId>
+        <Text>Pero</Text>
+    </Item>
+
+    <Item>
+        <TextId>6505</TextId>
+        <Text>Pero iz plasti</Text>
+    </Item>
+
+    <Item>
+        <TextId>6506</TextId>
+        <Text>Tip črte</Text>
+    </Item>
+
+    <Item>
+        <TextId>6507</TextId>
+        <Text>Tip črte po sloju</Text>
+    </Item>
+
+    <Item>
+        <TextId>6508</TextId>
+        <Text>Barva</Text>
+    </Item>
+
+    <Item>
+        <TextId>6509</TextId>
+        <Text>Barva po sloju</Text>
+    </Item>
+
+    <!--HOLE-->
+
+    <Item>
+        <TextId>7000</TextId>
+        <Text>Luknja</Text>
+    </Item>
+
+    <Item>
+        <TextId>7001</TextId>
+        <Text>Oblika luknje</Text>
+    </Item>
+
+    <Item>
+        <TextId>7002</TextId>
+        <Text> krog</Text>
+    </Item>
+
+    <Item>
+        <TextId>7003</TextId>
+        <Text>Pravokotnik</Text>
+    </Item>
+
+    <Item>
+        <TextId>7004</TextId>
+        <Text>Fi</Text>
+    </Item>
+
+    <Item>
+        <TextId>7005</TextId>
+        <Text>Globina</Text>
+    </Item>
+
+    <Item>
+        <TextId>7006</TextId>
+        <Text>Širina</Text>
+    </Item>
+
+    <Item>
+        <TextId>7007</TextId>
+        <Text>Dolžina</Text>
+    </Item>
+
+    <Item>
+        <TextId>7008</TextId>
+        <Text>Oblika vogala</Text>
+    </Item>
+
+    <Item>
+        <TextId>7009</TextId>
+        <Text>Porezava</Text>
+    </Item>
+
+    <Item>
+        <TextId>7010</TextId>
+        <Text>Zaokrožitev</Text>
+    </Item>
+
+    <Item>
+        <TextId>7011</TextId>
+        <Text>Potrdi</Text>
+    </Item>
+
+    <Item>
+        <TextId>7012</TextId>
+        <Text>Izdelaj element</Text>
+    </Item>
+
+    <Item>
+        <TextId>7013</TextId>
+        <Text>Vogal pravokoten | Vogal porezan | Vogal zaokrožen</Text>
+    </Item>
+
+    <Item>
+        <TextId>7014</TextId>
+        <Text> Porezava</Text>
+    </Item>
+
+    <Item>
+        <TextId>7015</TextId>
+        <Text>  Porezava</Text>
+    </Item>
+
+    <Item>
+        <TextId>7016</TextId>
+        <Text>   Porezava</Text>
+    </Item>
+
+    <Item>
+        <TextId>7017</TextId>
+        <Text>Velikost porezave</Text>
+    </Item>
+
+    <Item>
+        <TextId>7018</TextId>
+        <Text> Zaokrožitev</Text>
+    </Item>
+
+    <Item>
+        <TextId>7019</TextId>
+        <Text>  Zaokrožitev</Text>
+    </Item>
+
+    <Item>
+        <TextId>7020</TextId>
+        <Text>   Zaokrožitev</Text>
+    </Item>
+
+    <Item>
+        <TextId>7021</TextId>
+        <Text>Radij zaokrožitve</Text>
+    </Item>
+
+    <Item>
+        <TextId>7022</TextId>
+        <Text>Kót</Text>
+    </Item>
+
+    <Item>
+        <TextId>7023</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>7024</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>7025</TextId>
+        <Text>Izdelaj luknjo</Text>
+    </Item>
+
+    <Item>
+        <TextId>7026</TextId>
+        <Text>Izbriši luknjo</Text>
+    </Item>
+
+    <Item>
+        <TextId>7027</TextId>
+        <Text>Parametri pozicije</Text>
+    </Item>
+
+    <Item>
+        <TextId>7028</TextId>
+        <Text>Odmik X</Text>
+    </Item>
+
+    <Item>
+        <TextId>7029</TextId>
+        <Text>Odmik Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>7030</TextId>
+        <Text>Vzdolžna luknja</Text>
+    </Item>
+
+    <!-- ENDCONDITION -->
+
+    <Item>
+        <TextId>8000</TextId>
+        <Text>Končno stanje</Text>
+    </Item>
+
+    <Item>
+        <TextId>8001</TextId>
+        <Text>Izdelaj element</Text>
+    </Item>
+
+    <Item>
+        <TextId>8002</TextId>
+        <Text>Potrdi</Text>
+    </Item>
+
+    <Item>
+        <TextId>8003</TextId>
+        <Text>Operacija zgoraj</Text>
+    </Item>
+
+    <Item>
+        <TextId>8004</TextId>
+        <Text>Operacija spodaj</Text>
+    </Item>
+
+    <Item>
+        <TextId>8005</TextId>
+        <Text>Tip operacij</Text>
+    </Item>
+
+    <Item>
+        <TextId>8006</TextId>
+        <Text>Brez</Text>
+    </Item>
+
+    <Item>
+        <TextId>8007</TextId>
+        <Text>Ravnina zareze</Text>
+    </Item>
+
+    <Item>
+        <TextId>8008</TextId>
+        <Text>Std izsek</Text>
+    </Item>
+
+    <Item>
+        <TextId>8009</TextId>
+        <Text>FEMA izsek</Text>
+    </Item>
+
+    <Item>
+        <TextId>8010</TextId>
+        <Text>Seizmična zareza</Text>
+    </Item>
+
+    <Item>
+        <TextId>8011</TextId>
+        <Text>Odreži širino flanše</Text>
+    </Item>
+
+    <Item><!-- profile-->
+        <TextId>8012</TextId>
+        <Text>I</Text>
+    </Item>
+
+    <Item>
+        <TextId>8013</TextId>
+        <Text>Votel pravokotnik</Text>
+    </Item>
+
+    <Item>
+        <TextId>8014</TextId>
+        <Text>L</Text>
+    </Item>
+
+    <Item>
+        <TextId>8015</TextId>
+        <Text>Votel krog</Text>
+    </Item>
+
+    <Item>
+        <TextId>8016</TextId>
+        <Text>C</Text>
+    </Item>
+
+    <Item>
+        <TextId>8017</TextId>
+        <Text>T</Text>
+    </Item>
+
+    <Item>
+        <TextId>8018</TextId>
+        <Text>Format</Text>
+    </Item>
+
+    <Item>
+        <TextId>8019</TextId>
+        <Text>Krog</Text>
+    </Item>
+
+    <Item>
+        <TextId>8020</TextId>
+        <Text>I asim</Text>
+    </Item>
+
+    <Item>
+        <TextId>8021</TextId>
+        <Text>Hladno oblikovano</Text>
+    </Item>
+
+    <Item>
+        <TextId>8022</TextId>
+        <Text>Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>8023</TextId>
+        <Text>Tirnice</Text>
+    </Item>
+
+    <Item>
+        <TextId>8024</TextId>
+        <Text>Zareza</Text>
+    </Item>
+
+    <Item><!-- Cope plain-->
+        <TextId>8025</TextId>
+        <Text>Dolžina zareze</Text>
+    </Item>
+
+    <Item>
+        <TextId>8026</TextId>
+        <Text>Globina izseka</Text>
+    </Item>
+
+    <Item>
+        <TextId>8027</TextId>
+        <Text>Radij zareze</Text>
+    </Item>
+
+    <Item><!-- Cope Std-->
+        <TextId>8028</TextId>
+        <Text>Dolžina zareze</Text>
+    </Item>
+
+    <Item>
+        <TextId>8029</TextId>
+        <Text>Globina izseka</Text>
+    </Item>
+
+    <Item>
+        <TextId>8030</TextId>
+        <Text>Vstopni radij</Text>
+    </Item>
+
+    <Item>
+        <TextId>8031</TextId>
+        <Text>Korenska stojina</Text>
+    </Item>
+
+    <Item>
+        <TextId>8032</TextId>
+        <Text>Kót žleba</Text>
+    </Item>
+
+    <Item>
+        <TextId>8033</TextId>
+        <Text>Delovanje zareze</Text>
+    </Item>
+
+    <Item>
+        <TextId>8034</TextId>
+        <Text>Sponka kraka</Text>
+    </Item>
+
+    <Item><!-- Cope FEMA-->
+        <TextId>8035</TextId>
+        <Text>Dolžina zareze</Text>
+    </Item>
+
+    <Item>
+        <TextId>8036</TextId>
+        <Text>Vskočna dolžina</Text>
+    </Item>
+
+    <Item>
+        <TextId>8037</TextId>
+        <Text>Vskočna globina</Text>
+    </Item>
+
+    <Item>
+        <TextId>8038</TextId>
+        <Text>Flanša poravnana dolžini</Text>
+    </Item>
+
+    <Item>
+        <TextId>8039</TextId>
+        <Text>Vstopni radij</Text>
+    </Item>
+
+    <Item>
+        <TextId>8040</TextId>
+        <Text>Kót žleba</Text>
+    </Item>
+
+    <Item>
+        <TextId>8041</TextId>
+        <Text>Odmik luknje</Text>
+    </Item>
+
+    <Item>
+        <TextId>8042</TextId>
+        <Text>Korenska stojina</Text>
+    </Item>
+
+    <Item>
+        <TextId>8043</TextId>
+        <Text>Delovanje zareze</Text>
+    </Item>
+
+    <Item>
+        <TextId>8044</TextId>
+        <Text>Sponka kraka</Text>
+    </Item>
+
+    <Item><!-- Cope Seismic-->
+        <TextId>8045</TextId>
+        <Text>Dolžina zareze</Text>
+    </Item>
+
+    <Item>
+        <TextId>8046</TextId>
+        <Text>Vskočna dolžina</Text>
+    </Item>
+
+    <Item>
+        <TextId>8047</TextId>
+        <Text>Vskočna globina</Text>
+    </Item>
+
+    <Item>
+        <TextId>8048</TextId>
+        <Text>Flanša poravnana dolžini</Text>
+    </Item>
+
+    <Item>
+        <TextId>8049</TextId>
+        <Text>Vstopni radij</Text>
+    </Item>
+
+    <Item>
+        <TextId>8050</TextId>
+        <Text>Kót žleba</Text>
+    </Item>
+
+    <Item>
+        <TextId>8051</TextId>
+        <Text>Odmik luknje</Text>
+    </Item>
+
+    <Item>
+        <TextId>8052</TextId>
+        <Text>Korenska stojina</Text>
+    </Item>
+
+    <Item><!-- Cut flange width-->
+        <TextId>8053</TextId>
+        <Text>Dolžina flanše v bližini stranice</Text>
+    </Item>
+
+    <Item>
+        <TextId>8054</TextId>
+        <Text>Dolžina flanšne pro oddaljeni stranici</Text>
+    </Item>
+
+    <Item>
+        <TextId>8055</TextId>
+        <Text>Odreži flanšo poravnano</Text>
+    </Item>
+
+    <Item>
+        <TextId>8056</TextId>
+        <Text>Odreži širino flanše</Text>
+    </Item>
+
+    <Item><!-- Notch-->
+        <TextId>8057</TextId>
+        <Text>Dolžina zareze</Text>
+    </Item>
+
+    <Item>
+        <TextId>8058</TextId>
+        <Text>Širina zareze</Text>
+    </Item>
+
+    <Item>
+        <TextId>8059</TextId>
+        <Text>Odmik zareze</Text>
+    </Item>
+
+    <Item>
+        <TextId>8060</TextId>
+        <Text>Radij zareze</Text>
+    </Item>
+
+    <Item>
+        <TextId>8061</TextId>
+        <Text>Operacija v bližini stranice</Text>
+    </Item>
+
+    <Item>
+        <TextId>8062</TextId>
+        <Text>Operacija pri oddaljeni stranici</Text>
+    </Item>
+
+    <Item><!-- Moment connection -->
+        <TextId>8063</TextId>
+        <Text>Povezava z momentom površina odmika kraka</Text>
+    </Item>
+
+    <!-- DIALOG LINES -->
+
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Za postavitev opornika izberite 2 točki prosim</Text>
+    </Item>
+
+    <Item>
+        <TextId>10001</TextId>
+        <Text>Vnesi točko</Text>
+    </Item>
+
+    <Item>
+        <TextId>10002</TextId>
+        <Text>Za izbor poligona kliknite orodjarno Točke</Text>
+    </Item>
+
+    <Item>
+        <TextId>10005</TextId>
+        <Text>Za ugotovitev nove točke jo kliknite</Text>
+    </Item>
+
+    <Item>
+        <TextId>10006</TextId>
+        <Text>Izberi Vstavi točko</Text>
+    </Item>
+
+    <Item>
+        <TextId>10007</TextId>
+        <Text>Izberi prvo točko vstavljanja</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>Izberi drugo točko vstavljanja</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Izberi točko vzdolž smeri čepov</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Izberi začetno točko smeri čepov</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>Izberi prvo točko vstavljanja</Text>
+    </Item>
+
+    <Item>
+        <TextId>10012</TextId>
+        <Text>Izberi drugo točko vstavljanja</Text>
+    </Item>
+
+    <Item>
+        <TextId>10013</TextId>
+        <Text>Izberi prvo točko kota</Text>
+    </Item>
+
+    <Item>
+        <TextId>10014</TextId>
+        <Text>Izberi drugo točko kota</Text>
+    </Item>
+
+    <Item>
+        <TextId>10015</TextId>
+        <Text>Izberi Vstavi točko</Text>
+    </Item>
+
+    <Item>
+        <TextId>10016</TextId>
+        <Text>Izberi prvo točko vstavljanja</Text>
+    </Item>
+
+    <Item>
+        <TextId>10017</TextId>
+        <Text>Izberi drugo točko vstavljanja</Text>
+    </Item>
+
+    <Item>
+        <TextId>10018</TextId>
+        <Text>Izberi točko vzdolž smeri plošče</Text>
+    </Item>
+
+    <Item>
+        <TextId>10019</TextId>
+        <Text>Izberi začetno točko smeri plošče</Text>
+    </Item>
+
+    <Item>
+        <TextId>10020</TextId>
+        <Text>Izberi Vstavi točko</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Izberi poligon</Text>
+    </Item>
+
+    <Item>
+        <TextId>10024</TextId>
+        <Text>Izberi debelino preko točke</Text>
+    </Item>
+
+    <Item>
+        <TextId>10027</TextId>
+        <Text>Izberi Vstavi točko</Text>
+    </Item>
+
+    <Item>
+        <TextId>10028</TextId>
+        <Text>Izberi prvo točko vstavljanja</Text>
+    </Item>
+
+    <Item>
+        <TextId>10029</TextId>
+        <Text>Izberi naslednjo točko vstavljanja</Text>
+    </Item>
+
+    <Item>
+        <TextId>10030</TextId>
+        <Text>Izberi nosilni element</Text>
+    </Item>
+
+    <Item>
+        <TextId>10031</TextId>
+        <Text>Izberi novo točko vzdolž zvara</Text>
+    </Item>
+
+    <Item>
+        <TextId>10032</TextId>
+        <Text>Izberi profil v paleti</Text>
+    </Item>
+
+    <Item>
+        <TextId>10033</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>10034</TextId>
+        <Text>Izberi prijemališče, potem povleci in spremeni parametre zvara</Text>
+    </Item>
+
+    <!-- POP-UP MESSAGE -->
+
+    <Item>
+        <TextId>11000</TextId>
+        <Text>Najprej postavite čep prosim</Text>
+    </Item>
+
+    <Item>
+        <TextId>11001</TextId>
+        <Text>Ta poligon ni zaprt</Text>
+    </Item>
+
+    <Item>
+        <TextId>11002</TextId>
+        <Text>Vse točke se ne nahajajo v isti 3D ravnini</Text>
+    </Item>
+
+    <Item>
+        <TextId>11003</TextId>
+        <Text>Izberi med dvema obstoječima točkama prosim</Text>
+    </Item>
+
+    <Item>
+        <TextId>11004</TextId>
+        <Text>Nobene lokalizacije ni na voljo.\n</Text>
+    </Item>
+
+    <Item>
+        <TextId>11005</TextId>
+        <Text>TaPythonPart je moč pravilo izvesti samo z veljavno datoteko lokalizacije.\n</Text>
+    </Item>
+
+    <Item>
+        <TextId>11006</TextId>
+        <Text>Nobene geometrije ne bo izdelane.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11007</TextId>
+        <Text>Potrebni sta vsaj 2 točki</Text>
+    </Item>
+
+    <Item>
+        <TextId>11008</TextId>
+        <Text>Najprej izberi točko prijemališča prosim</Text>
+    </Item>
+
+    <Item>
+        <TextId>11009</TextId>
+        <Text>Ponovno izberi točko prosim, ker 2 izbrani točki ne moreta pripadati isti ploskvi.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11010</TextId>
+        <Text>Najprej izberite ploščo ali nosilni element prosim</Text>
+    </Item>
+
+    <Item>
+        <TextId>11011</TextId>
+        <Text>Pri tem postopku bodo izbrisane luknje, ki vodijo k neveljavni geometriji. Ali nadaljujem s postokom brisanja?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11012</TextId>
+        <Text>Profil izbranega elementa ni združljiv z orodjarno povezav.
+Uporabite Nemetschek katalog profilov prosim.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11013</TextId>
+        <Text>Izberi en nosilni element prosim.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11014</TextId>
+        <Text>Način poteka ni združljiv</Text>
+    </Item>
+
+    <Item>
+        <TextId>11015</TextId>
+        <Text>Tip elementa ni združljiv</Text>
+    </Item>
+
+    <Item>
+        <TextId>11016</TextId>
+        <Text>Ta ukaz z vašo aktualno licenco ni združljiv</Text>
+    </Item>
+
+    <Item>
+        <TextId>11017</TextId>
+        <Text>Ta ukaz ni združljiv z verzijo Allplana, ki jo uporabljate.</Text>
+    </Item>
+
+    <!-- NOT USED TO EXPRESS -->
+
+    <Item>
+        <TextId>12000</TextId>
+        <Text>Ox</Text>
+    </Item>
+
+    <Item>
+        <TextId>12001</TextId>
+        <Text>Oy</Text>
+    </Item>
+
+    <Item>
+        <TextId>12002</TextId>
+        <Text>Oz</Text>
+    </Item>
+
+    <Item>
+        <TextId>12003</TextId>
+        <Text>Ox: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12004</TextId>
+        <Text>Oy: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12005</TextId>
+        <Text>Oz: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12006</TextId>
+        <Text>Luknja</Text>
+    </Item>
+
+    <Item>
+        <TextId>12007</TextId>
+        <Text>Izdelaj luknjo</Text>
+    </Item>
+
+    <Item>
+        <TextId>12008</TextId>
+        <Text>Radij luknje</Text>
+    </Item>
+
+    <Item>
+        <TextId>12009</TextId>
+        <Text>Dolžina vzdolžne luknje</Text>
+    </Item>
+
+    <Item>
+        <TextId>12010</TextId>
+        <Text>Kót luknje</Text>
+    </Item>
+
+    <Item>
+        <TextId>12011</TextId>
+        <Text>Razmak med luknjami</Text>
+    </Item>
+
+    <Item>
+        <TextId>12012</TextId>
+        <Text>Položi</Text>
+    </Item>
+
+    <Item>
+        <TextId>12013</TextId>
+        <Text>Lastnosti višin</Text>
+    </Item>
+
+    <Item>
+        <TextId>12014</TextId>
+        <Text>Referenčna točka</Text>
+    </Item>
+
+    <Item>
+        <TextId>12015</TextId>
+        <Text>Začetna točka</Text>
+    </Item>
+
+    <Item>
+        <TextId>12016</TextId>
+        <Text>Končna točka</Text>
+    </Item>
+
+    <Item>
+        <TextId>12017</TextId>
+        <Text>2</Text>
+    </Item>
+
+    <Item>
+        <TextId>12018</TextId>
+        <Text>3</Text>
+    </Item>
+
+    <Item>
+        <TextId>12019</TextId>
+        <Text>Sponka</Text>
+    </Item>
+
+    <Item>
+        <TextId>12020</TextId>
+        <Text>Čep</Text>
+    </Item>
+
+    <Item>
+        <TextId>12021</TextId>
+        <Text>Tip zvara</Text>
+    </Item>
+
+    <Item>
+        <TextId>12022</TextId>
+        <Text>Točke</Text>
+    </Item>
+
+    <Item>
+        <TextId>12023</TextId>
+        <Text>Povezje</Text>
+    </Item>
+</Element>

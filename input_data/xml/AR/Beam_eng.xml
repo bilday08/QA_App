@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Element>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Workflow</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>For more info, please click here</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Tutorial</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Choose type</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>3D object</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Python part</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Place reinforcement</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>General</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>General Parameters</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Concrete cover</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text>Concrete grade</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>Cross-section catalog</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>Stirrup bending pin</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Rebar Parameters</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text>Min. main rebar diameter</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Min. side rebar diameter</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Min. stirrup diameter</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>Max. stirrup spacing</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Stirrup hook angle</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Max. bar length</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Main rebar bending pin</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Longitudinal Rebar</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Main Rebar Top</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Diameter</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Number of bars</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Area of reinforcement (As)</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Main Rebar Bottom</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Main Rebar Additional</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Additional rebar bottom</Text>
+    </Item>
+
+    <Item>
+        <TextId>1048</TextId>
+        <Text>Bar length</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Side Rebar</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Placement</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Offset from start</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Offset from end</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Single placement region</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Create</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Spacing</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Hook length</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Spacing at middle</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Spacing at start</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>Spacing at end</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>Slab Thickness Definition</Text>
+    </Item>
+
+    <Item>
+        <TextId>1068</TextId>
+        <Text>Number of spans</Text>
+    </Item>
+
+    <Item>
+        <TextId>1081</TextId>
+        <Text>Sections</Text>
+    </Item>
+
+    <Item>
+        <TextId>1082</TextId>
+        <Text>Elevation</Text>
+    </Item>
+
+    <Item>
+        <TextId>1083</TextId>
+        <Text>Beam name</Text>
+    </Item>
+
+    <Item>
+        <TextId>1084</TextId>
+        <Text>Description 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1085</TextId>
+        <Text>Description 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1086</TextId>
+        <Text>Scale</Text>
+    </Item>
+
+    <Item>
+        <TextId>1087</TextId>
+        <Text>Rebar labeling</Text>
+    </Item>
+
+    <Item>
+        <TextId>1089</TextId>
+        <Text>Elements</Text>
+    </Item>
+
+    <Item>
+        <TextId>1090</TextId>
+        <Text>Reinforcement</Text>
+    </Item>
+
+    <Item>
+        <TextId>1092</TextId>
+        <Text>Select elements</Text>
+    </Item>
+
+    <Item>
+        <TextId>1091</TextId>
+        <Text>Placing length at middle</Text>
+    </Item>
+
+    <Item>
+        <TextId>1093</TextId>
+        <Text>Placing length</Text>
+    </Item>
+
+    <Item>
+        <TextId>1094</TextId>
+        <Text>Place sections</Text>
+    </Item>
+
+    <Item>
+        <TextId>1096</TextId>
+        <Text>Slab thickness</Text>
+    </Item>
+
+    <Item>
+        <TextId>1097</TextId>
+        <Text>Setting for span</Text>
+    </Item>
+
+    <Item>
+        <TextId>1098</TextId>
+        <Text>Placing length at start</Text>
+    </Item>
+
+    <Item>
+        <TextId>1099</TextId>
+        <Text>Stirrups</Text>
+    </Item>
+
+    <Item>
+        <TextId>1100</TextId>
+        <Text>Placing length at end</Text>
+    </Item>
+
+    <Item>
+        <TextId>1101</TextId>
+        <Text>Cross Sections</Text>
+    </Item>
+
+    <Item>
+        <TextId>1102</TextId>
+        <Text>Span</Text>
+    </Item>
+
+    <Item>
+        <TextId>1103</TextId>
+        <Text>Section 1-1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1104</TextId>
+        <Text>Section 2-2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1105</TextId>
+        <Text>Section 3-3</Text>
+    </Item>
+
+    <Item>
+        <TextId>1106</TextId>
+        <Text>Show input table</Text>
+    </Item>
+
+    <Item>
+        <TextId>1107</TextId>
+        <Text>Longitudinal Rebar</Text>
+    </Item>
+
+    <Item>
+        <TextId>1108</TextId>
+        <Text>Beam</Text>
+    </Item>
+
+    <Item>
+        <TextId>1109</TextId>
+        <Text>Lapping length</Text>
+    </Item>
+
+    <Item>
+        <TextId>1110</TextId>
+        <Text>Hook length = D *</Text>
+    </Item>
+
+    <Item>
+        <TextId>1111</TextId>
+        <Text>Anchorage length at start</Text>
+    </Item>
+
+    <Item>
+        <TextId>1112</TextId>
+        <Text>Anchorage length at end</Text>
+    </Item>
+
+    <Item>
+        <TextId>1113</TextId>
+        <Text>Offset start</Text>
+    </Item>
+
+    <Item>
+        <TextId>1114</TextId>
+        <Text>Offset end</Text>
+    </Item>
+
+    <Item>
+        <TextId>1117</TextId>
+        <Text>Min. clear distance between bars</Text>
+    </Item>
+
+    <Item>
+        <TextId>1118</TextId>
+        <Text>Rebar values</Text>
+    </Item>
+
+    <Item>
+        <TextId>1119</TextId>
+        <Text>Manual</Text>
+    </Item>
+
+    <Item>
+        <TextId>1120</TextId>
+        <Text>Norm based</Text>
+    </Item>
+
+    <Item>
+        <TextId>1121</TextId>
+        <Text>Hooks at end</Text>
+    </Item>
+
+    <Item>
+        <TextId>1148</TextId>
+        <Text>Elevation mode</Text>
+    </Item>
+
+    <Item>
+        <TextId>1149</TextId>
+        <Text>Elevation for the entire beam</Text>
+    </Item>
+
+    <Item>
+        <TextId>1150</TextId>
+        <Text>Elevation for each span</Text>
+    </Item>
+
+    <Item>
+        <TextId>1151</TextId>
+        <Text>Cross sections</Text>
+    </Item>
+
+    <Item>
+        <TextId>1153</TextId>
+        <Text>Hooks at start</Text>
+    </Item>
+
+    <Item>
+        <TextId>1157</TextId>
+        <Text>1:50</Text>
+    </Item>
+
+    <Item>
+        <TextId>1158</TextId>
+        <Text>1:25</Text>
+    </Item>
+
+    <Item>
+        <TextId>1159</TextId>
+        <Text>1:20</Text>
+    </Item>
+
+    <Item>
+        <TextId>1161</TextId>
+        <Text>Please input the span number here</Text>
+    </Item>
+
+    <Item>
+        <TextId>1162</TextId>
+        <Text>Format</Text>
+    </Item>
+
+    <Item>
+        <TextId>1163</TextId>
+        <Text>Main reinforcement</Text>
+    </Item>
+
+    <Item>
+        <TextId>1164</TextId>
+        <Text>Top rebar</Text>
+    </Item>
+
+    <Item>
+        <TextId>1166</TextId>
+        <Text>Bottom rebar</Text>
+    </Item>
+
+    <Item>
+        <TextId>1167</TextId>
+        <Text>Additional bottom</Text>
+    </Item>
+
+    <Item>
+        <TextId>1168</TextId>
+        <Text>Main stirrups</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Yes</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>No</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Side rebar</Text>
+    </Item>
+
+    <!-- For palette messages -->
+    <Item>
+        <TextId>4999</TextId>
+        <Text>This PythonPart will enable you to automatically create reinforcement in beams.\n\nTo get started, please follow these steps:\n   1) Select the beam you would like to reinforce.\n   2) Go through tabs "General", "Main Rebar", "Stirrups" to define the beam reinforcement parameters.\n       Click "Create" to check and generate the beam reinforcement.\n   3) Go through tab "Sections" to define the section parameters.\n       Click "Create" and place the sections.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Please select elements to</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>access the "General" tab.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>access the "Longitudinal Rebar" tab.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>access the "Stirrups" tab.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>access the "Sections" tab.</Text>
+    </Item>
+    <Item>
+        <TextId>5008</TextId>
+        <Text>access the "Format" tab.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>Left click to select single beam / right click to select multiple beams</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Adjust parameters and create reinforcement / ESC to reselect support(s)</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Select beam(s) by left-click or area selection</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>Select support(s) by left-click or area selection</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Input section parameters and place in the planview</Text>
+    </Item>
+
+    <Item>
+        <TextId>10022</TextId>
+        <Text>Click a point in plan view to place sections</Text>
+    </Item>
+
+    <Item>
+        <TextId>10038</TextId>
+        <Text>There have been changes of the parameter.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10039</TextId>
+        <Text>Do you want to update the rebar's mark number?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10040</TextId>
+        <Text>You have copied the python part connected to an architecture object.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10041</TextId>
+        <Text>Do you want to link it the new architecture object?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10042</TextId>
+        <Text>The top level of the selected beams is different.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10043</TextId>
+        <Text>This version does not support beams with different directions.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10044</TextId>
+        <Text>The width of beams is different.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10045</TextId>
+        <Text>The selected beams collide or at least one beam is a duplicate.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10046</TextId>
+        <Text>This version does not support beams with eccentric axes.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10047</TextId>
+        <Text>- The application only supports columns with rectangular or round shapes.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10048</TextId>
+        <Text>- The application does not support columns with a common volume.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10049</TextId>
+        <Text>- The application only support columns with rectangle or circle cross section.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10050</TextId>
+        <Text>- The width of beams is bigger than of a support.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10051</TextId>
+        <Text>- One of vertices of beam is outside the plan view of support cross section.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10052</TextId>
+        <Text>- The rotation angle of support and beam is different.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10053</TextId>
+        <Text>- Between the selected support and beam is a gap.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10054</TextId>
+        <Text>Please reselect supports.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10055</TextId>
+        <Text>Please reselect beams.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10056</TextId>
+        <Text>Invalid selection:</Text>
+    </Item>
+
+    <Item>
+        <TextId>10057</TextId>
+        <Text>Right click to start selecting support(s) or input reinforcement parameters or press ESC to reselect beam(s)</Text>
+    </Item>
+
+    <Item>
+        <TextId>10058</TextId>
+        <Text>Input reinforcement parameters or press ESC to reselect beam</Text>
+    </Item>
+
+    <Item>
+        <TextId>10059</TextId>
+        <Text>- The clear distance betweend side rebars does not meet the requirement defined in the general tab.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10060</TextId>
+        <Text>- The length of side rebar in at least one span exceeds the max bar length setting in the general tab.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10061</TextId>
+        <Text>- The clear distance between bottom rebars does not meet the requirement in the general tab.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10062</TextId>
+        <Text>- The length of main bottom rebar in at least one span exceeds the max bar length setting in the general tab.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10063</TextId>
+        <Text>- The length of main top rebar in at least one span exceeds the max bar length setting in the general tab.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10064</TextId>
+        <Text>Please modify parameters to assure that the total bar length is smaller than the max bar length.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10065</TextId>
+        <Text>Do you want to continue?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10066</TextId>
+        <Text>It is possible to create top rebars across multiple spans or split them per span. \nDo you want to create them across multiple spans?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10067</TextId>
+        <Text>- The clear distance between top rebar does not meet the requirement in the general tab.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10068</TextId>
+        <Text>- The length of addition bottom rebar in at least one span is bigger than the max bar length setting in general tab.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10069</TextId>
+        <Text>- The clear distance of bottom main rebar and additional rebar does not meet the requirement in General Tab.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10070</TextId>
+        <Text>- The number of addition rebar and main bottom rebar you input are not suitable to be placed in beam model.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10071</TextId>
+        <Text>This PythonPart is connected to the Architectural component it was created with.\nPlease be aware, that copying that PythonPart to another location is not possible.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10072</TextId>
+        <Text>You have not created reinforcement yet. Are you sure you want to cancel this function?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10090</TextId>
+        <Text>- The clear distance between side rebar exceeds the max clearance between bars.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10091</TextId>
+        <Text>Please modify parameters in tabs to update reinforcement</Text>
+    </Item>
+
+</Element>

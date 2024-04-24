@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Tijek rada</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Više informacija:</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Tutorijal</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Odaberi vrstu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>3D objekt</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Python Part</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Položi armaturu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>Općenito</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>Opće postavke</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Zaštitni sloj betona</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text>Klasa čvrstoće betona</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>Katalog popr. presjeka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>Trn za savijanje spona</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Parametri armature</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text>Min. promjer glavne armature</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Min. promjer konstruktivne armature</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Min. promjer šipke spone</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>Maks. razmak spona</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Kut kuke na sponi</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Maks. duljina šipke</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Glavni trn za savijanje armature</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Uzdužna armatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Glavna armatura - Gore</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Promjer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Broj šipki</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Površina armature (As)</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Glavna armatura - Dolje</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Glavna armatura - Dodatak</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Dodatna armatura - Dolje</Text>
+    </Item>
+
+    <Item>
+        <TextId>1048</TextId>
+        <Text>Duljina šipke</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Bočna armatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Polaganje</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Odmak od početka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Odmak od kraja</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Područje pojedinog polaganja</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Kreiraj</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Razmak</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Duljina kuke</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Razmak u sredini</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Razmak na početku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>Razmak na kraju</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>Definicija debljine ploče</Text>
+    </Item>
+
+    <Item>
+        <TextId>1068</TextId>
+        <Text>Broj područja</Text>
+    </Item>
+
+    <Item>
+        <TextId>1081</TextId>
+        <Text>Presjeci</Text>
+    </Item>
+
+    <Item>
+        <TextId>1082</TextId>
+        <Text>Pogled</Text>
+    </Item>
+
+    <Item>
+        <TextId>1083</TextId>
+        <Text>Naziv grede</Text>
+    </Item>
+
+    <Item>
+        <TextId>1084</TextId>
+        <Text>Opis 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1085</TextId>
+        <Text>Opis 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1086</TextId>
+        <Text>Mjerilo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1087</TextId>
+        <Text>Oznaka armature</Text>
+    </Item>
+
+    <Item>
+        <TextId>1089</TextId>
+        <Text>Elementi</Text>
+    </Item>
+
+    <Item>
+        <TextId>1090</TextId>
+        <Text>Armiranje</Text>
+    </Item>
+
+    <Item>
+        <TextId>1092</TextId>
+        <Text>Odaberi elemente</Text>
+    </Item>
+
+    <Item>
+        <TextId>1091</TextId>
+        <Text>Duljina polaganja u sredini</Text>
+    </Item>
+
+    <Item>
+        <TextId>1093</TextId>
+        <Text>Duljina polaganja</Text>
+    </Item>
+
+    <Item>
+        <TextId>1094</TextId>
+        <Text>Postavi presjeke</Text>
+    </Item>
+
+    <Item>
+        <TextId>1096</TextId>
+        <Text>Debljina ploče</Text>
+    </Item>
+
+    <Item>
+        <TextId>1097</TextId>
+        <Text>Postavke polaganja</Text>
+    </Item>
+
+    <Item>
+        <TextId>1098</TextId>
+        <Text>Duljina polaganja na početku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1099</TextId>
+        <Text>Spone</Text>
+    </Item>
+
+    <Item>
+        <TextId>1100</TextId>
+        <Text>Duljina polaganja na kraju</Text>
+    </Item>
+
+    <Item>
+        <TextId>1101</TextId>
+        <Text>Poprečni presijeci</Text>
+    </Item>
+
+    <Item>
+        <TextId>1102</TextId>
+        <Text>Polje armature</Text>
+    </Item>
+
+    <Item>
+        <TextId>1103</TextId>
+        <Text>Presjek 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1104</TextId>
+        <Text>Presjek 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1105</TextId>
+        <Text>Presjek 3</Text>
+    </Item>
+
+    <Item>
+        <TextId>1106</TextId>
+        <Text>Prikaži tablicu unosa</Text>
+    </Item>
+
+    <Item>
+        <TextId>1107</TextId>
+        <Text>Uzdužna armatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>1108</TextId>
+        <Text>Greda</Text>
+    </Item>
+
+    <Item>
+        <TextId>1109</TextId>
+        <Text>Duljina preklopa</Text>
+    </Item>
+
+    <Item>
+        <TextId>1110</TextId>
+        <Text>Duljina kuke = D *</Text>
+    </Item>
+
+    <Item>
+        <TextId>1111</TextId>
+        <Text>Duljina sidrenja na početku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1112</TextId>
+        <Text>Duljina sidrenja na kraju</Text>
+    </Item>
+
+    <Item>
+        <TextId>1113</TextId>
+        <Text>Odmak na početku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1114</TextId>
+        <Text>Odmak na kraju</Text>
+    </Item>
+
+    <Item>
+        <TextId>1117</TextId>
+        <Text>Minimalni svijetli razmak između šipki</Text>
+    </Item>
+
+    <Item>
+        <TextId>1118</TextId>
+        <Text>Vrijednosti armature</Text>
+    </Item>
+
+    <Item>
+        <TextId>1119</TextId>
+        <Text>Manualno</Text>
+    </Item>
+
+    <Item>
+        <TextId>1120</TextId>
+        <Text>Zasnovano na normi</Text>
+    </Item>
+
+    <Item>
+        <TextId>1121</TextId>
+        <Text>Kuka na kraju</Text>
+    </Item>
+
+    <Item>
+        <TextId>1148</TextId>
+        <Text>Pogled</Text>
+    </Item>
+
+    <Item>
+        <TextId>1149</TextId>
+        <Text>Pogled na cijeliu gredu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1150</TextId>
+        <Text>Pogled na svako polje</Text>
+    </Item>
+
+    <Item>
+        <TextId>1151</TextId>
+        <Text>Presjek</Text>
+    </Item>
+
+    <Item>
+        <TextId>1153</TextId>
+        <Text>Kuka na početku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1157</TextId>
+        <Text>1:50</Text>
+    </Item>
+
+    <Item>
+        <TextId>1158</TextId>
+        <Text>1:25</Text>
+    </Item>
+
+    <Item>
+        <TextId>1159</TextId>
+        <Text>1:20</Text>
+    </Item>
+
+    <Item>
+        <TextId>1161</TextId>
+        <Text>Unesi broj polaganja</Text>
+    </Item>
+
+    <Item>
+        <TextId>1162</TextId>
+        <Text>Format</Text>
+    </Item>
+
+    <Item>
+        <TextId>1163</TextId>
+        <Text>Glavna armatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>1164</TextId>
+        <Text>Armatura gornje zone</Text>
+    </Item>
+
+    <Item>
+        <TextId>1166</TextId>
+        <Text>Armatura donje zone</Text>
+    </Item>
+
+    <Item>
+        <TextId>1167</TextId>
+        <Text>Dodatna armatura dolje</Text>
+    </Item>
+
+    <Item>
+        <TextId>1168</TextId>
+        <Text>Glavne spone</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Da</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>Ne</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Bočna armatura</Text>
+    </Item>
+
+    <!-- For palette messages -->
+    <Item>
+        <TextId>4999</TextId>
+        <Text>Ovaj PythonPart omogućuje automatsko kreiranje armature u gredama.\n\nSlijedite ove korake:\n 1) Odaberite gredu koju želite armirati.\n 2)Idite kroz kartice "Općenito", "Glavna armatura", "Spone" za definiranje parametara armature grede. \n      Kliknite na "Postavi" za provjeru i kreiranje armature.\n 3) Idite krot karticu "Presjeci" za definiranje parametara presjekan. \n      Kliknite na "Postavi" za kreiranje presjeka.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Odaberite elemente za</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>prikaz kartice "Općenito".</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>Idite na karticu "Uzdužna armatura".</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>prikaz kartice "Spone".</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>prikaz kartice "Presjeci".</Text>
+    </Item>
+    <Item>
+        <TextId>5008</TextId>
+        <Text>da vidite katricu "Svojstva".</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>Lijevi klik za odabir jedne grede / desni klik za odabir više greda</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Podesi parametre i kreiraj armaturu / ESC da biste ponovno odabrali ležajeve</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Odaberi grede lijevim klikom ili odabirom područja</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>Odaberi ležajeve lijevim klikom ili određivanjem površine</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Unesi parametre i klikni na Kreiraj za generiranje presjeka</Text>
+    </Item>
+
+    <Item>
+        <TextId>10022</TextId>
+        <Text>Unesite koordinate da biste postavili presjeke</Text>
+    </Item>
+
+    <Item>
+        <TextId>10038</TextId>
+        <Text>Parametar je promijenjen.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10039</TextId>
+        <Text>Želite li ažurirati broj pozicije armature?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10040</TextId>
+        <Text>Kopirali ste PythonPart povezan s objektom arhitekture.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10041</TextId>
+        <Text>Želite li ga povezati s novim arhitektonskim elementom?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10042</TextId>
+        <Text>Gornji rub odabranih greda se razlikuje.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10043</TextId>
+        <Text>Ova verzija ne podržava grede s različitim smjerovima.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10044</TextId>
+        <Text>Širina greda je različita.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10045</TextId>
+        <Text>Odabrane grede sudaraju se, ili je barem jedna greda dupla.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10046</TextId>
+        <Text>Ova verzija ne podržava grede s ekscentričnim osima.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10047</TextId>
+        <Text>- Aplikacija podržava samo nosače pravokutnog ili okruglog oblika.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10048</TextId>
+        <Text>- Aplikacija ne podržava stupove sa zajedničkim volumenom.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10049</TextId>
+        <Text>- Aplikacija podržava samo stupove pravokutnog ili kružnog presjeka.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10050</TextId>
+        <Text>- Širina greda je veća od širine ležeja.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10051</TextId>
+        <Text>- Jedan od vrhova grede je izvan tlocrta presjeka grede.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10052</TextId>
+        <Text>- Kut rotacije nosača i grede je različit.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10053</TextId>
+        <Text>- Postoji razmak između odabranog ležaja i grede.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10054</TextId>
+        <Text>Ponovo odaberi ležajeve.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10055</TextId>
+        <Text>Ponovo odaberi grede.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10056</TextId>
+        <Text>Nevažeći odabir:</Text>
+    </Item>
+
+    <Item>
+        <TextId>10057</TextId>
+        <Text>Kliknite desnom tipkom miša da biste započeli odabir ležaja(eva) ili pritisnite ESC da ponovno odaberete gredu(e).</Text>
+    </Item>
+
+    <Item>
+        <TextId>10058</TextId>
+        <Text>Unesite parametre armature ili pritisnite ESC za ponovni odabir grede</Text>
+    </Item>
+
+    <Item>
+        <TextId>10059</TextId>
+        <Text>- Razmak između bočnih armaturnih šipki ne zadovoljava zahtjeve navedene u općoj kartici.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10060</TextId>
+        <Text>- Duljina bočnih armaturnih šipki u najmanje jednom rasponu premašuje maksimalnu duljinu šipki postavljenu u kartici Općenito.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10061</TextId>
+        <Text>- Razmak između donjih armaturnih šipki ne zadovoljava zahtjeve u kartici Općenito.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10062</TextId>
+        <Text>- Duljina glavne donje armaturne šipke u najmanje jednom rasponu premašuje maksimalnu duljinu šipke postavljenu na kartici Općenito.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10063</TextId>
+        <Text>- Duljina gornje glavne armaturne šipke u najmanje jednom rasponu premašuje maksimalnu duljinu šipke postavljenu u kartici Općenito.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10064</TextId>
+        <Text>Izmijenite parametre kako biste osigurali da je ukupna duljina armature manja od maksimalne duljine šipke.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10065</TextId>
+        <Text>Želite li nastaviti?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10066</TextId>
+        <Text>Gornje armaturne šipke mogu se postaviti na više polja ili podijeliti po polju. \nTrebaju li se stvarati u više polja?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10067</TextId>
+        <Text>- Razmak između gornjih armaturnih šipki ne zadovoljava zahtjeve u kartici Općenito.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10068</TextId>
+        <Text>- Duljina dodatne donje armaturne šipke u najmanje jednom rasponu veća je od maksimalne duljine šipke postavljene u kartici Općenito.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10069</TextId>
+        <Text>- Razmak između glavne donje armaturne šipke i dodatnih armaturnih šipki ne zadovoljava zahtjeve kartice Općenito.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10070</TextId>
+        <Text>- Broj dodatne armature i donje glavne armature koji ste unijeli nije prikladan za postavljanje u model grede.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10071</TextId>
+        <Text>Ovaj PythonPart povezan je s arhitektonskom komponentom koja ga je stvorila. \nPythonPart se ne može kopirati na drugo mjesto.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10072</TextId>
+        <Text>Još nije napravljena armatura. Želite li stvarno otkazati ovu funkciju?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10090</TextId>
+        <Text>- Svijetla udaljenost između bočnih armaturnih šipki veća je od najveće udaljenosti između šipki.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10091</TextId>
+        <Text>Promijenite parametre u karticama kako biste ažurirali armaturu</Text>
+    </Item>
+
+</Element>

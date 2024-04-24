@@ -1,0 +1,2472 @@
+<Element>
+
+    <!--GENERAL-->
+
+    <Item>
+        <TextId>9000</TextId>
+		<Text>Geometria</Text>
+    </Item>
+
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Elem kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>9002</TextId>
+        <Text>Lemez | bilincs | csap | hegesztett varrat</Text>
+    </Item>
+
+    <Item>
+        <TextId>9003</TextId>
+        <Text>Ábrázolás</Text>
+    </Item>
+
+    <Item>
+        <TextId>9004</TextId>
+        <Text>Csatlakozási eszköztár</Text>
+    </Item>
+
+    <!--PLATE-->
+
+    <Item>
+        <TextId>1000</TextId>
+        <Text>Lemez</Text>
+    </Item>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Paneltípus</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Véglemez | Merevítés</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Lemez alak</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Anyag</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Stílus</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Alak</Text>
+    </Item>
+
+    <Item>
+        <TextId>1007</TextId>
+        <Text>Stílus elhelyezése</Text>
+    </Item>
+
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Merevítések száma</Text>
+    </Item>
+
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Anyag</Text>
+    </Item>
+
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Panel paraméterek</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Pontok</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>2D poligonpálya kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>3D poligonpálya kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>1014</TextId>
+        <Text>Vastagság</Text>
+    </Item>
+
+    <Item>
+        <TextId>1015</TextId>
+        <Text>Szélesség</Text>
+    </Item>
+
+    <Item>
+        <TextId>1016</TextId>
+        <Text>Hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>1017</TextId>
+        <Text>Sarok alakú</Text>
+    </Item>
+
+    <Item>
+        <TextId>1018</TextId>
+        <Text>Derékszögű sarok | Élletört sarok | Lekerekített sarok</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Sugár</Text>
+    </Item>
+
+    <Item>
+        <TextId>1020</TextId>
+        <Text>Lekerekítési sugár</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text> Lekerekítés</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>  Lekerekítés</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>   Lekerekítés</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Lekerekítés</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text> Lesarkítás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Szélesség</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>  Lesarkítás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1029</TextId>
+        <Text>Hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Szélesség</Text>
+    </Item>
+
+    <Item>
+        <TextId>1031</TextId>
+        <Text>   Lesarkítás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Szélesség</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Lesarkítás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Szélesség</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Pozicionálás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Tájolás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Alak</Text>
+    </Item>
+
+    <Item>
+        <TextId>1040</TextId>
+        <Text>Tájolás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1041</TextId>
+        <Text>Pont</Text>
+    </Item>
+
+    <Item>
+        <TextId>1042</TextId>
+        <Text>Vektor</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Referenciapont</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Referenciapont</Text>
+    </Item>
+
+    <Item>
+        <TextId>1045</TextId>
+        <Text>Forgásszög</Text>
+    </Item>
+
+    <Item>
+        <TextId>1046</TextId>
+        <Text>Szög </Text>
+    </Item>
+
+    <Item>
+        <TextId>1047</TextId>
+        <Text>Lemez megfordítva</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Elem létrehozása</Text>
+    </Item>
+
+    <Item>
+        <TextId>1050</TextId>
+        <Text>Elfogadás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1051</TextId>
+        <Text>Vastagság kiválasztása ponton keresztül</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Téglalap</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Kör</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Poligon</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Auto</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Manuális</Text>
+    </Item>
+
+    <Item>
+        <TextId>1057</TextId>
+        <Text>Sarokelem-paraméterek</Text>
+    </Item>
+
+    <Item>
+        <TextId>1058</TextId>
+        <Text>Távolság</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Távolság </Text>
+    </Item>
+
+    <Item>
+        <TextId>1060</TextId>
+        <Text>Poligonpálya-pozíció</Text>
+    </Item>
+
+    <Item>
+        <TextId>1061</TextId>
+        <Text>Egyéni</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Tiszta szélesség Breite</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Fények</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Sugár</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Fény hossza</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>Profilfüggő</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>Snap pontok mutatása</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Formátum</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>Fólia</Text>
+    </Item>
+
+    <Item>
+        <TextId>1502</TextId>
+        <Text>Toll</Text>
+    </Item>
+
+    <Item>
+        <TextId>1503</TextId>
+        <Text>Toll fóliáról</Text>
+    </Item>
+
+    <Item>
+        <TextId>1504</TextId>
+        <Text>Vonal</Text>
+    </Item>
+
+    <Item>
+        <TextId>1505</TextId>
+        <Text>Vonal fóliáról</Text>
+    </Item>
+
+    <Item>
+        <TextId>1506</TextId>
+        <Text>Szín</Text>
+    </Item>
+
+    <Item>
+        <TextId>1507</TextId>
+        <Text>Szín fóliáról</Text>
+    </Item>
+
+    <Item>
+        <TextId>1508</TextId>
+        <Text>Felületelem</Text>
+    </Item>
+
+    <Item>
+        <TextId>1509</TextId>
+        <Text>Felület</Text>
+    </Item>
+
+    <Item>
+        <TextId>1510</TextId>
+        <Text>Felületelem</Text>
+    </Item>
+
+    <Item>
+        <TextId>1511</TextId>
+        <Text>Sraffozás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1512</TextId>
+        <Text>Minta</Text>
+    </Item>
+
+    <Item>
+        <TextId>1513</TextId>
+        <Text>Kitöltés</Text>
+    </Item>
+
+    <Item>
+        <TextId>1514</TextId>
+        <Text>Bitképfelület</Text>
+    </Item>
+
+    <Item>
+        <TextId>1515</TextId>
+        <Text>Stílusfelület</Text>
+    </Item>
+
+    <!--CLEAT-->
+
+    <Item>
+        <TextId>2000</TextId>
+        <Text>Csomólemez</Text>
+    </Item>
+
+    <Item>
+        <TextId>2001</TextId>
+        <Text>Csomólemez alak</Text>
+    </Item>
+
+    <Item>
+        <TextId>2002</TextId>
+        <Text>Profil | Ívelt lemez</Text>
+    </Item>
+
+    <Item>
+        <TextId>2003</TextId>
+        <Text>Profil kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>2004</TextId>
+        <Text>Anyag</Text>
+    </Item>
+
+    <Item>
+        <TextId>2005</TextId>
+        <Text>Csomólemez paraméterek</Text>
+    </Item>
+
+    <Item>
+        <TextId>2006</TextId>
+        <Text>Csomólemez hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>2007</TextId>
+        <Text> Csomólemez hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>2008</TextId>
+        <Text>Csomólemez vastagság</Text>
+    </Item>
+
+    <Item>
+        <TextId>2009</TextId>
+        <Text>Csomólemez szög</Text>
+    </Item>
+
+    <Item>
+        <TextId>2010</TextId>
+        <Text>Részletezettség</Text>
+    </Item>
+
+    <Item>
+        <TextId>2011</TextId>
+        <Text>Lesarkítás szélesség</Text>
+    </Item>
+
+    <Item>
+        <TextId>2012</TextId>
+        <Text>Lekerekítési sugár</Text>
+    </Item>
+
+    <Item>
+        <TextId>2013</TextId>
+        <Text>Pozicionálás</Text>
+    </Item>
+
+    <Item>
+        <TextId>2014</TextId>
+        <Text>Távolság</Text>
+    </Item>
+
+    <Item>
+        <TextId>2015</TextId>
+        <Text>Elhelyezési stílus</Text>
+    </Item>
+
+    <Item>
+        <TextId>2016</TextId>
+        <Text>Pontok kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>2017</TextId>
+        <Text>Első pont</Text>
+    </Item>
+
+    <Item>
+        <TextId>2018</TextId>
+        <Text>Második pont</Text>
+    </Item>
+
+    <Item>
+        <TextId>2019</TextId>
+        <Text>Referenciapont</Text>
+    </Item>
+
+    <Item>
+        <TextId>2020</TextId>
+        <Text>Referenciapont</Text>
+    </Item>
+
+    <Item>
+        <TextId>2021</TextId>
+        <Text>Távolság</Text>
+    </Item>
+
+    <Item>
+        <TextId>2022</TextId>
+        <Text>Csomólemez elforgatás</Text>
+    </Item>
+
+    <Item>
+        <TextId>2023</TextId>
+        <Text>Lyuk</Text>
+    </Item>
+
+    <Item>
+        <TextId>2024</TextId>
+        <Text>Lyuk létrehozása</Text>
+    </Item>
+
+    <Item>
+        <TextId>2025</TextId>
+        <Text>Nyílások száma</Text>
+    </Item>
+
+    <Item>
+        <TextId>2026</TextId>
+        <Text>Lyuk távolság 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>2027</TextId>
+        <Text>Lyuk távolság 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>2028</TextId>
+        <Text>Lyuk sugár</Text>
+    </Item>
+
+    <Item>
+        <TextId>2029</TextId>
+        <Text>Lyuk sugár 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>2030</TextId>
+        <Text>Lyuk sugár 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>2031</TextId>
+        <Text>Élek száma</Text>
+    </Item>
+
+    <Item>
+        <TextId>2032</TextId>
+        <Text>Élhossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>2033</TextId>
+        <Text>Elem létrehozása</Text>
+    </Item>
+
+    <Item>
+        <TextId>2034</TextId>
+        <Text>Elfogadás</Text>
+    </Item>
+
+    <Item>
+        <TextId>2035</TextId>
+        <Text>Válasszon pontokat, hpgy meghatározza a csomólemez szögét</Text>
+    </Item>
+
+    <Item>
+        <TextId>2036</TextId>
+        <Text>Alacsony</Text>
+    </Item>
+
+    <Item>
+        <TextId>2037</TextId>
+        <Text>Közepes</Text>
+    </Item>
+
+    <Item>
+        <TextId>2038</TextId>
+        <Text>Magas</Text>
+    </Item>
+
+    <Item>
+        <TextId>2039</TextId>
+        <Text>Auto</Text>
+    </Item>
+
+    <Item>
+        <TextId>2040</TextId>
+        <Text>Manuális</Text>
+    </Item>
+
+    <Item>
+        <TextId>2041</TextId>
+        <Text>Nincs</Text>
+    </Item>
+
+    <Item>
+        <TextId>2042</TextId>
+        <Text>Kör</Text>
+    </Item>
+
+    <Item>
+        <TextId>2043</TextId>
+        <Text>Ív</Text>
+    </Item>
+
+    <Item>
+        <TextId>2044</TextId>
+        <Text>Poligon</Text>
+    </Item>
+
+    <Item>
+        <TextId>2500</TextId>
+        <Text>Formátum</Text>
+    </Item>
+
+    <Item>
+        <TextId>2501</TextId>
+        <Text>Fólia</Text>
+    </Item>
+
+    <Item>
+        <TextId>2502</TextId>
+        <Text>Toll</Text>
+    </Item>
+
+    <Item>
+        <TextId>2503</TextId>
+        <Text>Toll fóliáról</Text>
+    </Item>
+
+    <Item>
+        <TextId>2504</TextId>
+        <Text>Vonal</Text>
+    </Item>
+
+    <Item>
+        <TextId>2505</TextId>
+        <Text>Vonal fóliáról</Text>
+    </Item>
+
+    <Item>
+        <TextId>2506</TextId>
+        <Text>Szín</Text>
+    </Item>
+
+    <Item>
+        <TextId>2507</TextId>
+        <Text>Szín fóliáról</Text>
+    </Item>
+
+    <Item>
+        <TextId>2508</TextId>
+        <Text>Felületelem</Text>
+    </Item>
+
+    <Item>
+        <TextId>2509</TextId>
+        <Text>Felület</Text>
+    </Item>
+
+    <Item>
+        <TextId>2510</TextId>
+        <Text>Felületelem</Text>
+    </Item>
+
+    <Item>
+        <TextId>2511</TextId>
+        <Text>Sraffozás</Text>
+    </Item>
+
+    <Item>
+        <TextId>2512</TextId>
+        <Text>Minta</Text>
+    </Item>
+
+    <Item>
+        <TextId>2513</TextId>
+        <Text>Kitöltés</Text>
+    </Item>
+
+    <Item>
+        <TextId>2514</TextId>
+        <Text>Bitképfelület</Text>
+    </Item>
+
+    <Item>
+        <TextId>2515</TextId>
+        <Text>Stílusfelület</Text>
+    </Item>
+
+    <Item>
+        <TextId>2516</TextId>
+        <Text>Távolság</Text>
+    </Item>
+
+    <Item>
+        <TextId>2517</TextId>
+        <Text>Távolság</Text>
+    </Item>
+
+    <!--BOLT-->
+
+    <Item>
+        <TextId>3000</TextId>
+        <Text>Csavar</Text>
+    </Item>
+
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Csavar típus</Text>
+    </Item>
+
+    <Item>
+        <TextId>3002</TextId>
+        <Text>Általános csapok | Horgonycsavarok</Text>
+    </Item>
+
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Kampó típus</Text>
+    </Item>
+
+    <Item>
+        <TextId>3004</TextId>
+        <Text>Fejjel | L-horog | J-horog</Text>
+    </Item>
+
+    <Item>
+        <TextId>3005</TextId>
+        <Text>Fej alak</Text>
+    </Item>
+
+    <Item>
+        <TextId>3006</TextId>
+        <Text>Hatlapú | Süllyesztett fejű</Text>
+    </Item>
+
+    <Item>
+        <TextId>3007</TextId>
+        <Text>Csavar paraméterek</Text>
+    </Item>
+
+    <Item>
+        <TextId>3008</TextId>
+        <Text>Méret</Text>
+    </Item>
+
+    <Item>
+        <TextId>3009</TextId>
+        <Text>Méret</Text>
+    </Item>
+
+    <Item>
+        <TextId>3010</TextId>
+        <Text>Hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>3011</TextId>
+        <Text>Alátétek</Text>
+    </Item>
+
+    <Item>
+        <TextId>3012</TextId>
+        <Text>Anya alatétek</Text>
+    </Item>
+
+    <Item>
+        <TextId>3013</TextId>
+        <Text>Csavar osztály</Text>
+    </Item>
+
+    <Item>
+        <TextId>3014</TextId>
+        <Text>Részletezettség</Text>
+    </Item>
+
+    <Item>
+        <TextId>3015</TextId>
+        <Text>Pozicionálás</Text>
+    </Item>
+
+    <Item>
+        <TextId>3016</TextId>
+        <Text>Csavarok száma</Text>
+    </Item>
+
+    <Item>
+        <TextId>3017</TextId>
+        <Text>Tájolás</Text>
+    </Item>
+
+    <Item>
+        <TextId>3018</TextId>
+        <Text>Tájolás</Text>
+    </Item>
+
+    <Item>
+        <TextId>3019</TextId>
+        <Text>Egyéni</Text>
+    </Item>
+
+    <Item>
+        <TextId>3020</TextId>
+        <Text>Pont</Text>
+    </Item>
+
+    <Item>
+        <TextId>3021</TextId>
+        <Text>Vektor</Text>
+    </Item>
+
+    <Item>
+        <TextId>3022</TextId>
+        <Text>Felül</Text>
+    </Item>
+
+    <Item>
+        <TextId>3023</TextId>
+        <Text>Központ</Text>
+    </Item>
+
+    <Item>
+        <TextId>3024</TextId>
+        <Text>Alul</Text>
+    </Item>
+
+    <Item>
+        <TextId>3025</TextId>
+        <Text>Referenciapont</Text>
+    </Item>
+
+    <Item>
+        <TextId>3026</TextId>
+        <Text>Csavarcsoport méret</Text>
+    </Item>
+
+    <Item>
+        <TextId>3027</TextId>
+        <Text>Távolság</Text>
+    </Item>
+
+    <Item>
+        <TextId>3028</TextId>
+        <Text> Távolság</Text>
+    </Item>
+
+    <Item>
+        <TextId>3029</TextId>
+        <Text>  Távolság</Text>
+    </Item>
+
+    <Item>
+        <TextId>3030</TextId>
+        <Text>   Távolság</Text>
+    </Item>
+
+    <Item>
+        <TextId>3031</TextId>
+        <Text>Forgásszög</Text>
+    </Item>
+
+    <Item>
+        <TextId>3032</TextId>
+        <Text>Forgásszög</Text>
+    </Item>
+
+    <Item>
+        <TextId>3033</TextId>
+        <Text>Csavar megfordítva</Text>
+    </Item>
+
+    <Item>
+        <TextId>3034</TextId>
+        <Text>Távolság</Text>
+    </Item>
+
+    <Item>
+        <TextId>3035</TextId>
+        <Text>Távolság </Text>
+    </Item>
+
+    <Item>
+        <TextId>3036</TextId>
+        <Text>Elem létrehozása</Text>
+    </Item>
+
+    <Item>
+        <TextId>3037</TextId>
+        <Text>Elfogadás</Text>
+    </Item>
+
+    <Item>
+        <TextId>3038</TextId>
+        <Text>Fogópont kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>3039</TextId>
+        <Text>Alacsony</Text>
+    </Item>
+
+    <Item>
+        <TextId>3040</TextId>
+        <Text>Közepes</Text>
+    </Item>
+
+    <Item>
+        <TextId>3041</TextId>
+        <Text>Magas</Text>
+    </Item>
+
+    <Item>
+        <TextId>3500</TextId>
+        <Text>Formátum</Text>
+    </Item>
+
+    <Item>
+        <TextId>3501</TextId>
+        <Text>Fólia</Text>
+    </Item>
+
+    <Item>
+        <TextId>3502</TextId>
+        <Text>Toll</Text>
+    </Item>
+
+    <Item>
+        <TextId>3503</TextId>
+        <Text>Toll fóliáról</Text>
+    </Item>
+
+    <Item>
+        <TextId>3504</TextId>
+        <Text>Vonal</Text>
+    </Item>
+
+    <Item>
+        <TextId>3505</TextId>
+        <Text>Vonal fóliáról</Text>
+    </Item>
+
+    <Item>
+        <TextId>3506</TextId>
+        <Text>Szín</Text>
+    </Item>
+
+    <Item>
+        <TextId>3507</TextId>
+        <Text>Szín fóliáról</Text>
+    </Item>
+
+    <Item>
+        <TextId>3508</TextId>
+        <Text>Felületelem</Text>
+    </Item>
+
+    <Item>
+        <TextId>3509</TextId>
+        <Text>Felület</Text>
+    </Item>
+
+    <Item>
+        <TextId>3510</TextId>
+        <Text>Felületelem</Text>
+    </Item>
+
+    <Item>
+        <TextId>3511</TextId>
+        <Text>Sraffozás</Text>
+    </Item>
+
+    <Item>
+        <TextId>3512</TextId>
+        <Text>Minta</Text>
+    </Item>
+
+    <Item>
+        <TextId>3513</TextId>
+        <Text>Kitöltés</Text>
+    </Item>
+
+    <Item>
+        <TextId>3514</TextId>
+        <Text>Bitképfelület</Text>
+    </Item>
+
+    <Item>
+        <TextId>3515</TextId>
+        <Text>Stílusfelület</Text>
+    </Item>
+
+    <!--WELD-->
+
+    <Item>
+        <TextId>4000</TextId>
+        <Text>Hegesztés</Text>
+    </Item>
+
+    <Item>
+        <TextId>4001</TextId>
+        <Text>Hegesztési varrat típusa</Text>
+    </Item>
+
+    <Item>
+        <TextId>4002</TextId>
+        <Text>Sokszöglánc | Kikerekítés | Konvex | Konkáv</Text>
+    </Item>
+
+    <Item>
+        <TextId>4003</TextId>
+        <Text>Általános értékek</Text>
+    </Item>
+
+    <Item>
+        <TextId>4004</TextId>
+        <Text>Hegesztés hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>4005</TextId>
+        <Text>Hegesztés szélesség</Text>
+    </Item>
+
+    <Item>
+        <TextId>4006</TextId>
+        <Text>Hegesztés szög</Text>
+    </Item>
+
+    <Item>
+        <TextId>4010</TextId>
+        <Text>Pozicionálás</Text>
+    </Item>
+
+    <Item>
+        <TextId>4011</TextId>
+        <Text>Forgatás</Text>
+    </Item>
+
+    <Item>
+        <TextId>4012</TextId>
+        <Text>Elem létrehozása</Text>
+    </Item>
+
+    <Item>
+        <TextId>4013</TextId>
+        <Text>Elfogadás</Text>
+    </Item>
+
+    <Item>
+        <TextId>4014</TextId>
+        <Text>Módosítás</Text>
+    </Item>
+
+    <Item>
+        <TextId>4015</TextId>
+        <Text>Kezdés elölről</Text>
+    </Item>
+
+    <Item>
+        <TextId>4016</TextId>
+        <Text>Utolsó pont eltávolítása</Text>
+    </Item>
+
+    <Item>
+        <TextId>4017</TextId>
+        <Text>Új pont</Text>
+    </Item>
+
+    <Item>
+        <TextId>4018</TextId>
+        <Text>Pont eltolása</Text>
+    </Item>
+
+    <Item>
+        <TextId>4500</TextId>
+        <Text>Formátum</Text>
+    </Item>
+
+    <Item>
+        <TextId>4501</TextId>
+        <Text>Fólia</Text>
+    </Item>
+
+    <Item>
+        <TextId>4502</TextId>
+        <Text>Toll</Text>
+    </Item>
+
+    <Item>
+        <TextId>4503</TextId>
+        <Text>Toll fóliáról</Text>
+    </Item>
+
+    <Item>
+        <TextId>4504</TextId>
+        <Text>Vonal</Text>
+    </Item>
+
+    <Item>
+        <TextId>4505</TextId>
+        <Text>Vonal fóliáról</Text>
+    </Item>
+
+    <Item>
+        <TextId>4506</TextId>
+        <Text>Szín</Text>
+    </Item>
+
+    <Item>
+        <TextId>4507</TextId>
+        <Text>Szín fóliáról</Text>
+    </Item>
+
+    <Item>
+        <TextId>4508</TextId>
+        <Text>Felületelem</Text>
+    </Item>
+
+    <Item>
+        <TextId>4509</TextId>
+        <Text>Felület</Text>
+    </Item>
+
+    <Item>
+        <TextId>4510</TextId>
+        <Text>Felületelem</Text>
+    </Item>
+
+    <Item>
+        <TextId>4511</TextId>
+        <Text>Sraffozás</Text>
+    </Item>
+
+    <Item>
+        <TextId>4512</TextId>
+        <Text>Minta</Text>
+    </Item>
+
+    <Item>
+        <TextId>4513</TextId>
+        <Text>Kitöltés</Text>
+    </Item>
+
+    <Item>
+        <TextId>4514</TextId>
+        <Text>Bitképfelület</Text>
+    </Item>
+
+    <Item>
+        <TextId>4515</TextId>
+        <Text>Stílusfelület</Text>
+    </Item>
+
+    <!--STIFFENER-->
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Merevítés paraméterek</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>Pontok</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>2D poligonpálya kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>5003</TextId>
+        <Text>3D poligonpálya kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>5004</TextId>
+        <Text>Vastagság</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>Hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>5006</TextId>
+        <Text>Szélesség</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>Távolság Ox</Text>
+    </Item>
+
+    <Item>
+        <TextId>5008</TextId>
+        <Text>Sugár</Text>
+    </Item>
+
+    <Item>
+        <TextId>5009</TextId>
+        <Text>Sarok alakú</Text>
+    </Item>
+
+    <Item>
+        <TextId>5010</TextId>
+        <Text>Derékszögű sarok | Élletört sarok | Lekerekített sarok</Text>
+    </Item>
+
+    <Item>
+        <TextId>5011</TextId>
+        <Text>Lekerekítési sugár</Text>
+    </Item>
+
+    <Item>
+        <TextId>5012</TextId>
+        <Text> Lekerekítés</Text>
+    </Item>
+
+    <Item>
+        <TextId>5013</TextId>
+        <Text>  Lekerekítés</Text>
+    </Item>
+
+    <Item>
+        <TextId>5014</TextId>
+        <Text>   Lekerekítés</Text>
+    </Item>
+
+    <Item>
+        <TextId>5015</TextId>
+        <Text>Lekerekítés</Text>
+    </Item>
+
+    <Item>
+        <TextId>5016</TextId>
+        <Text> Lesarkítás</Text>
+    </Item>
+
+    <Item>
+        <TextId>5017</TextId>
+        <Text>Hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>5018</TextId>
+        <Text>Szélesség</Text>
+    </Item>
+
+    <Item>
+        <TextId>5019</TextId>
+        <Text>  Lesarkítás</Text>
+    </Item>
+
+    <Item>
+        <TextId>5020</TextId>
+        <Text>Hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>5021</TextId>
+        <Text>Szélesség</Text>
+    </Item>
+
+    <Item>
+        <TextId>5022</TextId>
+        <Text>Lesarkítás</Text>
+    </Item>
+
+    <Item>
+        <TextId>5023</TextId>
+        <Text>Hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>5024</TextId>
+        <Text>Szélesség</Text>
+    </Item>
+
+    <Item>
+        <TextId>5025</TextId>
+        <Text>Lesarkítás</Text>
+    </Item>
+
+    <Item>
+        <TextId>5026</TextId>
+        <Text>Hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>5027</TextId>
+        <Text>Szélesség</Text>
+    </Item>
+
+    <Item>
+        <TextId>5028</TextId>
+        <Text>Pozicionálás</Text>
+    </Item>
+
+    <Item>
+        <TextId>5029</TextId>
+        <Text>Igazítás</Text>
+    </Item>
+
+    <Item>
+        <TextId>5030</TextId>
+        <Text>Tájolás</Text>
+    </Item>
+
+    <Item>
+        <TextId>5031</TextId>
+        <Text>Egyéni</Text>
+    </Item>
+
+    <Item>
+        <TextId>5032</TextId>
+        <Text>Alak</Text>
+    </Item>
+
+    <Item>
+        <TextId>5033</TextId>
+        <Text>Vektor </Text>
+    </Item>
+
+    <Item>
+        <TextId>5034</TextId>
+        <Text>Referenciapont</Text>
+    </Item>
+
+    <Item>
+        <TextId>5035</TextId>
+        <Text>Referenciapont</Text>
+    </Item>
+
+    <Item>
+        <TextId>5036</TextId>
+        <Text>Forgásszög</Text>
+    </Item>
+
+    <Item>
+        <TextId>5037</TextId>
+        <Text>Y szög</Text>
+    </Item>
+
+    <Item>
+        <TextId>5038</TextId>
+        <Text>Z szög</Text>
+    </Item>
+
+    <Item>
+        <TextId>5039</TextId>
+        <Text>Távolság</Text>
+    </Item>
+
+    <Item>
+        <TextId>5040</TextId>
+        <Text>Távolság X</Text>
+    </Item>
+
+    <Item>
+        <TextId>5041</TextId>
+        <Text>Távolság Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>5042</TextId>
+        <Text>Távolság Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>5043</TextId>
+        <Text>Elem létrehozása</Text>
+    </Item>
+
+    <Item>
+        <TextId>5044</TextId>
+        <Text>Elfogadás</Text>
+    </Item>
+
+    <Item>
+        <TextId>5045</TextId>
+        <Text>Élhossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>5046</TextId>
+        <Text>Téglalap</Text>
+    </Item>
+
+    <Item>
+        <TextId>5047</TextId>
+        <Text>Háromszög</Text>
+    </Item>
+
+    <Item>
+        <TextId>5048</TextId>
+        <Text>Sarokelem-paraméterek</Text>
+    </Item>
+
+    <Item>
+        <TextId>5049</TextId>
+        <Text>Lemezméret/-helyzet</Text>
+    </Item>
+
+    <Item>
+        <TextId>5050</TextId>
+        <Text>Snap pontok mutatása</Text>
+    </Item>
+
+    <Item>
+        <TextId>5051</TextId>
+        <Text>Trapéz</Text>
+    </Item>
+
+    <Item>
+        <TextId>5052</TextId>
+        <Text>Dim 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>5053</TextId>
+        <Text>Dim 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>5054</TextId>
+        <Text>Távolság Oy</Text>
+    </Item>
+
+    <Item>
+        <TextId>5055</TextId>
+        <Text>X szög</Text>
+    </Item>
+
+    <Item>
+        <TextId>5500</TextId>
+        <Text>Tulajdonságok</Text>
+    </Item>
+
+    <Item>
+        <TextId>5501</TextId>
+        <Text>Fólia</Text>
+    </Item>
+
+    <Item>
+        <TextId>5502</TextId>
+        <Text>Toll</Text>
+    </Item>
+
+    <Item>
+        <TextId>5503</TextId>
+        <Text>Toll fóliáról</Text>
+    </Item>
+
+    <Item>
+        <TextId>5504</TextId>
+        <Text>Vonal</Text>
+    </Item>
+
+    <Item>
+        <TextId>5505</TextId>
+        <Text>Vonal fóliáról</Text>
+    </Item>
+
+    <Item>
+        <TextId>5506</TextId>
+        <Text>Szín</Text>
+    </Item>
+
+    <Item>
+        <TextId>5507</TextId>
+        <Text>Szín fóliáról</Text>
+    </Item>
+
+    <!--WELD SYMBOL-->
+
+    <Item>
+        <TextId>6000</TextId>
+        <Text>Szimbólum hozzáadása</Text>
+    </Item>
+
+    <Item>
+        <TextId>6001</TextId>
+        <Text>Hegesztési varrat hossza</Text>
+    </Item>
+
+    <Item>
+        <TextId>6002</TextId>
+        <Text>Hegesztési varrat mélysége</Text>
+    </Item>
+
+    <Item>
+        <TextId>6003</TextId>
+        <Text>Részletek</Text>
+    </Item>
+
+    <Item>
+        <TextId>6004</TextId>
+        <Text>Körbe hegesztés</Text>
+    </Item>
+
+    <Item>
+        <TextId>6005</TextId>
+        <Text>Helyszíni hegesztés</Text>
+    </Item>
+
+    <Item>
+        <TextId>6006</TextId>
+        <Text>Megjegyzés</Text>
+    </Item>
+
+    <Item>
+        <TextId>6007</TextId>
+        <Text>Hegesztési varrat típusa</Text>
+    </Item>
+
+    <Item>
+        <TextId>6500</TextId>
+        <Text>Hegesztési varrat szimbólum</Text>
+    </Item>
+
+    <Item>
+        <TextId>6501</TextId>
+        <Text>Referencia vonal hossza</Text>
+    </Item>
+
+    <Item>
+        <TextId>6502</TextId>
+        <Text>Szöveg méretarány</Text>
+    </Item>
+
+    <Item>
+        <TextId>6503</TextId>
+        <Text>Fólia</Text>
+    </Item>
+
+    <Item>
+        <TextId>6504</TextId>
+        <Text>Toll</Text>
+    </Item>
+
+    <Item>
+        <TextId>6505</TextId>
+        <Text>Toll fóliáról</Text>
+    </Item>
+
+    <Item>
+        <TextId>6506</TextId>
+        <Text>Vonaltípus</Text>
+    </Item>
+
+    <Item>
+        <TextId>6507</TextId>
+        <Text>Vonaltípus réteg szerint</Text>
+    </Item>
+
+    <Item>
+        <TextId>6508</TextId>
+        <Text>Szín</Text>
+    </Item>
+
+    <Item>
+        <TextId>6509</TextId>
+        <Text>Szín réteg szerint</Text>
+    </Item>
+
+    <!--HOLE-->
+
+    <Item>
+        <TextId>7000</TextId>
+        <Text>Lyuk</Text>
+    </Item>
+
+    <Item>
+        <TextId>7001</TextId>
+        <Text>Furat alakja</Text>
+    </Item>
+
+    <Item>
+        <TextId>7002</TextId>
+        <Text> Kör</Text>
+    </Item>
+
+    <Item>
+        <TextId>7003</TextId>
+        <Text>Derékszögű</Text>
+    </Item>
+
+    <Item>
+        <TextId>7004</TextId>
+        <Text>Átmérő</Text>
+    </Item>
+
+    <Item>
+        <TextId>7005</TextId>
+        <Text>Mélység</Text>
+    </Item>
+
+    <Item>
+        <TextId>7006</TextId>
+        <Text>Szélesség</Text>
+    </Item>
+
+    <Item>
+        <TextId>7007</TextId>
+        <Text>Hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>7008</TextId>
+        <Text>Sarok alakú</Text>
+    </Item>
+
+    <Item>
+        <TextId>7009</TextId>
+        <Text>Lesarkítás</Text>
+    </Item>
+
+    <Item>
+        <TextId>7010</TextId>
+        <Text>Lekerekítés</Text>
+    </Item>
+
+    <Item>
+        <TextId>7011</TextId>
+        <Text>Elfogadás</Text>
+    </Item>
+
+    <Item>
+        <TextId>7012</TextId>
+        <Text>Elem létrehozása</Text>
+    </Item>
+
+    <Item>
+        <TextId>7013</TextId>
+        <Text>Derékszögű sarok | Élletört sarok | Lekerekített sarok</Text>
+    </Item>
+
+    <Item>
+        <TextId>7014</TextId>
+        <Text> Lesarkítás</Text>
+    </Item>
+
+    <Item>
+        <TextId>7015</TextId>
+        <Text>  Lesarkítás</Text>
+    </Item>
+
+    <Item>
+        <TextId>7016</TextId>
+        <Text>   Lesarkítás</Text>
+    </Item>
+
+    <Item>
+        <TextId>7017</TextId>
+        <Text>Élletörés mérete</Text>
+    </Item>
+
+    <Item>
+        <TextId>7018</TextId>
+        <Text> Lekerekítés</Text>
+    </Item>
+
+    <Item>
+        <TextId>7019</TextId>
+        <Text>  Lekerekítés</Text>
+    </Item>
+
+    <Item>
+        <TextId>7020</TextId>
+        <Text>   Lekerekítés</Text>
+    </Item>
+
+    <Item>
+        <TextId>7021</TextId>
+        <Text>Lekerekítési sugár</Text>
+    </Item>
+
+    <Item>
+        <TextId>7022</TextId>
+        <Text>Szög</Text>
+    </Item>
+
+    <Item>
+        <TextId>7023</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>7024</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>7025</TextId>
+        <Text>Lyuk létrehozása</Text>
+    </Item>
+
+    <Item>
+        <TextId>7026</TextId>
+        <Text>Furat törlése</Text>
+    </Item>
+
+    <Item>
+        <TextId>7027</TextId>
+        <Text>Pozícióparaméterek</Text>
+    </Item>
+
+    <Item>
+        <TextId>7028</TextId>
+        <Text>Távolság X</Text>
+    </Item>
+
+    <Item>
+        <TextId>7029</TextId>
+        <Text>Távolság Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>7030</TextId>
+        <Text>Hosszanti furat</Text>
+    </Item>
+
+    <!-- ENDCONDITION -->
+
+    <Item>
+        <TextId>8000</TextId>
+        <Text>Végállapot</Text>
+    </Item>
+
+    <Item>
+        <TextId>8001</TextId>
+        <Text>Elem létrehozása</Text>
+    </Item>
+
+    <Item>
+        <TextId>8002</TextId>
+        <Text>Elfogadás</Text>
+    </Item>
+
+    <Item>
+        <TextId>8003</TextId>
+        <Text>Fenti művelet</Text>
+    </Item>
+
+    <Item>
+        <TextId>8004</TextId>
+        <Text>Alsó művelet</Text>
+    </Item>
+
+    <Item>
+        <TextId>8005</TextId>
+        <Text>Művelet típusa</Text>
+    </Item>
+
+    <Item>
+        <TextId>8006</TextId>
+        <Text>Nincs</Text>
+    </Item>
+
+    <Item>
+        <TextId>8007</TextId>
+        <Text>Kiharapási szint</Text>
+    </Item>
+
+    <Item>
+        <TextId>8008</TextId>
+        <Text>Kiharapás Std</Text>
+    </Item>
+
+    <Item>
+        <TextId>8009</TextId>
+        <Text>Kiharapás FEMA</Text>
+    </Item>
+
+    <Item>
+        <TextId>8010</TextId>
+        <Text>Kiharapás szeizmikus</Text>
+    </Item>
+
+    <Item>
+        <TextId>8011</TextId>
+        <Text>Karimaszélesség, vágás</Text>
+    </Item>
+
+    <Item><!-- profile-->
+        <TextId>8012</TextId>
+        <Text>I</Text>
+    </Item>
+
+    <Item>
+        <TextId>8013</TextId>
+        <Text>Üreges téglalap</Text>
+    </Item>
+
+    <Item>
+        <TextId>8014</TextId>
+        <Text>L</Text>
+    </Item>
+
+    <Item>
+        <TextId>8015</TextId>
+        <Text>Üreges kör</Text>
+    </Item>
+
+    <Item>
+        <TextId>8016</TextId>
+        <Text>C</Text>
+    </Item>
+
+    <Item>
+        <TextId>8017</TextId>
+        <Text>T</Text>
+    </Item>
+
+    <Item>
+        <TextId>8018</TextId>
+        <Text>Formátum</Text>
+    </Item>
+
+    <Item>
+        <TextId>8019</TextId>
+        <Text>Kör</Text>
+    </Item>
+
+    <Item>
+        <TextId>8020</TextId>
+        <Text>I Asym</Text>
+    </Item>
+
+    <Item>
+        <TextId>8021</TextId>
+        <Text>Hidegen alakított</Text>
+    </Item>
+
+    <Item>
+        <TextId>8022</TextId>
+        <Text>Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>8023</TextId>
+        <Text>Sínek</Text>
+    </Item>
+
+    <Item>
+        <TextId>8024</TextId>
+        <Text>Bevágás</Text>
+    </Item>
+
+    <Item><!-- Cope plain-->
+        <TextId>8025</TextId>
+        <Text>Kiharapás hossza</Text>
+    </Item>
+
+    <Item>
+        <TextId>8026</TextId>
+        <Text>Kiharapás mélysége</Text>
+    </Item>
+
+    <Item>
+        <TextId>8027</TextId>
+        <Text>Kiharapási sugár</Text>
+    </Item>
+
+    <Item><!-- Cope Std-->
+        <TextId>8028</TextId>
+        <Text>Kiharapás hossza</Text>
+    </Item>
+
+    <Item>
+        <TextId>8029</TextId>
+        <Text>Kiharapás mélysége</Text>
+    </Item>
+
+    <Item>
+        <TextId>8030</TextId>
+        <Text>Beugró sugár</Text>
+    </Item>
+
+    <Item>
+        <TextId>8031</TextId>
+        <Text>Gyökérperem</Text>
+    </Item>
+
+    <Item>
+        <TextId>8032</TextId>
+        <Text>Horonyszög</Text>
+    </Item>
+
+    <Item>
+        <TextId>8033</TextId>
+        <Text>Kiharapási művelet</Text>
+    </Item>
+
+    <Item>
+        <TextId>8034</TextId>
+        <Text>Klipláb</Text>
+    </Item>
+
+    <Item><!-- Cope FEMA-->
+        <TextId>8035</TextId>
+        <Text>Kiharapás hossza</Text>
+    </Item>
+
+    <Item>
+        <TextId>8036</TextId>
+        <Text>Beugrási hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>8037</TextId>
+        <Text>Beugrási mélység</Text>
+    </Item>
+
+    <Item>
+        <TextId>8038</TextId>
+        <Text>Karima zárt hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>8039</TextId>
+        <Text>Beugró sugár</Text>
+    </Item>
+
+    <Item>
+        <TextId>8040</TextId>
+        <Text>Horonyszög</Text>
+    </Item>
+
+    <Item>
+        <TextId>8041</TextId>
+        <Text>A beugró furatok távolsága</Text>
+    </Item>
+
+    <Item>
+        <TextId>8042</TextId>
+        <Text>Gyökérperem</Text>
+    </Item>
+
+    <Item>
+        <TextId>8043</TextId>
+        <Text>Kiharapási művelet</Text>
+    </Item>
+
+    <Item>
+        <TextId>8044</TextId>
+        <Text>Klipláb</Text>
+    </Item>
+
+    <Item><!-- Cope Seismic-->
+        <TextId>8045</TextId>
+        <Text>Kiharapás hossza</Text>
+    </Item>
+
+    <Item>
+        <TextId>8046</TextId>
+        <Text>Beugrási hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>8047</TextId>
+        <Text>Beugrási mélység</Text>
+    </Item>
+
+    <Item>
+        <TextId>8048</TextId>
+        <Text>Karima zárt hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>8049</TextId>
+        <Text>Beugró sugár</Text>
+    </Item>
+
+    <Item>
+        <TextId>8050</TextId>
+        <Text>Horonyszög</Text>
+    </Item>
+
+    <Item>
+        <TextId>8051</TextId>
+        <Text>A beugró furatok távolsága</Text>
+    </Item>
+
+    <Item>
+        <TextId>8052</TextId>
+        <Text>Gyökérperem</Text>
+    </Item>
+
+    <Item><!-- Cut flange width-->
+        <TextId>8053</TextId>
+        <Text>Karima hossza a közeli oldalon</Text>
+    </Item>
+
+    <Item>
+        <TextId>8054</TextId>
+        <Text>Karima hossza a távoli oldalon</Text>
+    </Item>
+
+    <Item>
+        <TextId>8055</TextId>
+        <Text>Karima kötött vágása</Text>
+    </Item>
+
+    <Item>
+        <TextId>8056</TextId>
+        <Text>Karimaszélesség vágása</Text>
+    </Item>
+
+    <Item><!-- Notch-->
+        <TextId>8057</TextId>
+        <Text>Bevágás hossza</Text>
+    </Item>
+
+    <Item>
+        <TextId>8058</TextId>
+        <Text>Bevágás szélessége</Text>
+    </Item>
+
+    <Item>
+        <TextId>8059</TextId>
+        <Text>Bevágási távolság</Text>
+    </Item>
+
+    <Item>
+        <TextId>8060</TextId>
+        <Text>Bevágás sugara</Text>
+    </Item>
+
+    <Item>
+        <TextId>8061</TextId>
+        <Text>Művelet a közeli oldalon</Text>
+    </Item>
+
+    <Item>
+        <TextId>8062</TextId>
+        <Text>Művelet a távoli oldalon</Text>
+    </Item>
+
+    <Item><!-- Moment connection -->
+        <TextId>8063</TextId>
+        <Text>Pillanatnyi csatlakozás, talp-távolság felület</Text>
+    </Item>
+
+    <!-- DIALOG LINES -->
+
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Kérjük, válasszon ki 2 pontot a szegecselem elhelyezéséhez</Text>
+    </Item>
+
+    <Item>
+        <TextId>10001</TextId>
+        <Text>Pont beszúrása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10002</TextId>
+        <Text>Kattintson a Pontok gombra a poligonpálya kiválasztásához</Text>
+    </Item>
+
+    <Item>
+        <TextId>10005</TextId>
+        <Text>Kattintson az új pont meghatározásához</Text>
+    </Item>
+
+    <Item>
+        <TextId>10006</TextId>
+        <Text>Pont beszúrás kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10007</TextId>
+        <Text>Az első beszúrási pont kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>A második beszúrási pont kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Csavar iránya mentén lévő pont kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Csavar irány kezdőpontjának kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>Az első beszúrási pont kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10012</TextId>
+        <Text>A második beszúrási pont kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10013</TextId>
+        <Text>Az első szögpont kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10014</TextId>
+        <Text>A második szögpont kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10015</TextId>
+        <Text>Pont beszúrás kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10016</TextId>
+        <Text>Az első beszúrási pont kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10017</TextId>
+        <Text>A második beszúrási pont kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10018</TextId>
+        <Text>A lemez iránya mentén lévő pont kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10019</TextId>
+        <Text>Lemezirány kezdőpontjának kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10020</TextId>
+        <Text>Pont beszúrás kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Poligonpálya kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10024</TextId>
+        <Text>Vastagság kiválasztása ponton keresztül</Text>
+    </Item>
+
+    <Item>
+        <TextId>10027</TextId>
+        <Text>Pont beszúrás kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10028</TextId>
+        <Text>Az első beszúrási pont kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10029</TextId>
+        <Text>A következő beszúrási pont kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10030</TextId>
+        <Text>Tartószerkezeti elem kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10031</TextId>
+        <Text>Új pont kiválasztása a hegesztési varrat mentén</Text>
+    </Item>
+
+    <Item>
+        <TextId>10032</TextId>
+        <Text>Profil kiválasztása a palettán</Text>
+    </Item>
+
+    <Item>
+        <TextId>10033</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>10034</TextId>
+        <Text>Válassza ki a fogót, majd húzza, és módosítsa a hegesztési varrat paramétereit</Text>
+    </Item>
+
+    <!-- POP-UP MESSAGE -->
+
+    <Item>
+        <TextId>11000</TextId>
+        <Text>Először a csavart helyezze el</Text>
+    </Item>
+
+    <Item>
+        <TextId>11001</TextId>
+        <Text>Ez nem egy zárt poligonpálya</Text>
+    </Item>
+
+    <Item>
+        <TextId>11002</TextId>
+        <Text>Nem minden pont fekszik ugyanazon a 3D-síkon</Text>
+    </Item>
+
+    <Item>
+        <TextId>11003</TextId>
+        <Text>Kérjük, válasszon két meglévő pont közül</Text>
+    </Item>
+
+    <Item>
+        <TextId>11004</TextId>
+        <Text>Nincs elérhető lokalizáció.\n</Text>
+    </Item>
+
+    <Item>
+        <TextId>11005</TextId>
+        <Text>Ez a PythonPart csak érvényes lokalizációs fájl esetén hajtható végre helyesen.\n</Text>
+    </Item>
+
+    <Item>
+        <TextId>11006</TextId>
+        <Text>Nem jön létre geometria.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11007</TextId>
+        <Text>Legalább 2 pont szükséges</Text>
+    </Item>
+
+    <Item>
+        <TextId>11008</TextId>
+        <Text>Kérjük, először válasszon ki egy beszúrási pontot</Text>
+    </Item>
+
+    <Item>
+        <TextId>11009</TextId>
+        <Text>Kérjük, válassza ki újra a pontot, mivel 2 kiválasztott pont nem tartozhat ugyanahhoz a felülethez.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11010</TextId>
+        <Text>Kérjük, először válasszon ki egy lemezt vagy egy tartószerkezeti elemet</Text>
+    </Item>
+
+    <Item>
+        <TextId>11011</TextId>
+        <Text>Ez a folyamat törli az érvénytelen geometriát eredményező furatokat. Folytatja a törlési folyamatot?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11012</TextId>
+        <Text>A kiválasztott elem profilja nem kompatibilis a Connection Toolbox-szal.
+Kérjük, használja a Nemetschek-profilkatalógust.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11013</TextId>
+        <Text>Kérjük, válasszon egy tartószerkezeti elemet.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11014</TextId>
+        <Text>Nem kompatibilis eljárás</Text>
+    </Item>
+
+    <Item>
+        <TextId>11015</TextId>
+        <Text>Elemtípus nem kompatibilis</Text>
+    </Item>
+
+    <Item>
+        <TextId>11016</TextId>
+        <Text>Ez a funkció nem kompatibilis a jelenlegi licenccel</Text>
+    </Item>
+
+    <Item>
+        <TextId>11017</TextId>
+        <Text>Ez a funkció nem kompatibilis az Allplan jelenleg használt verziójával.</Text>
+    </Item>
+
+    <!-- NOT USED TO EXPRESS -->
+
+    <Item>
+        <TextId>12000</TextId>
+        <Text>Ox</Text>
+    </Item>
+
+    <Item>
+        <TextId>12001</TextId>
+        <Text>Oy</Text>
+    </Item>
+
+    <Item>
+        <TextId>12002</TextId>
+        <Text>Oz</Text>
+    </Item>
+
+    <Item>
+        <TextId>12003</TextId>
+        <Text>Ox: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12004</TextId>
+        <Text>Oy: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12005</TextId>
+        <Text>Oz: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12006</TextId>
+        <Text>Lyuk</Text>
+    </Item>
+
+    <Item>
+        <TextId>12007</TextId>
+        <Text>Lyuk létrehozása</Text>
+    </Item>
+
+    <Item>
+        <TextId>12008</TextId>
+        <Text>Lyuk sugár</Text>
+    </Item>
+
+    <Item>
+        <TextId>12009</TextId>
+        <Text>Horony hossza</Text>
+    </Item>
+
+    <Item>
+        <TextId>12010</TextId>
+        <Text>Furatszög</Text>
+    </Item>
+
+    <Item>
+        <TextId>12011</TextId>
+        <Text>Furattávolság</Text>
+    </Item>
+
+    <Item>
+        <TextId>12012</TextId>
+        <Text>Elhelyezés</Text>
+    </Item>
+
+    <Item>
+        <TextId>12013</TextId>
+        <Text>Magassági tulajdonságok</Text>
+    </Item>
+
+    <Item>
+        <TextId>12014</TextId>
+        <Text>Referenciapont</Text>
+    </Item>
+
+    <Item>
+        <TextId>12015</TextId>
+        <Text>Kezdőpont</Text>
+    </Item>
+
+    <Item>
+        <TextId>12016</TextId>
+        <Text>Végpont</Text>
+    </Item>
+
+    <Item>
+        <TextId>12017</TextId>
+        <Text>2</Text>
+    </Item>
+
+    <Item>
+        <TextId>12018</TextId>
+        <Text>3</Text>
+    </Item>
+
+    <Item>
+        <TextId>12019</TextId>
+        <Text>Csomólemez</Text>
+    </Item>
+
+    <Item>
+        <TextId>12020</TextId>
+        <Text>Csavar</Text>
+    </Item>
+
+    <Item>
+        <TextId>12021</TextId>
+        <Text>Hegesztési varrat</Text>
+    </Item>
+
+    <Item>
+        <TextId>12022</TextId>
+        <Text>Pontok</Text>
+    </Item>
+
+    <Item>
+        <TextId>12023</TextId>
+        <Text>Kimerevítés</Text>
+    </Item>
+</Element>

@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+  <Item>
+    <TextId>1001</TextId>
+    <Text>Workflow</Text>
+  </Item>
+  <Item>
+    <TextId>1002</TextId>
+    <Text>További információk:</Text>
+  </Item>
+
+  <Item>
+    <TextId>1003</TextId>
+    <Text>Tutorial</Text>
+  </Item>
+
+  <Item>
+    <TextId>1004</TextId>
+    <Text>Elemek</Text>
+  </Item>
+
+  <Item>
+    <TextId>1005</TextId>
+    <Text>Vasalás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1006</TextId>
+    <Text>Metszetek</Text>
+  </Item>
+
+  <Item>
+    <TextId>1007</TextId>
+    <Text>Létrehozás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1009</TextId>
+    <Text>3D objektum</Text>
+  </Item>
+
+  <Item>
+    <TextId>1011</TextId>
+    <Text>Típus kiválasztása</Text>
+  </Item>
+
+  <Item>
+    <TextId>1012</TextId>
+    <Text>Általános</Text>
+  </Item>
+
+  <Item>
+    <TextId>1013</TextId>
+    <Text>Általános beállítások</Text>
+  </Item>
+
+  <Item>
+    <TextId>1020</TextId>
+    <Text>Betontakarás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1021</TextId>
+    <Text>Beton szilárdsági osztály</Text>
+  </Item>
+
+  <Item>
+    <TextId>1024</TextId>
+    <Text>Vasalás beállítások</Text>
+  </Item>
+
+  <Item>
+    <TextId>1025</TextId>
+    <Text>Min. ø horizontális vasalás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1026</TextId>
+    <Text>Min. ø vertikális vasalás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1027</TextId>
+    <Text>Max. távolság, horizontális vasalás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1028</TextId>
+    <Text>Max. távolság, vertikális vasalás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1029</TextId>
+    <Text>Kampószög</Text>
+  </Item>
+
+  <Item>
+    <TextId>1030</TextId>
+    <Text>Max. hossz, horizontális vasalás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1031</TextId>
+    <Text>Transzverzális</Text>
+  </Item>
+
+  <Item>
+    <TextId>1032</TextId>
+    <Text>Elhelyezési szög</Text>
+  </Item>
+
+  <Item>
+    <TextId>1033</TextId>
+    <Text>Hálótípus</Text>
+  </Item>
+
+  <Item>
+    <TextId>1034</TextId>
+    <Text>Fő vasalás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1035</TextId>
+    <Text>Köracélvasalás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1036</TextId>
+    <Text>Hálóvasalás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1037</TextId>
+    <Text>Háló paraméterek</Text>
+  </Item>
+
+  <Item>
+    <TextId>1038</TextId>
+    <Text>Vertikális vasalás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1039</TextId>
+    <Text>Átmérő</Text>
+  </Item>
+
+  <Item>
+    <TextId>1040</TextId>
+    <Text>Távolság</Text>
+  </Item>
+
+  <Item>
+    <TextId>1041</TextId>
+    <Text>Kezdővasak hossza</Text>
+  </Item>
+
+  <Item>
+    <TextId>1042</TextId>
+    <Text>Horizontális vasalás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1043</TextId>
+    <Text>Vasalásmód</Text>
+  </Item>
+
+  <Item>
+    <TextId>1045</TextId>
+    <Text>Átfogási hossz</Text>
+  </Item>
+
+  <Item>
+    <TextId>1046</TextId>
+    <Text>Vasalás a falvégen</Text>
+  </Item>
+
+  <Item>
+    <TextId>1047</TextId>
+    <Text>Vasak száma</Text>
+  </Item>
+
+  <Item>
+    <TextId>1048</TextId>
+    <Text>Kezdőhossz</Text>
+  </Item>
+
+  <Item>
+    <TextId>1049</TextId>
+    <Text>Kezdőszélesség</Text>
+  </Item>
+
+  <Item>
+    <TextId>1050</TextId>
+    <Text>Hosszirányú</Text>
+  </Item>
+
+  <Item>
+    <TextId>1051</TextId>
+    <Text>Elhelyezési irány</Text>
+  </Item>
+
+  <Item>
+    <TextId>1052</TextId>
+    <Text>Hossz</Text>
+  </Item>
+
+  <Item>
+    <TextId>1053</TextId>
+    <Text>Python Part</Text>
+  </Item>
+
+  <Item>
+    <TextId>1054</TextId>
+    <Text>Vasalás, falnyílás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1055</TextId>
+    <Text>Vasalás hozzáadása a nyílás körül</Text>
+  </Item>
+
+  <Item>
+    <TextId>1056</TextId>
+    <Text>Fekvő</Text>
+  </Item>
+
+  <Item>
+    <TextId>1057</TextId>
+    <Text>Háló kivágása</Text>
+  </Item>
+
+  <Item>
+    <TextId>1058</TextId>
+    <Text>Elhelyezési irány megváltoztatása</Text>
+  </Item>
+
+  <Item>
+    <TextId>1059</TextId>
+    <Text>Háló eltolása</Text>
+  </Item>
+
+  <Item>
+    <TextId>1060</TextId>
+    <Text>Bekötőkengyel</Text>
+  </Item>
+
+  <Item>
+    <TextId>1061</TextId>
+    <Text>Vízszintes bekötőkengyel</Text>
+  </Item>
+
+  <Item>
+    <TextId>1062</TextId>
+    <Text>Mint a fő vasalás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1063</TextId>
+    <Text>Hálócsoport</Text>
+  </Item>
+
+  <Item>
+    <TextId>1065</TextId>
+    <Text>Bekötőkengyel hossz</Text>
+  </Item>
+
+  <Item>
+    <TextId>1067</TextId>
+    <Text>Függőleges bekötőkengyel</Text>
+  </Item>
+
+  <Item>
+    <TextId>1072</TextId>
+    <Text>Bekötőkengyel átfogási hossz</Text>
+  </Item>
+
+  <Item>
+    <TextId>1073</TextId>
+    <Text>Horizontális kengyel</Text>
+  </Item>
+
+  <Item>
+    <TextId>1077</TextId>
+    <Text>Vertikális kengyel</Text>
+  </Item>
+
+  <Item>
+    <TextId>1081</TextId>
+    <Text>Metszetek elhelyezése</Text>
+  </Item>
+
+  <Item>
+    <TextId>1082</TextId>
+    <Text>Felső fal kiválasztása</Text>
+  </Item>
+
+  <Item>
+    <TextId>1083</TextId>
+    <Text>Nyílások kiválasztása</Text>
+  </Item>
+
+  <Item>
+    <TextId>1084</TextId>
+    <Text>Első fal kiválasztása</Text>
+  </Item>
+
+  <Item>
+    <TextId>1085</TextId>
+    <Text>Ellenőrzés és elhelyezés</Text>
+  </Item>
+
+  <Item>
+    <TextId>1086</TextId>
+    <Text>Zárt horizontális kengyel h &lt;</Text>
+  </Item>
+
+  <Item>
+    <TextId>1087</TextId>
+    <Text>Zárt vertikális kengyel h &lt;</Text>
+  </Item>
+
+  <Item>
+    <TextId>1088</TextId>
+    <Text>Meghosszabbítás horizontálisan</Text>
+  </Item>
+
+  <Item>
+    <TextId>1089</TextId>
+    <Text>Meghosszabbítás vertikálisan</Text>
+  </Item>
+
+  <Item>
+    <TextId>1090</TextId>
+    <Text>Nézet</Text>
+  </Item>
+
+  <Item>
+    <TextId>1091</TextId>
+    <Text>Fő vasalat - hajlítási henger</Text>
+  </Item>
+
+  <Item>
+    <TextId>1092</TextId>
+    <Text>Kengyel - hajlítási henger</Text>
+  </Item>
+
+  <Item>
+    <TextId>1094</TextId>
+    <Text>Vertikális metszet</Text>
+  </Item>
+
+  <Item>
+    <TextId>1098</TextId>
+    <Text>Horizontális metszet</Text>
+  </Item>
+
+  <Item>
+    <TextId>1099</TextId>
+    <Text>Metszet távolság balról</Text>
+  </Item>
+
+  <Item>
+    <TextId>1100</TextId>
+    <Text>Keresztmetszetsor</Text>
+  </Item>
+
+  <Item>
+    <TextId>1104</TextId>
+    <Text>Min. hossz, horizontális vasalás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1105</TextId>
+    <Text>Min. hossz, vertikális vasalás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1113</TextId>
+    <Text>Metszet távolság alulról</Text>
+  </Item>
+
+  <Item>
+    <TextId>1114</TextId>
+    <Text>Fal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1115</TextId>
+    <Text>Vasalás feliratozás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1116</TextId>
+    <Text>Fal név</Text>
+  </Item>
+
+  <Item>
+    <TextId>1117</TextId>
+    <Text>Leírás 1</Text>
+  </Item>
+
+  <Item>
+    <TextId>1118</TextId>
+    <Text>Leírás 2</Text>
+  </Item>
+
+  <Item>
+    <TextId>1119</TextId>
+    <Text>Metszet 1-1</Text>
+  </Item>
+
+  <Item>
+    <TextId>1120</TextId>
+    <Text>Leírás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1121</TextId>
+    <Text>Metszet A-A</Text>
+  </Item>
+
+  <Item>
+    <TextId>1123</TextId>
+    <Text>Kampóhossz</Text>
+  </Item>
+
+  <Item>
+    <TextId>1124</TextId>
+    <Text>Vasalási értékek</Text>
+  </Item>
+
+  <Item>
+    <TextId>1125</TextId>
+    <Text>Kézi</Text>
+  </Item>
+
+  <Item>
+    <TextId>1126</TextId>
+    <Text>Szabványalapú</Text>
+  </Item>
+
+  <Item>
+    <TextId>1127</TextId>
+    <Text>Összes azonos</Text>
+  </Item>
+
+  <Item>
+    <TextId>1134</TextId>
+    <Text>Felül</Text>
+  </Item>
+
+  <Item>
+    <TextId>1135</TextId>
+    <Text>Alul</Text>
+  </Item>
+
+  <Item>
+    <TextId>1136</TextId>
+    <Text>Belül</Text>
+  </Item>
+
+  <Item>
+    <TextId>1137</TextId>
+    <Text>Balra</Text>
+  </Item>
+
+  <Item>
+    <TextId>1138</TextId>
+    <Text>Jobbra</Text>
+  </Item>
+
+  <Item>
+    <TextId>1139</TextId>
+    <Text>Kívül</Text>
+  </Item>
+
+  <Item>
+    <TextId>1140</TextId>
+    <Text>Kiegészítő vasalás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1141</TextId>
+    <Text>Távtartó</Text>
+  </Item>
+
+  <Item>
+    <TextId>1142</TextId>
+    <Text>Ki</Text>
+  </Item>
+
+  <Item>
+    <TextId>1143</TextId>
+    <Text>Bilincs</Text>
+  </Item>
+
+  <Item>
+    <TextId>1144</TextId>
+    <Text>Típus</Text>
+  </Item>
+
+  <Item>
+    <TextId>1145</TextId>
+    <Text>Tájolás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1146</TextId>
+    <Text>Vertikális</Text>
+  </Item>
+
+  <Item>
+    <TextId>1147</TextId>
+    <Text>Horizontális</Text>
+  </Item>
+
+  <Item>
+    <TextId>1148</TextId>
+    <Text>Magas</Text>
+  </Item>
+
+  <Item>
+    <TextId>1149</TextId>
+    <Text>Lefelé</Text>
+  </Item>
+
+  <Item>
+    <TextId>1150</TextId>
+    <Text>Jobbra</Text>
+  </Item>
+
+  <Item>
+    <TextId>1151</TextId>
+    <Text>Irány</Text>
+  </Item>
+
+  <Item>
+    <TextId>1152</TextId>
+    <Text>Balra</Text>
+  </Item>
+
+  <Item>
+    <TextId>1153</TextId>
+    <Text> </Text>
+  </Item>
+
+  <Item>
+    <TextId>1154</TextId>
+    <Text> Távtartók száma négyzetméterenként</Text>
+  </Item>
+
+  <Item>
+    <TextId>1155</TextId>
+    <Text> Távtartók száma négyzetyardonként</Text>
+  </Item>
+
+  <Item>
+    <TextId>1156</TextId>
+    <Text> Bilincsek száma négyzetméterenként</Text>
+  </Item>
+
+  <Item>
+    <TextId>1157</TextId>
+    <Text> Bilincsek száma négyzetyardonként</Text>
+  </Item>
+
+  <Item>
+    <TextId>1158</TextId>
+    <Text>Szám egységnyi területre vetítve</Text>
+  </Item>
+
+  <Item>
+    <TextId>1159</TextId>
+    <Text>Az érték nem jeleníthető meg többszörös létrehozással</Text>
+  </Item>
+
+  <Item>
+    <TextId>1160</TextId>
+    <Text>Formátum</Text>
+  </Item>
+
+  <Item>
+    <TextId>1161</TextId>
+    <Text>Vasalás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1162</TextId>
+    <Text>Horizontális</Text>
+  </Item>
+
+  <Item>
+    <TextId>1163</TextId>
+    <Text>Vertikális</Text>
+  </Item>
+
+  <Item>
+    <TextId>1164</TextId>
+    <Text>Hálók</Text>
+  </Item>
+
+  <Item>
+    <TextId>1165</TextId>
+    <Text>Falszegély</Text>
+  </Item>
+
+  <Item>
+    <TextId>1166</TextId>
+    <Text>Falnyílás</Text>
+  </Item>
+
+  <Item>
+    <TextId>1167</TextId>
+    <Text>Kengyel</Text>
+  </Item>
+
+  <Item>
+    <TextId>1168</TextId>
+    <Text>vízszintes bekötőkengyel</Text>
+  </Item>
+
+  <Item>
+    <TextId>1169</TextId>
+    <Text>függőleges bekötőkengyel</Text>
+  </Item>
+
+  <Item>
+    <TextId>1170</TextId>
+    <Text>Vízszintes kengyelek</Text>
+  </Item>
+
+  <Item>
+    <TextId>1171</TextId>
+    <Text>Vertikális kengyel</Text>
+  </Item>
+
+  <Item>
+    <TextId>1172</TextId>
+    <Text>Távtartó, bilincs</Text>
+  </Item>
+
+  <Item>
+    <TextId>4999</TextId>
+    <Text>Ez a Python Part lehetővé teszi, hogy automatikusan létrehozza a vasalást egy téglalap alakú falban.\n A kezdéshez kövesse az alábbi lépéseket:\n 1) Válassza ki a vasalandó falat.\n 2) Válasszon ki egy második falat az első fal felett. (opcionális)\n 3) Válasszon ki nyílásokat. (opcionális)\n 3) Az „Általános”, „Fő vasalás” és „Bekötőkengyel” lapokon határozza meg a fal vasalásának paramétereit.\n Kattintson a „Létrehozás” gombra a fal vasalásának ellenőrzéséhez és létrehozásához.\n 4) A „Metszetek” lapon határozza meg a metszet paramétereit.\n Kattintson a „Létrehozás” gombra és helyezze el a metszetet.</Text>
+  </Item>
+
+  <Item>
+    <TextId>5000</TextId>
+    <Text>Kérem, válasszon ki elemeket,</Text>
+  </Item>
+
+  <Item>
+    <TextId>5001</TextId>
+    <Text>az "Általános" panellap megtekintéséhez.</Text>
+  </Item>
+
+  <Item>
+    <TextId>5003</TextId>
+    <Text>a "Fő vasalás" panellap megtekintéséhez.</Text>
+  </Item>
+
+  <Item>
+    <TextId>5004</TextId>
+    <Text>a „Kiegészítő vasalás” lap megtekintéséhez.</Text>
+  </Item>
+
+  <Item>
+    <TextId>5005</TextId>
+    <Text>a "Bekötőkengyel" panellap megtekintéséhez.</Text>
+  </Item>
+
+  <Item>
+    <TextId>5007</TextId>
+    <Text>a "Metszetek" panellap megtekintéséhez.</Text>
+  </Item>
+
+  <Item>
+    <TextId>5008</TextId>
+    <Text>a „Formátum” lap megtekintéséhez.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10010</TextId>
+    <Text>Vasalás nem hozható létre a következő hiba miatt: \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10016</TextId>
+    <Text>Kiválasztott falban már van létrehozva vasalás</Text>
+  </Item>
+
+  <Item>
+    <TextId>10018</TextId>
+    <Text>Kérem, először hozzon létre vasalást</Text>
+  </Item>
+
+  <Item>
+    <TextId>10019</TextId>
+    <Text>Kattintson az alaprajzra a metszetek elhelyezéséhez a rajzterületen</Text>
+  </Item>
+
+  <Item>
+    <TextId>10020</TextId>
+    <Text>Horizontális vasalás átmérője kisebb, mint Ømin = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10021</TextId>
+    <Text>Vertikális vasalás átmérője kisebb, mint Ømin = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10022</TextId>
+    <Text>Horizontális vasalás távolsága nagyobb, mint Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10023</TextId>
+    <Text>Vertikális vasalás távolsága nagyobb, mint Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10024</TextId>
+    <Text>Horizontális kengyelek távolsága nagyobb, mint Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10025</TextId>
+    <Text>Vertikális kengyelek távolsága nagyobb, mint Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10026</TextId>
+    <Text>Automatikusan korrigálja ezeket a paramétereket?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10027</TextId>
+    <Text>Kérem, adja meg a paramétereket és válassza ki a Létrehozás gombot a vasalás létrehozásához</Text>
+  </Item>
+
+  <Item>
+    <TextId>10028</TextId>
+    <Text>Válassza ki a falat a 3D nézetben.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10029</TextId>
+    <Text>A folyamat befejeződött. Kattintson a Bezárás gombra, vagy nyomja meg az ESC billentyűt.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10030</TextId>
+    <Text>Kérem, adja meg a paramétereket és válassza ki a Létrehozás gombot a metszetek létrehozásához</Text>
+  </Item>
+
+  <Item>
+    <TextId>10031</TextId>
+    <Text>Kérjük, ellenőrizze a nyílások körüli vasalás előnézetét. \n Ha szükséges, a vasalás a falgeometrián kívül van.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10032</TextId>
+    <Text>Kérem, hogy az objektumot 3D nézetben válassza ki.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10035</TextId>
+    <Text>A két kiválasztott fal vastagsága nem egyezik. Ez azt eredményezheti, hogy a vasalás egy része nem megfelelően kerül elhelyezésre. Folytatja?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10036</TextId>
+    <Text>+ A fővasat nem lehetett létrehozni a következő paraméterek miatt:</Text>
+  </Item>
+
+  <Item>
+    <TextId>10037</TextId>
+    <Text> - A tekercs hossza nem elegendő</Text>
+  </Item>
+
+  <Item>
+    <TextId>10038</TextId>
+    <Text> - A minimális vashossz nem elegendő</Text>
+  </Item>
+
+  <Item>
+    <TextId>10039</TextId>
+    <Text>A figyelmeztetés ellenére folytatja a vasalat generálását?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10040</TextId>
+    <Text>Ez a PythonPart ahhoz az architektúrakomponenshez kapcsolódik, amellyel létrehozták.\nFigyeljen arra, hogy ezt a PythonPartot nem másolhatja más helyre.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10041</TextId>
+    <Text>A paraméter módosult.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10042</TextId>
+    <Text>Szeretné frissíteni az acélbetét pozíciószámát?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10043</TextId>
+    <Text>Egy architektúraobjektumhoz kapcsolt Python Partot másolt.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10044</TextId>
+    <Text>Szeretné ezt összekapcsolni az új építészobjektummal?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10045</TextId>
+    <Text>+ A létrehozandó peremvasalás levágásra kerülne, mivel a tárgynyílás a fal széléig zárt.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10046</TextId>
+    <Text>Szeretné a peremvasalást a nyílás területén felosztani?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10047</TextId>
+    <Text>Fal(ak) kijelölése bal egérgombbal vagy terület kijelölésével</Text>
+  </Item>
+
+  <Item>
+    <TextId>10048</TextId>
+    <Text>Nem található érvényes fal fent.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10049</TextId>
+    <Text>Az alkalmazás csak az azonos vastagságú falakat és felette lévő falat támogat.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10050</TextId>
+    <Text>Az alkalmazás csak az alaprajzon azonos vetülettel rendelkező falakat és a felette lévő falat támogatja.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10051</TextId>
+    <Text>Az alkalmazás csak az alaprajzon azonos forgásszöggel rendelkező falakat és a felette lévő falat támogatja.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10052</TextId>
+    <Text>Kérjük, válassza ki újra a falat/falakat, vagy inaktiválja a fenti második fal jelölőnégyzetet.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10053</TextId>
+    <Text>Nem megengedett választás:</Text>
+  </Item>
+
+  <Item>
+    <TextId>10054</TextId>
+    <Text>Az alkalmazás csak vízszintes, téglalap keresztmetszetű falakat támogat.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10055</TextId>
+    <Text>Az alkalmazás csak olyan falakat támogat, amelyeknek nincs lejtős felületük felül vagy alul.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10056</TextId>
+    <Text>Az alkalmazás csak dőlés nélküli falakat támogat.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10057</TextId>
+    <Text>Az alkalmazás csak kiharapások és konzolok nélküli falakat támogat.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10058</TextId>
+    <Text>Az alkalmazás csak olyan falakat támogat, amelyek hossza 4-szer nagyobb, mint a vastagság.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10059</TextId>
+    <Text>Kérjük, válassza ki újra a falat/falakat</Text>
+  </Item>
+
+  <Item>
+    <TextId>10060</TextId>
+    <Text>Az eszköz nem tudta felismerni azokat a fóliákat egyes falaknál, amelyeknél a vasalás szakma vagy vastagság szerint alkalmazható. \nA kiválasztás javítása érdekében a „betonozási munkák” szakmát kell hozzárendelni az adott falrétegekhez, vagy a vasalandó falrétegeket egyenként kell kiválasztani \na terület kiválasztása helyett az összeg funkcióval és egyetlen kattintással.\nKérjük, ismételje meg a kiválasztást.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10061</TextId>
+    <Text>A falon kívül egy nyílás található.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10062</TextId>
+    <Text>vagy változtassa meg a nyílást</Text>
+  </Item>
+
+  <Item>
+    <TextId>10063</TextId>
+    <Text>Úgy tűnik, hogy a jelenlegi kiválasztásban legalább egy fal felett nincs fal, és ebben az esetben az összekötő vasak nem alkalmazhatók.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10064</TextId>
+    <Text>Egy nyílás nem teljesen az Ön által kiválasztott falban van.</Text>
+  </Item>
+
+</Element>

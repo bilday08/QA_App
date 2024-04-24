@@ -1,0 +1,21 @@
+TestCase Name,TestCase Description,TestCase Result,Note,Status
+Bolt - Normal mode - Checking workflow of creation and undo/redo behaviour,Bolt is created with expectation and no crash/exception,As expected,Main feature,Pass
+Bolt - Normal mode - Checking behaviour of creation when modify geometry parameters,Bolt is created with expectation and no crash/exception,As expected,Main feature,Pass
+Bolt - Normal mode - Checking behaviour of creation when modify format parameters,Bolt is created with expectation and no crash/exception,As expected,Main feature,Pass
+Bolt - Normal mode - Checking edit mode - modify geometry parameters,Bolt is created with expectation and no crash/exception,As expected,Main feature,Pass
+Bolt - Normal mode - Checking edit mode - modify format parameters,Bolt is created with expectation and no crash/exception,As expected,Main feature,Pass
+Bolt - Normal mode - Checking handles behavior,Bolt is created with expectation and no crash/exception,As expected,Main feature,Pass
+Bolt - Normal mode - Checking multi modify relevant parameters (identical),Bolt is created with expectation and no crash/exception,As expected,Main feature,Pass
+Bolt - Normal mode - Checking save load reset favorite,Bolt is created with expectation and no crash/exception,As expected,Main feature,Pass
+Bolt - Normal mode - Checking last settings,Bolt is created with expectation and no crash/exception,As expected,Main feature,Pass
+Bolt - Normal mode - Checking working in different languages,Bolt is created with expectation and no crash/exception,As expected,Main feature,Pass
+Bolt - Select grip point - Checking workflow of creation and undo/redo behaviour,Bolt is created with expectation and no crash/exception,As expected,Main feature,Pass
+Bolt - Select grip point - Checking behaviour of creation when modify geometry parameters,Bolt is created with expectation and no crash/exception,As expected,Main feature,Pass
+Bolt - Select grip point - Checking behaviour of creation when modify format parameters,Bolt is created with expectation and no crash/exception,As expected,Main feature,Pass
+Bolt - Select grip point - Checking edit mode - modify geometry parameters,Bolt is created with expectation and no crash/exception,As expected,Main feature,Pass
+Bolt - Select grip point - Checking edit mode - modify format parameters,Bolt is created with expectation and no crash/exception,As expected,Main feature,Pass
+Bolt - Select grip point - Checking handles behavior,Bolt is created with expectation and no crash/exception,As expected,Main feature,Pass
+Bolt - Select grip point - Checking multi modify relevant parameters (identical),Bolt is created with expectation and no crash/exception,As expected,Main feature,Pass
+Bolt - Select grip point - Checking save load reset favorite,Bolt is created with expectation and no crash/exception,As expected,Main feature,Pass
+Bolt - Select grip point - Checking last settings,Bolt is created with expectation and no crash/exception,As expected,Main feature,Pass
+Bolt - Select grip point - Checking working in different languages,Bolt is created with expectation and no crash/exception,As expected,Main feature,Pass

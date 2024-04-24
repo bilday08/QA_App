@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Workflow</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Mehr Informationen:</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Tutorial</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Typ auswählen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>3D Objekt</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Python Part</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Bewehrung verlegen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>Allgemein</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>Allgemeine Einstellungen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Betondeckung</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text>Betonfestigkeitsklasse</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>Querschnittsreihe</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>Bügel Biegerolle</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Bewehrungseinstellungen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text>Min. ø Hauptbewehrung</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Min. ø Seitenbewehrung</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Min. ø Bügelbewehrung</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>Maximaler Bügelabstand</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Hakenwinkel Bügel</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Maximale Stablänge</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Hauptbewehrung Biegerolle</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Längsbewehrung</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Hauptbewehrung oben</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Durchmesser</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Stückzahl</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Querschnittsfläche (As)</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Hauptbewehrung unten</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Hauptbewehrung Zusatz</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Zusatzbewehrung unten</Text>
+    </Item>
+
+    <Item>
+        <TextId>1048</TextId>
+        <Text>Stablänge</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Seitenbewehrung</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Verlegung</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Randabstand Anfang</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Randabstand Ende</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Einfache Verlegeregion</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Erstellen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Abstand</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Hakenlänge</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Abstand in der Mitte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Abstand am Anfang</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>Abstand am Ende</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>Definition der Deckendicke</Text>
+    </Item>
+
+    <Item>
+        <TextId>1068</TextId>
+        <Text>Anzahl der Bewehrungsfelder</Text>
+    </Item>
+
+    <Item>
+        <TextId>1081</TextId>
+        <Text>Schnitte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1082</TextId>
+        <Text>Ansicht</Text>
+    </Item>
+
+    <Item>
+        <TextId>1083</TextId>
+        <Text>Balken Name</Text>
+    </Item>
+
+    <Item>
+        <TextId>1084</TextId>
+        <Text>Beschreibung 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1085</TextId>
+        <Text>Beschreibung 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1086</TextId>
+        <Text>Maßstab</Text>
+    </Item>
+
+    <Item>
+        <TextId>1087</TextId>
+        <Text>Beschriftung Bewehrung</Text>
+    </Item>
+
+    <Item>
+        <TextId>1089</TextId>
+        <Text>Elemente</Text>
+    </Item>
+
+    <Item>
+        <TextId>1090</TextId>
+        <Text>Bewehrung</Text>
+    </Item>
+
+    <Item>
+        <TextId>1092</TextId>
+        <Text>Elemente auswählen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1091</TextId>
+        <Text>Verlegungslänge in der Mitte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1093</TextId>
+        <Text>Verlegungslänge</Text>
+    </Item>
+
+    <Item>
+        <TextId>1094</TextId>
+        <Text>Schnitte platzieren</Text>
+    </Item>
+
+    <Item>
+        <TextId>1096</TextId>
+        <Text>Deckendicke</Text>
+    </Item>
+
+    <Item>
+        <TextId>1097</TextId>
+        <Text>Einstellung Bewehrungsfeld</Text>
+    </Item>
+
+    <Item>
+        <TextId>1098</TextId>
+        <Text>Verlegungslänge am Anfang</Text>
+    </Item>
+
+    <Item>
+        <TextId>1099</TextId>
+        <Text>Bügel</Text>
+    </Item>
+
+    <Item>
+        <TextId>1100</TextId>
+        <Text>Verlegungslänge am Ende</Text>
+    </Item>
+
+    <Item>
+        <TextId>1101</TextId>
+        <Text>Querschnitte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1102</TextId>
+        <Text>Bewehrungsfeld</Text>
+    </Item>
+
+    <Item>
+        <TextId>1103</TextId>
+        <Text>Schnitt 1-1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1104</TextId>
+        <Text>Schnitt 2-2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1105</TextId>
+        <Text>Schnitt 3-3</Text>
+    </Item>
+
+    <Item>
+        <TextId>1106</TextId>
+        <Text>Eingabetabelle anzeigen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1107</TextId>
+        <Text>Längsbewehrung</Text>
+    </Item>
+
+    <Item>
+        <TextId>1108</TextId>
+        <Text>Balken</Text>
+    </Item>
+
+    <Item>
+        <TextId>1109</TextId>
+        <Text>Läpplänge</Text>
+    </Item>
+
+    <Item>
+        <TextId>1110</TextId>
+        <Text>Hakenlänge = D *</Text>
+    </Item>
+
+    <Item>
+        <TextId>1111</TextId>
+        <Text>Verankerungslänge am Anfang</Text>
+    </Item>
+
+    <Item>
+        <TextId>1112</TextId>
+        <Text>Verankerungslänge am Ende</Text>
+    </Item>
+
+    <Item>
+        <TextId>1113</TextId>
+        <Text>Abstand Anfang</Text>
+    </Item>
+
+    <Item>
+        <TextId>1114</TextId>
+        <Text>Abstand Ende</Text>
+    </Item>
+
+    <Item>
+        <TextId>1117</TextId>
+        <Text>Min. lichter Abstand zwischen Stäben</Text>
+    </Item>
+
+    <Item>
+        <TextId>1118</TextId>
+        <Text>Bewehrungswerte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1119</TextId>
+        <Text>Manual</Text>
+    </Item>
+
+    <Item>
+        <TextId>1120</TextId>
+        <Text>Normbasiert</Text>
+    </Item>
+
+    <Item>
+        <TextId>1121</TextId>
+        <Text>Haken am Ende</Text>
+    </Item>
+
+    <Item>
+        <TextId>1148</TextId>
+        <Text>Ansichtsmodus</Text>
+    </Item>
+
+    <Item>
+        <TextId>1149</TextId>
+        <Text>Ansicht für den gesamten Balken</Text>
+    </Item>
+
+    <Item>
+        <TextId>1150</TextId>
+        <Text>Ansicht für jedes Feld</Text>
+    </Item>
+
+    <Item>
+        <TextId>1151</TextId>
+        <Text>Querschnitte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1153</TextId>
+        <Text>Haken am Anfang</Text>
+    </Item>
+
+    <Item>
+        <TextId>1157</TextId>
+        <Text>1:50</Text>
+    </Item>
+
+    <Item>
+        <TextId>1158</TextId>
+        <Text>1:25</Text>
+    </Item>
+
+    <Item>
+        <TextId>1159</TextId>
+        <Text>1:20</Text>
+    </Item>
+
+    <Item>
+        <TextId>1161</TextId>
+        <Text>Bitte hier Bewehrungsfeld-Nummer eingeben</Text>
+    </Item>
+
+    <Item>
+        <TextId>1162</TextId>
+        <Text>Format</Text>
+    </Item>
+
+    <Item>
+        <TextId>1163</TextId>
+        <Text>Hauptbewehrung</Text>
+    </Item>
+
+    <Item>
+        <TextId>1164</TextId>
+        <Text>Obere Bewehrung</Text>
+    </Item>
+
+    <Item>
+        <TextId>1166</TextId>
+        <Text>Untere Bewehrung</Text>
+    </Item>
+
+    <Item>
+        <TextId>1167</TextId>
+        <Text>Zusätzlicher Boden</Text>
+    </Item>
+
+    <Item>
+        <TextId>1168</TextId>
+        <Text>Hauptbügel</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Ja</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>Nein</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Seitenbewehrung</Text>
+    </Item>
+
+    <!-- For palette messages -->
+    <Item>
+        <TextId>4999</TextId>
+        <Text>Dieses PythonPart ermöglicht es Ihnen automatisch Bewehrung in Balken zu erzeugen.\n\nUm zu beginnen, folgen Sie diesen Schritten:\n 1) Wählen Sie den zu bewehrenden Balken aus.\n 2) Durchlaufen Sie die Tabs "Allgemein", "Hauptbewehrung", "Bügel" um die Balkenbewehrung zu definieren. \n      Klicken Sie "Erstellen" um die Bewehrung zu überprüfen und zu erstellen.\n 3) Durchlaufen Sie den Tab "Schnitte" um die Schnittparameter zu definieren. \n      Klicken Sie "Erstellen" und platzieren Sie die Schnitte.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Bitte wählen Sie Elemente aus</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>um den Tab "Allgemein" zu sehen.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>Registerkarte "Längsbewehrung" aufrufen</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>um den Tab "Bügel" zu sehen.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>um den Tab "Schnitte" zu sehen.</Text>
+    </Item>
+    <Item>
+        <TextId>5008</TextId>
+        <Text>um den Tab "Format" zu sehen.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>Linksklick zur Auswahl eines einzelnen Balkens / Rechtsklick zur Auswahl mehrerer Balken</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Parameter anpassen und Bewehrung erzeugen / ESC zur erneuten Auswahl der Stütze(n)</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Balken durch Linksklick oder Bereichsauswahl auswählen</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>Auswahl der Stütze(n) durch Linksklick oder Bereichsauswahl</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Bitte Parameter eingeben und Erstellen auswählen um Schnitte zu erzeugen</Text>
+    </Item>
+
+    <Item>
+        <TextId>10022</TextId>
+        <Text>Bitte geben Sie Koordinaten ein, um die Schnitte in der Zeichenfläche abzusetzten</Text>
+    </Item>
+
+    <Item>
+        <TextId>10038</TextId>
+        <Text>Der Parameter wurde geändert.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10039</TextId>
+        <Text>Möchten Sie die Positionsnummer des Bewehrungsstabs aktualisieren?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10040</TextId>
+        <Text>Sie haben den Python Part kopiert, der mit einem Architektur-Objekt verbunden ist.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10041</TextId>
+        <Text>Möchten Sie es mit dem neuen Architekturobjekt verknüpfen?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10042</TextId>
+        <Text>Die oberste Ebene der ausgewählten Balken ist unterschiedlich.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10043</TextId>
+        <Text>Diese Version unterstützt keine Balken mit unterschiedlichen Richtungen.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10044</TextId>
+        <Text>Die Breite der Balken ist unterschiedlich.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10045</TextId>
+        <Text>Die ausgewählten Balken kollidieren oder mindestens ein Balken ist ein Duplikat.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10046</TextId>
+        <Text>Diese Version unterstützt keine Balken mit außermittigen Achsen.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10047</TextId>
+        <Text>- Die Anwendung unterstützt nur Stützen mit rechteckiger oder runder Form.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10048</TextId>
+        <Text>- Die Anwendung unterstützt keine Stützen mit einem gemeinsamen Volumen.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10049</TextId>
+        <Text>- Die Anwendung unterstützt nur Stützen mit rechteckigem oder kreisförmigem Querschnitt.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10050</TextId>
+        <Text>- Die Breite der Balken ist größer als die eines Auflagers.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10051</TextId>
+        <Text>- Einer der Scheitelpunkte des Balkens liegt außerhalb der Draufsicht des Trägerquerschnitts.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10052</TextId>
+        <Text>- Der Drehwinkel von Auflage und Balken ist unterschiedlich.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10053</TextId>
+        <Text>- Zwischen dem ausgewählten Träger und dem Balken ist eine Lücke.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10054</TextId>
+        <Text>Bitte Stützen erneut auswählen.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10055</TextId>
+        <Text>Bitte Balken neu auswählen.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10056</TextId>
+        <Text>Unzulässige Auswahl:</Text>
+    </Item>
+
+    <Item>
+        <TextId>10057</TextId>
+        <Text>Rechtsklick, um mit der Auswahl der Stütze(n) zu beginnen oder ESC drücken, um den/die Balken erneut auszuwählen</Text>
+    </Item>
+
+    <Item>
+        <TextId>10058</TextId>
+        <Text>Bitte Bewehrungsparameter eingeben oder ESC drücken, um den Balken erneut auszuwählen</Text>
+    </Item>
+
+    <Item>
+        <TextId>10059</TextId>
+        <Text>- Der lichte Abstand zwischen den seitlichen Bewehrungsstäben entspricht nicht den in der allgemeinen Registerkarte festgelegten Anforderungen.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10060</TextId>
+        <Text>- Die Länge der seitlichen Bewehrungsstäbe in mindestens einem Feld überschreitet die in der Registerkarte Allgemein eingestellte maximale Stablänge.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10061</TextId>
+        <Text>- Der lichte Abstand zwischen den unteren Bewehrungsstäben entspricht nicht den Anforderungen in der allgemeinen Registerkarte.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10062</TextId>
+        <Text>- Die Länge des unteren Hauptbewehrungsstabs in mindestens einem Feld überschreitet die in der Registerkarte Allgemein eingestellte maximale Stablänge.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10063</TextId>
+        <Text>- Die Länge des oberen Hauptbewehrungsstabs überschreitet in mindestens einem Feld die in der Registerkarte Allgemein eingestellte maximale Stablänge.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10064</TextId>
+        <Text>Ändern Sie die Parameter, um sicherzustellen, dass die Gesamtlänge des Stabs  kleiner ist als die maximale Stablänge.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10065</TextId>
+        <Text>Möchten Sie fortfahren?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10066</TextId>
+        <Text>Obere Bewehrungsstäbe können über mehrere Felder angelegt oder pro Feld aufgeteilt werden. \nSollen sie über mehrere Felder hinweg angelegt werden?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10067</TextId>
+        <Text>- Der lichte Abstand zwischen den oberen Bewehrungsstäben entspricht nicht den Anforderungen in der allgemeinen Registerkarte.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10068</TextId>
+        <Text>- Die Länge des zusätzlichen unteren Bewehrungsstabs in mindestens einem Feld ist größer als die in der Registerkarte Allgemein eingestellte maximale Stablänge.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10069</TextId>
+        <Text>- Der lichte Abstand zwischen dem unteren Hauptbewehrungsstab und den zusätzlichen Bewehrungsstäben entspricht nicht den Anforderungen der Registerkarte Allgemein.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10070</TextId>
+        <Text>- Die von Ihnen eingegebene Anzahl der Zusatzbewehrung und der unteren Hauptbewehrung ist nicht geeignet, um im Balkenmodell platziert zu werden.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10071</TextId>
+        <Text>Dieser PythonPart ist mit der Architekturkomponente verbunden, mit der er erstellt wurde. \nDas PythonPart kann nicht an einen anderen Ort kopiert werden.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10072</TextId>
+        <Text>Es wurde noch keine Bewehrung angelegt. Soll diese Funktion wirklich abgebrochen werden?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10090</TextId>
+        <Text>- Der lichte Abstand zwischen den seitlichen Bewehrungsstäben ist größer als der maximale Abstand zwischen den Stäben.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10091</TextId>
+        <Text>Bitte Parameter in den Registerkarten ändern, um die Bewehrung zu aktualisieren</Text>
+    </Item>
+
+</Element>

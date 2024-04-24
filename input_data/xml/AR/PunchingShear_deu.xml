@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Element>
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Workflow</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Mehr Informationen:</Text>
+    </Item>
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Tutorial</Text>
+    </Item>
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Allgemein</Text>
+    </Item>
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Höhenkote</Text>
+    </Item>
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Betondeckung</Text>
+    </Item>
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Schiene</Text>
+    </Item>
+    <Item>
+        <TextId>1040</TextId>
+        <Text>Hersteller</Text>
+    </Item>
+    <Item>
+        <TextId>1041</TextId>
+        <Text>Produktbezeichnung</Text>
+    </Item>
+    <Item>
+        <TextId>1042</TextId>
+        <Text>Durchmesser </Text>
+    </Item>
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Höhe </Text>
+    </Item>
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Einbau von</Text>
+    </Item>
+    <Item>
+        <TextId>1045</TextId>
+        <Text>Bereiche pro Schiene</Text>
+    </Item>
+    <Item>
+        <TextId>1046</TextId>
+        <Text>Bereich 1</Text>
+    </Item>
+    <Item>
+        <TextId>1047</TextId>
+        <Text>Positionsbezeichnung</Text>
+    </Item>
+    <Item>
+        <TextId>1048</TextId>
+        <Text>Anzahl der Dübel</Text>
+    </Item>
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Abstand Anfang </Text>
+    </Item>
+    <Item>
+        <TextId>1050</TextId>
+        <Text>Abstand 1 </Text>
+    </Item>
+    <Item>
+        <TextId>1051</TextId>
+        <Text>Abstand 2 </Text>
+    </Item>
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Abstand 3 </Text>
+    </Item>
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Abstand 4 </Text>
+    </Item>
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Abstand 5 </Text>
+    </Item>
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Abstand 6 </Text>
+    </Item>
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Abstand Ende </Text>
+    </Item>
+    <Item>
+        <TextId>1057</TextId>
+        <Text>Bereich 2</Text>
+    </Item>
+    <Item>
+        <TextId>1068</TextId>
+        <Text>Bereich 3</Text>
+    </Item>
+    <Item>
+        <TextId>1079</TextId>
+        <Text>Bereich 4</Text>
+    </Item>
+    <Item>
+        <TextId>1090</TextId>
+        <Text>Layout</Text>
+    </Item>
+    <Item>
+        <TextId>1095</TextId>
+        <Text>Abstand</Text>
+    </Item>
+    <Item>
+        <TextId>1099</TextId>
+        <Text>Gedrehte Schienen</Text>
+    </Item>
+    <Item>
+        <TextId>1100</TextId>
+        <Text>Winkel Verlegung</Text>
+    </Item>
+    <Item>
+        <TextId>1101</TextId>
+        <Text>Anfangswinkel</Text>
+    </Item>
+    <Item>
+        <TextId>1102</TextId>
+        <Text>Anzahl Schienen</Text>
+    </Item>
+    <Item>
+        <TextId>1103</TextId>
+        <Text>Eckschienen</Text>
+    </Item>
+    <Item>
+        <TextId>1108</TextId>
+        <Text>Seitliche Schiene</Text>
+    </Item>
+    <Item>
+        <TextId>1115</TextId>
+        <Text>Erstellen</Text>
+    </Item>
+    <Item>
+        <TextId>1117</TextId>
+        <Text>Schnitte</Text>
+    </Item>
+    <Item>
+        <TextId>1118</TextId>
+        <Text>Allgemeine Informationen</Text>
+    </Item>
+    <Item>
+        <TextId>1119</TextId>
+        <Text>Einstellungen Verlegung und Geometrie</Text>
+    </Item>
+    <Item>
+        <TextId>1201</TextId>
+        <Text>Abstand 7 </Text>
+    </Item>
+    <Item>
+        <TextId>1205</TextId>
+        <Text>Elemente</Text>
+    </Item>
+    <Item>
+        <TextId>1206</TextId>
+        <Text>Decke auswählen für Höhenübernahme</Text>
+    </Item>
+
+    <Item>
+        <TextId>1210</TextId>
+        <Text>Schnitte platzieren</Text>
+    </Item>
+    <Item>
+        <TextId>1211</TextId>
+        <Text>Beschreibung 1</Text>
+    </Item>
+    <Item>
+        <TextId>1212</TextId>
+        <Text>Beschreibung 2</Text>
+    </Item>
+    <Item>
+        <TextId>1213</TextId>
+        <Text>Schnittbezeichnung</Text>
+    </Item>
+    <Item>
+        <TextId>1214</TextId>
+        <Text>Beschriftung</Text>
+    </Item>
+    <Item>
+        <TextId>1215</TextId>
+        <Text>Python Part</Text>
+    </Item>
+    <Item>
+        <TextId>1216</TextId>
+        <Text>Typ wählen</Text>
+    </Item>
+    <Item>
+        <TextId>1217</TextId>
+        <Text>3D Objekt</Text>
+    </Item>
+    <Item>
+        <TextId>1218</TextId>
+        <Text>Elemente auswählen</Text>
+    </Item>
+    <Item>
+        <TextId>1219</TextId>
+        <Text>Schienen verlegen</Text>
+    </Item>
+    <Item>
+        <TextId>1220</TextId>
+        <Text>Stütze</Text>
+    </Item>
+    <Item>
+        <TextId>1221</TextId>
+        <Text>Wandecke</Text>
+    </Item>
+    <Item>
+        <TextId>1222</TextId>
+        <Text>Wandende</Text>
+    </Item>
+    <Item>
+        <TextId>1226</TextId>
+        <Text>Durchstanzbewehrung</Text>
+    </Item>
+    <Item>
+        <TextId>1228</TextId>
+        <Text>Horizontalschnitt</Text>
+    </Item>
+    <Item>
+        <TextId>1229</TextId>
+        <Text>Vertikalschnitt</Text>
+    </Item>
+    <Item>
+        <TextId>1233</TextId>
+        <Text>Oben</Text>
+    </Item>
+    <Item>
+        <TextId>1234</TextId>
+        <Text>Unten</Text>
+    </Item>
+    <Item>
+        <TextId>1235</TextId>
+        <Text>Format</Text>
+    </Item>
+    <Item>
+        <TextId>1236</TextId>
+        <Text>Bewehrung</Text>
+    </Item>
+    <Item>
+        <TextId>1237</TextId>
+        <Text>Schiene und Bolzen</Text>
+    </Item>
+    
+    <Item>
+        <TextId>4999</TextId>
+        <Text>Dieses PythonPart ermöglicht Ihnen die automatische Erzeugung von Durchstanzleisten für runde und recheckige Stützen sowie Wandecken und Wandenden.\n\nUm zu beginnen, folgen Sie bitte den unten genannten Schritten.\n 1) Wählen Sie die Art der Durchstanzbewehrung aus die Sie erstellen möchten.\n 2) Wählen Sie die entsprechenden Elemente aus.\n 3) Zur automatischen Übernahme der Höhenkote wählen Sie die Decke aus. (Optional) \n 4) Durchlaufen Sie die Tabs "Allgemein", "Schienen", "Layout" um die Durchstanzbewehrung \n    zu definieren. Klicken Sie "Erstellen" um die Bewehrung zu überprüfen und zu erstellen. \n 5) Durchlaufen Sie den Tab "Schnitte" um die Schnittparameter zu definieren. Klicken Sie \n    "Erstellen" und platzieren Sie die Schnitte.</Text>
+    </Item>
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Bitte wählen Sie Elemente aus</Text>
+    </Item>
+    <Item>
+        <TextId>5001</TextId>
+        <Text>um den Tab "Allgemein" zu sehen.</Text>
+    </Item>
+    <Item>
+        <TextId>5003</TextId>
+        <Text>um den Tab "Schienen" zu sehen.</Text>
+    </Item>
+    <Item>
+        <TextId>5005</TextId>
+        <Text>um den Tab "Layout" zu sehen.</Text>
+    </Item>
+    <Item>
+        <TextId>5007</TextId>
+        <Text>um den Tab "Schnitte" zu sehen.</Text>
+    </Item>
+    <Item>
+        <TextId>5008</TextId>
+        <Text>um den  "Format" tab.</Text>
+    </Item>
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Durchstanzpunkt kann nicht erstellt werden aufgrund der folgenden Fehler:</Text>
+    </Item>
+    <Item>
+        <TextId>10001</TextId>
+        <Text> - Höhe der Dübel ist größer als = {} mm\nMöchten Sie diese Parameter automatisch korrigieren?</Text>
+    </Item>
+    <Item>
+        <TextId>10002</TextId>
+        <Text>Bitte die Decke in der 3D Ansicht auswählen.</Text>
+    </Item>
+    <Item>
+        <TextId>10003</TextId>
+        <Text>Bitte Stütze in der 3D Ansicht auswählen.</Text>
+    </Item>
+    <Item>
+        <TextId>10005</TextId>
+        <Text>Bitte Wand in der 3D Ansicht auswählen</Text>
+    </Item>
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Bitte Punkte im Uhrzeigersinn im Grundriss auswählen</Text>
+    </Item>
+    <Item>
+        <TextId>10018</TextId>
+        <Text>Bitte Wand erneut auswählen</Text>
+    </Item>
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Bitte Elemente auswählen</Text>
+    </Item>
+    <Item>
+        <TextId>10023</TextId>
+        <Text>Bitte erzeugen Sie erstmal die Durchstanzleisten</Text>
+    </Item>
+    <Item>
+        <TextId>10024</TextId>
+        <Text>Sie haben bereits Durchstanzleisten an dieser Position platziert</Text>
+    </Item>
+    <Item>
+        <TextId>10026</TextId>
+        <Text>Bitte Parameter eingeben und Erstellen auswählen um Durchstanzleisten zu erzeugen</Text>
+    </Item>
+    <Item>
+        <TextId>10027</TextId>
+        <Text>Bitte wählen Sie einen Einfügepunkt für die Platzierung der Schnitte aus</Text>
+    </Item>
+    <Item>
+        <TextId>10028</TextId>
+        <Text>Bitte Parameter eingeben und Erstellen auswählen um Schnitte zu erzeugen</Text>
+    </Item>
+    <Item>
+        <TextId>10029</TextId>
+        <Text>Der Vorgang ist abgeschlossen. Bitte klicken Sie aus Schließen oder drücken Sie die ESC Taste</Text>
+    </Item>
+    <Item>
+        <TextId>10030</TextId>
+        <Text>Dieser PythonPart ist mit der Architekturkomponente verbunden, mit der er erstellt wurde.\nBitte beachten Sie, dass Sie diesen PythonPart nicht an einen anderen Ort kopieren können.</Text>
+    </Item>
+    <Item>
+        <TextId>10031</TextId>
+        <Text>Sie haben den Python Part kopiert, der mit einem Architektur-Objekt verbunden ist.</Text>
+    </Item>
+    <Item>
+        <TextId>10032</TextId>
+        <Text>Möchten Sie es mit dem neuen Architekturobjekt verknüpfen?</Text>
+    </Item>
+</Element>

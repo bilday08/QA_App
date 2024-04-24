@@ -1,0 +1,719 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Element>
+  <Item>
+    <TextId>1001</TextId>
+    <Text>Flux de lucru</Text>
+  </Item>
+  <Item>
+    <TextId>1002</TextId>
+    <Text>Pentru informatii apasati aici:</Text>
+  </Item>
+  <Item>
+    <TextId>1003</TextId>
+    <Text>Tutorial</Text>
+  </Item>
+  <Item>
+    <TextId>1004</TextId>
+    <Text>Selectati primul stalp</Text>
+  </Item>
+  <Item>
+    <TextId>1005</TextId>
+    <Text>Selectati al doilea stalp de mai sus</Text>
+  </Item>
+  <Item>
+    <TextId>1006</TextId>
+    <Text>Armare</Text>
+  </Item>
+  <Item>
+    <TextId>1010</TextId>
+    <Text>Verificare si repartitie armatura</Text>
+  </Item>
+  <Item>
+    <TextId>1011</TextId>
+    <Text>Creare</Text>
+  </Item>
+  <Item>
+    <TextId>1013</TextId>
+    <Text>Sectiune</Text>
+  </Item>
+  <Item>
+    <TextId>1014</TextId>
+    <Text>Pozitionare sectiuni</Text>
+  </Item>
+  <Item>
+    <TextId>1021</TextId>
+    <Text>General</Text>
+  </Item>
+  <Item>
+    <TextId>1022</TextId>
+    <Text>Setari generale</Text>
+  </Item>
+  <Item>
+    <TextId>1023</TextId>
+    <Text>Valori armatura</Text>
+  </Item>
+  <Item>
+    <TextId>1024</TextId>
+    <Text>Manual</Text>
+  </Item>
+  <Item>
+    <TextId>1025</TextId>
+    <Text>Conf. normativ</Text>
+  </Item>
+  <Item>
+    <TextId>1026</TextId>
+    <Text>Lungime suprapunere</Text>
+  </Item>
+  <Item>
+    <TextId>1027</TextId>
+    <Text>Descriere stalp</Text>
+  </Item>
+  <Item>
+    <TextId>1028</TextId>
+    <Text>Acoperire cu beton</Text>
+  </Item>
+  <Item>
+    <TextId>1030</TextId>
+    <Text>Clasa beton</Text>
+  </Item>
+  <Item>
+    <TextId>1031</TextId>
+    <Text>Catalog sectiuni transv</Text>
+  </Item>
+  <Item>
+    <TextId>1033</TextId>
+    <Text>Grosime placa</Text>
+  </Item>
+  <Item>
+    <TextId>1034</TextId>
+    <Text>Parametri armare</Text>
+  </Item>
+  <Item>
+    <TextId>1035</TextId>
+    <Text>Diametru min. armare longitudinala</Text>
+  </Item>
+  <Item>
+    <TextId>1036</TextId>
+    <Text>Diametru min. etrier</Text>
+  </Item>
+  <Item>
+    <TextId>1037</TextId>
+    <Text>Distanta max. etrieri</Text>
+  </Item>
+  <Item>
+    <TextId>1039</TextId>
+    <Text>Distanta min. dintre bare</Text>
+  </Item>
+  <Item>
+    <TextId>1040</TextId>
+    <Text>Procent max. de armare p = As/Ac [%]</Text>
+  </Item>
+  <Item>
+    <TextId>1041</TextId>
+    <Text>Factor pt. diametru ext.</Text>
+  </Item>
+  <Item>
+    <TextId>1047</TextId>
+    <Text>Armare longitudinala</Text>
+  </Item>
+  <Item>
+    <TextId>1048</TextId>
+    <Text>Diametru</Text>
+  </Item>
+  <Item>
+    <TextId>1049</TextId>
+    <Text>Numar bare</Text>
+  </Item>
+  <Item>
+    <TextId>1051</TextId>
+    <Text>Armare de inceput graifuita</Text>
+  </Item>
+  <Item>
+    <TextId>1052</TextId>
+    <Text>Distanta graifuire</Text>
+  </Item>
+  <Item>
+    <TextId>1053</TextId>
+    <Text>Raport graifuire 1 /</Text>
+  </Item>
+  <Item>
+    <TextId>1054</TextId>
+    <Text>Lungime armare de inceput</Text>
+  </Item>
+  <Item>
+    <TextId>1055</TextId>
+    <Text>Armare de colt</Text>
+  </Item>
+  <Item>
+    <TextId>1061</TextId>
+    <Text>Armare longitudinala laterala</Text>
+  </Item>
+  <Item>
+    <TextId>1074</TextId>
+    <Text>Armare longitudinala laterala pe marginea lunga</Text>
+  </Item>
+  <Item>
+    <TextId>1081</TextId>
+    <Text>Armare longitudinala laterala pe marginea scurta</Text>
+  </Item>
+  <Item>
+    <TextId>1099</TextId>
+    <Text>Agrafa</Text>
+  </Item>
+  <Item>
+    <TextId>1100</TextId>
+    <Text>Etrier romb</Text>
+  </Item>
+  <Item>
+    <TextId>1102</TextId>
+    <Text>Numar agrafe interioare</Text>
+  </Item>
+  <Item>
+    <TextId>1103</TextId>
+    <Text>Rotire</Text>
+  </Item>
+  <Item>
+    <TextId>1104</TextId>
+    <Text>Plansa</Text>
+  </Item>
+  <Item>
+    <TextId>1105</TextId>
+    <Text>⌀</Text>
+  </Item>
+  <Item>
+    <TextId>1106</TextId>
+    <Text>Forma</Text>
+  </Item>
+  <Item>
+    <TextId>1107</TextId>
+    <Text>Etrier inchis</Text>
+  </Item>
+  <Item>
+    <TextId>1108</TextId>
+    <Text>Etrier</Text>
+  </Item>
+  <Item>
+    <TextId>1109</TextId>
+    <Text>Aranjament agrafe</Text>
+  </Item>
+  <Item>
+    <TextId>1110</TextId>
+    <Text>Forma bara</Text>
+  </Item>
+  <Item>
+    <TextId>1111</TextId>
+    <Text>Numar agrafe exteriorare</Text>
+  </Item>
+  <Item>
+    <TextId>1112</TextId>
+    <Text>Agrafe exterioare</Text>
+  </Item>
+  <Item>
+    <TextId>1113</TextId>
+    <Text>Distanta dintre etrieri</Text>
+  </Item>
+  <Item>
+    <TextId>1114</TextId>
+    <Text>Lungime carlig</Text>
+  </Item>
+  <Item>
+    <TextId>1115</TextId>
+    <Text>Unghi carlig</Text>
+  </Item>
+  <Item>
+    <TextId>1116</TextId>
+    <Text>Zona sus</Text>
+  </Item>
+  <Item>
+    <TextId>1117</TextId>
+    <Text>Distanta mai apropiata sus</Text>
+  </Item>
+  <Item>
+    <TextId>1118</TextId>
+    <Text>Lungime repartitie</Text>
+  </Item>
+  <Item>
+    <TextId>1120</TextId>
+    <Text>Zona jos</Text>
+  </Item>
+  <Item>
+    <TextId>1121</TextId>
+    <Text>Distanta mai apropiata jos</Text>
+  </Item>
+  <Item>
+    <TextId>1125</TextId>
+    <Text>Scara 1:</Text>
+  </Item>
+  <Item>
+    <TextId>1126</TextId>
+    <Text>Vedere</Text>
+  </Item>
+  <Item>
+    <TextId>1127</TextId>
+    <Text>Sectiune orizontala</Text>
+  </Item>
+  <Item>
+    <TextId>1130</TextId>
+    <Text>De-a lungul laturii scurte (B-B)</Text>
+  </Item>
+  <Item>
+    <TextId>1133</TextId>
+    <Text>Elemente</Text>
+  </Item>
+  <Item>
+    <TextId>1134</TextId>
+    <Text>Selectare noua</Text>
+  </Item>
+  <Item>
+    <TextId>1135</TextId>
+    <Text>Start</Text>
+  </Item>
+  <Item>
+    <TextId>1136</TextId>
+    <Text>Selectie tip</Text>
+  </Item>
+  <Item>
+    <TextId>1137</TextId>
+    <Text>Python Part</Text>
+  </Item>
+  <Item>
+    <TextId>1138</TextId>
+    <Text>Obiect 3D</Text>
+  </Item>
+  <Item>
+    <TextId>1139</TextId>
+    <Text>Nume sectiune 1</Text>
+  </Item>
+  <Item>
+    <TextId>1140</TextId>
+    <Text>Nume sectiune 2</Text>
+  </Item>
+  <Item>
+    <TextId>1141</TextId>
+    <Text>Nume sectiune 3</Text>
+  </Item>
+  <Item>
+    <TextId>1143</TextId>
+    <Text>Descriere 1</Text>
+  </Item>
+  <Item>
+    <TextId>1144</TextId>
+    <Text>Descriere 2</Text>
+  </Item>
+  <Item>
+    <TextId>1149</TextId>
+    <Text>Stalp</Text>
+  </Item>
+  <Item>
+    <TextId>1153</TextId>
+    <Text>Sectiune 1-1</Text>
+  </Item>
+  <Item>
+    <TextId>1154</TextId>
+    <Text>Sectiune 2-2</Text>
+  </Item>
+  <Item>
+    <TextId>1155</TextId>
+    <Text>Sectiune 3-3</Text>
+  </Item>
+  <Item>
+    <TextId>1156</TextId>
+    <Text>Raza indoire armare de rezistenta</Text>
+  </Item>
+  <Item>
+    <TextId>1157</TextId>
+    <Text>Raza indoire etrier</Text>
+  </Item>
+  <Item>
+    <TextId>1159</TextId>
+    <Text>Carlig sus</Text>
+  </Item>
+  <Item>
+    <TextId>1160</TextId>
+    <Text>Unghi</Text>
+  </Item>
+  <Item>
+    <TextId>1161</TextId>
+    <Text>Agrafa int. 1</Text>
+  </Item>
+  <Item>
+    <TextId>1162</TextId>
+    <Text>Agrafa int. 2</Text>
+  </Item>
+  <Item>
+    <TextId>1163</TextId>
+    <Text>Agrafa int. 3</Text>
+  </Item>
+  <Item>
+    <TextId>1164</TextId>
+    <Text>Agrafa int. 4</Text>
+  </Item>
+  <Item>
+    <TextId>1165</TextId>
+    <Text>Agrafa int. 5</Text>
+  </Item>
+  <Item>
+    <TextId>1166</TextId>
+    <Text>Agrafa int. 6</Text>
+  </Item>
+  <Item>
+    <TextId>1167</TextId>
+    <Text>Factor raza de indoire</Text>
+  </Item>
+  <Item>
+    <TextId>1168</TextId>
+    <Text>Forma bara</Text>
+  </Item>
+  <Item>
+    <TextId>1169</TextId>
+    <Text>Proprietati agrafa exterioara</Text>
+  </Item>
+  <Item>
+    <TextId>1170</TextId>
+    <Text>Proprietati agrafa int. 1</Text>
+  </Item>
+  <Item>
+    <TextId>1171</TextId>
+    <Text>Proprietati agrafa int. 2</Text>
+  </Item>
+  <Item>
+    <TextId>1172</TextId>
+    <Text>Proprietati agrafa int. 3</Text>
+  </Item>
+  <Item>
+    <TextId>1173</TextId>
+    <Text>Proprietati agrafa int. 4</Text>
+  </Item>
+  <Item>
+    <TextId>1174</TextId>
+    <Text>Proprietati agrafa int. 5</Text>
+  </Item>
+  <Item>
+    <TextId>1175</TextId>
+    <Text>Proprietati agrafa int. 6</Text>
+  </Item>
+  <Item>
+    <TextId>1177</TextId>
+    <Text>Carlig la inceput</Text>
+  </Item>
+  <Item>
+    <TextId>1178</TextId>
+    <Text>Unghi carlig la inceput</Text>
+  </Item>
+  <Item>
+    <TextId>1179</TextId>
+    <Text>Lungime carlig la inceput</Text>
+  </Item>
+   <Item>
+    <TextId>1180</TextId>
+    <Text>Carlig la sfarsit</Text>
+  </Item>
+  <Item>
+    <TextId>1181</TextId>
+    <Text>Unghi carlig la sfarsit</Text>
+  </Item>
+  <Item>
+    <TextId>1182</TextId>
+    <Text>Lungime carlig la sfarsit</Text>
+  </Item>
+  <Item>
+    <TextId>1183</TextId>
+    <Text>Format</Text>
+  </Item>
+  <Item>
+    <TextId>1184</TextId>
+    <Text>Armare de rezistenta</Text>
+  </Item>
+  <Item>
+    <TextId>1185</TextId>
+    <Text>Colt</Text>
+  </Item>
+  <Item>
+    <TextId>1186</TextId>
+    <Text>Latura lunga</Text>
+  </Item>
+  <Item>
+    <TextId>1187</TextId>
+    <Text>Latura scurta</Text>
+  </Item>
+  <Item>
+    <TextId>1188</TextId>
+    <Text>Latura</Text>
+  </Item>
+  <Item>
+    <TextId>1189</TextId>
+    <Text>Principal</Text>
+  </Item>
+  <Item>
+    <TextId>1190</TextId>
+    <Text>Romb</Text>
+  </Item>
+  <Item>
+    <TextId>1191</TextId>
+    <Text>Etrier inchis</Text>
+  </Item>
+  <Item>
+    <TextId>4999</TextId>
+    <Text>Acest PythonPart va permite sa generati automat armaturile in stalpi cu sectiune dreptunghiulara si circulara. \n\nPentru a incepe, urmati pasii de mai jos.\n 1) Selectati optiunea dorita si selectati elementele din vederea 3D.\n 2) Daca aveti un stalp deasupra celui selectat, va rugam sa-l selectati si pe acesta.\n 3) Efectuati setarile necesare din urmatoarele tab-uri si faceti click pe "Creare",\n    pt. introducerea carcaselor de armaturi.\n 4) Efectuati setarile necesare in tab-ul "Sectiune" si faceti click pe "Creare",\n    pt. poziitionarea sectiunilor.</Text>
+  </Item>
+  <Item>
+    <TextId>5000</TextId>
+    <Text>Va rugam sa selectati elementele la</Text>
+  </Item>
+  <Item>
+    <TextId>5001</TextId>
+    <Text>acces la tab-ul "General".</Text>
+  </Item>
+  <Item>
+    <TextId>5003</TextId>
+    <Text>acces la tab-ul "Armare de rezistenta".</Text>
+  </Item>
+  <Item>
+    <TextId>5005</TextId>
+    <Text>acces la tab-ul "Etrier".</Text>
+  </Item>
+  <Item>
+    <TextId>5007</TextId>
+    <Text>acces la tab-ul "Sectiune".</Text>
+  </Item>
+  <Item>
+    <TextId>5008</TextId>
+    <Text>accesati tab-ul "Format".</Text>
+  </Item>
+  <Item>
+    <TextId>10000</TextId>
+    <Text>Armatura nu se poate genera din cauza urmatoarelor erori:</Text>
+  </Item>
+  <Item>
+    <TextId>10001</TextId>
+    <Text> - Diametrul etrierului este mai mic decat Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10002</TextId>
+    <Text> - Diametrul armaturii de rezistenta a stalpului este mai mic decat Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10003</TextId>
+    <Text> - Distanta dintre etrieri este mai mare decat Smin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10004</TextId>
+    <Text>Stalpul selectat nu este valid! Va rugam sa selectati din nou!</Text>
+  </Item>
+  <Item>
+    <TextId>10005</TextId>
+    <Text>Doriti sa selectati stalpul de deasupra?</Text>
+  </Item>
+  <Item>
+    <TextId>10006</TextId>
+    <Text>Selectare stalp superior </Text>
+  </Item>
+  <Item>
+    <TextId>10007</TextId>
+    <Text>Faceti click stanga pentru a selecta un stalp / faceti click dreapta pentru a selecta mai multi stalpi pentru armare</Text>
+  </Item>
+  <Item>
+    <TextId>10008</TextId>
+    <Text>Introduceti parametrii si faceti click pe Creare pt. generarea armaturii</Text>
+  </Item>
+  <Item>
+    <TextId>10009</TextId>
+    <Text>Salvarea setarilor esuata: {}</Text>
+  </Item>
+  <Item>
+    <TextId>10010</TextId>
+    <Text>Incarcarea setarilor esuata! Va rugam sa verificati formatul fisierului.</Text>
+  </Item>
+  <Item>
+    <TextId>10011</TextId>
+    <Text>Niciun stalp selectat</Text>
+  </Item>
+  <Item>
+    <TextId>10012</TextId>
+    <Text>Doriti sa corectati automat acesti parametri?</Text>
+  </Item>
+  <Item>
+    <TextId>10013</TextId>
+    <Text>Stalpul selectat este deja armat.</Text>
+  </Item>
+  <Item>
+    <TextId>10014</TextId>
+    <Text>Activarea cheii de produs a esuat</Text>
+  </Item>
+  <Item>
+    <TextId>10015</TextId>
+    <Text>Va rugam sa generati mai intai armarea</Text>
+  </Item>
+  <Item>
+    <TextId>10016</TextId>
+    <Text>Selectati un stalp pt. generarea armaturii</Text>
+  </Item>
+  <Item>
+    <TextId>10017</TextId>
+    <Text> - Pe partea lunga a sectiunii transv., diametrul armaturii este mai mic decat Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10018</TextId>
+    <Text> - Pe partea scurta a sectiunii transv., diametrul armaturii este mai mic decat Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10019</TextId>
+    <Text> - Diametrul armaturii laterale este mai mic decat Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10020</TextId>
+    <Text> - Pe baza distantei min. libere de {}mm dintre armaturile definite in tab-ul "General", numarul max. de bare longitudinale Ø{} este {}\n</Text>
+  </Item>
+  <Item>
+    <TextId>10021</TextId>
+    <Text> - Pe baza distantei min. libera dintre </Text>
+  </Item>
+  <Item>
+    <TextId>10022</TextId>
+    <Text> mm intre armaturile definite in tab-ul "General" </Text>
+  </Item>
+  <Item>
+    <TextId>10023</TextId>
+    <Text>:\n   + pe partea cu sectiune transv. lunga, nr. max. de bare longitudinale este ø</Text>
+  </Item>
+  <Item>
+    <TextId>10024</TextId>
+    <Text>:\n   + pe partea cu sectiune transv. scurta, nr. max. de bare longitudinale este ø</Text>
+  </Item>
+  <Item>
+    <TextId>10025</TextId>
+    <Text>:\n   + pe partea cu sectiune transv. lunga, nr. max. de bare longitudinale este ø</Text>
+  </Item>
+  <Item>
+    <TextId>10026</TextId>
+    <Text>:\n   + pe partea cu sectiune transv. scurta, nr. max. de bare longitudinale este ø</Text>
+  </Item>
+  <Item>
+    <TextId>10027</TextId>
+    <Text>, nr. max. de bare principale ø</Text>
+  </Item>
+  <Item>
+    <TextId>10028</TextId>
+    <Text> - Procentul de armare selectat este </Text>
+  </Item>
+  <Item>
+    <TextId>10029</TextId>
+    <Text> si depaseste procentul max. de armare al </Text>
+  </Item>
+  <Item>
+    <TextId>10030</TextId>
+    <Text>Incepeti din nou selectarea stalpului</Text>
+  </Item>
+  <Item>
+    <TextId>10031</TextId>
+    <Text>Selectie nereusita, va rugam sa selectati din nou</Text>
+  </Item>
+  <Item>
+    <TextId>10033</TextId>
+    <Text>Doriti sa iesiti din aplicatia pt. stalpi Allplan PythonParts?</Text>
+  </Item>
+  <!-- Empty -->
+  <Item>
+    <TextId>10034</TextId>
+    <Text/>
+  </Item>
+  <Item>
+    <TextId>10035</TextId>
+    <Text>Va rugam sa selectati stalpul rectangular sau circular in vederea 3D.</Text>
+  </Item>
+  <Item>
+    <TextId>10036</TextId>
+    <Text>Va rugam sa finalizati selectia vederea 3D</Text>
+  </Item>
+  <Item>
+    <TextId>10037</TextId>
+    <Text>Faceti click in vederea plana pt. introducerea sectiunilor</Text>
+  </Item>
+  <Item>
+    <TextId>10038</TextId>
+    <Text>Introduceti valoarea armaturii in tab si faceti click pe 'Creare' (Verificati si repartizati armatura)</Text>
+  </Item>
+  <Item>
+    <TextId>10039</TextId>
+    <Text>Introduceti datele pt. Sectiune si Descriere in tab-ul Sectiune si apoi faceti click pe Creare (Introduceti sectiunea)</Text>
+  </Item>
+  <Item>
+    <TextId>10040</TextId>
+    <Text>Procesul poate fi finalizat daca apasati tasta ESC/buton 'Inchidere' sau click pe Creare pt. mai multe sectiuni</Text>
+  </Item>
+
+  <Item>
+    <TextId>10041</TextId>
+    <Text>Parametrul a fost modificat.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10042</TextId>
+    <Text>Doriti sa actualizati numerele de marci ale armaturilor?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10043</TextId>
+    <Text>Acest PythonPart este asociat cu elementul de arhitectura cu care a fost creat.\nRetineti ca nu puteti copia acest PythonPart intr-o alta locatie.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10047</TextId>
+    <Text>Ati copiat Python Part conectat la un element de arhitectura.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10048</TextId>
+    <Text>Doriti sa-l asociati de noul element de arhitectura?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10049</TextId>
+    <Text>Selectati stalpii cu click stanga sau cu fereastra de selectie</Text>
+  </Item>
+
+  <Item>
+    <TextId>10050</TextId>
+    <Text>Aplicatia suporta doar stalpi cu sectiune dreptunghiulara, patrata sau circulara.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10051</TextId>
+    <Text>Aplicatia suporta doar stalpi fara suprafete inclinate la partea superioara sau inferioara.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10052</TextId>
+    <Text>Aplicatia suporta doar stalpi fara suprafete inclinate.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10053</TextId>
+    <Text>Aplicatia suporta doar stalpi fara decupaturi sau console.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10054</TextId>
+    <Text>Aplicatia suporta doar un stalp circular a carui inaltime este de 3 ori mai mare decat diametrul sectiunii.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10055</TextId>
+    <Text>Aplicatia accepta numai stalpi care au proportii valide:\n+ Lungimea nu trebuie sa depaseasca de 4 ori latimea in sectiune transversala\n+ Inaltimea este de cel putin 3 ori mai mare decat lungimea sau latimea sectiunii transversale</Text>
+  </Item>
+
+  <Item>
+    <TextId>10056</TextId>
+    <Text>Nu s-a gasit niciun stalp valid mai sus. Selectati din nou stalpii sau debifati al doilea stalp de mai sus.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10057</TextId>
+    <Text>Aplicatia suporta doar stalpii cu acelasi tip de geometrie.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10058</TextId>
+    <Text>Selectati din nou stalpii.</Text>
+  </Item>
+
+</Element>

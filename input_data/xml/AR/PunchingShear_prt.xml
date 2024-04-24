@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Element>
+    <Item>
+        <TextId>1001</TextId>
+        <Text>FLuxo de trabalho</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>For more info, please click here</Text>
+    </Item>
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Tutorial</Text>
+    </Item>
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Geral</Text>
+    </Item>
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Elevação </Text>
+    </Item>
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Cobrimento do concreto</Text>
+    </Item>
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Rails</Text>
+    </Item>
+    <Item>
+        <TextId>1040</TextId>
+        <Text>Manufacturer</Text>
+    </Item>
+    <Item>
+        <TextId>1041</TextId>
+        <Text>Product name</Text>
+    </Item>
+    <Item>
+        <TextId>1042</TextId>
+        <Text>Diâmetro </Text>
+    </Item>
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Altura </Text>
+    </Item>
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Installation from</Text>
+    </Item>
+    <Item>
+        <TextId>1045</TextId>
+        <Text>Número de regiões por trilhos</Text>
+    </Item>
+    <Item>
+        <TextId>1046</TextId>
+        <Text>Região 1</Text>
+    </Item>
+    <Item>
+        <TextId>1047</TextId>
+        <Text>Nome da posição</Text>
+    </Item>
+    <Item>
+        <TextId>1048</TextId>
+        <Text>Number of studs</Text>
+    </Item>
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Distância inicial</Text>
+    </Item>
+    <Item>
+        <TextId>1050</TextId>
+        <Text>Distância 1 </Text>
+    </Item>
+    <Item>
+        <TextId>1051</TextId>
+        <Text>Distância 2 </Text>
+    </Item>
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Distância 3 </Text>
+    </Item>
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Distância 4 </Text>
+    </Item>
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Distância 5 </Text>
+    </Item>
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Distância 6 </Text>
+    </Item>
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Distância final </Text>
+    </Item>
+    <Item>
+        <TextId>1057</TextId>
+        <Text>Região 2</Text>
+    </Item>
+    <Item>
+        <TextId>1068</TextId>
+        <Text>Região 3</Text>
+    </Item>
+    <Item>
+        <TextId>1079</TextId>
+        <Text>Região 4</Text>
+    </Item>
+    <Item>
+        <TextId>1090</TextId>
+        <Text>Layout</Text>
+    </Item>
+    <Item>
+        <TextId>1095</TextId>
+        <Text>Espaçamento</Text>
+    </Item>
+    <Item>
+        <TextId>1099</TextId>
+        <Text>Rotated rails</Text>
+    </Item>
+    <Item>
+        <TextId>1100</TextId>
+        <Text>Placement angle</Text>
+    </Item>
+    <Item>
+        <TextId>1101</TextId>
+        <Text>Ângulo inicial</Text>
+    </Item>
+    <Item>
+        <TextId>1102</TextId>
+        <Text>Número de trilhos</Text>
+    </Item>
+    <Item>
+        <TextId>1103</TextId>
+        <Text>Corner Rails</Text>
+    </Item>
+    <Item>
+        <TextId>1108</TextId>
+        <Text>Side Rails</Text>
+    </Item>
+    <Item>
+        <TextId>1115</TextId>
+        <Text>Criar</Text>
+    </Item>
+    <Item>
+        <TextId>1117</TextId>
+        <Text>Seções</Text>
+    </Item>
+    <Item>
+        <TextId>1118</TextId>
+        <Text>General Information</Text>
+    </Item>
+    <Item>
+        <TextId>1119</TextId>
+        <Text>Placement and Geometry Settings</Text>
+    </Item>
+    <Item>
+        <TextId>1201</TextId>
+        <Text>Distância 7 </Text>
+    </Item>
+    <Item>
+        <TextId>1205</TextId>
+        <Text>Elementos</Text>
+    </Item>
+    <Item>
+        <TextId>1206</TextId>
+        <Text>Select slab for elevation</Text>
+    </Item>
+
+    <Item>
+        <TextId>1210</TextId>
+        <Text>Lançar seções</Text>
+    </Item>
+    <Item>
+        <TextId>1211</TextId>
+        <Text>Descrição 1</Text>
+    </Item>
+    <Item>
+        <TextId>1212</TextId>
+        <Text>Descrição 2</Text>
+    </Item>
+    <Item>
+        <TextId>1213</TextId>
+        <Text>Nome da seção</Text>
+    </Item>
+    <Item>
+        <TextId>1214</TextId>
+        <Text>Etiqueta da seção</Text>
+    </Item>
+    <Item>
+        <TextId>1215</TextId>
+        <Text>Python Part</Text>
+    </Item>
+    <Item>
+        <TextId>1216</TextId>
+        <Text>Choose type</Text>
+    </Item>
+    <Item>
+        <TextId>1217</TextId>
+        <Text>Objeto 3D</Text>
+    </Item>
+    <Item>
+        <TextId>1218</TextId>
+        <Text>Select elements</Text>
+    </Item>
+    <Item>
+        <TextId>1219</TextId>
+        <Text>Place Rails</Text>
+    </Item>
+    <Item>
+        <TextId>1220</TextId>
+        <Text>Pilar</Text>
+    </Item>
+    <Item>
+        <TextId>1221</TextId>
+        <Text>Canto da parede</Text>
+    </Item>
+    <Item>
+        <TextId>1222</TextId>
+        <Text>Wall end</Text>
+    </Item>
+    <Item>
+        <TextId>1226</TextId>
+        <Text>Punching Shear</Text>
+    </Item>
+    <Item>
+        <TextId>1228</TextId>
+        <Text>Horizontal Section</Text>
+    </Item>
+    <Item>
+        <TextId>1229</TextId>
+        <Text>Vertical Section</Text>
+    </Item>
+    <Item>
+        <TextId>1233</TextId>
+        <Text>Topo</Text>
+    </Item>
+    <Item>
+        <TextId>1234</TextId>
+        <Text>Inferior</Text>
+    </Item>
+    <Item>
+        <TextId>1235</TextId>
+        <Text>Format</Text>
+    </Item>
+    <Item>
+        <TextId>1236</TextId>
+        <Text>Reinforcement</Text>
+    </Item>
+    <Item>
+        <TextId>1237</TextId>
+        <Text>Rail and stud</Text>
+    </Item>
+    
+    <Item>
+        <TextId>4999</TextId>
+        <Text>Este PythonPart permitirá que você crie os pinos de punção para pilares retangulares, circulares cantos e extremidades de parede automaticamente. \n\nPara começar, por favor, siga estes passos:\n   1) Escolha o tipo de esforço de punção que você deseja criar. \n   2) Selecione os elementos correspondentes. \n   3)Selecione a laje para detectar o ponto de elevação automaticamente. (Opcional)\n   4) Navegue pelas abas "Geral", "Trilhos", "Layout" para definir os parâmetros de punção. \n     Clique em "Criar" para gerar os trilhos de punção. \n   5) Navegue pelas abas "Seções" para definir os parâmetros de seções.      Clique em "Criar" e lance as seções.</Text>
+    </Item>
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Por favor, selecione elementos para</Text>
+    </Item>
+    <Item>
+        <TextId>5001</TextId>
+        <Text>acesse a aba "Geral".</Text>
+    </Item>
+    <Item>
+        <TextId>5003</TextId>
+        <Text>access the "Rails" tab.</Text>
+    </Item>
+    <Item>
+        <TextId>5005</TextId>
+        <Text>acesse a aba "Geral".</Text>
+    </Item>
+    <Item>
+        <TextId>5007</TextId>
+        <Text>access the "Sections" tab.</Text>
+    </Item>
+    <Item>
+        <TextId>5008</TextId>
+        <Text>access the "Format" tab.</Text>
+    </Item>
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Não foi possível criar a armadura de punção por conta dos seguintes erros:\n</Text>
+    </Item>
+    <Item>
+        <TextId>10001</TextId>
+        <Text> - A altura dos pinos é maior que o máximo da laje = {} mm\nVocê deseja consertar automaticamente este/estes parâmetro(s)?</Text>
+    </Item>
+    <Item>
+        <TextId>10002</TextId>
+        <Text>Please select slab in '3D model view'</Text>
+    </Item>
+    <Item>
+        <TextId>10003</TextId>
+        <Text>Please select column in '3D model view'</Text>
+    </Item>
+    <Item>
+        <TextId>10005</TextId>
+        <Text>Please select walls in '3D model view'</Text>
+    </Item>
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Ponto {}, por favor escolha 3 pontos - no sentido horário na visualização '2D em planta'</Text>
+    </Item>
+    <Item>
+        <TextId>10018</TextId>
+        <Text>Please reselect wall</Text>
+    </Item>
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Select the elements</Text>
+    </Item>
+    <Item>
+        <TextId>10023</TextId>
+        <Text>Por favor, crie a armadura de esforço de punção primeiro</Text>
+    </Item>
+    <Item>
+        <TextId>10024</TextId>
+        <Text>Armadura de esforço de punção já foi criada nesta posição</Text>
+    </Item>
+    <Item>
+        <TextId>10026</TextId>
+        <Text>Inserir os parâmetros e clicar em Criar para gerar as armaduras de esforço de punção</Text>
+    </Item>
+    <Item>
+        <TextId>10027</TextId>
+        <Text>Clique em um ponto em planta para lançar as seções</Text>
+    </Item>
+    <Item>
+        <TextId>10028</TextId>
+        <Text>Enter parameters and click Create to generate sections</Text>
+    </Item>
+    <Item>
+        <TextId>10029</TextId>
+        <Text>The process has been completed. Please click Close button or ESC key</Text>
+    </Item>
+    <Item>
+        <TextId>10030</TextId>
+        <Text>Este PythonPart está conectado com uma estrutura Arquitetônica com a qual ele foi criado. \nPor favor, esteja ciente que não é possível copiar este PythonPart para outra localização</Text>
+    </Item>
+    <Item>
+        <TextId>10031</TextId>
+        <Text>Você copiou o python part conectado a outro objeto arquitetônico.</Text>
+    </Item>
+    <Item>
+        <TextId>10032</TextId>
+        <Text>Você deseja associar ao novo objeto arquitetônico?</Text>
+    </Item>
+</Element>

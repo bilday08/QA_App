@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+  <Item>
+    <TextId>1001</TextId>
+    <Text>FLuxo de trabalho</Text>
+  </Item>
+  <Item>
+    <TextId>1002</TextId>
+    <Text>Para mais informações, por favor clique aqui</Text>
+  </Item>
+
+  <Item>
+    <TextId>1003</TextId>
+    <Text>Tutorial</Text>
+  </Item>
+
+  <Item>
+    <TextId>1004</TextId>
+    <Text>Elementos</Text>
+  </Item>
+
+  <Item>
+    <TextId>1005</TextId>
+    <Text>Armadura</Text>
+  </Item>
+
+  <Item>
+    <TextId>1006</TextId>
+    <Text>Seções</Text>
+  </Item>
+
+  <Item>
+    <TextId>1007</TextId>
+    <Text>Criar</Text>
+  </Item>
+
+  <Item>
+    <TextId>1009</TextId>
+    <Text>3D Object</Text>
+  </Item>
+
+  <Item>
+    <TextId>1011</TextId>
+    <Text>Choose type</Text>
+  </Item>
+
+  <Item>
+    <TextId>1012</TextId>
+    <Text>Geral</Text>
+  </Item>
+
+  <Item>
+    <TextId>1013</TextId>
+    <Text>General Parameters</Text>
+  </Item>
+
+  <Item>
+    <TextId>1020</TextId>
+    <Text>Cobrimento do concreto</Text>
+  </Item>
+
+  <Item>
+    <TextId>1021</TextId>
+    <Text>Classe de concreto</Text>
+  </Item>
+
+  <Item>
+    <TextId>1024</TextId>
+    <Text>Parâmetros das barras</Text>
+  </Item>
+
+  <Item>
+    <TextId>1025</TextId>
+    <Text>Min. diameter horizontal rebar</Text>
+  </Item>
+
+  <Item>
+    <TextId>1026</TextId>
+    <Text>Min. diameter vertical rebar</Text>
+  </Item>
+
+  <Item>
+    <TextId>1027</TextId>
+    <Text>Max. spacing horizontal rebar</Text>
+  </Item>
+
+  <Item>
+    <TextId>1028</TextId>
+    <Text>Max. spacing vertical rebar</Text>
+  </Item>
+
+  <Item>
+    <TextId>1029</TextId>
+    <Text>Ângulo do gancho</Text>
+  </Item>
+
+  <Item>
+    <TextId>1030</TextId>
+    <Text>Max. length horizontal bars</Text>
+  </Item>
+
+  <Item>
+    <TextId>1031</TextId>
+    <Text>Overlap cross</Text>
+  </Item>
+
+  <Item>
+    <TextId>1032</TextId>
+    <Text>Placing angle</Text>
+  </Item>
+
+  <Item>
+    <TextId>1033</TextId>
+    <Text>Mesh type</Text>
+  </Item>
+
+  <Item>
+    <TextId>1034</TextId>
+    <Text>Barra Principal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1035</TextId>
+    <Text>Bar reinforcement</Text>
+  </Item>
+
+  <Item>
+    <TextId>1036</TextId>
+    <Text>Mesh reinforcement</Text>
+  </Item>
+
+  <Item>
+    <TextId>1037</TextId>
+    <Text>Mesh Parameters</Text>
+  </Item>
+
+  <Item>
+    <TextId>1038</TextId>
+    <Text>Main Vertical Rebar</Text>
+  </Item>
+
+  <Item>
+    <TextId>1039</TextId>
+    <Text>Diâmetro</Text>
+  </Item>
+
+  <Item>
+    <TextId>1040</TextId>
+    <Text>Espaçamento</Text>
+  </Item>
+
+  <Item>
+    <TextId>1041</TextId>
+    <Text>Comprimento da barra inicial</Text>
+  </Item>
+
+  <Item>
+    <TextId>1042</TextId>
+    <Text>Main Horizontal Rebar</Text>
+  </Item>
+
+  <Item>
+    <TextId>1043</TextId>
+    <Text>Reinforcement Type</Text>
+  </Item>
+
+  <Item>
+    <TextId>1045</TextId>
+    <Text>Overlap length</Text>
+  </Item>
+
+  <Item>
+    <TextId>1046</TextId>
+    <Text>Wall Edge Rebar</Text>
+  </Item>
+
+  <Item>
+    <TextId>1047</TextId>
+    <Text>Número de barras</Text>
+  </Item>
+
+  <Item>
+    <TextId>1048</TextId>
+    <Text>Start length</Text>
+  </Item>
+
+  <Item>
+    <TextId>1049</TextId>
+    <Text>Start width</Text>
+  </Item>
+
+  <Item>
+    <TextId>1050</TextId>
+    <Text>Overlap longitudinal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1051</TextId>
+    <Text>Placing direction</Text>
+  </Item>
+
+  <Item>
+    <TextId>1052</TextId>
+    <Text>Longitudinal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1053</TextId>
+    <Text>Python Part</Text>
+  </Item>
+
+  <Item>
+    <TextId>1054</TextId>
+    <Text>Wall Opening Rebar</Text>
+  </Item>
+
+  <Item>
+    <TextId>1055</TextId>
+    <Text>Add rebar around opening</Text>
+  </Item>
+
+  <Item>
+    <TextId>1056</TextId>
+    <Text>Cross</Text>
+  </Item>
+
+  <Item>
+    <TextId>1057</TextId>
+    <Text>Cut mesh</Text>
+  </Item>
+
+  <Item>
+    <TextId>1058</TextId>
+    <Text>Change placement dir.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1059</TextId>
+    <Text>Displace mesh</Text>
+  </Item>
+
+  <Item>
+    <TextId>1060</TextId>
+    <Text>Pins-Stirrups</Text>
+  </Item>
+
+  <Item>
+    <TextId>1061</TextId>
+    <Text>Horizontal Pins</Text>
+  </Item>
+
+  <Item>
+    <TextId>1062</TextId>
+    <Text>Same as main rebar</Text>
+  </Item>
+
+  <Item>
+    <TextId>1063</TextId>
+    <Text>Mesh group</Text>
+  </Item>
+
+  <Item>
+    <TextId>1065</TextId>
+    <Text>Pin length</Text>
+  </Item>
+
+  <Item>
+    <TextId>1067</TextId>
+    <Text>Vertical Pins</Text>
+  </Item>
+
+  <Item>
+    <TextId>1072</TextId>
+    <Text>Pin Lapping Length</Text>
+  </Item>
+
+  <Item>
+    <TextId>1073</TextId>
+    <Text>Horizontal Stirrups</Text>
+  </Item>
+
+  <Item>
+    <TextId>1077</TextId>
+    <Text>Vertical Stirrups</Text>
+  </Item>
+
+  <Item>
+    <TextId>1081</TextId>
+    <Text>Lançar seções</Text>
+  </Item>
+
+  <Item>
+    <TextId>1082</TextId>
+    <Text>Selecionar parede superior</Text>
+  </Item>
+
+  <Item>
+    <TextId>1083</TextId>
+    <Text>Select openings</Text>
+  </Item>
+
+  <Item>
+    <TextId>1084</TextId>
+    <Text>Select first wall</Text>
+  </Item>
+
+  <Item>
+    <TextId>1085</TextId>
+    <Text>Verificar e lançar armadura</Text>
+  </Item>
+
+  <Item>
+    <TextId>1086</TextId>
+    <Text>Use horizontal stirrup for h &lt;</Text>
+  </Item>
+
+  <Item>
+    <TextId>1087</TextId>
+    <Text>Use vertical stirrup for h &lt;</Text>
+  </Item>
+
+  <Item>
+    <TextId>1088</TextId>
+    <Text>Extend horizontally</Text>
+  </Item>
+
+  <Item>
+    <TextId>1089</TextId>
+    <Text>Extend vertically</Text>
+  </Item>
+
+  <Item>
+    <TextId>1090</TextId>
+    <Text>Elevação</Text>
+  </Item>
+
+  <Item>
+    <TextId>1091</TextId>
+    <Text>Main rebar bending pin</Text>
+  </Item>
+
+  <Item>
+    <TextId>1092</TextId>
+    <Text>Stirrup bending pin</Text>
+  </Item>
+
+  <Item>
+    <TextId>1094</TextId>
+    <Text>Vertical Section</Text>
+  </Item>
+
+  <Item>
+    <TextId>1098</TextId>
+    <Text>Horizontal Section</Text>
+  </Item>
+
+  <Item>
+    <TextId>1099</TextId>
+    <Text>Distância da seção a partir da esquerda</Text>
+  </Item>
+
+  <Item>
+    <TextId>1100</TextId>
+    <Text>Classe de aço da armadura</Text>
+  </Item>
+
+  <Item>
+    <TextId>1104</TextId>
+    <Text>Min. length horizontal bars</Text>
+  </Item>
+
+  <Item>
+    <TextId>1105</TextId>
+    <Text>Min. length vertical bars</Text>
+  </Item>
+
+  <Item>
+    <TextId>1113</TextId>
+    <Text>Distância da seção a partir do nível inferior</Text>
+  </Item>
+
+  <Item>
+    <TextId>1114</TextId>
+    <Text>Wall</Text>
+  </Item>
+
+  <Item>
+    <TextId>1115</TextId>
+    <Text>Etiqueta da barra</Text>
+  </Item>
+
+  <Item>
+    <TextId>1116</TextId>
+    <Text>Wall name</Text>
+  </Item>
+
+  <Item>
+    <TextId>1117</TextId>
+    <Text>Descrição 1</Text>
+  </Item>
+
+  <Item>
+    <TextId>1118</TextId>
+    <Text>Descrição 2</Text>
+  </Item>
+
+  <Item>
+    <TextId>1119</TextId>
+    <Text>Seção 1-1</Text>
+  </Item>
+
+  <Item>
+    <TextId>1120</TextId>
+    <Text>Descrição</Text>
+  </Item>
+
+  <Item>
+    <TextId>1121</TextId>
+    <Text>Seção A-A</Text>
+  </Item>
+
+  <Item>
+    <TextId>1123</TextId>
+    <Text>Comprimento do Gancho</Text>
+  </Item>
+
+  <Item>
+    <TextId>1124</TextId>
+    <Text>Valores das barras</Text>
+  </Item>
+
+  <Item>
+    <TextId>1125</TextId>
+    <Text>Manual</Text>
+  </Item>
+
+  <Item>
+    <TextId>1126</TextId>
+    <Text>Com base na norma</Text>
+  </Item>
+
+  <Item>
+    <TextId>1127</TextId>
+    <Text>All Equal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1134</TextId>
+    <Text>Top</Text>
+  </Item>
+
+  <Item>
+    <TextId>1135</TextId>
+    <Text>Bottom</Text>
+  </Item>
+
+  <Item>
+    <TextId>1136</TextId>
+    <Text>Inside</Text>
+  </Item>
+
+  <Item>
+    <TextId>1137</TextId>
+    <Text>Left</Text>
+  </Item>
+
+  <Item>
+    <TextId>1138</TextId>
+    <Text>Right</Text>
+  </Item>
+
+  <Item>
+    <TextId>1139</TextId>
+    <Text>Outside</Text>
+  </Item>
+
+  <Item>
+    <TextId>1140</TextId>
+    <Text>Addtl. reinforcement</Text>
+  </Item>
+
+  <Item>
+    <TextId>1141</TextId>
+    <Text>Spacer</Text>
+  </Item>
+
+  <Item>
+    <TextId>1142</TextId>
+    <Text>Off</Text>
+  </Item>
+
+  <Item>
+    <TextId>1143</TextId>
+    <Text>Clamp</Text>
+  </Item>
+
+  <Item>
+    <TextId>1144</TextId>
+    <Text>Type</Text>
+  </Item>
+
+  <Item>
+    <TextId>1145</TextId>
+    <Text>Alignment</Text>
+  </Item>
+
+  <Item>
+    <TextId>1146</TextId>
+    <Text>Vertical</Text>
+  </Item>
+
+  <Item>
+    <TextId>1147</TextId>
+    <Text>Horizontal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1148</TextId>
+    <Text>Up</Text>
+  </Item>
+
+  <Item>
+    <TextId>1149</TextId>
+    <Text>Down</Text>
+  </Item>
+
+  <Item>
+    <TextId>1150</TextId>
+    <Text>Right</Text>
+  </Item>
+
+  <Item>
+    <TextId>1151</TextId>
+    <Text>Direction</Text>
+  </Item>
+
+  <Item>
+    <TextId>1152</TextId>
+    <Text>Left</Text>
+  </Item>
+
+  <Item>
+    <TextId>1153</TextId>
+    <Text> </Text>
+  </Item>
+
+  <Item>
+    <TextId>1154</TextId>
+    <Text> spacers per square meter</Text>
+  </Item>
+
+  <Item>
+    <TextId>1155</TextId>
+    <Text> spacers per square yard</Text>
+  </Item>
+
+  <Item>
+    <TextId>1156</TextId>
+    <Text> clamps per square meter</Text>
+  </Item>
+
+  <Item>
+    <TextId>1157</TextId>
+    <Text> clamps per square yard</Text>
+  </Item>
+
+  <Item>
+    <TextId>1158</TextId>
+    <Text>Count per area unit</Text>
+  </Item>
+
+  <Item>
+    <TextId>1159</TextId>
+    <Text>Value not possible to show for multi create</Text>
+  </Item>
+
+  <Item>
+    <TextId>1160</TextId>
+    <Text>Format</Text>
+  </Item>
+
+  <Item>
+    <TextId>1161</TextId>
+    <Text>Rebar</Text>
+  </Item>
+
+  <Item>
+    <TextId>1162</TextId>
+    <Text>Main horizontal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1163</TextId>
+    <Text>Main vertical</Text>
+  </Item>
+
+  <Item>
+    <TextId>1164</TextId>
+    <Text>Mesh</Text>
+  </Item>
+
+  <Item>
+    <TextId>1165</TextId>
+    <Text>Wall edge</Text>
+  </Item>
+
+  <Item>
+    <TextId>1166</TextId>
+    <Text>Wall opening</Text>
+  </Item>
+
+  <Item>
+    <TextId>1167</TextId>
+    <Text>Stirrup</Text>
+  </Item>
+
+  <Item>
+    <TextId>1168</TextId>
+    <Text>Horizontal pins</Text>
+  </Item>
+
+  <Item>
+    <TextId>1169</TextId>
+    <Text>Vertical pins</Text>
+  </Item>
+
+  <Item>
+    <TextId>1170</TextId>
+    <Text>Horizontal stirrups</Text>
+  </Item>
+
+  <Item>
+    <TextId>1171</TextId>
+    <Text>Vertical stirrups</Text>
+  </Item>
+
+  <Item>
+    <TextId>1172</TextId>
+    <Text>Spacer, clamp</Text>
+  </Item>
+
+  <Item>
+    <TextId>4999</TextId>
+    <Text>Este PythonPart permitirá que você crie automaticamente armaduras nas paredes.\n\nPara começar, siga estas etapas:\n 1) Selecione a parede que deseja armar.\n 2) Selecione uma segunda parede acima da primeira. (Opcional)\n 3) Selecione as aberturas da parede. (Opcional)\n 3) Acesse as abas "Geral", "Barras Principais", "Pinos-Estribos" para definir os parâmetros da armadura da parede.\n Clique em "Criar" para verificar e gerar a armadura da parede.\n 4) Navegue pela aba "Seções" para definir os parâmetros das seções.\n Clique em "Criar" e lance as seções.</Text>
+  </Item>
+
+  <Item>
+    <TextId>5000</TextId>
+    <Text>Por favor, selecione elementos para</Text>
+  </Item>
+
+  <Item>
+    <TextId>5001</TextId>
+    <Text>acesse a aba "Geral".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5003</TextId>
+    <Text>access the "Main Rebar" tab.</Text>
+  </Item>
+
+  <Item>
+    <TextId>5004</TextId>
+    <Text>access the "Addtl. reinforcement" tab.</Text>
+  </Item>
+
+  <Item>
+    <TextId>5005</TextId>
+    <Text>access the "Pins-Stirrups" tab.</Text>
+  </Item>
+
+  <Item>
+    <TextId>5007</TextId>
+    <Text>access the "Sections" tab.</Text>
+  </Item>
+
+  <Item>
+    <TextId>5008</TextId>
+    <Text>access the "Format" tab.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10010</TextId>
+    <Text>Cannot create reinforcement because of following error(s): \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10016</TextId>
+    <Text>Selected wall already has reinforcement.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10018</TextId>
+    <Text>Por favor, crie armadura primeiro</Text>
+  </Item>
+
+  <Item>
+    <TextId>10019</TextId>
+    <Text>Clique em um ponto em planta para lançar as seções</Text>
+  </Item>
+
+  <Item>
+    <TextId>10020</TextId>
+    <Text>Horizontal rebar diameter is less than Ømin = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10021</TextId>
+    <Text>Vertical rebar diameter is less than Ømin = {} mm\n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10022</TextId>
+    <Text>Main horizontal rebar spacing is greater than Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10023</TextId>
+    <Text>Main vertical rebar spacing is greater than Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10024</TextId>
+    <Text>Stirrup horizontal rebar spacing is greater than Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10025</TextId>
+    <Text>Stirrup vertical rebar spacing is greater than Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10026</TextId>
+    <Text>Você deseja consertar automaticamente estes parâmetros?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10027</TextId>
+    <Text>Enter parameters and click Create to generate reinforcement</Text>
+  </Item>
+
+  <Item>
+    <TextId>10028</TextId>
+    <Text>Select wall(s) and its openings in '3D model view'</Text>
+  </Item>
+
+  <Item>
+    <TextId>10029</TextId>
+    <Text>The process has been completed. Please click Close button or ESC key.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10030</TextId>
+    <Text>Enter parameters and click Create to generate sections</Text>
+  </Item>
+
+  <Item>
+    <TextId>10031</TextId>
+    <Text>Por favor, verifique a pré-visualização da armadura para as aberturas. A barra pode ser estendida para fora da geometria da parede.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10032</TextId>
+    <Text>Please select object in '3D Model view'</Text>
+  </Item>
+
+  <Item>
+    <TextId>10035</TextId>
+    <Text>A espessura das paredes selecionadas são diferentes. Isto pode resultar em alguns lançamentos incorretos das armaduras. Você deseja continuar?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10036</TextId>
+    <Text>+ A Barra Principal não pode ser criada devido aos seguintes parâmetros:</Text>
+  </Item>
+
+  <Item>
+    <TextId>10037</TextId>
+    <Text> - Comprimento do Pino insuficiente</Text>
+  </Item>
+
+  <Item>
+    <TextId>10038</TextId>
+    <Text> - Comprimento Mínimo da Barra insuficiente</Text>
+  </Item>
+
+  <Item>
+    <TextId>10039</TextId>
+    <Text>Você deseja ignoraar este aviso e prosseguir com a geração das armaduras?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10040</TextId>
+    <Text>Este PythonPart está conectado com uma estrutura Arquitetônica com a qual ele foi criado. \nPor favor, esteja ciente que não é possível copiar este PythonPart para outra localização</Text>
+  </Item>
+
+  <Item>
+    <TextId>10041</TextId>
+    <Text>Houve mudanças de parâmetro.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10042</TextId>
+    <Text>Você deseja atualizar o número da marca da barra?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10043</TextId>
+    <Text>Você copiou o python part conectado a outro objeto arquitetônico.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10044</TextId>
+    <Text>Você deseja associar ao novo objeto arquitetônico?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10045</TextId>
+    <Text>+ Barra de Canto a ser criada seria cortada porque os objetos de Abertura de Parede estão fechados na borda da parede.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10046</TextId>
+    <Text>Você deseja dividir as Barras de Canto na Abertura dos objetos?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10047</TextId>
+    <Text>Select wall(s) by left-click or area selection</Text>
+  </Item>
+
+  <Item>
+    <TextId>10048</TextId>
+    <Text>No valid wall above is found.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10049</TextId>
+    <Text>The application only supports walls and their wall above with the same thickness</Text>
+  </Item>
+
+  <Item>
+    <TextId>10050</TextId>
+    <Text>The application only supports walls and their wall above with the same projection in plan view.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10051</TextId>
+    <Text>The application only supports walls and their wall above with the same rotation angle in plan view.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10052</TextId>
+    <Text>Please reselect wall(s) or untick the second wall on top checkbox</Text>
+  </Item>
+
+  <Item>
+    <TextId>10053</TextId>
+    <Text>Invalid selection:</Text>
+  </Item>
+
+  <Item>
+    <TextId>10054</TextId>
+    <Text>The application only supports walls with horizontal rectangle cross-section.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10055</TextId>
+    <Text>The application only supports walls without inclined surfaces at top or bottom.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10056</TextId>
+    <Text>The application only supports walls without an inclination.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10057</TextId>
+    <Text>The application only supports walls without notches or corbels.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10058</TextId>
+    <Text>The application only supports walls whose length is 4 times bigger than the thickness.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10059</TextId>
+    <Text>Please reselect wall(s)</Text>
+  </Item>
+
+  <Item>
+    <TextId>10060</TextId>
+    <Text>The tool could not detect a layer to apply reinforcement to by trade or thickness for some wall(s). \nTo improve the selection, please assign the trade "Concreting work" to the respective wall layers or select the wall layers you want to apply reinforcement to individually \nvia the sum function and single clicks instead of the area selection.\nPlease repeat your selection.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10061</TextId>
+    <Text>One opening is outside the wall.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10062</TextId>
+    <Text> or modify the opening</Text>
+  </Item>
+
+  <Item>
+    <TextId>10063</TextId>
+    <Text>For the current selection, at least one wall appears to not have a wall above. In this case, starter bars will not be applied.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10064</TextId>
+    <Text>One opening is not completely inside the wall you selected.</Text>
+  </Item>
+
+</Element>

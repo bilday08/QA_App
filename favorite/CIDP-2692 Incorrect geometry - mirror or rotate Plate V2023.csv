@@ -1,0 +1,3 @@
+TestCase Name,TestCase Description,TestCase Result,Note,Status
+Using handle to modify thickness of Plate after rotate action,"The thickness of Plate will be updated according to thickness point, no crash or exception occurs",As expected,Main feature,Pass
+Using handle to modify thickness of Plate after mirror action,"The thickness of Plate will be updated according to thickness point, no crash or exception occurs",As expected,Main feature,Pass

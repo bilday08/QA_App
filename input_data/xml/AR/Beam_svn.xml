@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Potek dela</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Več informacij:</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Priročnik</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Izberi tip</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>2D objekt</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Python Part</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Položi armaturo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>Splošno</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>Splošne nastavitve</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Zašč. plast betona</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text>Marka betona</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>Definicija presekov</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>Stremena radij krivljenja</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Nastavitve armature</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text>Min. ø glavne armature</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Min. ø stranske armature</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Min. ø armature stremen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>Maksimalen razmak med stremeni</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Kót kljuke stremena</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Maksimalna dolžina palic</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Glavna armatura radij krivljenja</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Vzdolžna armatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Glavna armatura zgoraj</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Fi</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Število kosov</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Površina preseka (As)</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Glavna armatura spodaj</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Glavna armatura - dodatna</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Dodatna armatura - spodaj</Text>
+    </Item>
+
+    <Item>
+        <TextId>1048</TextId>
+        <Text>Dolžina palice</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Robna armatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Polaganje</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Robni odmik na začetku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Robni odmik na koncu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Enostavno območje polaganja</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Izdelaj</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Razmak</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Dolžina kljuke</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Odmik na sredini</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Razmak na začetku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>Odmik na koncu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>Definicija debeline plošče</Text>
+    </Item>
+
+    <Item>
+        <TextId>1068</TextId>
+        <Text>Število polj armiranja</Text>
+    </Item>
+
+    <Item>
+        <TextId>1081</TextId>
+        <Text>Prerezi</Text>
+    </Item>
+
+    <Item>
+        <TextId>1082</TextId>
+        <Text>Pogled</Text>
+    </Item>
+
+    <Item>
+        <TextId>1083</TextId>
+        <Text>Ime grede</Text>
+    </Item>
+
+    <Item>
+        <TextId>1084</TextId>
+        <Text>Opis 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1085</TextId>
+        <Text>Opis 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1086</TextId>
+        <Text>Merilo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1087</TextId>
+        <Text>Opis armature</Text>
+    </Item>
+
+    <Item>
+        <TextId>1089</TextId>
+        <Text>Elementi</Text>
+    </Item>
+
+    <Item>
+        <TextId>1090</TextId>
+        <Text>Armatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>1092</TextId>
+        <Text>Izberi elemente</Text>
+    </Item>
+
+    <Item>
+        <TextId>1091</TextId>
+        <Text>Dolžina polaganja na sredini</Text>
+    </Item>
+
+    <Item>
+        <TextId>1093</TextId>
+        <Text>Dolžina polaganja</Text>
+    </Item>
+
+    <Item>
+        <TextId>1094</TextId>
+        <Text>Postavi prereze</Text>
+    </Item>
+
+    <Item>
+        <TextId>1096</TextId>
+        <Text>Debelina plošče</Text>
+    </Item>
+
+    <Item>
+        <TextId>1097</TextId>
+        <Text>Nastavitev polja armiranja</Text>
+    </Item>
+
+    <Item>
+        <TextId>1098</TextId>
+        <Text>Dolžina polaganja na začetku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1099</TextId>
+        <Text>Streme</Text>
+    </Item>
+
+    <Item>
+        <TextId>1100</TextId>
+        <Text>Dolžina polaganja na koncu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1101</TextId>
+        <Text>Prečni preseki</Text>
+    </Item>
+
+    <Item>
+        <TextId>1102</TextId>
+        <Text>Polje armature</Text>
+    </Item>
+
+    <Item>
+        <TextId>1103</TextId>
+        <Text>Prerez 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1104</TextId>
+        <Text>Prerez 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1105</TextId>
+        <Text>Prerez 3</Text>
+    </Item>
+
+    <Item>
+        <TextId>1106</TextId>
+        <Text>Prikaži tabelo vnosov</Text>
+    </Item>
+
+    <Item>
+        <TextId>1107</TextId>
+        <Text>Vzdolžna armatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>1108</TextId>
+        <Text>Greda</Text>
+    </Item>
+
+    <Item>
+        <TextId>1109</TextId>
+        <Text>Dolžina prekrivanja</Text>
+    </Item>
+
+    <Item>
+        <TextId>1110</TextId>
+        <Text>Dolžina kljuke = D *</Text>
+    </Item>
+
+    <Item>
+        <TextId>1111</TextId>
+        <Text>Sidrna dolžina na začetku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1112</TextId>
+        <Text>Sidrna dolžina na koncu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1113</TextId>
+        <Text>Razmak na začetku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1114</TextId>
+        <Text>Razmak na koncu Ende</Text>
+    </Item>
+
+    <Item>
+        <TextId>1117</TextId>
+        <Text>Min. svetli razmak med palicami</Text>
+    </Item>
+
+    <Item>
+        <TextId>1118</TextId>
+        <Text>Vrednosti armature</Text>
+    </Item>
+
+    <Item>
+        <TextId>1119</TextId>
+        <Text>Ročno</Text>
+    </Item>
+
+    <Item>
+        <TextId>1120</TextId>
+        <Text>Po normativu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1121</TextId>
+        <Text>Kljuka na koncu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1148</TextId>
+        <Text>Način pogleda</Text>
+    </Item>
+
+    <Item>
+        <TextId>1149</TextId>
+        <Text>Pogled za celotno gredo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1150</TextId>
+        <Text>Pogled za vsako polje</Text>
+    </Item>
+
+    <Item>
+        <TextId>1151</TextId>
+        <Text>Prečni preseki</Text>
+    </Item>
+
+    <Item>
+        <TextId>1153</TextId>
+        <Text>Kljuka na začetku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1157</TextId>
+        <Text>1:50</Text>
+    </Item>
+
+    <Item>
+        <TextId>1158</TextId>
+        <Text>1:25</Text>
+    </Item>
+
+    <Item>
+        <TextId>1159</TextId>
+        <Text>1:20</Text>
+    </Item>
+
+    <Item>
+        <TextId>1161</TextId>
+        <Text>Tu vpišite številko polja armature prosim</Text>
+    </Item>
+
+    <Item>
+        <TextId>1162</TextId>
+        <Text>Format</Text>
+    </Item>
+
+    <Item>
+        <TextId>1163</TextId>
+        <Text>Glavna armatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>1164</TextId>
+        <Text>Zgornja armatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>1166</TextId>
+        <Text>Spodnja armatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>1167</TextId>
+        <Text>Dodatna tla</Text>
+    </Item>
+
+    <Item>
+        <TextId>1168</TextId>
+        <Text>Glavno streme</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Da</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>Ne</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Stranska armatura</Text>
+    </Item>
+
+    <!-- For palette messages -->
+    <Item>
+        <TextId>4999</TextId>
+        <Text>Ta PythonPart vam omogoča samodejno armiranje grede.\n\nZa začetek sledite tem korakom:\n 1) izberite gredo, ki jo želite armirati.\n 2) Za definiranje armature grede se "sprehodite" skozi zavihke "Splošno", "Glavna armatura", "Stremena". \n      Za preveritev in izdelavo armature kliknite na "Izdelaj".\n 3) Za definiranje parapetov prereza se "sprehodite" po zavihku"Prerezi". \n      Kliknite na "Izdelaj" in odložite prereze.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Za prikaz zavihka "Splošno"</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>izberite elemente prosim.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>Prikliči zavihek "Vzdolžna armatura"</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>Za prikaz zavihka "Stremena"</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>Za prikaz zavihka "Prerezi"</Text>
+    </Item>
+    <Item>
+        <TextId>5008</TextId>
+        <Text>Za prikaz zavihka "Format".</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>Klik leve tipke za klic posamezne grede / desni klik za izbor večih gred</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Prilagodi parametre in izdelaj armaturo / Esc za ponoven izbor stebra(ov)</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Izberi gredo z levim klikom ali izborom območja</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>Izbor stebra(ov) z levim klikom ali izborom območja</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Za izdelavo prerezov vnesite parametre prosim in izberite Izdelaj</Text>
+    </Item>
+
+    <Item>
+        <TextId>10022</TextId>
+        <Text>Za postavitev prerezov na risarsko površino vnesite koordinate prosim</Text>
+    </Item>
+
+    <Item>
+        <TextId>10038</TextId>
+        <Text>Parametri so bili spremenjeni.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10039</TextId>
+        <Text>Ali želite posodobiti št. pozicije armaturne palice?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10040</TextId>
+        <Text>Kopirali ste PhytonPart, ki je povezan z arhitekturnim elementom.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10041</TextId>
+        <Text>Ali želite povezati z novim arhitekturnim objektom?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10042</TextId>
+        <Text>Najbolj zgornja ravnina izbrane grede je različna.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10043</TextId>
+        <Text>Ta verzija ne podpira grede z različnimi smermi.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10044</TextId>
+        <Text>Širina grede je različna.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10045</TextId>
+        <Text>Izbrane grede kolidirajo ali vsaj ena greda je duplikat.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10046</TextId>
+        <Text>Ta verzija ne podpira gred z ekscentričnimi osmi.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10047</TextId>
+        <Text>- Program podpira samo stebre pravokotne ali okrogle oblike.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10048</TextId>
+        <Text>- Program ne podpira stebrov s skupnim volumnom.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10049</TextId>
+        <Text>- Program podpira samo stebre pravokotne ali okrogle oblike.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10050</TextId>
+        <Text>- Širina grede je večja od enega izmed ležišč.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10051</TextId>
+        <Text>- Ena izmed temenskih točk grede leži izven pogleda na profil nosilca.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10052</TextId>
+        <Text>- Kót vrtenja ležišča in grede sta različna.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10053</TextId>
+        <Text>- Med izbranim nosilcem in gedo je luknja.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10054</TextId>
+        <Text>Ponovno izberite stebre prosim.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10055</TextId>
+        <Text>Ponovno izberite grede prosim.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10056</TextId>
+        <Text>Izbor ni dovoljen:</Text>
+    </Item>
+
+    <Item>
+        <TextId>10057</TextId>
+        <Text>Klik desne tipka za začetek izbora stebra(ov) ali pritisk tipke Esc za ponoven izbor gred(e)</Text>
+    </Item>
+
+    <Item>
+        <TextId>10058</TextId>
+        <Text>Vnesi parametre armature prosim ali pritisni tipko Esc za ponoven izbor grede</Text>
+    </Item>
+
+    <Item>
+        <TextId>10059</TextId>
+        <Text>- Svetli razmak med stranskimi armaturnimi palicami ne ustreza zahtevam, določenim v zavihku Splošno.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10060</TextId>
+        <Text>- Dolžina stranskih armaturnih palic vsaj v enem polju presega maksimalno dolžino palic, ki je nastavljena v zavihku Splošno.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10061</TextId>
+        <Text>- Svetli razmak med spodnjimi armaturnimi palicami ne ustreza zahtevam v zavihko Splošno.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10062</TextId>
+        <Text>- Dolžina spodnje glavne armaturne palice v vsaj enem polju presega maksimalno dolžino palic, ki je nastavljena v zavihku Splošno.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10063</TextId>
+        <Text>- Dolžina zgornje glavne armaturne palice v vsaj enem polju presega maksimalno dolžino palic, ki je nastavljena v zavihku Splošno.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10064</TextId>
+        <Text>Spremenite parametre za zagotovitev, da bo skupna dolžina palice manjša od maksimalne dolžine palice.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10065</TextId>
+        <Text>Ali želite nadaljevati?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10066</TextId>
+        <Text>Zgornje armaturne palice je moč položiti preko večih polj ali samo preko enega. \nAli jih želite položiti preko večih polj?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10067</TextId>
+        <Text>- Svetli razmak med spodnjimi armaturnimi palicami ne ustreza zahtevam v zavihko Splošno.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10068</TextId>
+        <Text>- Dolžina dodatne spodnje armaturne palice vsaj v enem polju presega maksimalno dolžino palic, ki je nastavljena v zavihku Splošno.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10069</TextId>
+        <Text>- Svetli razmak med spodnjimi glavnimi armaturnimi palicami in dodatnimi palicami ne ustreza zahtevam v zavihku Splošno.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10070</TextId>
+        <Text>- Število določene dodatna armature v spodnji glavni armaturi ni primerna za vstavitev v model grede.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10071</TextId>
+        <Text>Ta PythonPart je povezan z arhitekturno komponento, s katero je bil izdelan.\nTega PhytonParta ne morete kopirati na drugo mesto.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10072</TextId>
+        <Text>Nobene armature ni položene. Ali naj ta ukaz zares prekinem?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10090</TextId>
+        <Text>- Svetli razmak med stranskimi armaturnimi palicami je večjo od maksimalnega razmaka med palicami.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10091</TextId>
+        <Text>Za posodobitev armature spremenite parametre v zavihkih prosim</Text>
+    </Item>
+
+</Element>

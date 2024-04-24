@@ -1,0 +1,413 @@
+<Element>
+
+    <!--GENERAL-->
+    <Item>
+        <TextId>9000</TextId>
+        <Text>Alaplemez</Text>
+    </Item>
+
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Geometria</Text>
+    </Item>
+
+    <!--PLATE-->
+    <Item>
+        <TextId>1000</TextId>
+        <Text>Panel paraméterek</Text>
+    </Item>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Szélesség</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Mélység</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Vastagság</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Standard</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Automatikus</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Távolság</Text>
+    </Item>
+
+    <Item>
+        <TextId>1007</TextId>
+        <Text>Méret</Text>
+    </Item>
+
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Téglalap</Text>
+    </Item>
+
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Kör</Text>
+    </Item>
+
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Lemez alak</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Átmérő</Text>
+    </Item>
+
+    <!--BOLT-->
+    <Item>
+        <TextId>2000</TextId>
+        <Text>Horgonyparaméterek</Text>
+    </Item>
+
+    <Item>
+        <TextId>2001</TextId>
+        <Text>Peremtávolság</Text>
+    </Item>
+
+    <Item>
+        <TextId>2002</TextId>
+        <Text>Csavarok száma</Text>
+    </Item>
+
+    <Item>
+        <TextId>2003</TextId>
+        <Text>Csavarok száma</Text>
+    </Item>
+
+    <Item>
+        <TextId>2004</TextId>
+        <Text>Kampó típus</Text>
+    </Item>
+
+    <Item>
+        <TextId>2005</TextId>
+        <Text>Fejelt/L-Horog/J-Horog</Text>
+    </Item>
+
+    <Item>
+        <TextId>2006</TextId>
+        <Text>Méret</Text>
+    </Item>
+
+    <Item>
+        <TextId>2007</TextId>
+        <Text>Hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>2008</TextId>
+        <Text>Alátétek</Text>
+    </Item>
+
+    <Item>
+        <TextId>2009</TextId>
+        <Text>Horgonyzási minőségi osztály</Text>
+    </Item>
+
+    <Item>
+        <TextId>2010</TextId>
+        <Text>Részletezettség</Text>
+    </Item>
+
+    <Item>
+        <TextId>2011</TextId>
+        <Text>Alacsony</Text>
+    </Item>
+
+    <Item>
+        <TextId>2012</TextId>
+        <Text>Közepes nagyság</Text>
+    </Item>
+
+    <Item>
+        <TextId>2013</TextId>
+        <Text>Magas</Text>
+    </Item>
+
+    <Item>
+        <TextId>2014</TextId>
+        <Text>Csavarok száma</Text>
+    </Item>
+
+    <!--WELD-->
+    <Item>
+        <TextId>3000</TextId>
+        <Text>Hegesztési varrat paraméterek</Text>
+    </Item>
+
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Hegesztési varrat típusa</Text>
+    </Item>
+
+    <Item>
+        <TextId>3002</TextId>
+        <Text>Vonallánc/Lekerekítés/Konvex/Konkáv</Text>
+    </Item>
+
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Hegesztés szélesség</Text>
+    </Item>
+
+    <Item>
+        <TextId>3004</TextId>
+        <Text>Hegesztés szög</Text>
+    </Item>
+
+    <Item>
+        <TextId>3005</TextId>
+        <Text>Hegesztési varrat hossza</Text>
+    </Item>
+
+    <Item>
+        <TextId>3006</TextId>
+        <Text>Hegesztési varrat mélysége</Text>
+    </Item>
+
+    <Item>
+        <TextId>3007</TextId>
+        <Text>Helyszíni hegesztés</Text>
+    </Item>
+
+    <Item>
+        <TextId>3008</TextId>
+        <Text>Megjegyzés</Text>
+    </Item>
+
+    <Item>
+        <TextId>3009</TextId>
+        <Text>Standard</Text>
+    </Item>
+
+    <Item>
+        <TextId>3010</TextId>
+        <Text>Láb/karima</Text>
+    </Item>
+
+    <Item>
+        <TextId>3011</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>3012</TextId>
+        <Text>Karima hegesztése</Text>
+    </Item>
+
+    <Item>
+        <TextId>3013</TextId>
+        <Text>Hegesztési varrat láb</Text>
+    </Item>
+
+    <!--STIFFENER-->
+    <Item>
+        <TextId>4000</TextId>
+        <Text>Merevítési paraméterek</Text>
+    </Item>
+
+    <Item>
+        <TextId>4001</TextId>
+        <Text>Vízszintes merevítők</Text>
+    </Item>
+
+    <Item>
+        <TextId>4002</TextId>
+        <Text>Központ</Text>
+    </Item>
+
+    <Item>
+        <TextId>4003</TextId>
+        <Text>Merevítők száma</Text>
+    </Item>
+
+    <Item>
+        <TextId>4004</TextId>
+        <Text>peremtől</Text>
+    </Item>
+
+    <Item>
+        <TextId>4005</TextId>
+        <Text>Függőleges merevítők</Text>
+    </Item>
+
+    <Item>
+        <TextId>4006</TextId>
+        <Text>Központ</Text>
+    </Item>
+
+    <Item>
+        <TextId>4007</TextId>
+        <Text>Merevítők száma</Text>
+    </Item>
+
+    <Item>
+        <TextId>4008</TextId>
+        <Text>peremtől</Text>
+    </Item>
+
+    <Item>
+        <TextId>4009</TextId>
+        <Text>Vastagság</Text>
+    </Item>
+
+    <Item>
+        <TextId>4010</TextId>
+        <Text>Hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>4011</TextId>
+        <Text>Szélesség</Text>
+    </Item>
+
+    <Item>
+        <TextId>4012</TextId>
+        <Text>Élhossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>4013</TextId>
+        <Text>Elrendezés</Text>
+    </Item>
+
+    <Item>
+        <TextId>4014</TextId>
+        <Text>Perem/közép</Text>
+    </Item>
+
+    <Item>
+        <TextId>4015</TextId>
+        <Text>Kör alakú</Text>
+    </Item>
+
+    <Item>
+        <TextId>4016</TextId>
+        <Text>Merevítők száma</Text>
+    </Item>
+
+    <Item>
+        <TextId>4017</TextId>
+        <Text>Kezdőszög</Text>
+    </Item>
+
+    <!-- DIALOG LINES -->
+
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Vázoszlop kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>10001</TextId>
+        <Text>Paraméterek szerkesztése</Text>
+    </Item>
+
+    <!-- POP-UP MESSAGE -->
+
+    <Item>
+        <TextId>11000</TextId>
+        <Text>A vázoszlop törlésre került. Szeretne másik pillért választani?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11001</TextId>
+        <Text>Másolt egy Python alkatrészt, amely egy vázoszlophoz kapcsolódik. Szeretné az új vázoszlophoz csatlakoztatni?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11002</TextId>
+        <Text>Ez a funkció nem kompatibilis a jelenlegi licenccel</Text>
+    </Item>
+
+    <Item>
+        <TextId>11003</TextId>
+        <Text>Ez a funkció nem kompatibilis az Allplan jelenleg használt verziójával.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11004</TextId>
+        <Text>Kérjük, válasszon lejtés nélküli vázoszlopot a végén.</Text>
+    </Item>
+
+    <!-- PROFILE NAME -->
+    <Item>
+        <TextId>12000</TextId>
+        <Text>I</Text>
+    </Item>
+
+    <Item>
+        <TextId>12001</TextId>
+        <Text>Téglalap alakú üreges test</Text>
+    </Item>
+
+    <Item>
+        <TextId>12002</TextId>
+        <Text>L</Text>
+    </Item>
+
+    <Item>
+        <TextId>12003</TextId>
+        <Text>Üreges kör</Text>
+    </Item>
+
+    <Item>
+        <TextId>12004</TextId>
+        <Text>C</Text>
+    </Item>
+
+    <Item>
+        <TextId>12005</TextId>
+        <Text>T</Text>
+    </Item>
+
+    <Item>
+        <TextId>12006</TextId>
+        <Text>Téglalap</Text>
+    </Item>
+
+    <Item>
+        <TextId>12007</TextId>
+        <Text>Kör</Text>
+    </Item>
+
+    <Item>
+        <TextId>12008</TextId>
+        <Text>I Asym</Text>
+    </Item>
+
+    <Item>
+        <TextId>12009</TextId>
+        <Text>Hidegen alakított</Text>
+    </Item>
+
+    <Item>
+        <TextId>12010</TextId>
+        <Text>Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>12011</TextId>
+        <Text>Sínek</Text>
+    </Item>
+
+</Element>

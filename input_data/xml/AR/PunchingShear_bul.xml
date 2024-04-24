@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Element>
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Работен процес</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Повече информация:</Text>
+    </Item>
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Учебник</Text>
+    </Item>
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Общо</Text>
+    </Item>
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Кота</Text>
+    </Item>
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Бетоново покритие</Text>
+    </Item>
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Шини</Text>
+    </Item>
+    <Item>
+        <TextId>1040</TextId>
+        <Text>Производител</Text>
+    </Item>
+    <Item>
+        <TextId>1041</TextId>
+        <Text>Име на продукт</Text>
+    </Item>
+    <Item>
+        <TextId>1042</TextId>
+        <Text>Диаметър </Text>
+    </Item>
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Височина </Text>
+    </Item>
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Инсталиране от</Text>
+    </Item>
+    <Item>
+        <TextId>1045</TextId>
+        <Text>Брой региони в една релса</Text>
+    </Item>
+    <Item>
+        <TextId>1046</TextId>
+        <Text>Регион 1</Text>
+    </Item>
+    <Item>
+        <TextId>1047</TextId>
+        <Text>Име на позиция</Text>
+    </Item>
+    <Item>
+        <TextId>1048</TextId>
+        <Text>Брой дюбели</Text>
+    </Item>
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Разст. в началото </Text>
+    </Item>
+    <Item>
+        <TextId>1050</TextId>
+        <Text>Разстояние 1 </Text>
+    </Item>
+    <Item>
+        <TextId>1051</TextId>
+        <Text>Разстояние 2 </Text>
+    </Item>
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Разстояние 3 </Text>
+    </Item>
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Разстояние 4 </Text>
+    </Item>
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Разстояние 5 </Text>
+    </Item>
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Разстояние 6 </Text>
+    </Item>
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Разстояние в края </Text>
+    </Item>
+    <Item>
+        <TextId>1057</TextId>
+        <Text>Регион 2</Text>
+    </Item>
+    <Item>
+        <TextId>1068</TextId>
+        <Text>Регион 3</Text>
+    </Item>
+    <Item>
+        <TextId>1079</TextId>
+        <Text>Регион 4</Text>
+    </Item>
+    <Item>
+        <TextId>1090</TextId>
+        <Text>План</Text>
+    </Item>
+    <Item>
+        <TextId>1095</TextId>
+        <Text>Разстояние</Text>
+    </Item>
+    <Item>
+        <TextId>1099</TextId>
+        <Text>Завъртяни шини</Text>
+    </Item>
+    <Item>
+        <TextId>1100</TextId>
+        <Text>Ъгъл на полагане</Text>
+    </Item>
+    <Item>
+        <TextId>1101</TextId>
+        <Text>Начален ъгъл</Text>
+    </Item>
+    <Item>
+        <TextId>1102</TextId>
+        <Text>Брой шини</Text>
+    </Item>
+    <Item>
+        <TextId>1103</TextId>
+        <Text>Ъглови шини</Text>
+    </Item>
+    <Item>
+        <TextId>1108</TextId>
+        <Text>Странични шини</Text>
+    </Item>
+    <Item>
+        <TextId>1115</TextId>
+        <Text>Създаване</Text>
+    </Item>
+    <Item>
+        <TextId>1117</TextId>
+        <Text>Разрези</Text>
+    </Item>
+    <Item>
+        <TextId>1118</TextId>
+        <Text>Обща информация</Text>
+    </Item>
+    <Item>
+        <TextId>1119</TextId>
+        <Text>Настройки за геометрия и полагане</Text>
+    </Item>
+    <Item>
+        <TextId>1201</TextId>
+        <Text>Разстояние 7 </Text>
+    </Item>
+    <Item>
+        <TextId>1205</TextId>
+        <Text>Елементи</Text>
+    </Item>
+    <Item>
+        <TextId>1206</TextId>
+        <Text>Изберете плоча във височина</Text>
+    </Item>
+
+    <Item>
+        <TextId>1210</TextId>
+        <Text>Поставяне на разрези</Text>
+    </Item>
+    <Item>
+        <TextId>1211</TextId>
+        <Text>Описание 1</Text>
+    </Item>
+    <Item>
+        <TextId>1212</TextId>
+        <Text>Описание 2</Text>
+    </Item>
+    <Item>
+        <TextId>1213</TextId>
+        <Text>Име на разрез</Text>
+    </Item>
+    <Item>
+        <TextId>1214</TextId>
+        <Text>Надпис на разрез</Text>
+    </Item>
+    <Item>
+        <TextId>1215</TextId>
+        <Text>Python Part</Text>
+    </Item>
+    <Item>
+        <TextId>1216</TextId>
+        <Text>Избор на тип</Text>
+    </Item>
+    <Item>
+        <TextId>1217</TextId>
+        <Text>3D обект</Text>
+    </Item>
+    <Item>
+        <TextId>1218</TextId>
+        <Text>Избор на елементи</Text>
+    </Item>
+    <Item>
+        <TextId>1219</TextId>
+        <Text>Полагане на шини</Text>
+    </Item>
+    <Item>
+        <TextId>1220</TextId>
+        <Text>Колона</Text>
+    </Item>
+    <Item>
+        <TextId>1221</TextId>
+        <Text>Ъгъл стена</Text>
+    </Item>
+    <Item>
+        <TextId>1222</TextId>
+        <Text>Край стена</Text>
+    </Item>
+    <Item>
+        <TextId>1226</TextId>
+        <Text>Продънване</Text>
+    </Item>
+    <Item>
+        <TextId>1228</TextId>
+        <Text>Хоризонтален разрез</Text>
+    </Item>
+    <Item>
+        <TextId>1229</TextId>
+        <Text>Вертикален разрез</Text>
+    </Item>
+    <Item>
+        <TextId>1233</TextId>
+        <Text>Горе</Text>
+    </Item>
+    <Item>
+        <TextId>1234</TextId>
+        <Text>Долу</Text>
+    </Item>
+    <Item>
+        <TextId>1235</TextId>
+        <Text>Формат</Text>
+    </Item>
+    <Item>
+        <TextId>1236</TextId>
+        <Text>Армировка</Text>
+    </Item>
+    <Item>
+        <TextId>1237</TextId>
+        <Text>Шини и болтове</Text>
+    </Item>
+    
+    <Item>
+        <TextId>4999</TextId>
+        <Text>Този PythonPart ви позволява автоматично да създавате армировка на продънване за правоъгълни и кръгли колони, краища и ъгли на стени.\n\nЗа да започнете, изпълнете следните стъпки: \n 1) Изберете типа на армировката на продънване, която искате да създадете.\n 2) Изберете съответните елементи.\n 3) Изберете плоча, за да вземете автоматично горната кота. (Опция) \n 4) Преминете през разделите "Общо", "Шини", "План", за да дефинирате параметрите.\n    Кликнете "Създаване", за да генерирате армировката на продънване. \n 5) Преминете през раздела "Разрез", за да дефинирате характеристиките на разреза.\n    Кликнете "Създаване" и поставете разреза.</Text>
+    </Item>
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Изберете елементи, за да</Text>
+    </Item>
+    <Item>
+        <TextId>5001</TextId>
+        <Text>отворите раздела "Общо".</Text>
+    </Item>
+    <Item>
+        <TextId>5003</TextId>
+        <Text>отворите раздела "Шини".</Text>
+    </Item>
+    <Item>
+        <TextId>5005</TextId>
+        <Text>отворите раздела "План".</Text>
+    </Item>
+    <Item>
+        <TextId>5007</TextId>
+        <Text>отворите раздела "Разрези".</Text>
+    </Item>
+    <Item>
+        <TextId>5008</TextId>
+        <Text>отворите раздела "Формат".</Text>
+    </Item>
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Не може да се създаде армировка на продънване заради следните грешки: \n</Text>
+    </Item>
+    <Item>
+        <TextId>10001</TextId>
+        <Text> - Височината на дюбелите е по-голяма от макс. на плочата= {} mm\nИскате ли автоматично да се поправят параметрите?</Text>
+    </Item>
+    <Item>
+        <TextId>10002</TextId>
+        <Text>Моля, изберете колона в 3D изглед на модела.</Text>
+    </Item>
+    <Item>
+        <TextId>10003</TextId>
+        <Text>Моля, изберете колона в 3D изглед на модела.</Text>
+    </Item>
+    <Item>
+        <TextId>10005</TextId>
+        <Text>Моля, изберете колона в 3D изглед на модела</Text>
+    </Item>
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Моля, изберете 3 точки по часовниковата стрелка в план</Text>
+    </Item>
+    <Item>
+        <TextId>10018</TextId>
+        <Text>Моля, изберете стената отново</Text>
+    </Item>
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Изберете елементите</Text>
+    </Item>
+    <Item>
+        <TextId>10023</TextId>
+        <Text>Първо създайте армировка на продънване</Text>
+    </Item>
+    <Item>
+        <TextId>10024</TextId>
+        <Text>Вече сте поставили армировка на продънване в тази позиция</Text>
+    </Item>
+    <Item>
+        <TextId>10026</TextId>
+        <Text>Въведете параметрите и генерирайте армировката</Text>
+    </Item>
+    <Item>
+        <TextId>10027</TextId>
+        <Text>Моля, изберете точка на вмъкване за поставяне на разрезите</Text>
+    </Item>
+    <Item>
+        <TextId>10028</TextId>
+        <Text>Въведете параметрите и изберете Създаване, за да генерирате разрезите.</Text>
+    </Item>
+    <Item>
+        <TextId>10029</TextId>
+        <Text>Процесът е завършен. Моля затворете PythonParts с бутона Затваряне или натиснете ESC.</Text>
+    </Item>
+    <Item>
+        <TextId>10030</TextId>
+        <Text>PythonPart е свързана с архитектурния компонент, с който е създадена.\nИмайте предвид, че копирането на тази PythonPart на друго място не е възможно.</Text>
+    </Item>
+    <Item>
+        <TextId>10031</TextId>
+        <Text>Копирали сте Python Part, свързана с архитектурен обект.</Text>
+    </Item>
+    <Item>
+        <TextId>10032</TextId>
+        <Text>Искате ли да я свържете с новия архитектурен обект?</Text>
+    </Item>
+</Element>

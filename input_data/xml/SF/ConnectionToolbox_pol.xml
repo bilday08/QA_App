@@ -1,0 +1,2472 @@
+<Element>
+
+    <!--GENERAL-->
+
+    <Item>
+        <TextId>9000</TextId>
+		<Text>Geometria</Text>
+    </Item>
+
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Wybierz element</Text>
+    </Item>
+
+    <Item>
+        <TextId>9002</TextId>
+        <Text>Blacha | Kątownik | Śruba | Spoina</Text>
+    </Item>
+
+    <Item>
+        <TextId>9003</TextId>
+        <Text>Reprezentacja</Text>
+    </Item>
+
+    <Item>
+        <TextId>9004</TextId>
+        <Text>Przybornik połączeń</Text>
+    </Item>
+
+    <!--PLATE-->
+
+    <Item>
+        <TextId>1000</TextId>
+        <Text>Płyta</Text>
+    </Item>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Typ płyty</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Blacha końcowa | Usztywnienie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Kształt płyty</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Materiał</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Styl</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Kształt</Text>
+    </Item>
+
+    <Item>
+        <TextId>1007</TextId>
+        <Text>Umieść styl</Text>
+    </Item>
+
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Liczba usztywnień</Text>
+    </Item>
+
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Materiał</Text>
+    </Item>
+
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Parametr płyty</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Punkty</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>Wybierz Polilinię 2D</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>Wybierz Polilinię 3D</Text>
+    </Item>
+
+    <Item>
+        <TextId>1014</TextId>
+        <Text>Grubość</Text>
+    </Item>
+
+    <Item>
+        <TextId>1015</TextId>
+        <Text>Szerokość</Text>
+    </Item>
+
+    <Item>
+        <TextId>1016</TextId>
+        <Text>Długość</Text>
+    </Item>
+
+    <Item>
+        <TextId>1017</TextId>
+        <Text>Kształt naroża</Text>
+    </Item>
+
+    <Item>
+        <TextId>1018</TextId>
+        <Text>Narożnik prostokątny | Fazowany narożnik | Zaokrąglony narożnik</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Promień</Text>
+    </Item>
+
+    <Item>
+        <TextId>1020</TextId>
+        <Text>Promień zaokrąglenia</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text> Zaokrąglenie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>  Zaokrąglenie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>   Zaokrąglenie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Zaokrąglenie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text> Faza</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Długość</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Szerokość</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>  Faza</Text>
+    </Item>
+
+    <Item>
+        <TextId>1029</TextId>
+        <Text>Długość</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Szerokość</Text>
+    </Item>
+
+    <Item>
+        <TextId>1031</TextId>
+        <Text>   Faza</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Długość</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Szerokość</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Faza</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Długość</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Szerokość</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Pozycja</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Orientacja</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Kształt</Text>
+    </Item>
+
+    <Item>
+        <TextId>1040</TextId>
+        <Text>Orientacja</Text>
+    </Item>
+
+    <Item>
+        <TextId>1041</TextId>
+        <Text>Punkt</Text>
+    </Item>
+
+    <Item>
+        <TextId>1042</TextId>
+        <Text>Wektor</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Punkt referencyjny</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Punkt referencyjny</Text>
+    </Item>
+
+    <Item>
+        <TextId>1045</TextId>
+        <Text>Kąty obrotu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1046</TextId>
+        <Text>Kąt </Text>
+    </Item>
+
+    <Item>
+        <TextId>1047</TextId>
+        <Text>Odwróć płytę</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Twórz element</Text>
+    </Item>
+
+    <Item>
+        <TextId>1050</TextId>
+        <Text>Zatwierdź</Text>
+    </Item>
+
+    <Item>
+        <TextId>1051</TextId>
+        <Text>Wybierz punkt dla grubości</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Prostokąt</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Okrąg</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Polilinia</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Automatycznie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Ręcznie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1057</TextId>
+        <Text>Parametry narożnika</Text>
+    </Item>
+
+    <Item>
+        <TextId>1058</TextId>
+        <Text>Odsunięcie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Odsunięcie </Text>
+    </Item>
+
+    <Item>
+        <TextId>1060</TextId>
+        <Text>Pozycja na polilinii</Text>
+    </Item>
+
+    <Item>
+        <TextId>1061</TextId>
+        <Text>Niestandardowy</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Szerokość poświtu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Prześwit</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Promień</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Lichte Länge</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>Zależny od profilu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>Pokaż punkty przyciągania</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Format</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>Warstwa</Text>
+    </Item>
+
+    <Item>
+        <TextId>1502</TextId>
+        <Text>Pióro</Text>
+    </Item>
+
+    <Item>
+        <TextId>1503</TextId>
+        <Text>Pióro wg warstwy</Text>
+    </Item>
+
+    <Item>
+        <TextId>1504</TextId>
+        <Text>Linia</Text>
+    </Item>
+
+    <Item>
+        <TextId>1505</TextId>
+        <Text>Linia wg warstwy</Text>
+    </Item>
+
+    <Item>
+        <TextId>1506</TextId>
+        <Text>Kolor</Text>
+    </Item>
+
+    <Item>
+        <TextId>1507</TextId>
+        <Text>Kolor wg warstwy</Text>
+    </Item>
+
+    <Item>
+        <TextId>1508</TextId>
+        <Text>Element powierzchniowy</Text>
+    </Item>
+
+    <Item>
+        <TextId>1509</TextId>
+        <Text>Powierzchnia</Text>
+    </Item>
+
+    <Item>
+        <TextId>1510</TextId>
+        <Text>Element powierzchniowy</Text>
+    </Item>
+
+    <Item>
+        <TextId>1511</TextId>
+        <Text>Kreskowanie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1512</TextId>
+        <Text>Wzór</Text>
+    </Item>
+
+    <Item>
+        <TextId>1513</TextId>
+        <Text>Wypełnienie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1514</TextId>
+        <Text>Bitmapa</Text>
+    </Item>
+
+    <Item>
+        <TextId>1515</TextId>
+        <Text>Styl powierzchni</Text>
+    </Item>
+
+    <!--CLEAT-->
+
+    <Item>
+        <TextId>2000</TextId>
+        <Text>Wspornik</Text>
+    </Item>
+
+    <Item>
+        <TextId>2001</TextId>
+        <Text>Kształt wspornika</Text>
+    </Item>
+
+    <Item>
+        <TextId>2002</TextId>
+        <Text>Profil | Zakrzywiona blacha</Text>
+    </Item>
+
+    <Item>
+        <TextId>2003</TextId>
+        <Text>Wybierz profil</Text>
+    </Item>
+
+    <Item>
+        <TextId>2004</TextId>
+        <Text>Materiał</Text>
+    </Item>
+
+    <Item>
+        <TextId>2005</TextId>
+        <Text>Parametry wspornika</Text>
+    </Item>
+
+    <Item>
+        <TextId>2006</TextId>
+        <Text>Długość wspornika</Text>
+    </Item>
+
+    <Item>
+        <TextId>2007</TextId>
+        <Text> Długość wspornika</Text>
+    </Item>
+
+    <Item>
+        <TextId>2008</TextId>
+        <Text>Grubość wspornika</Text>
+    </Item>
+
+    <Item>
+        <TextId>2009</TextId>
+        <Text>Kąt wspornika</Text>
+    </Item>
+
+    <Item>
+        <TextId>2010</TextId>
+        <Text>Poziom detali</Text>
+    </Item>
+
+    <Item>
+        <TextId>2011</TextId>
+        <Text>Szerokość fazy</Text>
+    </Item>
+
+    <Item>
+        <TextId>2012</TextId>
+        <Text>Promień zaokrąglenia</Text>
+    </Item>
+
+    <Item>
+        <TextId>2013</TextId>
+        <Text>Pozycja</Text>
+    </Item>
+
+    <Item>
+        <TextId>2014</TextId>
+        <Text>Odsunięcie</Text>
+    </Item>
+
+    <Item>
+        <TextId>2015</TextId>
+        <Text>Styl rozkładu</Text>
+    </Item>
+
+    <Item>
+        <TextId>2016</TextId>
+        <Text>Wybierz punkty</Text>
+    </Item>
+
+    <Item>
+        <TextId>2017</TextId>
+        <Text>Pierwszy punkt</Text>
+    </Item>
+
+    <Item>
+        <TextId>2018</TextId>
+        <Text>Drugi punkt</Text>
+    </Item>
+
+    <Item>
+        <TextId>2019</TextId>
+        <Text>Punkt referencyjny</Text>
+    </Item>
+
+    <Item>
+        <TextId>2020</TextId>
+        <Text>Punkt referencyjny</Text>
+    </Item>
+
+    <Item>
+        <TextId>2021</TextId>
+        <Text>Odsunięcie</Text>
+    </Item>
+
+    <Item>
+        <TextId>2022</TextId>
+        <Text>Obrót wspornika</Text>
+    </Item>
+
+    <Item>
+        <TextId>2023</TextId>
+        <Text>Otwór</Text>
+    </Item>
+
+    <Item>
+        <TextId>2024</TextId>
+        <Text>Twórz otwór</Text>
+    </Item>
+
+    <Item>
+        <TextId>2025</TextId>
+        <Text>Liczba otworów</Text>
+    </Item>
+
+    <Item>
+        <TextId>2026</TextId>
+        <Text>Odległość otworu 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>2027</TextId>
+        <Text>Odległość otworu 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>2028</TextId>
+        <Text>Promień otworu</Text>
+    </Item>
+
+    <Item>
+        <TextId>2029</TextId>
+        <Text>Promień otworu 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>2030</TextId>
+        <Text>Promień otworu 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>2031</TextId>
+        <Text>Ilość krawędzi</Text>
+    </Item>
+
+    <Item>
+        <TextId>2032</TextId>
+        <Text>Długość krawędzi</Text>
+    </Item>
+
+    <Item>
+        <TextId>2033</TextId>
+        <Text>Twórz element</Text>
+    </Item>
+
+    <Item>
+        <TextId>2034</TextId>
+        <Text>Zatwierdź</Text>
+    </Item>
+
+    <Item>
+        <TextId>2035</TextId>
+        <Text>Wybierz punkty, aby określić kąt wspornika</Text>
+    </Item>
+
+    <Item>
+        <TextId>2036</TextId>
+        <Text>Niski</Text>
+    </Item>
+
+    <Item>
+        <TextId>2037</TextId>
+        <Text>Średni</Text>
+    </Item>
+
+    <Item>
+        <TextId>2038</TextId>
+        <Text>Wysoki</Text>
+    </Item>
+
+    <Item>
+        <TextId>2039</TextId>
+        <Text>Automatycznie</Text>
+    </Item>
+
+    <Item>
+        <TextId>2040</TextId>
+        <Text>Ręcznie</Text>
+    </Item>
+
+    <Item>
+        <TextId>2041</TextId>
+        <Text>Brak</Text>
+    </Item>
+
+    <Item>
+        <TextId>2042</TextId>
+        <Text>Okrąg</Text>
+    </Item>
+
+    <Item>
+        <TextId>2043</TextId>
+        <Text>Łuk</Text>
+    </Item>
+
+    <Item>
+        <TextId>2044</TextId>
+        <Text>Wielokąt</Text>
+    </Item>
+
+    <Item>
+        <TextId>2500</TextId>
+        <Text>Format</Text>
+    </Item>
+
+    <Item>
+        <TextId>2501</TextId>
+        <Text>Warstwa</Text>
+    </Item>
+
+    <Item>
+        <TextId>2502</TextId>
+        <Text>Pióro</Text>
+    </Item>
+
+    <Item>
+        <TextId>2503</TextId>
+        <Text>Pióro wg warstwy</Text>
+    </Item>
+
+    <Item>
+        <TextId>2504</TextId>
+        <Text>Linia</Text>
+    </Item>
+
+    <Item>
+        <TextId>2505</TextId>
+        <Text>Linia wg warstwy</Text>
+    </Item>
+
+    <Item>
+        <TextId>2506</TextId>
+        <Text>Kolor</Text>
+    </Item>
+
+    <Item>
+        <TextId>2507</TextId>
+        <Text>Kolor wg warstwy</Text>
+    </Item>
+
+    <Item>
+        <TextId>2508</TextId>
+        <Text>Element powierzchniowy</Text>
+    </Item>
+
+    <Item>
+        <TextId>2509</TextId>
+        <Text>Powierzchnia</Text>
+    </Item>
+
+    <Item>
+        <TextId>2510</TextId>
+        <Text>Element powierzchniowy</Text>
+    </Item>
+
+    <Item>
+        <TextId>2511</TextId>
+        <Text>Kreskowanie</Text>
+    </Item>
+
+    <Item>
+        <TextId>2512</TextId>
+        <Text>Wzór</Text>
+    </Item>
+
+    <Item>
+        <TextId>2513</TextId>
+        <Text>Wypełnienie</Text>
+    </Item>
+
+    <Item>
+        <TextId>2514</TextId>
+        <Text>Bitmapa</Text>
+    </Item>
+
+    <Item>
+        <TextId>2515</TextId>
+        <Text>Styl powierzchni</Text>
+    </Item>
+
+    <Item>
+        <TextId>2516</TextId>
+        <Text>Odsunięcie</Text>
+    </Item>
+
+    <Item>
+        <TextId>2517</TextId>
+        <Text>Odsunięcie</Text>
+    </Item>
+
+    <!--BOLT-->
+
+    <Item>
+        <TextId>3000</TextId>
+        <Text>Śruba</Text>
+    </Item>
+
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Typ śruby</Text>
+    </Item>
+
+    <Item>
+        <TextId>3002</TextId>
+        <Text>Ogólna śruba | Śruby kotwiące</Text>
+    </Item>
+
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Typ haka</Text>
+    </Item>
+
+    <Item>
+        <TextId>3004</TextId>
+        <Text>Z łbem | Hak - L | Hak - J</Text>
+    </Item>
+
+    <Item>
+        <TextId>3005</TextId>
+        <Text>Kształt głowicy</Text>
+    </Item>
+
+    <Item>
+        <TextId>3006</TextId>
+        <Text>Sześciokąt | Łeb stożkowy</Text>
+    </Item>
+
+    <Item>
+        <TextId>3007</TextId>
+        <Text>Parametry śrub</Text>
+    </Item>
+
+    <Item>
+        <TextId>3008</TextId>
+        <Text>Rozmiar</Text>
+    </Item>
+
+    <Item>
+        <TextId>3009</TextId>
+        <Text>Rozmiar</Text>
+    </Item>
+
+    <Item>
+        <TextId>3010</TextId>
+        <Text>Długość</Text>
+    </Item>
+
+    <Item>
+        <TextId>3011</TextId>
+        <Text>Podkładki</Text>
+    </Item>
+
+    <Item>
+        <TextId>3012</TextId>
+        <Text>Podkładki pod nakrętki</Text>
+    </Item>
+
+    <Item>
+        <TextId>3013</TextId>
+        <Text>Klasa śrub</Text>
+    </Item>
+
+    <Item>
+        <TextId>3014</TextId>
+        <Text>Poziom detali</Text>
+    </Item>
+
+    <Item>
+        <TextId>3015</TextId>
+        <Text>Pozycja</Text>
+    </Item>
+
+    <Item>
+        <TextId>3016</TextId>
+        <Text>Liczba śrub</Text>
+    </Item>
+
+    <Item>
+        <TextId>3017</TextId>
+        <Text>Orientacja</Text>
+    </Item>
+
+    <Item>
+        <TextId>3018</TextId>
+        <Text>Orientacja</Text>
+    </Item>
+
+    <Item>
+        <TextId>3019</TextId>
+        <Text>Niestandardowy</Text>
+    </Item>
+
+    <Item>
+        <TextId>3020</TextId>
+        <Text>Punkt</Text>
+    </Item>
+
+    <Item>
+        <TextId>3021</TextId>
+        <Text>Wektor</Text>
+    </Item>
+
+    <Item>
+        <TextId>3022</TextId>
+        <Text>Góra</Text>
+    </Item>
+
+    <Item>
+        <TextId>3023</TextId>
+        <Text>Środek</Text>
+    </Item>
+
+    <Item>
+        <TextId>3024</TextId>
+        <Text>Dół</Text>
+    </Item>
+
+    <Item>
+        <TextId>3025</TextId>
+        <Text>Punkt referencyjny</Text>
+    </Item>
+
+    <Item>
+        <TextId>3026</TextId>
+        <Text>Wymiar grupy śrub</Text>
+    </Item>
+
+    <Item>
+        <TextId>3027</TextId>
+        <Text>Odległość</Text>
+    </Item>
+
+    <Item>
+        <TextId>3028</TextId>
+        <Text> Odległość</Text>
+    </Item>
+
+    <Item>
+        <TextId>3029</TextId>
+        <Text>  Odległość</Text>
+    </Item>
+
+    <Item>
+        <TextId>3030</TextId>
+        <Text>   Odległość</Text>
+    </Item>
+
+    <Item>
+        <TextId>3031</TextId>
+        <Text>Kąty obrotu</Text>
+    </Item>
+
+    <Item>
+        <TextId>3032</TextId>
+        <Text>Kąty obrotu</Text>
+    </Item>
+
+    <Item>
+        <TextId>3033</TextId>
+        <Text>Śruba obrócona</Text>
+    </Item>
+
+    <Item>
+        <TextId>3034</TextId>
+        <Text>Odsunięcie</Text>
+    </Item>
+
+    <Item>
+        <TextId>3035</TextId>
+        <Text>Odsunięcie </Text>
+    </Item>
+
+    <Item>
+        <TextId>3036</TextId>
+        <Text>Twórz element</Text>
+    </Item>
+
+    <Item>
+        <TextId>3037</TextId>
+        <Text>Zatwierdź</Text>
+    </Item>
+
+    <Item>
+        <TextId>3038</TextId>
+        <Text>Wybierz punkt uchwytu</Text>
+    </Item>
+
+    <Item>
+        <TextId>3039</TextId>
+        <Text>Niski</Text>
+    </Item>
+
+    <Item>
+        <TextId>3040</TextId>
+        <Text>Średni</Text>
+    </Item>
+
+    <Item>
+        <TextId>3041</TextId>
+        <Text>Wysoki</Text>
+    </Item>
+
+    <Item>
+        <TextId>3500</TextId>
+        <Text>Format</Text>
+    </Item>
+
+    <Item>
+        <TextId>3501</TextId>
+        <Text>Warstwa</Text>
+    </Item>
+
+    <Item>
+        <TextId>3502</TextId>
+        <Text>Pióro</Text>
+    </Item>
+
+    <Item>
+        <TextId>3503</TextId>
+        <Text>Pióro wg warstwy</Text>
+    </Item>
+
+    <Item>
+        <TextId>3504</TextId>
+        <Text>Linia</Text>
+    </Item>
+
+    <Item>
+        <TextId>3505</TextId>
+        <Text>Linia wg warstwy</Text>
+    </Item>
+
+    <Item>
+        <TextId>3506</TextId>
+        <Text>Kolor</Text>
+    </Item>
+
+    <Item>
+        <TextId>3507</TextId>
+        <Text>Kolor wg warstwy</Text>
+    </Item>
+
+    <Item>
+        <TextId>3508</TextId>
+        <Text>Element powierzchniowy</Text>
+    </Item>
+
+    <Item>
+        <TextId>3509</TextId>
+        <Text>Powierzchnia</Text>
+    </Item>
+
+    <Item>
+        <TextId>3510</TextId>
+        <Text>Element powierzchniowy</Text>
+    </Item>
+
+    <Item>
+        <TextId>3511</TextId>
+        <Text>Kreskowanie</Text>
+    </Item>
+
+    <Item>
+        <TextId>3512</TextId>
+        <Text>Wzór</Text>
+    </Item>
+
+    <Item>
+        <TextId>3513</TextId>
+        <Text>Wypełnienie</Text>
+    </Item>
+
+    <Item>
+        <TextId>3514</TextId>
+        <Text>Bitmapa</Text>
+    </Item>
+
+    <Item>
+        <TextId>3515</TextId>
+        <Text>Styl powierzchni</Text>
+    </Item>
+
+    <!--WELD-->
+
+    <Item>
+        <TextId>4000</TextId>
+        <Text>Spoina</Text>
+    </Item>
+
+    <Item>
+        <TextId>4001</TextId>
+        <Text>Typ spoiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>4002</TextId>
+        <Text>Polilinia | Zaokrąglona | Wypukła | Wklęsła</Text>
+    </Item>
+
+    <Item>
+        <TextId>4003</TextId>
+        <Text>Wartości ogólne</Text>
+    </Item>
+
+    <Item>
+        <TextId>4004</TextId>
+        <Text>Długość spoiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>4005</TextId>
+        <Text>Szerokość spoiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>4006</TextId>
+        <Text>Kąt spoiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>4010</TextId>
+        <Text>Pozycja</Text>
+    </Item>
+
+    <Item>
+        <TextId>4011</TextId>
+        <Text>Obrót</Text>
+    </Item>
+
+    <Item>
+        <TextId>4012</TextId>
+        <Text>Twórz element</Text>
+    </Item>
+
+    <Item>
+        <TextId>4013</TextId>
+        <Text>Zatwierdź</Text>
+    </Item>
+
+    <Item>
+        <TextId>4014</TextId>
+        <Text>Edycja</Text>
+    </Item>
+
+    <Item>
+        <TextId>4015</TextId>
+        <Text>Zacznij od nowa</Text>
+    </Item>
+
+    <Item>
+        <TextId>4016</TextId>
+        <Text>Usuń ostatni punkt</Text>
+    </Item>
+
+    <Item>
+        <TextId>4017</TextId>
+        <Text>Nowy punkt</Text>
+    </Item>
+
+    <Item>
+        <TextId>4018</TextId>
+        <Text>Przesuń punkt</Text>
+    </Item>
+
+    <Item>
+        <TextId>4500</TextId>
+        <Text>Format</Text>
+    </Item>
+
+    <Item>
+        <TextId>4501</TextId>
+        <Text>Warstwa</Text>
+    </Item>
+
+    <Item>
+        <TextId>4502</TextId>
+        <Text>Pióro</Text>
+    </Item>
+
+    <Item>
+        <TextId>4503</TextId>
+        <Text>Pióro wg warstwy</Text>
+    </Item>
+
+    <Item>
+        <TextId>4504</TextId>
+        <Text>Linia</Text>
+    </Item>
+
+    <Item>
+        <TextId>4505</TextId>
+        <Text>Linia wg warstwy</Text>
+    </Item>
+
+    <Item>
+        <TextId>4506</TextId>
+        <Text>Kolor</Text>
+    </Item>
+
+    <Item>
+        <TextId>4507</TextId>
+        <Text>Kolor wg warstwy</Text>
+    </Item>
+
+    <Item>
+        <TextId>4508</TextId>
+        <Text>Element powierzchniowy</Text>
+    </Item>
+
+    <Item>
+        <TextId>4509</TextId>
+        <Text>Powierzchnia</Text>
+    </Item>
+
+    <Item>
+        <TextId>4510</TextId>
+        <Text>Element powierzchniowy</Text>
+    </Item>
+
+    <Item>
+        <TextId>4511</TextId>
+        <Text>Kreskowanie</Text>
+    </Item>
+
+    <Item>
+        <TextId>4512</TextId>
+        <Text>Wzór</Text>
+    </Item>
+
+    <Item>
+        <TextId>4513</TextId>
+        <Text>Wypełnienie</Text>
+    </Item>
+
+    <Item>
+        <TextId>4514</TextId>
+        <Text>Bitmapa</Text>
+    </Item>
+
+    <Item>
+        <TextId>4515</TextId>
+        <Text>Styl powierzchni</Text>
+    </Item>
+
+    <!--STIFFENER-->
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Parametry usztywnienia</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>Punkty</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>Wybierz Polilinię 2D</Text>
+    </Item>
+
+    <Item>
+        <TextId>5003</TextId>
+        <Text>Wybierz Polilinię 3D</Text>
+    </Item>
+
+    <Item>
+        <TextId>5004</TextId>
+        <Text>Grubość</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>Długość</Text>
+    </Item>
+
+    <Item>
+        <TextId>5006</TextId>
+        <Text>Szerokość</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>Odległość  Ox</Text>
+    </Item>
+
+    <Item>
+        <TextId>5008</TextId>
+        <Text>Promień</Text>
+    </Item>
+
+    <Item>
+        <TextId>5009</TextId>
+        <Text>Kształt naroża</Text>
+    </Item>
+
+    <Item>
+        <TextId>5010</TextId>
+        <Text>Narożnik prostokątny | Fazowany narożnik | Zaokrąglony narożnik</Text>
+    </Item>
+
+    <Item>
+        <TextId>5011</TextId>
+        <Text>Promień zaokrąglenia</Text>
+    </Item>
+
+    <Item>
+        <TextId>5012</TextId>
+        <Text> Zaokrąglenie</Text>
+    </Item>
+
+    <Item>
+        <TextId>5013</TextId>
+        <Text>  Zaokrąglenie</Text>
+    </Item>
+
+    <Item>
+        <TextId>5014</TextId>
+        <Text>   Zaokrąglenie</Text>
+    </Item>
+
+    <Item>
+        <TextId>5015</TextId>
+        <Text>Zaokrąglenie</Text>
+    </Item>
+
+    <Item>
+        <TextId>5016</TextId>
+        <Text> Faza</Text>
+    </Item>
+
+    <Item>
+        <TextId>5017</TextId>
+        <Text>Długość</Text>
+    </Item>
+
+    <Item>
+        <TextId>5018</TextId>
+        <Text>Szerokość</Text>
+    </Item>
+
+    <Item>
+        <TextId>5019</TextId>
+        <Text>  Faza</Text>
+    </Item>
+
+    <Item>
+        <TextId>5020</TextId>
+        <Text>Długość</Text>
+    </Item>
+
+    <Item>
+        <TextId>5021</TextId>
+        <Text>Szerokość</Text>
+    </Item>
+
+    <Item>
+        <TextId>5022</TextId>
+        <Text>   Faza</Text>
+    </Item>
+
+    <Item>
+        <TextId>5023</TextId>
+        <Text>Długość</Text>
+    </Item>
+
+    <Item>
+        <TextId>5024</TextId>
+        <Text>Szerokość</Text>
+    </Item>
+
+    <Item>
+        <TextId>5025</TextId>
+        <Text>Faza</Text>
+    </Item>
+
+    <Item>
+        <TextId>5026</TextId>
+        <Text>Długość</Text>
+    </Item>
+
+    <Item>
+        <TextId>5027</TextId>
+        <Text>Szerokość</Text>
+    </Item>
+
+    <Item>
+        <TextId>5028</TextId>
+        <Text>Pozycja</Text>
+    </Item>
+
+    <Item>
+        <TextId>5029</TextId>
+        <Text>Orientacja</Text>
+    </Item>
+
+    <Item>
+        <TextId>5030</TextId>
+        <Text>Orientacja</Text>
+    </Item>
+
+    <Item>
+        <TextId>5031</TextId>
+        <Text>Niestandardowy</Text>
+    </Item>
+
+    <Item>
+        <TextId>5032</TextId>
+        <Text>Kształt</Text>
+    </Item>
+
+    <Item>
+        <TextId>5033</TextId>
+        <Text>Wektor </Text>
+    </Item>
+
+    <Item>
+        <TextId>5034</TextId>
+        <Text>Punkt referencyjny</Text>
+    </Item>
+
+    <Item>
+        <TextId>5035</TextId>
+        <Text>Punkt referencyjny</Text>
+    </Item>
+
+    <Item>
+        <TextId>5036</TextId>
+        <Text>Kąty obrotu</Text>
+    </Item>
+
+    <Item>
+        <TextId>5037</TextId>
+        <Text>Kąt Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>5038</TextId>
+        <Text>Kąt Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>5039</TextId>
+        <Text>Odsunięcie</Text>
+    </Item>
+
+    <Item>
+        <TextId>5040</TextId>
+        <Text>Odsunięcie X</Text>
+    </Item>
+
+    <Item>
+        <TextId>5041</TextId>
+        <Text>Odsunięcie Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>5042</TextId>
+        <Text>Odsunięcie Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>5043</TextId>
+        <Text>Twórz element</Text>
+    </Item>
+
+    <Item>
+        <TextId>5044</TextId>
+        <Text>Zatwierdź</Text>
+    </Item>
+
+    <Item>
+        <TextId>5045</TextId>
+        <Text>Długość fazy</Text>
+    </Item>
+
+    <Item>
+        <TextId>5046</TextId>
+        <Text>Prostokąt</Text>
+    </Item>
+
+    <Item>
+        <TextId>5047</TextId>
+        <Text>Trójkąt</Text>
+    </Item>
+
+    <Item>
+        <TextId>5048</TextId>
+        <Text>Parametry narożnika</Text>
+    </Item>
+
+    <Item>
+        <TextId>5049</TextId>
+        <Text>Rozmiar/położenie blachy</Text>
+    </Item>
+
+    <Item>
+        <TextId>5050</TextId>
+        <Text>Pokaż punkty przyciągania</Text>
+    </Item>
+
+    <Item>
+        <TextId>5051</TextId>
+        <Text>Trapez</Text>
+    </Item>
+
+    <Item>
+        <TextId>5052</TextId>
+        <Text>Wym 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>5053</TextId>
+        <Text>Wym 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>5054</TextId>
+        <Text>Odl. Oy</Text>
+    </Item>
+
+    <Item>
+        <TextId>5055</TextId>
+        <Text>Kąt X</Text>
+    </Item>
+
+    <Item>
+        <TextId>5500</TextId>
+        <Text>Właściwości</Text>
+    </Item>
+
+    <Item>
+        <TextId>5501</TextId>
+        <Text>Warstwa</Text>
+    </Item>
+
+    <Item>
+        <TextId>5502</TextId>
+        <Text>Pióro</Text>
+    </Item>
+
+    <Item>
+        <TextId>5503</TextId>
+        <Text>Pióro wg warstwy</Text>
+    </Item>
+
+    <Item>
+        <TextId>5504</TextId>
+        <Text>Linia</Text>
+    </Item>
+
+    <Item>
+        <TextId>5505</TextId>
+        <Text>Linia wg warstwy</Text>
+    </Item>
+
+    <Item>
+        <TextId>5506</TextId>
+        <Text>Kolor</Text>
+    </Item>
+
+    <Item>
+        <TextId>5507</TextId>
+        <Text>Kolor wg warstwy</Text>
+    </Item>
+
+    <!--WELD SYMBOL-->
+
+    <Item>
+        <TextId>6000</TextId>
+        <Text>Dodaj symbol</Text>
+    </Item>
+
+    <Item>
+        <TextId>6001</TextId>
+        <Text>Długość spoiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>6002</TextId>
+        <Text>Szerokość spoiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>6003</TextId>
+        <Text>Detale</Text>
+    </Item>
+
+    <Item>
+        <TextId>6004</TextId>
+        <Text>Spoina dookoła</Text>
+    </Item>
+
+    <Item>
+        <TextId>6005</TextId>
+        <Text>Spoina w terenie</Text>
+    </Item>
+
+    <Item>
+        <TextId>6006</TextId>
+        <Text>Notatka</Text>
+    </Item>
+
+    <Item>
+        <TextId>6007</TextId>
+        <Text>Typ spoiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>6500</TextId>
+        <Text>Symbol spoiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>6501</TextId>
+        <Text>Długość linii odniesienia</Text>
+    </Item>
+
+    <Item>
+        <TextId>6502</TextId>
+        <Text>Skala tekstu</Text>
+    </Item>
+
+    <Item>
+        <TextId>6503</TextId>
+        <Text>Warstwa</Text>
+    </Item>
+
+    <Item>
+        <TextId>6504</TextId>
+        <Text>Pióro</Text>
+    </Item>
+
+    <Item>
+        <TextId>6505</TextId>
+        <Text>Pióro wg warstwy</Text>
+    </Item>
+
+    <Item>
+        <TextId>6506</TextId>
+        <Text>Linia</Text>
+    </Item>
+
+    <Item>
+        <TextId>6507</TextId>
+        <Text>Linia wg warstwy</Text>
+    </Item>
+
+    <Item>
+        <TextId>6508</TextId>
+        <Text>Kolor</Text>
+    </Item>
+
+    <Item>
+        <TextId>6509</TextId>
+        <Text>Kolor z warstwy</Text>
+    </Item>
+
+    <!--HOLE-->
+
+    <Item>
+        <TextId>7000</TextId>
+        <Text>Otwór</Text>
+    </Item>
+
+    <Item>
+        <TextId>7001</TextId>
+        <Text>Kształt otworu</Text>
+    </Item>
+
+    <Item>
+        <TextId>7002</TextId>
+        <Text> Okrąg</Text>
+    </Item>
+
+    <Item>
+        <TextId>7003</TextId>
+        <Text>Prostokąt</Text>
+    </Item>
+
+    <Item>
+        <TextId>7004</TextId>
+        <Text>Średnica</Text>
+    </Item>
+
+    <Item>
+        <TextId>7005</TextId>
+        <Text>Głębokość</Text>
+    </Item>
+
+    <Item>
+        <TextId>7006</TextId>
+        <Text>Szerokość</Text>
+    </Item>
+
+    <Item>
+        <TextId>7007</TextId>
+        <Text>Długość</Text>
+    </Item>
+
+    <Item>
+        <TextId>7008</TextId>
+        <Text>Kształt naroża</Text>
+    </Item>
+
+    <Item>
+        <TextId>7009</TextId>
+        <Text>Faza</Text>
+    </Item>
+
+    <Item>
+        <TextId>7010</TextId>
+        <Text>Zaokrąglenie</Text>
+    </Item>
+
+    <Item>
+        <TextId>7011</TextId>
+        <Text>Zatwierdź</Text>
+    </Item>
+
+    <Item>
+        <TextId>7012</TextId>
+        <Text>Twórz element</Text>
+    </Item>
+
+    <Item>
+        <TextId>7013</TextId>
+        <Text>Narożnik prostokątny | Fazowany narożnik | Zaokrąglony narożnik</Text>
+    </Item>
+
+    <Item>
+        <TextId>7014</TextId>
+        <Text> Faza</Text>
+    </Item>
+
+    <Item>
+        <TextId>7015</TextId>
+        <Text>  Faza</Text>
+    </Item>
+
+    <Item>
+        <TextId>7016</TextId>
+        <Text>   Faza</Text>
+    </Item>
+
+    <Item>
+        <TextId>7017</TextId>
+        <Text>Wielkość fazowania</Text>
+    </Item>
+
+    <Item>
+        <TextId>7018</TextId>
+        <Text> Zaokrąglenie</Text>
+    </Item>
+
+    <Item>
+        <TextId>7019</TextId>
+        <Text>  Zaokrąglenie</Text>
+    </Item>
+
+    <Item>
+        <TextId>7020</TextId>
+        <Text>   Zaokrąglenie</Text>
+    </Item>
+
+    <Item>
+        <TextId>7021</TextId>
+        <Text>Promień zaokrąglenia</Text>
+    </Item>
+
+    <Item>
+        <TextId>7022</TextId>
+        <Text>Kąt</Text>
+    </Item>
+
+    <Item>
+        <TextId>7023</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>7024</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>7025</TextId>
+        <Text>Twórz otwór</Text>
+    </Item>
+
+    <Item>
+        <TextId>7026</TextId>
+        <Text>Usuń otwór</Text>
+    </Item>
+
+    <Item>
+        <TextId>7027</TextId>
+        <Text>Parametry pozycji</Text>
+    </Item>
+
+    <Item>
+        <TextId>7028</TextId>
+        <Text>Odsunięcie X</Text>
+    </Item>
+
+    <Item>
+        <TextId>7029</TextId>
+        <Text>Odsunięcie Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>7030</TextId>
+        <Text>Otwór podłużny</Text>
+    </Item>
+
+    <!-- ENDCONDITION -->
+
+    <Item>
+        <TextId>8000</TextId>
+        <Text>Warunek zakończenia</Text>
+    </Item>
+
+    <Item>
+        <TextId>8001</TextId>
+        <Text>Twórz element</Text>
+    </Item>
+
+    <Item>
+        <TextId>8002</TextId>
+        <Text>Zatwierdź</Text>
+    </Item>
+
+    <Item>
+        <TextId>8003</TextId>
+        <Text>Górna operacja</Text>
+    </Item>
+
+    <Item>
+        <TextId>8004</TextId>
+        <Text>Dolna operacja</Text>
+    </Item>
+
+    <Item>
+        <TextId>8005</TextId>
+        <Text>Typ operacji</Text>
+    </Item>
+
+    <Item>
+        <TextId>8006</TextId>
+        <Text>Brak</Text>
+    </Item>
+
+    <Item>
+        <TextId>8007</TextId>
+        <Text>Podcięcie proste</Text>
+    </Item>
+
+    <Item>
+        <TextId>8008</TextId>
+        <Text>Podcięcie Std</Text>
+    </Item>
+
+    <Item>
+        <TextId>8009</TextId>
+        <Text>Podcięcie  FEMA</Text>
+    </Item>
+
+    <Item>
+        <TextId>8010</TextId>
+        <Text>Podcięcie Sejsmic</Text>
+    </Item>
+
+    <Item>
+        <TextId>8011</TextId>
+        <Text>Wytnij półkę</Text>
+    </Item>
+
+    <Item><!-- profile-->
+        <TextId>8012</TextId>
+        <Text>I</Text>
+    </Item>
+
+    <Item>
+        <TextId>8013</TextId>
+        <Text>Otwór prostokątny</Text>
+    </Item>
+
+    <Item>
+        <TextId>8014</TextId>
+        <Text>L</Text>
+    </Item>
+
+    <Item>
+        <TextId>8015</TextId>
+        <Text>Otwór okrągły</Text>
+    </Item>
+
+    <Item>
+        <TextId>8016</TextId>
+        <Text>C</Text>
+    </Item>
+
+    <Item>
+        <TextId>8017</TextId>
+        <Text>T</Text>
+    </Item>
+
+    <Item>
+        <TextId>8018</TextId>
+        <Text>Format</Text>
+    </Item>
+
+    <Item>
+        <TextId>8019</TextId>
+        <Text>Okrąg</Text>
+    </Item>
+
+    <Item>
+        <TextId>8020</TextId>
+        <Text>I Asym</Text>
+    </Item>
+
+    <Item>
+        <TextId>8021</TextId>
+        <Text>Formowane na zimno</Text>
+    </Item>
+
+    <Item>
+        <TextId>8022</TextId>
+        <Text>Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>8023</TextId>
+        <Text>Szyny</Text>
+    </Item>
+
+    <Item>
+        <TextId>8024</TextId>
+        <Text>Nacięcie</Text>
+    </Item>
+
+    <Item><!-- Cope plain-->
+        <TextId>8025</TextId>
+        <Text>Długość podcięcia</Text>
+    </Item>
+
+    <Item>
+        <TextId>8026</TextId>
+        <Text>Głębokość podcięcia</Text>
+    </Item>
+
+    <Item>
+        <TextId>8027</TextId>
+        <Text>Promień podcięcia</Text>
+    </Item>
+
+    <Item><!-- Cope Std-->
+        <TextId>8028</TextId>
+        <Text>Długość podcięcia</Text>
+    </Item>
+
+    <Item>
+        <TextId>8029</TextId>
+        <Text>Głębokość podcięcia</Text>
+    </Item>
+
+    <Item>
+        <TextId>8030</TextId>
+        <Text>Promień wklęsły</Text>
+    </Item>
+
+    <Item>
+        <TextId>8031</TextId>
+        <Text>Root face</Text>
+    </Item>
+
+    <Item>
+        <TextId>8032</TextId>
+        <Text>Kąt rowka</Text>
+    </Item>
+
+    <Item>
+        <TextId>8033</TextId>
+        <Text>Shop cope</Text>
+    </Item>
+
+    <Item>
+        <TextId>8034</TextId>
+        <Text>Przytnij środnik</Text>
+    </Item>
+
+    <Item><!-- Cope FEMA-->
+        <TextId>8035</TextId>
+        <Text>Długość podcięcia</Text>
+    </Item>
+
+    <Item>
+        <TextId>8036</TextId>
+        <Text>Długość wklęsła</Text>
+    </Item>
+
+    <Item>
+        <TextId>8037</TextId>
+        <Text>Głębokość powrotu</Text>
+    </Item>
+
+    <Item>
+        <TextId>8038</TextId>
+        <Text>Długość zlicowana z półką</Text>
+    </Item>
+
+    <Item>
+        <TextId>8039</TextId>
+        <Text>Promień wklęsły</Text>
+    </Item>
+
+    <Item>
+        <TextId>8040</TextId>
+        <Text>Kąt rowka</Text>
+    </Item>
+
+    <Item>
+        <TextId>8041</TextId>
+        <Text>Odległość otworu wklęsłego</Text>
+    </Item>
+
+    <Item>
+        <TextId>8042</TextId>
+        <Text>Root face</Text>
+    </Item>
+
+    <Item>
+        <TextId>8043</TextId>
+        <Text>Shop cope</Text>
+    </Item>
+
+    <Item>
+        <TextId>8044</TextId>
+        <Text>Przytnij środnik</Text>
+    </Item>
+
+    <Item><!-- Cope Seismic-->
+        <TextId>8045</TextId>
+        <Text>Długość podcięcia</Text>
+    </Item>
+
+    <Item>
+        <TextId>8046</TextId>
+        <Text>Długość wklęsła</Text>
+    </Item>
+
+    <Item>
+        <TextId>8047</TextId>
+        <Text>Głębokość powrotu</Text>
+    </Item>
+
+    <Item>
+        <TextId>8048</TextId>
+        <Text>Długość zlicowana z półką</Text>
+    </Item>
+
+    <Item>
+        <TextId>8049</TextId>
+        <Text>Promień wklęsły</Text>
+    </Item>
+
+    <Item>
+        <TextId>8050</TextId>
+        <Text>Kąt rowka</Text>
+    </Item>
+
+    <Item>
+        <TextId>8051</TextId>
+        <Text>Odległość otworu wklęsłego</Text>
+    </Item>
+
+    <Item>
+        <TextId>8052</TextId>
+        <Text>Root face</Text>
+    </Item>
+
+    <Item><!-- Cut flange width-->
+        <TextId>8053</TextId>
+        <Text>Długość półki z boku</Text>
+    </Item>
+
+    <Item>
+        <TextId>8054</TextId>
+        <Text>Długość pólki po drugiej stronie</Text>
+    </Item>
+
+    <Item>
+        <TextId>8055</TextId>
+        <Text>Wytnij półkę</Text>
+    </Item>
+
+    <Item>
+        <TextId>8056</TextId>
+        <Text>Szerokość wycięcia półki</Text>
+    </Item>
+
+    <Item><!-- Notch-->
+        <TextId>8057</TextId>
+        <Text>Długość nacięcia</Text>
+    </Item>
+
+    <Item>
+        <TextId>8058</TextId>
+        <Text>Szerokość nacięcia</Text>
+    </Item>
+
+    <Item>
+        <TextId>8059</TextId>
+        <Text>Odsunięcie nacięcia</Text>
+    </Item>
+
+    <Item>
+        <TextId>8060</TextId>
+        <Text>Promień nacięcia</Text>
+    </Item>
+
+    <Item>
+        <TextId>8061</TextId>
+        <Text>Działanie w pobliżu boku</Text>
+    </Item>
+
+    <Item>
+        <TextId>8062</TextId>
+        <Text>Operacja z drugiej strony</Text>
+    </Item>
+
+    <Item><!-- Moment connection -->
+        <TextId>8063</TextId>
+        <Text>Połączenie środnika na moment</Text>
+    </Item>
+
+    <!-- DIALOG LINES -->
+
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Wybierz 2 punkty, aby umieścić kątownik</Text>
+    </Item>
+
+    <Item>
+        <TextId>10001</TextId>
+        <Text>Dodaj punkt</Text>
+    </Item>
+
+    <Item>
+        <TextId>10002</TextId>
+        <Text>Naciśnij przycisk Punkty, aby wybrać Polilinię</Text>
+    </Item>
+
+    <Item>
+        <TextId>10005</TextId>
+        <Text>Kliknij, aby znaleźć nowy punkt</Text>
+    </Item>
+
+    <Item>
+        <TextId>10006</TextId>
+        <Text>Wybierz punkt wstawiania</Text>
+    </Item>
+
+    <Item>
+        <TextId>10007</TextId>
+        <Text>Wybierz pierwszy punkt wstawiania</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>Wybierz drugi punkt wstawiania</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Wybierz punkt wzdłuż kierunku śruby</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Wybierz punkt początkowy kierunku śruby</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>Wybierz pierwszy punkt wstawiania</Text>
+    </Item>
+
+    <Item>
+        <TextId>10012</TextId>
+        <Text>Wybierz drugi punkt wstawiania</Text>
+    </Item>
+
+    <Item>
+        <TextId>10013</TextId>
+        <Text>Wybierz pierwszy punkt kąta</Text>
+    </Item>
+
+    <Item>
+        <TextId>10014</TextId>
+        <Text>Wybierz drugi punkt kąta</Text>
+    </Item>
+
+    <Item>
+        <TextId>10015</TextId>
+        <Text>Wybierz punkt wstawiania</Text>
+    </Item>
+
+    <Item>
+        <TextId>10016</TextId>
+        <Text>Wybierz pierwszy punkt wstawiania</Text>
+    </Item>
+
+    <Item>
+        <TextId>10017</TextId>
+        <Text>Wybierz drugi punkt wstawiania</Text>
+    </Item>
+
+    <Item>
+        <TextId>10018</TextId>
+        <Text>Wybierz punkt wzdłuż kierunku blachy</Text>
+    </Item>
+
+    <Item>
+        <TextId>10019</TextId>
+        <Text>Wybierz punkt początkowy kierunku blachy</Text>
+    </Item>
+
+    <Item>
+        <TextId>10020</TextId>
+        <Text>Wybierz punkt wstawiania</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Wybierz Polilinię</Text>
+    </Item>
+
+    <Item>
+        <TextId>10024</TextId>
+        <Text>Wybierz punkt dla grubości</Text>
+    </Item>
+
+    <Item>
+        <TextId>10027</TextId>
+        <Text>Wybierz punkt wstawiania</Text>
+    </Item>
+
+    <Item>
+        <TextId>10028</TextId>
+        <Text>Wybierz pierwszy punkt wstawiania</Text>
+    </Item>
+
+    <Item>
+        <TextId>10029</TextId>
+        <Text>Wybierz następny punkt wstawiania</Text>
+    </Item>
+
+    <Item>
+        <TextId>10030</TextId>
+        <Text>Wybierz element ramy konstrukcyjnej</Text>
+    </Item>
+
+    <Item>
+        <TextId>10031</TextId>
+        <Text>Wybierz nowy punkt wzdłuż spoiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>10032</TextId>
+        <Text>Wybierz profil z palety</Text>
+    </Item>
+
+    <Item>
+        <TextId>10033</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>10034</TextId>
+        <Text>Wybierz uchwyt, a następnie przeciągnij i zmień parametry spoiny</Text>
+    </Item>
+
+    <!-- POP-UP MESSAGE -->
+
+    <Item>
+        <TextId>11000</TextId>
+        <Text>Proszę najpierw umieścić śrubę</Text>
+    </Item>
+
+    <Item>
+        <TextId>11001</TextId>
+        <Text>To nie jest zamknięta polilinia</Text>
+    </Item>
+
+    <Item>
+        <TextId>11002</TextId>
+        <Text>Nie wszystkie punkty znajdują się na tej samej płaszczyźnie 3D</Text>
+    </Item>
+
+    <Item>
+        <TextId>11003</TextId>
+        <Text>Proszę wybrać między dwoma istniejącymi punktami</Text>
+    </Item>
+
+    <Item>
+        <TextId>11004</TextId>
+        <Text>Brak dostępnej lokalizacji.\n</Text>
+    </Item>
+
+    <Item>
+        <TextId>11005</TextId>
+        <Text>Ten PythonPart może działać poprawnie tylko z prawidłowym plikiem lokalizacji.\n</Text>
+    </Item>
+
+    <Item>
+        <TextId>11006</TextId>
+        <Text>Nie zostanie utworzona żadna geometria.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11007</TextId>
+        <Text>Wymagane minimum 2 punkty</Text>
+    </Item>
+
+    <Item>
+        <TextId>11008</TextId>
+        <Text>Najpierw wybierz punkt wstawiania</Text>
+    </Item>
+
+    <Item>
+        <TextId>11009</TextId>
+        <Text>Wybierz punkt ponownie, ponieważ 2 wybrane punkty nie mogą należeć do tego samego obszaru.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11010</TextId>
+        <Text>Najpierw wybierz płytę lub element konstrukcyjny</Text>
+    </Item>
+
+    <Item>
+        <TextId>11011</TextId>
+        <Text>Ta operacja usuwa otwory, które powodują nieprawidłową geometrię. Czy kontynuować usuwanie?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11012</TextId>
+        <Text>Profil wybranego elementu nie jest zgodny z przybornikiem połączeń.
+Proszę skorzystać z katalogu profili Nemetschek.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11013</TextId>
+        <Text>Wybierz element konstrukcyjny.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11014</TextId>
+        <Text>Niekompatybilny typ operacji</Text>
+    </Item>
+
+    <Item>
+        <TextId>11015</TextId>
+        <Text>Niekompatybilny typ elementu</Text>
+    </Item>
+
+    <Item>
+        <TextId>11016</TextId>
+        <Text>Ta funkcja nie jest zgodna z aktualną licencją</Text>
+    </Item>
+
+    <Item>
+        <TextId>11017</TextId>
+        <Text>Funkcja ta nie jest kompatybilna z używaną wersją programu Allplan.</Text>
+    </Item>
+
+    <!-- NOT USED TO EXPRESS -->
+
+    <Item>
+        <TextId>12000</TextId>
+        <Text>Ox</Text>
+    </Item>
+
+    <Item>
+        <TextId>12001</TextId>
+        <Text>Oy</Text>
+    </Item>
+
+    <Item>
+        <TextId>12002</TextId>
+        <Text>Oz</Text>
+    </Item>
+
+    <Item>
+        <TextId>12003</TextId>
+        <Text>Ox: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12004</TextId>
+        <Text>Oy: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12005</TextId>
+        <Text>Oz: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12006</TextId>
+        <Text>Otwór</Text>
+    </Item>
+
+    <Item>
+        <TextId>12007</TextId>
+        <Text>Twórz otwór</Text>
+    </Item>
+
+    <Item>
+        <TextId>12008</TextId>
+        <Text>Promień otworu</Text>
+    </Item>
+
+    <Item>
+        <TextId>12009</TextId>
+        <Text>Długość otworu</Text>
+    </Item>
+
+    <Item>
+        <TextId>12010</TextId>
+        <Text>Kąt otworu</Text>
+    </Item>
+
+    <Item>
+        <TextId>12011</TextId>
+        <Text>Odsunięcie otworu</Text>
+    </Item>
+
+    <Item>
+        <TextId>12012</TextId>
+        <Text>Wstaw</Text>
+    </Item>
+
+    <Item>
+        <TextId>12013</TextId>
+        <Text>Właściwości wysokości</Text>
+    </Item>
+
+    <Item>
+        <TextId>12014</TextId>
+        <Text>Punkt referencyjny</Text>
+    </Item>
+
+    <Item>
+        <TextId>12015</TextId>
+        <Text>PunktPoczątkowy</Text>
+    </Item>
+
+    <Item>
+        <TextId>12016</TextId>
+        <Text>PunktKońcowy</Text>
+    </Item>
+
+    <Item>
+        <TextId>12017</TextId>
+        <Text>2</Text>
+    </Item>
+
+    <Item>
+        <TextId>12018</TextId>
+        <Text>3</Text>
+    </Item>
+
+    <Item>
+        <TextId>12019</TextId>
+        <Text>Klamra</Text>
+    </Item>
+
+    <Item>
+        <TextId>12020</TextId>
+        <Text>Śruba</Text>
+    </Item>
+
+    <Item>
+        <TextId>12021</TextId>
+        <Text>Spoina</Text>
+    </Item>
+
+    <Item>
+        <TextId>12022</TextId>
+        <Text>Punkty</Text>
+    </Item>
+
+    <Item>
+        <TextId>12023</TextId>
+        <Text>Usztywnienie</Text>
+    </Item>
+</Element>

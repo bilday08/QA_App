@@ -1,0 +1,12 @@
+TestCase Name,TestCase Description,TestCase Result,Note,Status
+Checking reinforcement creation workflow (3D object and pythonpart) - Wall without top wall,Checking reinforcement creation workflow (3D object and pythonpart) - Wall without top wall,As expected,Main feature,Pass
+Checking reinforcement creation workflow (3D object and pythonpart) - wall with top wall,Checking reinforcement creation workflow (3D object and pythonpart) - wall with top wall,As expected,Main feature,Pass
+Checking impact of General setting on reinforcement (3D object and pythonpart) ,Checking impact of General setting on reinforcement (3D object and pythonpart) ,As expected,Main feature,Pass
+Checking impact of Bar Reinforcement setting on reinforcement (3D object and pythonpart) ,Checking impact of Bar Reinforcement setting on reinforcement (3D object and pythonpart) ,As expected,Main feature,Pass
+Checking impact of Mesh Reinforcement setting on reinforcement (3D object and pythonpart) - Wall without top wall,Checking impact of Mesh Reinforcement setting on reinforcement (3D object and pythonpart) - Wall without top wall,As expected,Main feature,Pass
+Checking impact of Edge Rebar and Opening Rebar setting on reinforcement (3D object and pythonpart) - wall with top wall,Checking impact of Edge Rebar and Opening Rebar setting on reinforcement (3D object and pythonpart) - wall with top wall,As expected,Main feature,Pass
+Checking impact of Pin-Stirrup setting on reinforcement (3D object and pythonpart) - Wall without top wall,Checking impact of Pin-Stirrup setting on reinforcement (3D object and pythonpart) - Wall without top wall,As expected,Main feature,Pass
+Checking impact of Spacer setting on reinforcement (3D object and pythonpart) ,Checking impact of Spacer setting on reinforcement (3D object and pythonpart) ,As expected,Main feature,Pass
+Checking impact of Layer setting on reinforcement (3D object and pythonpart) - Wall with top wall,Checking impact of Layer setting on reinforcement (3D object and pythonpart) - Wall with top wall,As expected,Main feature,Pass
+"Checking impact of Section, Labelling settings(3D object and pythonpart) - Wall without top wall","Checking impact of Section, Labelling settings(3D object and pythonpart) - Wall without top wall",As expected,Main feature,Pass
+"Checking impact of Section, Labelling settings(3D object and pythonpart) - wall with top wall","Checking impact of Section, Labelling settings(3D object and pythonpart) - wall with top wall",As expected,Main feature,Pass

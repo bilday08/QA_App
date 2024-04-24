@@ -1,0 +1,2472 @@
+<Element>
+
+    <!--GENERAL-->
+
+    <Item>
+        <TextId>9000</TextId>
+		<Text>Geometrie</Text>
+    </Item>
+
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Výběr prvku</Text>
+    </Item>
+
+    <Item>
+        <TextId>9002</TextId>
+        <Text>Deska | Příložka | Šroub | Svar</Text>
+    </Item>
+
+    <Item>
+        <TextId>9003</TextId>
+        <Text>Zobrazení</Text>
+    </Item>
+
+    <Item>
+        <TextId>9004</TextId>
+        <Text>Connection Toolbox</Text>
+    </Item>
+
+    <!--PLATE-->
+
+    <Item>
+        <TextId>1000</TextId>
+        <Text>Deska</Text>
+    </Item>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Typ desky</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Čelní deska | Ztužení</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Tvar desky</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Materiál</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Styl</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Tvar</Text>
+    </Item>
+
+    <Item>
+        <TextId>1007</TextId>
+        <Text>Styl uložení</Text>
+    </Item>
+
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Počet výztuh</Text>
+    </Item>
+
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Materiál</Text>
+    </Item>
+
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Plarametry desky</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Body</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>Vyberte 2D polygon</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>Vyberte 3D polygon</Text>
+    </Item>
+
+    <Item>
+        <TextId>1014</TextId>
+        <Text>Tloušťka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1015</TextId>
+        <Text>Šířka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1016</TextId>
+        <Text>Délka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1017</TextId>
+        <Text>Tvar rohu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1018</TextId>
+        <Text>Roh | Zkosený roh | Zaoblený roh</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Poloměr</Text>
+    </Item>
+
+    <Item>
+        <TextId>1020</TextId>
+        <Text>Poloměr zaoblení</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text> Zaoblení</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>  Zaoblení</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>   Zaoblení</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Zaoblení</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text> Zkosení</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Délka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Šířka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>  Zkosení</Text>
+    </Item>
+
+    <Item>
+        <TextId>1029</TextId>
+        <Text>Délka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Šířka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1031</TextId>
+        <Text>   Zkosení</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Délka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Šířka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Zkosení</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Délka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Šířka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Poloha</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Orientace</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Tvar</Text>
+    </Item>
+
+    <Item>
+        <TextId>1040</TextId>
+        <Text>Orientace</Text>
+    </Item>
+
+    <Item>
+        <TextId>1041</TextId>
+        <Text>Bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>1042</TextId>
+        <Text>Směr</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Referenční bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Referenční bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>1045</TextId>
+        <Text>Úhel otočení</Text>
+    </Item>
+
+    <Item>
+        <TextId>1046</TextId>
+        <Text>Úhel </Text>
+    </Item>
+
+    <Item>
+        <TextId>1047</TextId>
+        <Text>Otočená deska</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Vytvořit prvek</Text>
+    </Item>
+
+    <Item>
+        <TextId>1050</TextId>
+        <Text>Potvrdit</Text>
+    </Item>
+
+    <Item>
+        <TextId>1051</TextId>
+        <Text>Tloušťka zadaná přes bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Obdélník</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Kruh</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Polygon</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Auto</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Manuálně</Text>
+    </Item>
+
+    <Item>
+        <TextId>1057</TextId>
+        <Text>Tvar rohů - Parametry</Text>
+    </Item>
+
+    <Item>
+        <TextId>1058</TextId>
+        <Text>Odstup</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Odstup </Text>
+    </Item>
+
+    <Item>
+        <TextId>1060</TextId>
+        <Text>Polygon-Poloha</Text>
+    </Item>
+
+    <Item>
+        <TextId>1061</TextId>
+        <Text>Vlastní</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Odstup -šířka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Světlost</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Poloměr</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Odstup - délka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>V závislosti na profilu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>Zobrazit úchopový bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Formát</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>Hladina</Text>
+    </Item>
+
+    <Item>
+        <TextId>1502</TextId>
+        <Text>Pero</Text>
+    </Item>
+
+    <Item>
+        <TextId>1503</TextId>
+        <Text>Pero dle hladiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>1504</TextId>
+        <Text>Čára</Text>
+    </Item>
+
+    <Item>
+        <TextId>1505</TextId>
+        <Text>Čára dle hladiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>1506</TextId>
+        <Text>Barva</Text>
+    </Item>
+
+    <Item>
+        <TextId>1507</TextId>
+        <Text>Barva dle hladiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>1508</TextId>
+        <Text>Povrch elementu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1509</TextId>
+        <Text>Povrch</Text>
+    </Item>
+
+    <Item>
+        <TextId>1510</TextId>
+        <Text>Plošný element</Text>
+    </Item>
+
+    <Item>
+        <TextId>1511</TextId>
+        <Text>Šrafa</Text>
+    </Item>
+
+    <Item>
+        <TextId>1512</TextId>
+        <Text>Vzor</Text>
+    </Item>
+
+    <Item>
+        <TextId>1513</TextId>
+        <Text>Filling</Text>
+    </Item>
+
+    <Item>
+        <TextId>1514</TextId>
+        <Text>Plocha z obrázku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1515</TextId>
+        <Text>Stylová plocha</Text>
+    </Item>
+
+    <!--CLEAT-->
+
+    <Item>
+        <TextId>2000</TextId>
+        <Text>Příložky</Text>
+    </Item>
+
+    <Item>
+        <TextId>2001</TextId>
+        <Text>Tvar příložky</Text>
+    </Item>
+
+    <Item>
+        <TextId>2002</TextId>
+        <Text>Profil | Ohnutá deska</Text>
+    </Item>
+
+    <Item>
+        <TextId>2003</TextId>
+        <Text>Výběr profilu</Text>
+    </Item>
+
+    <Item>
+        <TextId>2004</TextId>
+        <Text>Materiál</Text>
+    </Item>
+
+    <Item>
+        <TextId>2005</TextId>
+        <Text>Parametry příložky</Text>
+    </Item>
+
+    <Item>
+        <TextId>2006</TextId>
+        <Text>Délka příložky</Text>
+    </Item>
+
+    <Item>
+        <TextId>2007</TextId>
+        <Text> Délka příložky</Text>
+    </Item>
+
+    <Item>
+        <TextId>2008</TextId>
+        <Text>Tloušťka příložky</Text>
+    </Item>
+
+    <Item>
+        <TextId>2009</TextId>
+        <Text>Úhel příložky</Text>
+    </Item>
+
+    <Item>
+        <TextId>2010</TextId>
+        <Text>Stupeň podrobnosti</Text>
+    </Item>
+
+    <Item>
+        <TextId>2011</TextId>
+        <Text>Šířka zkosení</Text>
+    </Item>
+
+    <Item>
+        <TextId>2012</TextId>
+        <Text>Poloměr zaoblení</Text>
+    </Item>
+
+    <Item>
+        <TextId>2013</TextId>
+        <Text>Poloha</Text>
+    </Item>
+
+    <Item>
+        <TextId>2014</TextId>
+        <Text>Odstup</Text>
+    </Item>
+
+    <Item>
+        <TextId>2015</TextId>
+        <Text>Styl uložení</Text>
+    </Item>
+
+    <Item>
+        <TextId>2016</TextId>
+        <Text>Vyberte body</Text>
+    </Item>
+
+    <Item>
+        <TextId>2017</TextId>
+        <Text>První bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>2018</TextId>
+        <Text>Druhý bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>2019</TextId>
+        <Text>Referenční bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>2020</TextId>
+        <Text>Referenční bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>2021</TextId>
+        <Text>Odstup</Text>
+    </Item>
+
+    <Item>
+        <TextId>2022</TextId>
+        <Text>Otočení příložky</Text>
+    </Item>
+
+    <Item>
+        <TextId>2023</TextId>
+        <Text>Otvor</Text>
+    </Item>
+
+    <Item>
+        <TextId>2024</TextId>
+        <Text>Vytvořit otvor</Text>
+    </Item>
+
+    <Item>
+        <TextId>2025</TextId>
+        <Text>Počet otvorů</Text>
+    </Item>
+
+    <Item>
+        <TextId>2026</TextId>
+        <Text>Odstup otvorů 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>2027</TextId>
+        <Text>Odstup otvorů 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>2028</TextId>
+        <Text>Poloměr otvoru</Text>
+    </Item>
+
+    <Item>
+        <TextId>2029</TextId>
+        <Text>Poloměr otvoru 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>2030</TextId>
+        <Text>Poloměr otvoru 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>2031</TextId>
+        <Text>Počet hran</Text>
+    </Item>
+
+    <Item>
+        <TextId>2032</TextId>
+        <Text>Délka hrany</Text>
+    </Item>
+
+    <Item>
+        <TextId>2033</TextId>
+        <Text>Vytvořit prvek</Text>
+    </Item>
+
+    <Item>
+        <TextId>2034</TextId>
+        <Text>Potvrdit</Text>
+    </Item>
+
+    <Item>
+        <TextId>2035</TextId>
+        <Text>Vyberte body, které určí úhel příložky</Text>
+    </Item>
+
+    <Item>
+        <TextId>2036</TextId>
+        <Text>Nízká</Text>
+    </Item>
+
+    <Item>
+        <TextId>2037</TextId>
+        <Text>Střední</Text>
+    </Item>
+
+    <Item>
+        <TextId>2038</TextId>
+        <Text>Vysoká</Text>
+    </Item>
+
+    <Item>
+        <TextId>2039</TextId>
+        <Text>Auto</Text>
+    </Item>
+
+    <Item>
+        <TextId>2040</TextId>
+        <Text>Manuálně</Text>
+    </Item>
+
+    <Item>
+        <TextId>2041</TextId>
+        <Text>Žádný</Text>
+    </Item>
+
+    <Item>
+        <TextId>2042</TextId>
+        <Text>Kruh</Text>
+    </Item>
+
+    <Item>
+        <TextId>2043</TextId>
+        <Text>Oblouk</Text>
+    </Item>
+
+    <Item>
+        <TextId>2044</TextId>
+        <Text>Polygon</Text>
+    </Item>
+
+    <Item>
+        <TextId>2500</TextId>
+        <Text>Formát</Text>
+    </Item>
+
+    <Item>
+        <TextId>2501</TextId>
+        <Text>Hladina</Text>
+    </Item>
+
+    <Item>
+        <TextId>2502</TextId>
+        <Text>Pero</Text>
+    </Item>
+
+    <Item>
+        <TextId>2503</TextId>
+        <Text>Pero dle hladiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>2504</TextId>
+        <Text>Čára</Text>
+    </Item>
+
+    <Item>
+        <TextId>2505</TextId>
+        <Text>Čára dle hladiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>2506</TextId>
+        <Text>Barva</Text>
+    </Item>
+
+    <Item>
+        <TextId>2507</TextId>
+        <Text>Barva dle hladiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>2508</TextId>
+        <Text>Plošný element</Text>
+    </Item>
+
+    <Item>
+        <TextId>2509</TextId>
+        <Text>Plocha</Text>
+    </Item>
+
+    <Item>
+        <TextId>2510</TextId>
+        <Text>Plošný element</Text>
+    </Item>
+
+    <Item>
+        <TextId>2511</TextId>
+        <Text>Šrafa</Text>
+    </Item>
+
+    <Item>
+        <TextId>2512</TextId>
+        <Text>Vzor</Text>
+    </Item>
+
+    <Item>
+        <TextId>2513</TextId>
+        <Text>Filling</Text>
+    </Item>
+
+    <Item>
+        <TextId>2514</TextId>
+        <Text>Plocha z obrázku</Text>
+    </Item>
+
+    <Item>
+        <TextId>2515</TextId>
+        <Text>Stylová plocha</Text>
+    </Item>
+
+    <Item>
+        <TextId>2516</TextId>
+        <Text>Odstup</Text>
+    </Item>
+
+    <Item>
+        <TextId>2517</TextId>
+        <Text>Odstup</Text>
+    </Item>
+
+    <!--BOLT-->
+
+    <Item>
+        <TextId>3000</TextId>
+        <Text>Šroub</Text>
+    </Item>
+
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Typ šroubu</Text>
+    </Item>
+
+    <Item>
+        <TextId>3002</TextId>
+        <Text>Obecný šroub | Kotevní šroub</Text>
+    </Item>
+
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Typ háku</Text>
+    </Item>
+
+    <Item>
+        <TextId>3004</TextId>
+        <Text>S hlavou | L-hák | J-hák</Text>
+    </Item>
+
+    <Item>
+        <TextId>3005</TextId>
+        <Text>Tvar zhlaví</Text>
+    </Item>
+
+    <Item>
+        <TextId>3006</TextId>
+        <Text>Šestihranná | Zapuštěná hlava</Text>
+    </Item>
+
+    <Item>
+        <TextId>3007</TextId>
+        <Text>Parametry šroubu</Text>
+    </Item>
+
+    <Item>
+        <TextId>3008</TextId>
+        <Text>Velikost</Text>
+    </Item>
+
+    <Item>
+        <TextId>3009</TextId>
+        <Text>Velikost</Text>
+    </Item>
+
+    <Item>
+        <TextId>3010</TextId>
+        <Text>Délka</Text>
+    </Item>
+
+    <Item>
+        <TextId>3011</TextId>
+        <Text>Podložky hlavy</Text>
+    </Item>
+
+    <Item>
+        <TextId>3012</TextId>
+        <Text>Podložky matice</Text>
+    </Item>
+
+    <Item>
+        <TextId>3013</TextId>
+        <Text>Třída šroubu</Text>
+    </Item>
+
+    <Item>
+        <TextId>3014</TextId>
+        <Text>Úroveň detailu</Text>
+    </Item>
+
+    <Item>
+        <TextId>3015</TextId>
+        <Text>Poloha</Text>
+    </Item>
+
+    <Item>
+        <TextId>3016</TextId>
+        <Text>Počet šroubů</Text>
+    </Item>
+
+    <Item>
+        <TextId>3017</TextId>
+        <Text>Orientace</Text>
+    </Item>
+
+    <Item>
+        <TextId>3018</TextId>
+        <Text>Orientace</Text>
+    </Item>
+
+    <Item>
+        <TextId>3019</TextId>
+        <Text>Vlastní</Text>
+    </Item>
+
+    <Item>
+        <TextId>3020</TextId>
+        <Text>Bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>3021</TextId>
+        <Text>Směr</Text>
+    </Item>
+
+    <Item>
+        <TextId>3022</TextId>
+        <Text>Nahoře</Text>
+    </Item>
+
+    <Item>
+        <TextId>3023</TextId>
+        <Text>Uprostřed</Text>
+    </Item>
+
+    <Item>
+        <TextId>3024</TextId>
+        <Text>Dole</Text>
+    </Item>
+
+    <Item>
+        <TextId>3025</TextId>
+        <Text>Referenční bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>3026</TextId>
+        <Text>Rozměr skupiny šroubů</Text>
+    </Item>
+
+    <Item>
+        <TextId>3027</TextId>
+        <Text>Odstup</Text>
+    </Item>
+
+    <Item>
+        <TextId>3028</TextId>
+        <Text> Odstup</Text>
+    </Item>
+
+    <Item>
+        <TextId>3029</TextId>
+        <Text>  Odstup</Text>
+    </Item>
+
+    <Item>
+        <TextId>3030</TextId>
+        <Text>   Odstup</Text>
+    </Item>
+
+    <Item>
+        <TextId>3031</TextId>
+        <Text>Úhel otočení</Text>
+    </Item>
+
+    <Item>
+        <TextId>3032</TextId>
+        <Text>Úhel otočení</Text>
+    </Item>
+
+    <Item>
+        <TextId>3033</TextId>
+        <Text>Šrouby otočené</Text>
+    </Item>
+
+    <Item>
+        <TextId>3034</TextId>
+        <Text>Odstup</Text>
+    </Item>
+
+    <Item>
+        <TextId>3035</TextId>
+        <Text>Odstup </Text>
+    </Item>
+
+    <Item>
+        <TextId>3036</TextId>
+        <Text>Vytvořit prvek</Text>
+    </Item>
+
+    <Item>
+        <TextId>3037</TextId>
+        <Text>Potvrdit</Text>
+    </Item>
+
+    <Item>
+        <TextId>3038</TextId>
+        <Text>Vyberte úchopový bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>3039</TextId>
+        <Text>Nízká</Text>
+    </Item>
+
+    <Item>
+        <TextId>3040</TextId>
+        <Text>Střední</Text>
+    </Item>
+
+    <Item>
+        <TextId>3041</TextId>
+        <Text>Vysoká</Text>
+    </Item>
+
+    <Item>
+        <TextId>3500</TextId>
+        <Text>Formát</Text>
+    </Item>
+
+    <Item>
+        <TextId>3501</TextId>
+        <Text>Hladina</Text>
+    </Item>
+
+    <Item>
+        <TextId>3502</TextId>
+        <Text>Pero</Text>
+    </Item>
+
+    <Item>
+        <TextId>3503</TextId>
+        <Text>Pero dle hladiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>3504</TextId>
+        <Text>Čára</Text>
+    </Item>
+
+    <Item>
+        <TextId>3505</TextId>
+        <Text>Čára dle hladiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>3506</TextId>
+        <Text>Barva</Text>
+    </Item>
+
+    <Item>
+        <TextId>3507</TextId>
+        <Text>Barva dle hladiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>3508</TextId>
+        <Text>Plošný element</Text>
+    </Item>
+
+    <Item>
+        <TextId>3509</TextId>
+        <Text>Plocha</Text>
+    </Item>
+
+    <Item>
+        <TextId>3510</TextId>
+        <Text>Plošný element</Text>
+    </Item>
+
+    <Item>
+        <TextId>3511</TextId>
+        <Text>Šrafa</Text>
+    </Item>
+
+    <Item>
+        <TextId>3512</TextId>
+        <Text>Vzor</Text>
+    </Item>
+
+    <Item>
+        <TextId>3513</TextId>
+        <Text>Filling</Text>
+    </Item>
+
+    <Item>
+        <TextId>3514</TextId>
+        <Text>Plocha z obrázku</Text>
+    </Item>
+
+    <Item>
+        <TextId>3515</TextId>
+        <Text>Stylová plocha</Text>
+    </Item>
+
+    <!--WELD-->
+
+    <Item>
+        <TextId>4000</TextId>
+        <Text>Svar</Text>
+    </Item>
+
+    <Item>
+        <TextId>4001</TextId>
+        <Text>Typ svaru</Text>
+    </Item>
+
+    <Item>
+        <TextId>4002</TextId>
+        <Text>Polygon | Zaoblení | Konvexní | Konkávní</Text>
+    </Item>
+
+    <Item>
+        <TextId>4003</TextId>
+        <Text>Obecné hodnoty</Text>
+    </Item>
+
+    <Item>
+        <TextId>4004</TextId>
+        <Text>Délka svaru</Text>
+    </Item>
+
+    <Item>
+        <TextId>4005</TextId>
+        <Text>Šířka svaru</Text>
+    </Item>
+
+    <Item>
+        <TextId>4006</TextId>
+        <Text>Úhel svaru</Text>
+    </Item>
+
+    <Item>
+        <TextId>4010</TextId>
+        <Text>Poloha</Text>
+    </Item>
+
+    <Item>
+        <TextId>4011</TextId>
+        <Text>Otočení</Text>
+    </Item>
+
+    <Item>
+        <TextId>4012</TextId>
+        <Text>Vytvořit prvek</Text>
+    </Item>
+
+    <Item>
+        <TextId>4013</TextId>
+        <Text>Potvrdit</Text>
+    </Item>
+
+    <Item>
+        <TextId>4014</TextId>
+        <Text>Modifikace</Text>
+    </Item>
+
+    <Item>
+        <TextId>4015</TextId>
+        <Text>Začněte úplně od začátku</Text>
+    </Item>
+
+    <Item>
+        <TextId>4016</TextId>
+        <Text>Odebrat poslední bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>4017</TextId>
+        <Text>Nový bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>4018</TextId>
+        <Text>Posunout bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>4500</TextId>
+        <Text>Formát</Text>
+    </Item>
+
+    <Item>
+        <TextId>4501</TextId>
+        <Text>Hladina</Text>
+    </Item>
+
+    <Item>
+        <TextId>4502</TextId>
+        <Text>Pero</Text>
+    </Item>
+
+    <Item>
+        <TextId>4503</TextId>
+        <Text>Pero dle hladiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>4504</TextId>
+        <Text>Čára</Text>
+    </Item>
+
+    <Item>
+        <TextId>4505</TextId>
+        <Text>Čára dle hladiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>4506</TextId>
+        <Text>Barva</Text>
+    </Item>
+
+    <Item>
+        <TextId>4507</TextId>
+        <Text>Barva dle hladiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>4508</TextId>
+        <Text>Plošný element</Text>
+    </Item>
+
+    <Item>
+        <TextId>4509</TextId>
+        <Text>Plocha</Text>
+    </Item>
+
+    <Item>
+        <TextId>4510</TextId>
+        <Text>Plošný element</Text>
+    </Item>
+
+    <Item>
+        <TextId>4511</TextId>
+        <Text>Šrafa</Text>
+    </Item>
+
+    <Item>
+        <TextId>4512</TextId>
+        <Text>Vzor</Text>
+    </Item>
+
+    <Item>
+        <TextId>4513</TextId>
+        <Text>Filling</Text>
+    </Item>
+
+    <Item>
+        <TextId>4514</TextId>
+        <Text>Plocha z obrázku</Text>
+    </Item>
+
+    <Item>
+        <TextId>4515</TextId>
+        <Text>Stylová plocha</Text>
+    </Item>
+
+    <!--STIFFENER-->
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Parametry ztužení</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>Body</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>Vyberte 2D polygon</Text>
+    </Item>
+
+    <Item>
+        <TextId>5003</TextId>
+        <Text>Vyberte 3D polygon</Text>
+    </Item>
+
+    <Item>
+        <TextId>5004</TextId>
+        <Text>Tloušťka</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>Délka</Text>
+    </Item>
+
+    <Item>
+        <TextId>5006</TextId>
+        <Text>Šířka</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>Odstup Ox</Text>
+    </Item>
+
+    <Item>
+        <TextId>5008</TextId>
+        <Text>Poloměr</Text>
+    </Item>
+
+    <Item>
+        <TextId>5009</TextId>
+        <Text>Tvar rohu</Text>
+    </Item>
+
+    <Item>
+        <TextId>5010</TextId>
+        <Text>Roh | Zkosený roh | Zaoblený roh</Text>
+    </Item>
+
+    <Item>
+        <TextId>5011</TextId>
+        <Text>Poloměr zaoblení</Text>
+    </Item>
+
+    <Item>
+        <TextId>5012</TextId>
+        <Text> Zaoblení</Text>
+    </Item>
+
+    <Item>
+        <TextId>5013</TextId>
+        <Text>  Zaoblení</Text>
+    </Item>
+
+    <Item>
+        <TextId>5014</TextId>
+        <Text>   Zaoblení</Text>
+    </Item>
+
+    <Item>
+        <TextId>5015</TextId>
+        <Text>Zaoblení</Text>
+    </Item>
+
+    <Item>
+        <TextId>5016</TextId>
+        <Text> Zkosení</Text>
+    </Item>
+
+    <Item>
+        <TextId>5017</TextId>
+        <Text>Délka</Text>
+    </Item>
+
+    <Item>
+        <TextId>5018</TextId>
+        <Text>Šířka</Text>
+    </Item>
+
+    <Item>
+        <TextId>5019</TextId>
+        <Text>  Zkosení</Text>
+    </Item>
+
+    <Item>
+        <TextId>5020</TextId>
+        <Text>Délka</Text>
+    </Item>
+
+    <Item>
+        <TextId>5021</TextId>
+        <Text>Šířka</Text>
+    </Item>
+
+    <Item>
+        <TextId>5022</TextId>
+        <Text>   Zkosení</Text>
+    </Item>
+
+    <Item>
+        <TextId>5023</TextId>
+        <Text>Délka</Text>
+    </Item>
+
+    <Item>
+        <TextId>5024</TextId>
+        <Text>Šířka</Text>
+    </Item>
+
+    <Item>
+        <TextId>5025</TextId>
+        <Text>Zkosení</Text>
+    </Item>
+
+    <Item>
+        <TextId>5026</TextId>
+        <Text>Délka</Text>
+    </Item>
+
+    <Item>
+        <TextId>5027</TextId>
+        <Text>Šířka</Text>
+    </Item>
+
+    <Item>
+        <TextId>5028</TextId>
+        <Text>Poloha</Text>
+    </Item>
+
+    <Item>
+        <TextId>5029</TextId>
+        <Text>Orientace</Text>
+    </Item>
+
+    <Item>
+        <TextId>5030</TextId>
+        <Text>Orientace</Text>
+    </Item>
+
+    <Item>
+        <TextId>5031</TextId>
+        <Text>Vlastní</Text>
+    </Item>
+
+    <Item>
+        <TextId>5032</TextId>
+        <Text>Tvar</Text>
+    </Item>
+
+    <Item>
+        <TextId>5033</TextId>
+        <Text>Směr </Text>
+    </Item>
+
+    <Item>
+        <TextId>5034</TextId>
+        <Text>Referenční bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>5035</TextId>
+        <Text>Referenční bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>5036</TextId>
+        <Text>Úhel otočení</Text>
+    </Item>
+
+    <Item>
+        <TextId>5037</TextId>
+        <Text>Úhel Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>5038</TextId>
+        <Text>Úhel Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>5039</TextId>
+        <Text>Odstup</Text>
+    </Item>
+
+    <Item>
+        <TextId>5040</TextId>
+        <Text>Odstup X</Text>
+    </Item>
+
+    <Item>
+        <TextId>5041</TextId>
+        <Text>Odstup Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>5042</TextId>
+        <Text>Odstup Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>5043</TextId>
+        <Text>Vytvořit prvek</Text>
+    </Item>
+
+    <Item>
+        <TextId>5044</TextId>
+        <Text>Potvrdit</Text>
+    </Item>
+
+    <Item>
+        <TextId>5045</TextId>
+        <Text>Délka zkosení</Text>
+    </Item>
+
+    <Item>
+        <TextId>5046</TextId>
+        <Text>Obdélník</Text>
+    </Item>
+
+    <Item>
+        <TextId>5047</TextId>
+        <Text>Trojúhelník</Text>
+    </Item>
+
+    <Item>
+        <TextId>5048</TextId>
+        <Text>Tvar rohů - Parametry</Text>
+    </Item>
+
+    <Item>
+        <TextId>5049</TextId>
+        <Text>Deska - velikost/poloha</Text>
+    </Item>
+
+    <Item>
+        <TextId>5050</TextId>
+        <Text>Zobrazit úchopový bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>5051</TextId>
+        <Text>Trapéz</Text>
+    </Item>
+
+    <Item>
+        <TextId>5052</TextId>
+        <Text>Dim 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>5053</TextId>
+        <Text>Dim 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>5054</TextId>
+        <Text>Odstup Oy</Text>
+    </Item>
+
+    <Item>
+        <TextId>5055</TextId>
+        <Text>Úhel X</Text>
+    </Item>
+
+    <Item>
+        <TextId>5500</TextId>
+        <Text>Vlastnosti</Text>
+    </Item>
+
+    <Item>
+        <TextId>5501</TextId>
+        <Text>Hladina</Text>
+    </Item>
+
+    <Item>
+        <TextId>5502</TextId>
+        <Text>Pero</Text>
+    </Item>
+
+    <Item>
+        <TextId>5503</TextId>
+        <Text>Pero dle hladiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>5504</TextId>
+        <Text>Čára</Text>
+    </Item>
+
+    <Item>
+        <TextId>5505</TextId>
+        <Text>Čára dle hladiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>5506</TextId>
+        <Text>Barva</Text>
+    </Item>
+
+    <Item>
+        <TextId>5507</TextId>
+        <Text>Barva dle hladiny</Text>
+    </Item>
+
+    <!--WELD SYMBOL-->
+
+    <Item>
+        <TextId>6000</TextId>
+        <Text>Vložit symbol</Text>
+    </Item>
+
+    <Item>
+        <TextId>6001</TextId>
+        <Text>Délka svaru</Text>
+    </Item>
+
+    <Item>
+        <TextId>6002</TextId>
+        <Text>Hloubka svaru</Text>
+    </Item>
+
+    <Item>
+        <TextId>6003</TextId>
+        <Text>Detaily</Text>
+    </Item>
+
+    <Item>
+        <TextId>6004</TextId>
+        <Text>Svar po celém obvodu</Text>
+    </Item>
+
+    <Item>
+        <TextId>6005</TextId>
+        <Text>Svařování v terénu</Text>
+    </Item>
+
+    <Item>
+        <TextId>6006</TextId>
+        <Text>Poznámka</Text>
+    </Item>
+
+    <Item>
+        <TextId>6007</TextId>
+        <Text>Typ svaru</Text>
+    </Item>
+
+    <Item>
+        <TextId>6500</TextId>
+        <Text>Značka svaru-symbol</Text>
+    </Item>
+
+    <Item>
+        <TextId>6501</TextId>
+        <Text>Délka odkazové čáry</Text>
+    </Item>
+
+    <Item>
+        <TextId>6502</TextId>
+        <Text>Měřítko textu</Text>
+    </Item>
+
+    <Item>
+        <TextId>6503</TextId>
+        <Text>Hladina</Text>
+    </Item>
+
+    <Item>
+        <TextId>6504</TextId>
+        <Text>Pero</Text>
+    </Item>
+
+    <Item>
+        <TextId>6505</TextId>
+        <Text>Pero dle hladiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>6506</TextId>
+        <Text>Čára</Text>
+    </Item>
+
+    <Item>
+        <TextId>6507</TextId>
+        <Text>Čára dle hladiny</Text>
+    </Item>
+
+    <Item>
+        <TextId>6508</TextId>
+        <Text>Barva</Text>
+    </Item>
+
+    <Item>
+        <TextId>6509</TextId>
+        <Text>Barva dle hladiny</Text>
+    </Item>
+
+    <!--HOLE-->
+
+    <Item>
+        <TextId>7000</TextId>
+        <Text>Otvor</Text>
+    </Item>
+
+    <Item>
+        <TextId>7001</TextId>
+        <Text>Tvar otvoru</Text>
+    </Item>
+
+    <Item>
+        <TextId>7002</TextId>
+        <Text> Kruh</Text>
+    </Item>
+
+    <Item>
+        <TextId>7003</TextId>
+        <Text>Obdélníkový</Text>
+    </Item>
+
+    <Item>
+        <TextId>7004</TextId>
+        <Text>Průměr</Text>
+    </Item>
+
+    <Item>
+        <TextId>7005</TextId>
+        <Text>Hloubka</Text>
+    </Item>
+
+    <Item>
+        <TextId>7006</TextId>
+        <Text>Šířka</Text>
+    </Item>
+
+    <Item>
+        <TextId>7007</TextId>
+        <Text>Délka</Text>
+    </Item>
+
+    <Item>
+        <TextId>7008</TextId>
+        <Text>Tvar rohu</Text>
+    </Item>
+
+    <Item>
+        <TextId>7009</TextId>
+        <Text>Zkosení</Text>
+    </Item>
+
+    <Item>
+        <TextId>7010</TextId>
+        <Text>Zaoblení</Text>
+    </Item>
+
+    <Item>
+        <TextId>7011</TextId>
+        <Text>Potvrdit</Text>
+    </Item>
+
+    <Item>
+        <TextId>7012</TextId>
+        <Text>Vytvořit prvek</Text>
+    </Item>
+
+    <Item>
+        <TextId>7013</TextId>
+        <Text>Roh | Zkosený roh | Zaoblený roh</Text>
+    </Item>
+
+    <Item>
+        <TextId>7014</TextId>
+        <Text> Zkosení</Text>
+    </Item>
+
+    <Item>
+        <TextId>7015</TextId>
+        <Text>  Zkosení</Text>
+    </Item>
+
+    <Item>
+        <TextId>7016</TextId>
+        <Text>   Zkosení</Text>
+    </Item>
+
+    <Item>
+        <TextId>7017</TextId>
+        <Text>Velikost zkosení</Text>
+    </Item>
+
+    <Item>
+        <TextId>7018</TextId>
+        <Text> Zaoblení</Text>
+    </Item>
+
+    <Item>
+        <TextId>7019</TextId>
+        <Text>  Zaoblení</Text>
+    </Item>
+
+    <Item>
+        <TextId>7020</TextId>
+        <Text>   Zaoblení</Text>
+    </Item>
+
+    <Item>
+        <TextId>7021</TextId>
+        <Text>Poloměr zaoblení</Text>
+    </Item>
+
+    <Item>
+        <TextId>7022</TextId>
+        <Text>Úhel</Text>
+    </Item>
+
+    <Item>
+        <TextId>7023</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>7024</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>7025</TextId>
+        <Text>Vytvořit otvor</Text>
+    </Item>
+
+    <Item>
+        <TextId>7026</TextId>
+        <Text>Vymazat otvor</Text>
+    </Item>
+
+    <Item>
+        <TextId>7027</TextId>
+        <Text>Položka-Parametr</Text>
+    </Item>
+
+    <Item>
+        <TextId>7028</TextId>
+        <Text>Odstup X</Text>
+    </Item>
+
+    <Item>
+        <TextId>7029</TextId>
+        <Text>Odstup Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>7030</TextId>
+        <Text>Podélný otvor</Text>
+    </Item>
+
+    <!-- ENDCONDITION -->
+
+    <Item>
+        <TextId>8000</TextId>
+        <Text>Finální stav</Text>
+    </Item>
+
+    <Item>
+        <TextId>8001</TextId>
+        <Text>Vytvořit prvek</Text>
+    </Item>
+
+    <Item>
+        <TextId>8002</TextId>
+        <Text>Potvrdit</Text>
+    </Item>
+
+    <Item>
+        <TextId>8003</TextId>
+        <Text>Operace nahoře</Text>
+    </Item>
+
+    <Item>
+        <TextId>8004</TextId>
+        <Text>Operace dole</Text>
+    </Item>
+
+    <Item>
+        <TextId>8005</TextId>
+        <Text>Typ operace</Text>
+    </Item>
+
+    <Item>
+        <TextId>8006</TextId>
+        <Text>Bez</Text>
+    </Item>
+
+    <Item>
+        <TextId>8007</TextId>
+        <Text>Ozub - rovina</Text>
+    </Item>
+
+    <Item>
+        <TextId>8008</TextId>
+        <Text>Ozub Std</Text>
+    </Item>
+
+    <Item>
+        <TextId>8009</TextId>
+        <Text>Ozub FEMA</Text>
+    </Item>
+
+    <Item>
+        <TextId>8010</TextId>
+        <Text>Ozub Seismisch</Text>
+    </Item>
+
+    <Item>
+        <TextId>8011</TextId>
+        <Text>Řezání šířky příruby</Text>
+    </Item>
+
+    <Item><!-- profile-->
+        <TextId>8012</TextId>
+        <Text>I</Text>
+    </Item>
+
+    <Item>
+        <TextId>8013</TextId>
+        <Text>Obdélníkový otvor</Text>
+    </Item>
+
+    <Item>
+        <TextId>8014</TextId>
+        <Text>L</Text>
+    </Item>
+
+    <Item>
+        <TextId>8015</TextId>
+        <Text>Kruhový otvor</Text>
+    </Item>
+
+    <Item>
+        <TextId>8016</TextId>
+        <Text>C</Text>
+    </Item>
+
+    <Item>
+        <TextId>8017</TextId>
+        <Text>T</Text>
+    </Item>
+
+    <Item>
+        <TextId>8018</TextId>
+        <Text>Formát</Text>
+    </Item>
+
+    <Item>
+        <TextId>8019</TextId>
+        <Text>Kruh</Text>
+    </Item>
+
+    <Item>
+        <TextId>8020</TextId>
+        <Text>I Asym</Text>
+    </Item>
+
+    <Item>
+        <TextId>8021</TextId>
+        <Text>Tvarováno za studena</Text>
+    </Item>
+
+    <Item>
+        <TextId>8022</TextId>
+        <Text>Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>8023</TextId>
+        <Text>Kolejnice</Text>
+    </Item>
+
+    <Item>
+        <TextId>8024</TextId>
+        <Text>Zářez</Text>
+    </Item>
+
+    <Item><!-- Cope plain-->
+        <TextId>8025</TextId>
+        <Text>Ozub - délka</Text>
+    </Item>
+
+    <Item>
+        <TextId>8026</TextId>
+        <Text>Ozub - hloubka</Text>
+    </Item>
+
+    <Item>
+        <TextId>8027</TextId>
+        <Text>Ozub - poloměr</Text>
+    </Item>
+
+    <Item><!-- Cope Std-->
+        <TextId>8028</TextId>
+        <Text>Ozub - délka</Text>
+    </Item>
+
+    <Item>
+        <TextId>8029</TextId>
+        <Text>Ozub - hloubka</Text>
+    </Item>
+
+    <Item>
+        <TextId>8030</TextId>
+        <Text>Poloměr zapuštění</Text>
+    </Item>
+
+    <Item>
+        <TextId>8031</TextId>
+        <Text>Wurzelsteg</Text>
+    </Item>
+
+    <Item>
+        <TextId>8032</TextId>
+        <Text>Úhel drážky</Text>
+    </Item>
+
+    <Item>
+        <TextId>8033</TextId>
+        <Text>Provozní zářezy</Text>
+    </Item>
+
+    <Item>
+        <TextId>8034</TextId>
+        <Text>Clip rameno</Text>
+    </Item>
+
+    <Item><!-- Cope FEMA-->
+        <TextId>8035</TextId>
+        <Text>Ozub - délka</Text>
+    </Item>
+
+    <Item>
+        <TextId>8036</TextId>
+        <Text>Délka zapuštění</Text>
+    </Item>
+
+    <Item>
+        <TextId>8037</TextId>
+        <Text>Hloubka zapuštění</Text>
+    </Item>
+
+    <Item>
+        <TextId>8038</TextId>
+        <Text>Délka zapuštěné příruby</Text>
+    </Item>
+
+    <Item>
+        <TextId>8039</TextId>
+        <Text>Poloměr zapuštění</Text>
+    </Item>
+
+    <Item>
+        <TextId>8040</TextId>
+        <Text>Úhel drážky</Text>
+    </Item>
+
+    <Item>
+        <TextId>8041</TextId>
+        <Text>Odstup zapuštěných otvorů</Text>
+    </Item>
+
+    <Item>
+        <TextId>8042</TextId>
+        <Text>Wurzelsteg</Text>
+    </Item>
+
+    <Item>
+        <TextId>8043</TextId>
+        <Text>Provozní zářezy</Text>
+    </Item>
+
+    <Item>
+        <TextId>8044</TextId>
+        <Text>Clip rameno</Text>
+    </Item>
+
+    <Item><!-- Cope Seismic-->
+        <TextId>8045</TextId>
+        <Text>Ozub - délka</Text>
+    </Item>
+
+    <Item>
+        <TextId>8046</TextId>
+        <Text>Délka zapuštění</Text>
+    </Item>
+
+    <Item>
+        <TextId>8047</TextId>
+        <Text>Hloubka zapuštění</Text>
+    </Item>
+
+    <Item>
+        <TextId>8048</TextId>
+        <Text>Délka zapuštěné příruby</Text>
+    </Item>
+
+    <Item>
+        <TextId>8049</TextId>
+        <Text>Poloměr zapuštění</Text>
+    </Item>
+
+    <Item>
+        <TextId>8050</TextId>
+        <Text>Úhel drážky</Text>
+    </Item>
+
+    <Item>
+        <TextId>8051</TextId>
+        <Text>Odstup zapuštěných otvorů</Text>
+    </Item>
+
+    <Item>
+        <TextId>8052</TextId>
+        <Text>Wurzelsteg</Text>
+    </Item>
+
+    <Item><!-- Cut flange width-->
+        <TextId>8053</TextId>
+        <Text>Délka příruby na blízké straně</Text>
+    </Item>
+
+    <Item>
+        <TextId>8054</TextId>
+        <Text>Délka příruby na vzdálené straně</Text>
+    </Item>
+
+    <Item>
+        <TextId>8055</TextId>
+        <Text>Řezání příruby v jedné rovině</Text>
+    </Item>
+
+    <Item>
+        <TextId>8056</TextId>
+        <Text>Šířka řezané příruby</Text>
+    </Item>
+
+    <Item><!-- Notch-->
+        <TextId>8057</TextId>
+        <Text>Délka zářezu</Text>
+    </Item>
+
+    <Item>
+        <TextId>8058</TextId>
+        <Text>Šířka zářezu</Text>
+    </Item>
+
+    <Item>
+        <TextId>8059</TextId>
+        <Text>Odstup zářezu</Text>
+    </Item>
+
+    <Item>
+        <TextId>8060</TextId>
+        <Text>Poloměr zářezu</Text>
+    </Item>
+
+    <Item>
+        <TextId>8061</TextId>
+        <Text>Operace na blízké straně</Text>
+    </Item>
+
+    <Item>
+        <TextId>8062</TextId>
+        <Text>Operace na vzdálené straně</Text>
+    </Item>
+
+    <Item><!-- Moment connection -->
+        <TextId>8063</TextId>
+        <Text>Momentové spojení ramen - odstupová-plocha</Text>
+    </Item>
+
+    <!-- DIALOG LINES -->
+
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Zvolte 2 body pro umístění spojovacího prvku</Text>
+    </Item>
+
+    <Item>
+        <TextId>10001</TextId>
+        <Text>Vložit bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>10002</TextId>
+        <Text>Stisknutím tlačítka body vyberte polygon</Text>
+    </Item>
+
+    <Item>
+        <TextId>10005</TextId>
+        <Text>Kliknutím vložíte nový bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>10006</TextId>
+        <Text>Vybrat bod vložení</Text>
+    </Item>
+
+    <Item>
+        <TextId>10007</TextId>
+        <Text>Výběr prvního bodu vložení</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>Výběr druhého bodu vložení</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Výběr bodu ve směru šroubu</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Výběr počátečního bodu směru šroubu</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>Výběr prvního bodu vložení</Text>
+    </Item>
+
+    <Item>
+        <TextId>10012</TextId>
+        <Text>Výběr druhého bodu vložení</Text>
+    </Item>
+
+    <Item>
+        <TextId>10013</TextId>
+        <Text>Výběr prvního úhlového bodu</Text>
+    </Item>
+
+    <Item>
+        <TextId>10014</TextId>
+        <Text>Výběr druhého úhlového bodu</Text>
+    </Item>
+
+    <Item>
+        <TextId>10015</TextId>
+        <Text>Vybrat bod vložení</Text>
+    </Item>
+
+    <Item>
+        <TextId>10016</TextId>
+        <Text>Výběr prvního bodu vložení</Text>
+    </Item>
+
+    <Item>
+        <TextId>10017</TextId>
+        <Text>Výběr druhého bodu vložení</Text>
+    </Item>
+
+    <Item>
+        <TextId>10018</TextId>
+        <Text>Výběr bodu ve směru desky</Text>
+    </Item>
+
+    <Item>
+        <TextId>10019</TextId>
+        <Text>Vyberte počáteční bod směru desky</Text>
+    </Item>
+
+    <Item>
+        <TextId>10020</TextId>
+        <Text>Vybrat bod vložení</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Výběr polygonu</Text>
+    </Item>
+
+    <Item>
+        <TextId>10024</TextId>
+        <Text>Tloušťka zadaná přes bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>10027</TextId>
+        <Text>Vybrat bod vložení</Text>
+    </Item>
+
+    <Item>
+        <TextId>10028</TextId>
+        <Text>Výběr prvního bodu vložení</Text>
+    </Item>
+
+    <Item>
+        <TextId>10029</TextId>
+        <Text>Výběr dalšího bodu vložení</Text>
+    </Item>
+
+    <Item>
+        <TextId>10030</TextId>
+        <Text>Výběr prvku rámového skeletu</Text>
+    </Item>
+
+    <Item>
+        <TextId>10031</TextId>
+        <Text>Výběr nového bodu ve směru svaru</Text>
+    </Item>
+
+    <Item>
+        <TextId>10032</TextId>
+        <Text>Výběr profilu v paletě</Text>
+    </Item>
+
+    <Item>
+        <TextId>10033</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>10034</TextId>
+        <Text>Vyberte úchopku, přetáhněte ji a změňte parametry svaru.</Text>
+    </Item>
+
+    <!-- POP-UP MESSAGE -->
+
+    <Item>
+        <TextId>11000</TextId>
+        <Text>Nejprve umístěte šroub</Text>
+    </Item>
+
+    <Item>
+        <TextId>11001</TextId>
+        <Text>Nejedná se o uzavřený polygon</Text>
+    </Item>
+
+    <Item>
+        <TextId>11002</TextId>
+        <Text>Ne všechny body leží ve stejné 3D rovině</Text>
+    </Item>
+
+    <Item>
+        <TextId>11003</TextId>
+        <Text>Vyberte si prosím mezi dvěma existujícími body</Text>
+    </Item>
+
+    <Item>
+        <TextId>11004</TextId>
+        <Text>Lokalizace není k dispozici.\n</Text>
+    </Item>
+
+    <Item>
+        <TextId>11005</TextId>
+        <Text>Tento PythonPart lze správně spustit pouze s korektním lokalizačním souborem..\n</Text>
+    </Item>
+
+    <Item>
+        <TextId>11006</TextId>
+        <Text>Není vytvořena žádná geometrie.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11007</TextId>
+        <Text>Požadují se alespoň 2 body</Text>
+    </Item>
+
+    <Item>
+        <TextId>11008</TextId>
+        <Text>Nejprve musíte vybrat bod vložení</Text>
+    </Item>
+
+    <Item>
+        <TextId>11009</TextId>
+        <Text>Vyberte bod znovu, protože 2 vybrané body nemohou patřit ke stejnému povrchu.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11010</TextId>
+        <Text>Nejprve vyberte desku nebo prvek rámového skeletu.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11011</TextId>
+        <Text>Tato operace odstraní otvory, jejichž výsledkem je neplatná geometrie. Pokračovat ve vymazání?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11012</TextId>
+        <Text>Profil vybraných prvků není kompatibilní s sadou nástrojů pro připojení (Connection-Toolbox).
+Použijte prosím katalog profilů Nemetschek.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11013</TextId>
+        <Text>Vyberte prosím element rámového skeletu</Text>
+    </Item>
+
+    <Item>
+        <TextId>11014</TextId>
+        <Text>Nekompatibilní ty operace</Text>
+    </Item>
+
+    <Item>
+        <TextId>11015</TextId>
+        <Text>Nekompatibilní typ elementu</Text>
+    </Item>
+
+    <Item>
+        <TextId>11016</TextId>
+        <Text>Tato funkce není kompatibilní s vaší aktuální licencí.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11017</TextId>
+        <Text>Tato funkce není kompatibilní s verzí programu Allplan, kterou používáte.</Text>
+    </Item>
+
+    <!-- NOT USED TO EXPRESS -->
+
+    <Item>
+        <TextId>12000</TextId>
+        <Text>Ox</Text>
+    </Item>
+
+    <Item>
+        <TextId>12001</TextId>
+        <Text>Oy</Text>
+    </Item>
+
+    <Item>
+        <TextId>12002</TextId>
+        <Text>Oz</Text>
+    </Item>
+
+    <Item>
+        <TextId>12003</TextId>
+        <Text>Ox: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12004</TextId>
+        <Text>Oy: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12005</TextId>
+        <Text>Oz: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12006</TextId>
+        <Text>Otvor</Text>
+    </Item>
+
+    <Item>
+        <TextId>12007</TextId>
+        <Text>Vytvořit otvor</Text>
+    </Item>
+
+    <Item>
+        <TextId>12008</TextId>
+        <Text>Poloměr otvoru</Text>
+    </Item>
+
+    <Item>
+        <TextId>12009</TextId>
+        <Text>Délka podélného otvoru</Text>
+    </Item>
+
+    <Item>
+        <TextId>12010</TextId>
+        <Text>Úhel otvoru</Text>
+    </Item>
+
+    <Item>
+        <TextId>12011</TextId>
+        <Text>Odstup otvoru</Text>
+    </Item>
+
+    <Item>
+        <TextId>12012</TextId>
+        <Text>Uložit</Text>
+    </Item>
+
+    <Item>
+        <TextId>12013</TextId>
+        <Text>Výškové vlastnosti</Text>
+    </Item>
+
+    <Item>
+        <TextId>12014</TextId>
+        <Text>Referenční bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>12015</TextId>
+        <Text>Počáteční bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>12016</TextId>
+        <Text>Koncový bod</Text>
+    </Item>
+
+    <Item>
+        <TextId>12017</TextId>
+        <Text>2</Text>
+    </Item>
+
+    <Item>
+        <TextId>12018</TextId>
+        <Text>3</Text>
+    </Item>
+
+    <Item>
+        <TextId>12019</TextId>
+        <Text>Příložky</Text>
+    </Item>
+
+    <Item>
+        <TextId>12020</TextId>
+        <Text>Šroub</Text>
+    </Item>
+
+    <Item>
+        <TextId>12021</TextId>
+        <Text>Svar</Text>
+    </Item>
+
+    <Item>
+        <TextId>12022</TextId>
+        <Text>Body</Text>
+    </Item>
+
+    <Item>
+        <TextId>12023</TextId>
+        <Text>Výztuha</Text>
+    </Item>
+</Element>

@@ -1,0 +1,720 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Element>
+  <Item>
+    <TextId>1001</TextId>
+    <Text>İş akışı</Text>
+  </Item>
+  <Item>
+    <TextId>1002</TextId>
+    <Text>Daha fazla bilgi için, lütfen buraya tıklayın:</Text>
+  </Item>
+  <Item>
+    <TextId>1003</TextId>
+    <Text>Eğitim videosu</Text>
+  </Item>
+  <Item>
+    <TextId>1004</TextId>
+    <Text>İlk kolonu seçin</Text>
+  </Item>
+  <Item>
+    <TextId>1005</TextId>
+    <Text>İkinci kolonu seçin</Text>
+  </Item>
+  <Item>
+    <TextId>1006</TextId>
+    <Text>Donatı</Text>
+  </Item>
+  <Item>
+    <TextId>1010</TextId>
+    <Text>Donatıyı kontrol edin ve yerleştirin</Text>
+  </Item>
+  <Item>
+    <TextId>1011</TextId>
+    <Text>Oluştur</Text>
+  </Item>
+  <Item>
+    <TextId>1013</TextId>
+    <Text>Kesitler</Text>
+  </Item>
+  <Item>
+    <TextId>1014</TextId>
+    <Text>Kesitleri yerleştir</Text>
+  </Item>
+  <Item>
+    <TextId>1021</TextId>
+    <Text>Genel</Text>
+  </Item>
+  <Item>
+    <TextId>1022</TextId>
+    <Text>Genel Ayarlar</Text>
+  </Item>
+  <Item>
+    <TextId>1023</TextId>
+    <Text>Donatı değerleri</Text>
+  </Item>
+  <Item>
+    <TextId>1024</TextId>
+    <Text>Manuel</Text>
+  </Item>
+  <Item>
+    <TextId>1025</TextId>
+    <Text>norm tabanlı</Text>
+  </Item>
+  <Item>
+    <TextId>1026</TextId>
+    <Text>Bindirme uzunluğu</Text>
+  </Item>
+  <Item>
+    <TextId>1027</TextId>
+    <Text>Kolon ismi</Text>
+  </Item>
+  <Item>
+    <TextId>1028</TextId>
+    <Text>Pas payı</Text>
+  </Item>
+  <Item>
+    <TextId>1030</TextId>
+    <Text>Beton kalitesi</Text>
+  </Item>
+  <Item>
+    <TextId>1031</TextId>
+    <Text>Kesit kataloğu</Text>
+  </Item>
+  <Item>
+    <TextId>1033</TextId>
+    <Text>Döşeme kalınlığı</Text>
+  </Item>
+  <Item>
+    <TextId>1034</TextId>
+    <Text>Çubuk demir parametreleri</Text>
+  </Item>
+  <Item>
+    <TextId>1035</TextId>
+    <Text>Min. Ana donatı çapı</Text>
+  </Item>
+  <Item>
+    <TextId>1036</TextId>
+    <Text>Min. Etriye çapı</Text>
+  </Item>
+  <Item>
+    <TextId>1037</TextId>
+    <Text>Maks. etriye aralığı</Text>
+  </Item>
+  <Item>
+    <TextId>1039</TextId>
+    <Text>Min. çubuklar arasındaki boşluk</Text>
+  </Item>
+  <Item>
+    <TextId>1040</TextId>
+    <Text>Max. donatı oranı p = As/Ac [%]</Text>
+  </Item>
+  <Item>
+    <TextId>1041</TextId>
+    <Text>Dış çubuk çapı faktörü</Text>
+  </Item>
+  <Item>
+    <TextId>1047</TextId>
+    <Text>Ana donatı</Text>
+  </Item>
+  <Item>
+    <TextId>1048</TextId>
+    <Text>Çap</Text>
+  </Item>
+  <Item>
+    <TextId>1049</TextId>
+    <Text>Çubuk adeti</Text>
+  </Item>
+  <Item>
+    <TextId>1051</TextId>
+    <Text>Başlangıç krank donatısı</Text>
+  </Item>
+  <Item>
+    <TextId>1052</TextId>
+    <Text>Krank ölçüsü</Text>
+  </Item>
+  <Item>
+    <TextId>1053</TextId>
+    <Text>Krank oranı = 1 /</Text>
+  </Item>
+  <Item>
+    <TextId>1054</TextId>
+    <Text>Filiz uzunluğu</Text>
+  </Item>
+  <Item>
+    <TextId>1055</TextId>
+    <Text>Köşe donatı</Text>
+  </Item>
+  <Item>
+    <TextId>1061</TextId>
+    <Text>Yan donatı</Text>
+  </Item>
+  <Item>
+    <TextId>1074</TextId>
+    <Text>Uzun tarafta uzun yan donatı</Text>
+  </Item>
+  <Item>
+    <TextId>1081</TextId>
+    <Text>Kısa tarafta yan donatı</Text>
+  </Item>
+  <Item>
+    <TextId>1099</TextId>
+    <Text>S-Kanca</Text>
+  </Item>
+  <Item>
+    <TextId>1100</TextId>
+    <Text>Elmas etriye</Text>
+  </Item>
+  <Item>
+    <TextId>1102</TextId>
+    <Text>İç çapa miktarı</Text>
+  </Item>
+  <Item>
+    <TextId>1103</TextId>
+    <Text>Döndür</Text>
+  </Item>
+  <Item>
+    <TextId>1104</TextId>
+    <Text>Pafta</Text>
+  </Item>
+  <Item>
+    <TextId>1105</TextId>
+    <Text>⌀</Text>
+  </Item>
+  <Item>
+    <TextId>1106</TextId>
+    <Text>Şekil</Text>
+  </Item>
+  <Item>
+    <TextId>1107</TextId>
+    <Text>Etriye, kapalı</Text>
+  </Item>
+  <Item>
+    <TextId>1108</TextId>
+    <Text>Etriyeler</Text>
+  </Item>
+  <Item>
+    <TextId>1109</TextId>
+    <Text>Çapa düzenlemesi</Text>
+  </Item>
+  <Item>
+    <TextId>1110</TextId>
+    <Text>Çubuk şekli</Text>
+  </Item>
+  <Item>
+    <TextId>1111</TextId>
+    <Text>Dış çapa miktarı</Text>
+  </Item>
+  <Item>
+    <TextId>1112</TextId>
+    <Text>Dış çapalar</Text>
+  </Item>
+  <Item>
+    <TextId>1113</TextId>
+    <Text>Aralık</Text>
+  </Item>
+  <Item>
+    <TextId>1114</TextId>
+    <Text>Kanca Uzunluğu</Text>
+  </Item>
+  <Item>
+    <TextId>1115</TextId>
+    <Text>Kanca Açısı</Text>
+  </Item>
+  <Item>
+    <TextId>1116</TextId>
+    <Text>Üst bölüm</Text>
+  </Item>
+  <Item>
+    <TextId>1117</TextId>
+    <Text>Üstte daha yakın aralık</Text>
+  </Item>
+  <Item>
+    <TextId>1118</TextId>
+    <Text>Yerleşim uzunluğu</Text>
+  </Item>
+  <Item>
+    <TextId>1120</TextId>
+    <Text>Alt bölüm</Text>
+  </Item>
+  <Item>
+    <TextId>1121</TextId>
+    <Text>Altta daha yakın aralık</Text>
+  </Item>
+  <Item>
+    <TextId>1125</TextId>
+    <Text>Ölçek 1:</Text>
+  </Item>
+  <Item>
+    <TextId>1126</TextId>
+    <Text>Cephe</Text>
+  </Item>
+  <Item>
+    <TextId>1127</TextId>
+    <Text>Yatay kesitler</Text>
+  </Item>
+  <Item>
+    <TextId>1130</TextId>
+    <Text>Donatı etiketleme</Text>
+  </Item>
+  <Item>
+    <TextId>1133</TextId>
+    <Text>Elemanlar</Text>
+  </Item>
+  <Item>
+    <TextId>1134</TextId>
+    <Text>Yeni seçim</Text>
+  </Item>
+  <Item>
+    <TextId>1135</TextId>
+    <Text>Başlat</Text>
+  </Item>
+  <Item>
+    <TextId>1136</TextId>
+    <Text>Tipi seçin</Text>
+  </Item>
+  <Item>
+    <TextId>1137</TextId>
+    <Text>PythonPart</Text>
+  </Item>
+  <Item>
+    <TextId>1138</TextId>
+    <Text>3B Obje</Text>
+  </Item>
+  <Item>
+    <TextId>1139</TextId>
+    <Text>Kesit ismi 1</Text>
+  </Item>
+  <Item>
+    <TextId>1140</TextId>
+    <Text>Kesit ismi 2</Text>
+  </Item>
+  <Item>
+    <TextId>1141</TextId>
+    <Text>Kesit ismi 3</Text>
+  </Item>
+  <Item>
+    <TextId>1143</TextId>
+    <Text>Açıklama 1</Text>
+  </Item>
+  <Item>
+    <TextId>1144</TextId>
+    <Text>Açıklama 2</Text>
+  </Item>
+  <Item>
+    <TextId>1149</TextId>
+    <Text>Kolon</Text>
+  </Item>
+  <Item>
+    <TextId>1153</TextId>
+    <Text>Kesit 1-1</Text>
+  </Item>
+  <Item>
+    <TextId>1154</TextId>
+    <Text>Kesit 2-2</Text>
+  </Item>
+  <Item>
+    <TextId>1155</TextId>
+    <Text>Kesit 3-3</Text>
+  </Item>
+  <Item>
+    <TextId>1156</TextId>
+    <Text>Ana donatı bükme pimi</Text>
+  </Item>
+  <Item>
+    <TextId>1157</TextId>
+    <Text>Etriye bükme pimi</Text>
+  </Item>
+  <Item>
+    <TextId>1159</TextId>
+    <Text>Kanca üstte</Text>
+  </Item>
+  <Item>
+    <TextId>1160</TextId>
+    <Text>Açı</Text>
+  </Item>
+  <Item>
+    <TextId>1161</TextId>
+    <Text>İç çapa 1</Text>
+  </Item>
+  <Item>
+    <TextId>1162</TextId>
+    <Text>İç çapa 2</Text>
+  </Item>
+  <Item>
+    <TextId>1163</TextId>
+    <Text>İç çapa 3</Text>
+  </Item>
+  <Item>
+    <TextId>1164</TextId>
+    <Text>İç çapa 4</Text>
+  </Item>
+  <Item>
+    <TextId>1165</TextId>
+    <Text>İç çapa 5</Text>
+  </Item>
+  <Item>
+    <TextId>1166</TextId>
+    <Text>İç çapa 6</Text>
+  </Item>
+  <Item>
+    <TextId>1167</TextId>
+    <Text>Bükme pimi faktörü</Text>
+  </Item>
+  <Item>
+    <TextId>1168</TextId>
+    <Text>Çubuk şekli</Text>
+  </Item>
+  <Item>
+    <TextId>1169</TextId>
+    <Text>Dış çapa özellikleri</Text>
+  </Item>
+  <Item>
+    <TextId>1170</TextId>
+    <Text>İç çapa 1 özellikleri</Text>
+  </Item>
+  <Item>
+    <TextId>1171</TextId>
+    <Text>İç çapa 2 özellikleri</Text>
+  </Item>
+  <Item>
+    <TextId>1172</TextId>
+    <Text>İç çapa 3 özellikleri</Text>
+  </Item>
+  <Item>
+    <TextId>1173</TextId>
+    <Text>İç çapa 4 özellikleri</Text>
+  </Item>
+  <Item>
+    <TextId>1174</TextId>
+    <Text>İç çapa 5 özellikleri</Text>
+  </Item>
+  <Item>
+    <TextId>1175</TextId>
+    <Text>İç çapa 6 özellikleri</Text>
+  </Item>
+  <Item>
+    <TextId>1177</TextId>
+    <Text>Başlangıçta kanca</Text>
+  </Item>
+  <Item>
+    <TextId>1178</TextId>
+    <Text>Başlangıçta kanca açısı</Text>
+  </Item>
+  <Item>
+    <TextId>1179</TextId>
+    <Text>Başlangıçta kanca uzunluğu</Text>
+  </Item>
+   <Item>
+    <TextId>1180</TextId>
+    <Text>Sondaki kanca</Text>
+  </Item>
+  <Item>
+    <TextId>1181</TextId>
+    <Text>Sondaki kanca açısı</Text>
+  </Item>
+  <Item>
+    <TextId>1182</TextId>
+    <Text>Sondaki kanca uzunluğu</Text>
+  </Item>
+  <Item>
+    <TextId>1183</TextId>
+    <Text>Biçim</Text>
+  </Item>
+  <Item>
+    <TextId>1184</TextId>
+    <Text>Ana donatı</Text>
+  </Item>
+  <Item>
+    <TextId>1185</TextId>
+    <Text>Köşe</Text>
+  </Item>
+  <Item>
+    <TextId>1186</TextId>
+    <Text>Uzun kenar</Text>
+  </Item>
+  <Item>
+    <TextId>1187</TextId>
+    <Text>Kısa kenar</Text>
+  </Item>
+  <Item>
+    <TextId>1188</TextId>
+    <Text>Kenar</Text>
+  </Item>
+  <Item>
+    <TextId>1189</TextId>
+    <Text>Ana</Text>
+  </Item>
+  <Item>
+    <TextId>1190</TextId>
+    <Text>Elmas</Text>
+  </Item>
+  <Item>
+    <TextId>1191</TextId>
+    <Text>Etriye kapalı</Text>
+  </Item>
+  <Item>
+    <TextId>4999</TextId>
+    <Text>Bu PythonPart, dikdörtgen ve yuvarlak kolonlarda otomatik olarak donatı oluşturmanıza olanak sağlar. \n\nBaşlamak için lütfen aşağıdaki adımları izleyin.\n 1) Donatılandırmak istediğiniz kolonu seçin.\n 2) İlk kolonun üstünde ikinci bir kolon seçin. (İsteğe bağlı).\n 3)  Kolon donatı parametrelerini tanımlamak için, \n    "Genel", "Ana Donatı", "Etriyeler" sekmelerine gidin.\n 4) "Kesitler" sekmesinde gerekli ayarları yapın ve "Oluştur" u tıklayın,\n    daha sonra kesitleri yapın.</Text>
+  </Item>
+  <Item>
+    <TextId>5000</TextId>
+    <Text>Lütfen elemanları seçin</Text>
+  </Item>
+  <Item>
+    <TextId>5001</TextId>
+    <Text>Genel sekmesine erişin.</Text>
+  </Item>
+  <Item>
+    <TextId>5003</TextId>
+    <Text>Ana Donatı sekmesine erişin.</Text>
+  </Item>
+  <Item>
+    <TextId>5005</TextId>
+    <Text>Etriyeler sekmesine erişin.</Text>
+  </Item>
+  <Item>
+    <TextId>5007</TextId>
+    <Text>Kesitler sekmesine erişin.</Text>
+  </Item>
+  <Item>
+    <TextId>5008</TextId>
+    <Text>Biçim sekmesine erişin.</Text>
+  </Item>
+  <Item>
+    <TextId>10000</TextId>
+    <Text>Aşağıdaki hatalardan dolayı donatı oluşturulamıyor:</Text>
+  </Item>
+  <Item>
+    <TextId>10001</TextId>
+    <Text> -Etriye çapı küçüktür Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10002</TextId>
+    <Text> - Ana kolon donatı çapı küçüktür Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10003</TextId>
+    <Text> - Etriye aralığı büyüktür Smin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10004</TextId>
+    <Text>Seçilen kolon geçerli değil! Lütfen tekrar seçin! </Text>
+  </Item>
+  <Item>
+    <TextId>10005</TextId>
+    <Text>Üstte kolon seçmek istiyor musunuz?</Text>
+  </Item>
+  <Item>
+    <TextId>10006</TextId>
+    <Text>Üst kolonu seçin:</Text>
+  </Item>
+  <Item>
+    <TextId>10007</TextId>
+    <Text>Tek kolon seçmek için sol tıklayın / donatı oluşturmak için birden fazla kolon seçmek için sağ tıklayın</Text>
+  </Item>
+  <Item>
+    <TextId>10008</TextId>
+    <Text>Lütfen parametreleri girin ve donatıyıi oluşturmak için Oluştur'u seçin</Text>
+  </Item>
+  <Item>
+    <TextId>10009</TextId>
+    <Text>Kaydetme ayarı başarısız: {}</Text>
+  </Item>
+  <Item>
+    <TextId>10010</TextId>
+    <Text>Yükleme ayarı başarısız oldu! Lütfen dosya formatını kontrol edin.</Text>
+  </Item>
+  <Item>
+    <TextId>10011</TextId>
+    <Text>Hiç bir kolon seçilmedi.</Text>
+  </Item>
+  <Item>
+    <TextId>10012</TextId>
+    <Text>Bunu / bu parametreleri otomatik olarak düzeltmek istiyor musunuz?</Text>
+  </Item>
+  <Item>
+    <TextId>10013</TextId>
+    <Text>Seçili kolon zaten donatıya sahip.</Text>
+  </Item>
+  <Item>
+    <TextId>10014</TextId>
+    <Text>Ürün Anahtarı etkinleştirilemedi.</Text>
+  </Item>
+  <Item>
+    <TextId>10015</TextId>
+    <Text>Lütfen önce donatıyı oluşturun.</Text>
+  </Item>
+  <Item>
+    <TextId>10016</TextId>
+    <Text>Donatıyı oluşturmak için bir kolon seçin.</Text>
+  </Item>
+  <Item>
+    <TextId>10017</TextId>
+    <Text> - Uzun kenarda donatı çapı küçüktür Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10018</TextId>
+    <Text> - Kısa kenarda donatı çapı küçüktür  Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10019</TextId>
+    <Text> - Yan donatıda çubuk çapı küçüktür Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10020</TextId>
+    <Text> -  - Genel sekmesinde tanımlanan donatılar arasındaki {}mm'lik minimum açık mesafeye bağlı olarak, maksimum ana çubuk sayısı Ø{} {}\\n</Text>
+  </Item>
+  <Item>
+    <TextId>10021</TextId>
+    <Text> - Minimum net aralığa göre </Text>
+  </Item>
+  <Item>
+    <TextId>10022</TextId>
+    <Text>genel sekmede tanımlanan donatılar arasındaki mm</Text>
+  </Item>
+  <Item>
+    <TextId>10023</TextId>
+    <Text>:\n   + uzun kenarda maks ana çubuk sayısı   ø</Text>
+  </Item>
+  <Item>
+    <TextId>10024</TextId>
+    <Text>:\n   + kısa kenarda maks ana çubuk sayıs   ø</Text>
+  </Item>
+  <Item>
+    <TextId>10025</TextId>
+    <Text>:\n   + uzun kenarda maks ana çubuk sayısı   ø</Text>
+  </Item>
+  <Item>
+    <TextId>10026</TextId>
+    <Text>:\n   + kısa kenarda maks ana çubuk sayıs   ø</Text>
+  </Item>
+  <Item>
+    <TextId>10027</TextId>
+    <Text>, maksimum ana çubuk sayısı ø{} {}</Text>
+  </Item>
+  <Item>
+    <TextId>10028</TextId>
+    <Text> - Seçili donatı oranı </Text>
+  </Item>
+  <Item>
+    <TextId>10029</TextId>
+    <Text> ve maksimum oranını aşıyor </Text>
+  </Item>
+  <Item>
+    <TextId>10030</TextId>
+    <Text>Kolon seçimini yeniden başlat</Text>
+  </Item>
+  <Item>
+    <TextId>10031</TextId>
+    <Text>Seçim başarısız, lütfen tekrar seçin</Text>
+  </Item>
+  <Item>
+    <TextId>10033</TextId>
+    <Text>Allplan PythonParts Kolonundan çıkmak istiyor musunuz?</Text>
+  </Item>
+  <!-- Empty -->
+  <Item>
+    <TextId>10034</TextId>
+    <Text/>
+  </Item>
+  <Item>
+    <TextId>10035</TextId>
+    <Text>Yuvarlak veya dikdörtgen kolonu 3B Model Görünümünden seçin.</Text>
+  </Item>
+  <Item>
+    <TextId>10036</TextId>
+    <Text>Obje seçimini 3B Model Görünümünden bitirin.</Text>
+  </Item>
+  <Item>
+    <TextId>10037</TextId>
+    <Text>Kesitleri yerleştirmek için plan görünümünde bir noktayı tıklayın</Text>
+  </Item>
+  <Item>
+    <TextId>10038</TextId>
+    <Text>Sekmelerde donatı için değer girin ve 'Oluştur' düğmesine tıklayın (Donatıyı kontrol edin ve yerleştirin)</Text>
+  </Item>
+  <Item>
+    <TextId>10039</TextId>
+    <Text>Kesit sekmesinde Kesit ve Etiketleme için girdi sağlayın ve ardından Oluştur'a tıklayın (Kesitleri yerleştir)</Text>
+  </Item>
+  <Item>
+    <TextId>10040</TextId>
+    <Text>ESC tuşuna/'Kapat' düğmesine basarsanız veya daha fazla kesit için Oluştur'u tıklarsanız işlem tamamlanabilir.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10041</TextId>
+    <Text>Parametrelerde değişiklikler oldu.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10042</TextId>
+    <Text>Donatının işaret numarasını güncellemek istiyor musunuz?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10043</TextId>
+    <Text>Bu PythonPart, oluşturulduğu mimari bileşenine bağlıdır.
+Lütfen, PythonPart'ı başka bir konuma kopyalamanın mümkün olmadığını unutmayın.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10047</TextId>
+    <Text>Bir mimari objeye bağlı python bölümünü kopyaladınız.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10048</TextId>
+    <Text>Onu yeni mimari objeye bağlamak istiyor musunuz?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10049</TextId>
+    <Text>Sol tıklama veya alan seçimi ile kolonları seçin</Text>
+  </Item>
+
+  <Item>
+    <TextId>10050</TextId>
+    <Text>Uygulama yalnızca dikdörtgen, kare veya dairesel kesitli kolonları destekler.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10051</TextId>
+    <Text>Uygulama yalnızca üstte veya altta eğimli yüzeyleri olmayan kolonları destekler.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10052</TextId>
+    <Text>Uygulama sadece eğimsiz kolonları destekler.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10053</TextId>
+    <Text>Uygulama yalnızca çentiksiz veya konsolsuz kolonları destekler.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10054</TextId>
+    <Text>Uygulama sadece yüksekliği çapından 3 kat daha büyük olan yuvarlak bir kolonu destekler.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10055</TextId>
+    <Text>Uygulama yalnızca geçerli oranlara sahip kolonları destekler:\n+ Uzunluk enine kesitte genişliğin 4 katını geçmemelidir.\n+ Yükseklik, enine kesitin uzunluğundan veya genişliğinden en az 3 kat daha büyüktür.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10056</TextId>
+    <Text>Yukarıda geçerli bir kolon bulunamadı. Lütfen kolonları yeniden seçin veya üstteki ikinci kolon onay kutusundaki işareti kaldırın.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10057</TextId>
+    <Text>Uygulama yalnızca aynı geometri tipine sahip kolonları destekler.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10058</TextId>
+    <Text>Lütfen kolonları yeniden seçin.</Text>
+  </Item>
+
+</Element>

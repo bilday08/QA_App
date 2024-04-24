@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Element>
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Flujo de trabajo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Para más información por favor haz clic aquí:</Text>
+    </Item>
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Tutorial</Text>
+    </Item>
+    <Item>
+        <TextId>1030</TextId>
+        <Text>General</Text>
+    </Item>
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Alzado</Text>
+    </Item>
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Recubrimiento de hormigón</Text>
+    </Item>
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Carriles</Text>
+    </Item>
+    <Item>
+        <TextId>1040</TextId>
+        <Text>Fabricante</Text>
+    </Item>
+    <Item>
+        <TextId>1041</TextId>
+        <Text>Nombre de producto</Text>
+    </Item>
+    <Item>
+        <TextId>1042</TextId>
+        <Text>Diámetro</Text>
+    </Item>
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Altura</Text>
+    </Item>
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Instalación de</Text>
+    </Item>
+    <Item>
+        <TextId>1045</TextId>
+        <Text>Número de áreas por carril</Text>
+    </Item>
+    <Item>
+        <TextId>1046</TextId>
+        <Text>Área 1</Text>
+    </Item>
+    <Item>
+        <TextId>1047</TextId>
+        <Text>Nombre de posición</Text>
+    </Item>
+    <Item>
+        <TextId>1048</TextId>
+        <Text>Número de pernos</Text>
+    </Item>
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Distancia inicial</Text>
+    </Item>
+    <Item>
+        <TextId>1050</TextId>
+        <Text>Distancia 1</Text>
+    </Item>
+    <Item>
+        <TextId>1051</TextId>
+        <Text>Distancia 2</Text>
+    </Item>
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Distancia 3</Text>
+    </Item>
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Distancia 4</Text>
+    </Item>
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Distancia 5</Text>
+    </Item>
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Distancia 6</Text>
+    </Item>
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Distancia final</Text>
+    </Item>
+    <Item>
+        <TextId>1057</TextId>
+        <Text>Área 2</Text>
+    </Item>
+    <Item>
+        <TextId>1068</TextId>
+        <Text>Área 3</Text>
+    </Item>
+    <Item>
+        <TextId>1079</TextId>
+        <Text>Área 4</Text>
+    </Item>
+    <Item>
+        <TextId>1090</TextId>
+        <Text>Plano</Text>
+    </Item>
+    <Item>
+        <TextId>1095</TextId>
+        <Text>Espaciado</Text>
+    </Item>
+    <Item>
+        <TextId>1099</TextId>
+        <Text>Carriles girados</Text>
+    </Item>
+    <Item>
+        <TextId>1100</TextId>
+        <Text>Colocación del ángulo</Text>
+    </Item>
+    <Item>
+        <TextId>1101</TextId>
+        <Text>Ángulo inicial</Text>
+    </Item>
+    <Item>
+        <TextId>1102</TextId>
+        <Text>Número de railes</Text>
+    </Item>
+    <Item>
+        <TextId>1103</TextId>
+        <Text>Railes en esquina</Text>
+    </Item>
+    <Item>
+        <TextId>1108</TextId>
+        <Text>Railes en esquina</Text>
+    </Item>
+    <Item>
+        <TextId>1115</TextId>
+        <Text>Crear</Text>
+    </Item>
+    <Item>
+        <TextId>1117</TextId>
+        <Text>Secciones</Text>
+    </Item>
+    <Item>
+        <TextId>1118</TextId>
+        <Text>Información general</Text>
+    </Item>
+    <Item>
+        <TextId>1119</TextId>
+        <Text>Configuración de ubicación y geometría</Text>
+    </Item>
+    <Item>
+        <TextId>1201</TextId>
+        <Text>Distancia 7</Text>
+    </Item>
+    <Item>
+        <TextId>1205</TextId>
+        <Text>Elementos</Text>
+    </Item>
+    <Item>
+        <TextId>1206</TextId>
+        <Text>Seleccionar forjado para el alzado</Text>
+    </Item>
+
+    <Item>
+        <TextId>1210</TextId>
+        <Text>Colocar secciones</Text>
+    </Item>
+    <Item>
+        <TextId>1211</TextId>
+        <Text>Descripción 1</Text>
+    </Item>
+    <Item>
+        <TextId>1212</TextId>
+        <Text>Descripción 2</Text>
+    </Item>
+    <Item>
+        <TextId>1213</TextId>
+        <Text>Nombre de sección</Text>
+    </Item>
+    <Item>
+        <TextId>1214</TextId>
+        <Text>Etiqueta de sección</Text>
+    </Item>
+    <Item>
+        <TextId>1215</TextId>
+        <Text>PythonPart</Text>
+    </Item>
+    <Item>
+        <TextId>1216</TextId>
+        <Text>Elegir tipo</Text>
+    </Item>
+    <Item>
+        <TextId>1217</TextId>
+        <Text>Objeto 3D</Text>
+    </Item>
+    <Item>
+        <TextId>1218</TextId>
+        <Text>Seleccionar elementos</Text>
+    </Item>
+    <Item>
+        <TextId>1219</TextId>
+        <Text>Colocación de carriles</Text>
+    </Item>
+    <Item>
+        <TextId>1220</TextId>
+        <Text>Pilar</Text>
+    </Item>
+    <Item>
+        <TextId>1221</TextId>
+        <Text>Vértice del muro</Text>
+    </Item>
+    <Item>
+        <TextId>1222</TextId>
+        <Text>Final del muro</Text>
+    </Item>
+    <Item>
+        <TextId>1226</TextId>
+        <Text>Punzonamiento</Text>
+    </Item>
+    <Item>
+        <TextId>1228</TextId>
+        <Text>Sección horizontal</Text>
+    </Item>
+    <Item>
+        <TextId>1229</TextId>
+        <Text>Sección vertical</Text>
+    </Item>
+    <Item>
+        <TextId>1233</TextId>
+        <Text>Superior</Text>
+    </Item>
+    <Item>
+        <TextId>1234</TextId>
+        <Text>Inferior</Text>
+    </Item>
+    <Item>
+        <TextId>1235</TextId>
+        <Text>Formato</Text>
+    </Item>
+    <Item>
+        <TextId>1236</TextId>
+        <Text>Armado</Text>
+    </Item>
+    <Item>
+        <TextId>1237</TextId>
+        <Text>Carril y riel</Text>
+    </Item>
+    
+    <Item>
+        <TextId>4999</TextId>
+        <Text>Este PythonPart te permite generar automáticamente railes de punzonamiento para pilares rectangulares, pilares circulares, muros en esquina y muros finales y soportes rectangulares, así como esquinas y remates de pared.\nPara comenzar, sigue los siguientes \nasos:\n 1) Selecciona el tipo de punzonamiento que deseas crear.\n 2) Selecciona los elementos apropiados.\n 3) Selecciona el forjado para detectar automáticamente la altura del alzado. (Opcional)\n 4) Pasa por las pestañas "General", "Railes", "Planos" para \nonfigurar los parámetros de punzonamientos.\n   Haz clic en "Crear" para comprobar y crear el armado.\n 5) Dirígete a la pestaña "Secciones" para definir los parámetros de sección. Haz clic en\n    "Crear" y coloca las secciones.</Text>
+    </Item>
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Por favor selecciona los elementos</Text>
+    </Item>
+    <Item>
+        <TextId>5001</TextId>
+        <Text>para ver la pestaña "General".</Text>
+    </Item>
+    <Item>
+        <TextId>5003</TextId>
+        <Text>para ver la pestaña "Carriles".</Text>
+    </Item>
+    <Item>
+        <TextId>5005</TextId>
+        <Text>para ver la pestaña "Plano".</Text>
+    </Item>
+    <Item>
+        <TextId>5007</TextId>
+        <Text>para ver la pestaña "Secciones".</Text>
+    </Item>
+    <Item>
+        <TextId>5008</TextId>
+        <Text>Accede a la pestaña "Formato"</Text>
+    </Item>
+    <Item>
+        <TextId>10000</TextId>
+        <Text>No se puede crear el armado de punzonamiento debido al siguiente error:</Text>
+    </Item>
+    <Item>
+        <TextId>10001</TextId>
+        <Text> La altura de los pernos es mayor que el máximo del forjado= {} mm\n¿Te gustaría ajustar autom. estos parámetros?</Text>
+    </Item>
+    <Item>
+        <TextId>10002</TextId>
+        <Text>Por favor, selecciona el forjado en la "vista del modelo 3D"</Text>
+    </Item>
+    <Item>
+        <TextId>10003</TextId>
+        <Text>Por favor selecciona el pilar en la "vista del modelo 3D"</Text>
+    </Item>
+    <Item>
+        <TextId>10005</TextId>
+        <Text>Selecciona los muros en la "vista del modelo 3D"</Text>
+    </Item>
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Selecciona 3 puntos en dirección a las agujas del reloj en la vista en planta 2D.</Text>
+    </Item>
+    <Item>
+        <TextId>10018</TextId>
+        <Text>Por favor vuelve a seleccionar el muro</Text>
+    </Item>
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Selecciona los elementos</Text>
+    </Item>
+    <Item>
+        <TextId>10023</TextId>
+        <Text>Crea primero el armado de punzonamiento</Text>
+    </Item>
+    <Item>
+        <TextId>10024</TextId>
+        <Text>Ya has creado los elementos del armado de punzonamiento en esta ubicación.</Text>
+    </Item>
+    <Item>
+        <TextId>10026</TextId>
+        <Text>Introduce los parámetros y selecciona "Crear" para generar la armadura de punzonamiento.</Text>
+    </Item>
+    <Item>
+        <TextId>10027</TextId>
+        <Text>Haz clic en un punto de la vista en planta para colocar las secciones.</Text>
+    </Item>
+    <Item>
+        <TextId>10028</TextId>
+        <Text>Introduce los parámetros y haz clic en Crear para generar secciones</Text>
+    </Item>
+    <Item>
+        <TextId>10029</TextId>
+        <Text>El proceso se ha completado. Por favor, haz clic en Cerrar o pulsa ESC</Text>
+    </Item>
+    <Item>
+        <TextId>10030</TextId>
+        <Text>Esta PythonPart está conectada al elemento arq. con el que se creo. Por favor ten cuidado ya que la copia del PythonPart a otra ubicación no es posible.</Text>
+    </Item>
+    <Item>
+        <TextId>10031</TextId>
+        <Text>Has copiado el PythonPart conectado a un objeto arquitectónico.</Text>
+    </Item>
+    <Item>
+        <TextId>10032</TextId>
+        <Text>¿Quieres vincularlo al nuevo objeto arquitectónico?</Text>
+    </Item>
+</Element>

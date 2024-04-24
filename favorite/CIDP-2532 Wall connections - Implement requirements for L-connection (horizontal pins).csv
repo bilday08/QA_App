@@ -1,0 +1,16 @@
+TestCase Name,TestCase Description,TestCase Result,Note,Status
+Checking type of creation pythonpart or 3D object,"Checking type of creation pythonpart or 3D object. At this time, both options will lead the result of 3D object while pythonpart cannot still be created",As expected,Main feature,Not executed
+Checking General Parameters according to settings from palette - same thickness,Checking General Parameters according to settings from palette,As expected,Main feature,Pass
+Checking Rebar Parameters according to settings from palette - same thickness,Checking Rebar Parameters according to settings from palette,As expected,Main feature,Pass
+Checking Format Parameters according to settings from palette - same thickness,Checking Format Parameters according to settings from palette,As expected,Main feature,Pass
+Checking Pin at wall 1 Parameters according to settings from palette - same thickness,Checking Pin at wall 1 Parameters according to settings from palette,As expected,Main feature,Pass
+Checking Pin at wall 2 Parameters according to settings from palette - same thickness,Checking Pin at wall 2 Parameters according to settings from palette,As expected,Main feature,Pass
+Checking Vertical Bars' Parameters according to settings from palette - same thickness,Checking Vertical Bars' Parameters according to settings from palette,As expected,Main feature,Pass
+Horizontal rebar will adapt case of opening at connection zone - same thickness,Horizontal rebar will adapt case of opening at connection zone.,As expected,Main feature,Not executed
+Checking General Parameters according to settings from palette - different thickness,Checking General Parameters according to settings from palette,As expected,Main feature,Pass
+Checking Rebar Parameters according to settings from palette - different thickness,Checking Rebar Parameters according to settings from palette,As expected,Main feature,Pass
+Checking Format Parameters according to settings from palette - different thickness,Checking Format Parameters according to settings from palette,As expected,Main feature,Pass
+Checking Pin at wall 1 Parameters according to settings from palette - different thickness,Checking Pin at wall 1 Parameters according to settings from palette,As expected,Main feature,Pass
+Checking Pin at wall 2 Parameters according to settings from palette - different thickness,Checking Pin at wall 2 Parameters according to settings from palette,As expected,Main feature,Pass
+Checking Vertical Bars' Parameters according to settings from palette - different thickness,Checking Vertical Bars' Parameters according to settings from palette,As expected,Main feature,Pass
+Horizontal rebar will adapt case of opening at connection zone - different thickness,Horizontal rebar will adapt case of opening at connection zone. ,As expected,Main feature,Not executed

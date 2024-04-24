@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Element>
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Flux de lucru</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Pentru informatii apasati aici:</Text>
+    </Item>
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Tutorial</Text>
+    </Item>
+    <Item>
+        <TextId>1030</TextId>
+        <Text>General</Text>
+    </Item>
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Elevatie</Text>
+    </Item>
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Acoperire cu beton</Text>
+    </Item>
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Sine</Text>
+    </Item>
+    <Item>
+        <TextId>1040</TextId>
+        <Text>Producator</Text>
+    </Item>
+    <Item>
+        <TextId>1041</TextId>
+        <Text>Nume produs</Text>
+    </Item>
+    <Item>
+        <TextId>1042</TextId>
+        <Text>Diametru </Text>
+    </Item>
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Inaltime </Text>
+    </Item>
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Instalare din</Text>
+    </Item>
+    <Item>
+        <TextId>1045</TextId>
+        <Text>Numar de zone pe sina</Text>
+    </Item>
+    <Item>
+        <TextId>1046</TextId>
+        <Text>Zona 1</Text>
+    </Item>
+    <Item>
+        <TextId>1047</TextId>
+        <Text>Nume pozitie</Text>
+    </Item>
+    <Item>
+        <TextId>1048</TextId>
+        <Text>Numar conectori</Text>
+    </Item>
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Distanta inceput </Text>
+    </Item>
+    <Item>
+        <TextId>1050</TextId>
+        <Text>Distanta 1 </Text>
+    </Item>
+    <Item>
+        <TextId>1051</TextId>
+        <Text>Distanta 2 </Text>
+    </Item>
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Distanta 3 </Text>
+    </Item>
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Distanta 4 </Text>
+    </Item>
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Distanta 5 </Text>
+    </Item>
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Distanta 6 </Text>
+    </Item>
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Distanta sfarsit </Text>
+    </Item>
+    <Item>
+        <TextId>1057</TextId>
+        <Text>Zona 2</Text>
+    </Item>
+    <Item>
+        <TextId>1068</TextId>
+        <Text>Zona 3</Text>
+    </Item>
+    <Item>
+        <TextId>1079</TextId>
+        <Text>Zona 4</Text>
+    </Item>
+    <Item>
+        <TextId>1090</TextId>
+        <Text>Planse</Text>
+    </Item>
+    <Item>
+        <TextId>1095</TextId>
+        <Text>Distanta</Text>
+    </Item>
+    <Item>
+        <TextId>1099</TextId>
+        <Text>Sine rasucite</Text>
+    </Item>
+    <Item>
+        <TextId>1100</TextId>
+        <Text>Repartitie sub un unghi</Text>
+    </Item>
+    <Item>
+        <TextId>1101</TextId>
+        <Text>Unghi inceput</Text>
+    </Item>
+    <Item>
+        <TextId>1102</TextId>
+        <Text>Numar sine</Text>
+    </Item>
+    <Item>
+        <TextId>1103</TextId>
+        <Text>Sine colt</Text>
+    </Item>
+    <Item>
+        <TextId>1108</TextId>
+        <Text>Sine laterale</Text>
+    </Item>
+    <Item>
+        <TextId>1115</TextId>
+        <Text>Creare</Text>
+    </Item>
+    <Item>
+        <TextId>1117</TextId>
+        <Text>Sectiune</Text>
+    </Item>
+    <Item>
+        <TextId>1118</TextId>
+        <Text>Informatii generale</Text>
+    </Item>
+    <Item>
+        <TextId>1119</TextId>
+        <Text>Setari repartitie si geometrie</Text>
+    </Item>
+    <Item>
+        <TextId>1201</TextId>
+        <Text>Distanta 7 </Text>
+    </Item>
+    <Item>
+        <TextId>1205</TextId>
+        <Text>Elemente</Text>
+    </Item>
+    <Item>
+        <TextId>1206</TextId>
+        <Text>Selectare placa pt. preluare inaltime</Text>
+    </Item>
+
+    <Item>
+        <TextId>1210</TextId>
+        <Text>Pozitionare sectiuni</Text>
+    </Item>
+    <Item>
+        <TextId>1211</TextId>
+        <Text>Descriere 1</Text>
+    </Item>
+    <Item>
+        <TextId>1212</TextId>
+        <Text>Descriere 2</Text>
+    </Item>
+    <Item>
+        <TextId>1213</TextId>
+        <Text>Descriere sectiune</Text>
+    </Item>
+    <Item>
+        <TextId>1214</TextId>
+        <Text>Descriere</Text>
+    </Item>
+    <Item>
+        <TextId>1215</TextId>
+        <Text>Python Part</Text>
+    </Item>
+    <Item>
+        <TextId>1216</TextId>
+        <Text>Selectie tip</Text>
+    </Item>
+    <Item>
+        <TextId>1217</TextId>
+        <Text>Obiect 3D</Text>
+    </Item>
+    <Item>
+        <TextId>1218</TextId>
+        <Text>Selectie elemente</Text>
+    </Item>
+    <Item>
+        <TextId>1219</TextId>
+        <Text>Pozitionare sine</Text>
+    </Item>
+    <Item>
+        <TextId>1220</TextId>
+        <Text>Stalp</Text>
+    </Item>
+    <Item>
+        <TextId>1221</TextId>
+        <Text>Colt de perete</Text>
+    </Item>
+    <Item>
+        <TextId>1222</TextId>
+        <Text>Colt de perete</Text>
+    </Item>
+    <Item>
+        <TextId>1226</TextId>
+        <Text>Armare la strapungere</Text>
+    </Item>
+    <Item>
+        <TextId>1228</TextId>
+        <Text>Sectiune orizontala</Text>
+    </Item>
+    <Item>
+        <TextId>1229</TextId>
+        <Text>Sectiune verticala</Text>
+    </Item>
+    <Item>
+        <TextId>1233</TextId>
+        <Text>Sus</Text>
+    </Item>
+    <Item>
+        <TextId>1234</TextId>
+        <Text>Jos</Text>
+    </Item>
+    <Item>
+        <TextId>1235</TextId>
+        <Text>Format</Text>
+    </Item>
+    <Item>
+        <TextId>1236</TextId>
+        <Text>Armatura</Text>
+    </Item>
+    <Item>
+        <TextId>1237</TextId>
+        <Text>Sina si conectori</Text>
+    </Item>
+    
+    <Item>
+        <TextId>4999</TextId>
+        <Text>Acest PythonPart va permite sa generati automat sine pt. strapungere in cazul stalpilor circulari, dreptunghiulari, coluti de pereti si bulbi pereti.\n\nPentru a incepe, urmati pasii de mai jos. \n 1) Selectati tipul de armatura pe care doriti sa-l creati.\n 2) Selectati elementele corespunzatoare.\n 3) Selectati placa pt. detectarea automata a inaltimei elevatiei. (Optional) \n 4) Parcurgeti tab-urile "General", "Sine", "Plansa" pt. definirea parametrilor de armare.\n    Faceti click pe "Creare" pt. generarea si verificarea armaturii. \n 5) Din tab-ul "Sectiune" definiti parametrii de sectiune. Faceti click pe \n    "Creare" si pozitionati sectiunea in vederea plana.</Text>
+    </Item>
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Va rugam sa selectati elementele la</Text>
+    </Item>
+    <Item>
+        <TextId>5001</TextId>
+        <Text>acces la tab-ul "General".</Text>
+    </Item>
+    <Item>
+        <TextId>5003</TextId>
+        <Text>acces la tab-ul "Sine".</Text>
+    </Item>
+    <Item>
+        <TextId>5005</TextId>
+        <Text>acces la tab-ul "Plansa".</Text>
+    </Item>
+    <Item>
+        <TextId>5007</TextId>
+        <Text>acces la tab-ul "Sectiune".</Text>
+    </Item>
+    <Item>
+        <TextId>5008</TextId>
+        <Text>accesati tab-ul "Format".</Text>
+    </Item>
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Nu se poate crea punctul de strapungere din cauza urmatoarelor erori:</Text>
+    </Item>
+    <Item>
+        <TextId>10001</TextId>
+        <Text> - Inaltimea conectorilor este mai mare decat grosimea placii = {} mm\nDoriti sa corectati automat acesti parametri?</Text>
+    </Item>
+    <Item>
+        <TextId>10002</TextId>
+        <Text>Va rugam sa selectati o placa in vederea 3D.</Text>
+    </Item>
+    <Item>
+        <TextId>10003</TextId>
+        <Text>Va rugam sa selectati stalpul in vederea 3D.</Text>
+    </Item>
+    <Item>
+        <TextId>10005</TextId>
+        <Text>Va rugam sa selectati un perete in vederea 3D</Text>
+    </Item>
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Va rugam sa selectati punctele in sensul acelor de ceasornic in vederea plana</Text>
+    </Item>
+    <Item>
+        <TextId>10018</TextId>
+        <Text>Va rugam sa selectati din nou peretele</Text>
+    </Item>
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Selectati elementele</Text>
+    </Item>
+    <Item>
+        <TextId>10023</TextId>
+        <Text>Va rugam sa creati mai intai armarea la strapungere</Text>
+    </Item>
+    <Item>
+        <TextId>10024</TextId>
+        <Text>Ati introdus deja armarea la strapungere in aceasta pozitie</Text>
+    </Item>
+    <Item>
+        <TextId>10026</TextId>
+        <Text>Introduceti parametrii faceti click pe Creare pt. generarea armaturilor la strapungere</Text>
+    </Item>
+    <Item>
+        <TextId>10027</TextId>
+        <Text>Faceti click in vederea plana pt. introducerea sectiunilor</Text>
+    </Item>
+    <Item>
+        <TextId>10028</TextId>
+        <Text>Introduceti parametrii si faceti click pe Creare pt. generarea sectiunilor</Text>
+    </Item>
+    <Item>
+        <TextId>10029</TextId>
+        <Text>Procesul s-a finalizat. Faceti click pe butonul Inchidere sau apasati tasta ESC.</Text>
+    </Item>
+    <Item>
+        <TextId>10030</TextId>
+        <Text>Acest PythonPart este asociat cu elementul de arhitectura cu care a fost creat.\nRetineti ca nu puteti copia acest PythonPart intr-o alta locatie.</Text>
+    </Item>
+    <Item>
+        <TextId>10031</TextId>
+        <Text>Ati copiat Python Part asociat la un element de arhitectura.</Text>
+    </Item>
+    <Item>
+        <TextId>10032</TextId>
+        <Text>Doriti sa-l asociati de noul element de arhitectura?</Text>
+    </Item>
+</Element>

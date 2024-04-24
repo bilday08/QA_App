@@ -1,0 +1,9 @@
+TestCase Name,TestCase Description,TestCase Result,Note,Status
+Creation mode - X direction - Weld,Creation mode - X direction - Weld,As expected,Main feature,Pass
+Creation mode - X direction - Hole,Creation mode - X direction - Hole,As expected,Main feature,Pass
+Edit mode - Y direction  - End Condition,Edit mode - Y direction  - End Condition,As expected,Main feature,Pass
+Edit mode - Incline direction  - End Plate,Edit mode - Incline direction  - End Plate,As expected,Main feature,Pass
+Edit mode - Incline direction  - Stiffener,Edit mode - Incline direction  - Stiffener,As expected,Main feature,Pass
+Edit mode - Incline direction  - Bolt,Edit mode - Incline direction  - Bolt,As expected,Main feature,Pass
+Edit mode - Incline direction  - Cleat Profile,Edit mode - Incline direction  - Cleat Profile,As expected,Main feature,Pass
+Edit mode - Incline direction  - Bent Plate,Edit mode - Incline direction  - Bent Plate,As expected,Main feature,Pass

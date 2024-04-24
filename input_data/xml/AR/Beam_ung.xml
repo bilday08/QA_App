@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Workflow</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>További információk:</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Tutorial</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Típus kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>3D objektum</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Python Part</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Vasalás elhelyezése</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>Általános</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>Általános beállítások</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Betontakarás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text>Beton szilárdsági osztály</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>Keresztmetszetsor</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>Kengyel - hajlítási henger</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Vasalás beállítások</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text>Min. ø fő vasalás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Min. ø oldal vasalás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Min. ø kengyel vasalás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>Maximális kengyeltávolság</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Kengyel kampószög</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Maximális vashossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Fő vasalat - hajlítási henger</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Hosszvasalás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Fő vasalás felül</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Átmérő</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Darabszám</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Keresztmetszeti terület (As)</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Fő vasalás alul</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Fő vasalás kiegészítés</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Fő vasalás alul</Text>
+    </Item>
+
+    <Item>
+        <TextId>1048</TextId>
+        <Text>Vashossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Oldal vasalás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Elhelyezés</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Peremtávolság, kezdet</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Peremtávolság, vég</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Egyszerű elhelyezési tartomány</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Létrehozás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Távolság</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Kampóhossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Távolság a közepén</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Távolság a kezdetén</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>Távolság a végén</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>A födémvastagság meghatározása</Text>
+    </Item>
+
+    <Item>
+        <TextId>1068</TextId>
+        <Text>A vasalási mezők száma</Text>
+    </Item>
+
+    <Item>
+        <TextId>1081</TextId>
+        <Text>Metszetek</Text>
+    </Item>
+
+    <Item>
+        <TextId>1082</TextId>
+        <Text>Nézet</Text>
+    </Item>
+
+    <Item>
+        <TextId>1083</TextId>
+        <Text>Gerenda név</Text>
+    </Item>
+
+    <Item>
+        <TextId>1084</TextId>
+        <Text>Leírás 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1085</TextId>
+        <Text>Leírás 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1086</TextId>
+        <Text>Méretarány</Text>
+    </Item>
+
+    <Item>
+        <TextId>1087</TextId>
+        <Text>Vasalás feliratozás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1089</TextId>
+        <Text>Elemek</Text>
+    </Item>
+
+    <Item>
+        <TextId>1090</TextId>
+        <Text>Vasalás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1092</TextId>
+        <Text>Elemek kiválasztása</Text>
+    </Item>
+
+    <Item>
+        <TextId>1091</TextId>
+        <Text>Elhelyezési hossz középen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1093</TextId>
+        <Text>Elhelyezési hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>1094</TextId>
+        <Text>Metszetek elhelyezése</Text>
+    </Item>
+
+    <Item>
+        <TextId>1096</TextId>
+        <Text>Födémvastagság</Text>
+    </Item>
+
+    <Item>
+        <TextId>1097</TextId>
+        <Text>Vasalási mező beállítása</Text>
+    </Item>
+
+    <Item>
+        <TextId>1098</TextId>
+        <Text>Elhelyezési hossz az elején</Text>
+    </Item>
+
+    <Item>
+        <TextId>1099</TextId>
+        <Text>Kengyel</Text>
+    </Item>
+
+    <Item>
+        <TextId>1100</TextId>
+        <Text>Elhelyezési hossz a végén</Text>
+    </Item>
+
+    <Item>
+        <TextId>1101</TextId>
+        <Text>Keresztmetszetek</Text>
+    </Item>
+
+    <Item>
+        <TextId>1102</TextId>
+        <Text>Vasalási mező</Text>
+    </Item>
+
+    <Item>
+        <TextId>1103</TextId>
+        <Text>Metszet 1-1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1104</TextId>
+        <Text>Metszet 2-2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1105</TextId>
+        <Text>Metszet 3-3</Text>
+    </Item>
+
+    <Item>
+        <TextId>1106</TextId>
+        <Text>Beviteli táblázat megjelenítése</Text>
+    </Item>
+
+    <Item>
+        <TextId>1107</TextId>
+        <Text>Hosszvasalás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1108</TextId>
+        <Text>Gerenda</Text>
+    </Item>
+
+    <Item>
+        <TextId>1109</TextId>
+        <Text>Lapolás hossza</Text>
+    </Item>
+
+    <Item>
+        <TextId>1110</TextId>
+        <Text>Kampóhossz = D *</Text>
+    </Item>
+
+    <Item>
+        <TextId>1111</TextId>
+        <Text>Lehorgonyzási hossz a kezdetén</Text>
+    </Item>
+
+    <Item>
+        <TextId>1112</TextId>
+        <Text>Lehorgonyzási hossz a végén</Text>
+    </Item>
+
+    <Item>
+        <TextId>1113</TextId>
+        <Text>Távolság kezdet</Text>
+    </Item>
+
+    <Item>
+        <TextId>1114</TextId>
+        <Text>Távolság vég</Text>
+    </Item>
+
+    <Item>
+        <TextId>1117</TextId>
+        <Text>Min. tiszta távolság a vasak között</Text>
+    </Item>
+
+    <Item>
+        <TextId>1118</TextId>
+        <Text>Vasalási értékek</Text>
+    </Item>
+
+    <Item>
+        <TextId>1119</TextId>
+        <Text>Kézi</Text>
+    </Item>
+
+    <Item>
+        <TextId>1120</TextId>
+        <Text>Szabványalapú</Text>
+    </Item>
+
+    <Item>
+        <TextId>1121</TextId>
+        <Text>Kampó a végén</Text>
+    </Item>
+
+    <Item>
+        <TextId>1148</TextId>
+        <Text>Nézet mód</Text>
+    </Item>
+
+    <Item>
+        <TextId>1149</TextId>
+        <Text>Nézet a teljes gerendához</Text>
+    </Item>
+
+    <Item>
+        <TextId>1150</TextId>
+        <Text>Nézet minden mezőhöz</Text>
+    </Item>
+
+    <Item>
+        <TextId>1151</TextId>
+        <Text>Keresztmetszetek</Text>
+    </Item>
+
+    <Item>
+        <TextId>1153</TextId>
+        <Text>Kampó a kezdetén</Text>
+    </Item>
+
+    <Item>
+        <TextId>1157</TextId>
+        <Text>1:50</Text>
+    </Item>
+
+    <Item>
+        <TextId>1158</TextId>
+        <Text>1:25</Text>
+    </Item>
+
+    <Item>
+        <TextId>1159</TextId>
+        <Text>1:20</Text>
+    </Item>
+
+    <Item>
+        <TextId>1161</TextId>
+        <Text>Kérjük, itt adja meg a vasalási mező számát</Text>
+    </Item>
+
+    <Item>
+        <TextId>1162</TextId>
+        <Text>Formátum</Text>
+    </Item>
+
+    <Item>
+        <TextId>1163</TextId>
+        <Text>Fő vasalás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1164</TextId>
+        <Text>Felső vasalás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1166</TextId>
+        <Text>Alsó vasalás</Text>
+    </Item>
+
+    <Item>
+        <TextId>1167</TextId>
+        <Text>További padló</Text>
+    </Item>
+
+    <Item>
+        <TextId>1168</TextId>
+        <Text>Főkengyel</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Igen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>Nem</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Oldal vasalás</Text>
+    </Item>
+
+    <!-- For palette messages -->
+    <Item>
+        <TextId>4999</TextId>
+        <Text>Ez a PythonPart lehetővé teszi vasalások automatikus létrehozását gerendákban. \n\nKezdéshez kövesse a következő lépéseket:\n 1) Válassza ki a bevasalandó gerendát.\n 2) Menjen végig az "Általános", "Fő vasalás", "Kengyel" panellapokon a gerendavasalás létrehozásához. \n      Kattintson a "Létrehozás" gombra a vasalás ellenőrzéséhez és létrehozásához.\n 3) Menjen végig a "Metszetek" panellapon a metszetparamétereket meghatározásához. \n      Kattintson a "Létrehozás" gombra és helyezze el a metszeteket.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Kérem, válasszon ki elemeket</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>az "Általános" panellap megtekintéséhez.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>Nyissa meg a „Hosszirányú vasalás” lapot</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>a "Kengyel" panellap megtekintéséhez.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>a "Metszetek" panellap megtekintéséhez.</Text>
+    </Item>
+    <Item>
+        <TextId>5008</TextId>
+        <Text>a „Formátum” lap megtekintéséhez.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>Bal egérgombbal kattintva egyetlen gerenda kiválasztásához / Jobb egérgombbal kattintva több gerenda kiválasztásához</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Állítsa be a paramétereket és hozza létre a vasalást / ESC a pillér(ek) újbóli kiválasztásához</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Gerendák kijelölése bal egérgombbal vagy tartomány kijelölésével</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>A támasz(ok) kiválasztása bal egérgombbal vagy tartomány kiválasztásával</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Kérem, adja meg a paramétereket és válassza ki a Létrehozás gombot a metszetek létrehozásához</Text>
+    </Item>
+
+    <Item>
+        <TextId>10022</TextId>
+        <Text>Kérem, adja meg a koordinátákat a metszetek lerakásához a rajzterületen</Text>
+    </Item>
+
+    <Item>
+        <TextId>10038</TextId>
+        <Text>A paraméter módosult.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10039</TextId>
+        <Text>Szeretné frissíteni az acélbetét pozíciószámát?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10040</TextId>
+        <Text>Egy architektúraobjektumhoz kapcsolt Python Partot másolt.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10041</TextId>
+        <Text>Szeretné ezt összekapcsolni az új építészobjektummal?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10042</TextId>
+        <Text>A kiválasztott gerendák felső síkja eltérő.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10043</TextId>
+        <Text>Ez a verzió nem támogatja a különböző irányú gerendákat.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10044</TextId>
+        <Text>A gerendák szélessége változó.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10045</TextId>
+        <Text>A kijelölt gerendák ütköznek, vagy legalább egy gerenda duplikátum.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10046</TextId>
+        <Text>Ez a verzió nem támogatja a nem középen elhelyezkedő tengelyű gerendákat.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10047</TextId>
+        <Text>- Az alkalmazás csak a téglalap vagy kerek alakú pilléreket támogatja.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10048</TextId>
+        <Text>- Az alkalmazás nem támogatja a pilléreket egy közös térfogatban.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10049</TextId>
+        <Text>- Az alkalmazás csak a téglalap vagy kör keresztmetszetű pilléreket támogatja.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10050</TextId>
+        <Text>- A gerendák szélessége nagyobb, mint egy támaszé.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10051</TextId>
+        <Text>- A gerenda egyik csúcspontja a gerenda keresztmetszetének nézetén kívül van.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10052</TextId>
+        <Text>- A támaszok és a gerendák forgásszöge eltérő.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10053</TextId>
+        <Text>- A kiválasztott tartó és gerenda között rés van.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10054</TextId>
+        <Text>Kérjük, válassza ki újra a pilléreket.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10055</TextId>
+        <Text>Kérjük, válasszon ki új gerendákat.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10056</TextId>
+        <Text>Nem megengedett választás:</Text>
+    </Item>
+
+    <Item>
+        <TextId>10057</TextId>
+        <Text>Kattintson a jobb gombbal a pillér(ek) kiválasztásának megkezdéséhez, vagy nyomja meg az ESC billentyűt a gerendák újbóli kiválasztásához</Text>
+    </Item>
+
+    <Item>
+        <TextId>10058</TextId>
+        <Text>Kérjük, adja meg a vasalási paramétereket, vagy nyomja meg az ESC billentyűt a gerenda újbóli kiválasztásához.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10059</TextId>
+        <Text>- Az oldalsó vasak közötti szabad távolság nem felel meg az Általános lapon meghatározott követelményeknek.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10060</TextId>
+        <Text>- Az oldalsó vasak hossza legalább egy mezőben meghaladja az Általános lapon beállított maximális vashosszúságot.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10061</TextId>
+        <Text>- Az alsó vasak közötti szabad távolság nem felel meg az Általános lap követelményeinek.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10062</TextId>
+        <Text>- Az alsó fővas hossza legalább egy mezőben meghaladja az Általános lapon beállított maximális vashosszúságot.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10063</TextId>
+        <Text>- A felső fővas hossza legalább egy mezőben meghaladja az Általános lapon beállított maximális vashosszúságot.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10064</TextId>
+        <Text>Módosítsa a paramétereket úgy, hogy a vas teljes hossza kisebb legyen, mint a maximális vashossz.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10065</TextId>
+        <Text>Szeretné folytatni?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10066</TextId>
+        <Text>A felső vasak több mezőn keresztül vagy mezőnként felosztva is létrehozhatók. \nSzeretné több mezőn keresztül elhelyezni őket?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10067</TextId>
+        <Text>- A felső vasak közötti szabad távolság nem felel meg az Általános lap követelményeinek.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10068</TextId>
+        <Text>- A kiegészítő alsó vas hossza legalább egy mezőben nagyobb, mint az Általános lapon beállított maximális vashossz.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10069</TextId>
+        <Text>- Az alsó fővasak és a további vasak közötti szabad távolság nem felel meg az Általános lap követelményeinek.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10070</TextId>
+        <Text>- Az Ön által megadott kiegészítő vasak és alsó fővasak száma nem alkalmas a gerendamodellben való elhelyezésre.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10071</TextId>
+        <Text>Ez a PythonPart ahhoz az építészkomponenshez kapcsolódik, amellyel létrehozták. \nA PythonPart nem másolható más helyre.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10072</TextId>
+        <Text>Még nem helyezett el vasalást. Valóban megszakítja ezt a funkciót?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10090</TextId>
+        <Text>- Az oldalsó vasak közötti szabad távolság nagyobb, mint a vasak közötti legnagyobb távolság.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10091</TextId>
+        <Text>A vasalás frissítéséhez módosítsa a paramétereket a lapokon.</Text>
+    </Item>
+
+</Element>

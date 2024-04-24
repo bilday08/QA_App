@@ -1,0 +1,11 @@
+TestCase Name,TestCase Description,TestCase Result,Note,Status
+Checking the boundary condition for wall geometry validation: without inlcined surface,Checking the boundary condition for wall geometry validation: without inlcined surface,As expected,Main feature,Pass
+Checking the boundary condition for wall geometry validation: wall without constant thickness,Checking the boundary condition for wall geometry validation: wall without constant thickness,As expected,Main feature,Pass
+Checking the boundary condition for wall geometry validation: wall with short walls,Checking the boundary condition for wall geometry validation: wall with short walls,As expected,Main feature,Pass
+Checking the boundary condition for single and multi layer validation,Checking the boundary condition for single and multi layer validation,As expected,Main feature,Pass
+Checking the boundary condition for the height between 2 walls need to be the same,Checking the boundary condition for the height between 2 walls need to be the same,As expected,Main feature,Pass
+Checking the boundary condition for the bottom reference plane,Checking the boundary condition for the bottom reference plane,As expected,Main feature,Pass
+"Checking the boundary condition for 2 wall lapping to each other, case 1","Checking the boundary condition for 2 wall lapping to each other, case 1",As expected,Main feature,Pass
+"Checking the boundary condition for 2 wall lapping to each other, case 2","Checking the boundary condition for 2 wall lapping to each other, case 2",As expected,Main feature,Pass
+"Checking the boundary condition for 2 wall lapping to each other, case 3","Checking the boundary condition for 2 wall lapping to each other, case 3",As expected,Main feature,Pass
+"Checking the boundary condition for 2 wall lapping to each other, case 4","Checking the boundary condition for 2 wall lapping to each other, case 4",As expected,Main feature,Pass

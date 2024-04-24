@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+  <Item>
+    <TextId>1001</TextId>
+    <Text>Поток работ</Text>
+  </Item>
+  <Item>
+    <TextId>1002</TextId>
+    <Text>Доп. информация:</Text>
+  </Item>
+
+  <Item>
+    <TextId>1003</TextId>
+    <Text>Пособие</Text>
+  </Item>
+
+  <Item>
+    <TextId>1004</TextId>
+    <Text>Элементы</Text>
+  </Item>
+
+  <Item>
+    <TextId>1005</TextId>
+    <Text>Арматура</Text>
+  </Item>
+
+  <Item>
+    <TextId>1006</TextId>
+    <Text>Разрезы</Text>
+  </Item>
+
+  <Item>
+    <TextId>1007</TextId>
+    <Text>Создать</Text>
+  </Item>
+
+  <Item>
+    <TextId>1009</TextId>
+    <Text>Объект 3D</Text>
+  </Item>
+
+  <Item>
+    <TextId>1011</TextId>
+    <Text>Выбрать тип</Text>
+  </Item>
+
+  <Item>
+    <TextId>1012</TextId>
+    <Text>Общее</Text>
+  </Item>
+
+  <Item>
+    <TextId>1013</TextId>
+    <Text>Общие настройки</Text>
+  </Item>
+
+  <Item>
+    <TextId>1020</TextId>
+    <Text>Защ слой бетона</Text>
+  </Item>
+
+  <Item>
+    <TextId>1021</TextId>
+    <Text>Класс прочности бетона</Text>
+  </Item>
+
+  <Item>
+    <TextId>1024</TextId>
+    <Text>Настройки арматуры</Text>
+  </Item>
+
+  <Item>
+    <TextId>1025</TextId>
+    <Text>Мин. диам. гориз. стержней</Text>
+  </Item>
+
+  <Item>
+    <TextId>1026</TextId>
+    <Text>Мин. диам. верт. стержней</Text>
+  </Item>
+
+  <Item>
+    <TextId>1027</TextId>
+    <Text>Макс шаг. гориз. стержней.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1028</TextId>
+    <Text>Макс. шаг верт. стержней</Text>
+  </Item>
+
+  <Item>
+    <TextId>1029</TextId>
+    <Text>Угол крюка</Text>
+  </Item>
+
+  <Item>
+    <TextId>1030</TextId>
+    <Text>Макс длина. гориз. стержней.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1031</TextId>
+    <Text>Поперечный нахлест</Text>
+  </Item>
+
+  <Item>
+    <TextId>1032</TextId>
+    <Text>Угол размещения</Text>
+  </Item>
+
+  <Item>
+    <TextId>1033</TextId>
+    <Text>Тип сетки</Text>
+  </Item>
+
+  <Item>
+    <TextId>1034</TextId>
+    <Text>Основная арматура</Text>
+  </Item>
+
+  <Item>
+    <TextId>1035</TextId>
+    <Text>Армирование стержнями</Text>
+  </Item>
+
+  <Item>
+    <TextId>1036</TextId>
+    <Text>Армирование сетками</Text>
+  </Item>
+
+  <Item>
+    <TextId>1037</TextId>
+    <Text>Параметры сетки</Text>
+  </Item>
+
+  <Item>
+    <TextId>1038</TextId>
+    <Text>Вертик. арматура</Text>
+  </Item>
+
+  <Item>
+    <TextId>1039</TextId>
+    <Text>Диаметр</Text>
+  </Item>
+
+  <Item>
+    <TextId>1040</TextId>
+    <Text>Расст</Text>
+  </Item>
+
+  <Item>
+    <TextId>1041</TextId>
+    <Text>Длина начальн. стержней</Text>
+  </Item>
+
+  <Item>
+    <TextId>1042</TextId>
+    <Text>Горизонтальная арматура</Text>
+  </Item>
+
+  <Item>
+    <TextId>1043</TextId>
+    <Text>Тип арматуры</Text>
+  </Item>
+
+  <Item>
+    <TextId>1045</TextId>
+    <Text>Длина нахлеста</Text>
+  </Item>
+
+  <Item>
+    <TextId>1046</TextId>
+    <Text>Арм на конце стены</Text>
+  </Item>
+
+  <Item>
+    <TextId>1047</TextId>
+    <Text>К-во стержней</Text>
+  </Item>
+
+  <Item>
+    <TextId>1048</TextId>
+    <Text>Начальная длина</Text>
+  </Item>
+
+  <Item>
+    <TextId>1049</TextId>
+    <Text>Начальная ширина</Text>
+  </Item>
+
+  <Item>
+    <TextId>1050</TextId>
+    <Text>Продольный нахлест</Text>
+  </Item>
+
+  <Item>
+    <TextId>1051</TextId>
+    <Text>Направление размещения</Text>
+  </Item>
+
+  <Item>
+    <TextId>1052</TextId>
+    <Text>Вдоль</Text>
+  </Item>
+
+  <Item>
+    <TextId>1053</TextId>
+    <Text>Python Part</Text>
+  </Item>
+
+  <Item>
+    <TextId>1054</TextId>
+    <Text>Арм проема стены</Text>
+  </Item>
+
+  <Item>
+    <TextId>1055</TextId>
+    <Text>Добавить арматуру для проема</Text>
+  </Item>
+
+  <Item>
+    <TextId>1056</TextId>
+    <Text>Поперек</Text>
+  </Item>
+
+  <Item>
+    <TextId>1057</TextId>
+    <Text>Вырезать сетки</Text>
+  </Item>
+
+  <Item>
+    <TextId>1058</TextId>
+    <Text>Изменить направление размещения</Text>
+  </Item>
+
+  <Item>
+    <TextId>1059</TextId>
+    <Text>Переместить сетку</Text>
+  </Item>
+
+  <Item>
+    <TextId>1060</TextId>
+    <Text>Открытый хомут</Text>
+  </Item>
+
+  <Item>
+    <TextId>1061</TextId>
+    <Text>Горизонтальный открытый хомут</Text>
+  </Item>
+
+  <Item>
+    <TextId>1062</TextId>
+    <Text>Как осн арматура</Text>
+  </Item>
+
+  <Item>
+    <TextId>1063</TextId>
+    <Text>Группа сеток</Text>
+  </Item>
+
+  <Item>
+    <TextId>1065</TextId>
+    <Text>Длина откр хомута</Text>
+  </Item>
+
+  <Item>
+    <TextId>1067</TextId>
+    <Text>Вертикальный открытый хомут</Text>
+  </Item>
+
+  <Item>
+    <TextId>1072</TextId>
+    <Text>Откр хомут Длина нахлеста</Text>
+  </Item>
+
+  <Item>
+    <TextId>1073</TextId>
+    <Text>Горизонтальный хомут</Text>
+  </Item>
+
+  <Item>
+    <TextId>1077</TextId>
+    <Text>Вертик хомут</Text>
+  </Item>
+
+  <Item>
+    <TextId>1081</TextId>
+    <Text>Поместить разрезы</Text>
+  </Item>
+
+  <Item>
+    <TextId>1082</TextId>
+    <Text>Выбрать верх. стену</Text>
+  </Item>
+
+  <Item>
+    <TextId>1083</TextId>
+    <Text>Выбрать проемы</Text>
+  </Item>
+
+  <Item>
+    <TextId>1084</TextId>
+    <Text>Выбрать первую стену</Text>
+  </Item>
+
+  <Item>
+    <TextId>1085</TextId>
+    <Text>Провер и разместить</Text>
+  </Item>
+
+  <Item>
+    <TextId>1086</TextId>
+    <Text>Закр гориз хомут для h &lt;</Text>
+  </Item>
+
+  <Item>
+    <TextId>1087</TextId>
+    <Text>Закр верт хомут для h &lt;</Text>
+  </Item>
+
+  <Item>
+    <TextId>1088</TextId>
+    <Text>Удлинить горизонт.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1089</TextId>
+    <Text>Удлинить вертик.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1090</TextId>
+    <Text>Вид</Text>
+  </Item>
+
+  <Item>
+    <TextId>1091</TextId>
+    <Text>Гибочный ролик основной арматуры</Text>
+  </Item>
+
+  <Item>
+    <TextId>1092</TextId>
+    <Text>Гибочный ролик хомута</Text>
+  </Item>
+
+  <Item>
+    <TextId>1094</TextId>
+    <Text>Вертик. разрез</Text>
+  </Item>
+
+  <Item>
+    <TextId>1098</TextId>
+    <Text>Горизонт. разрез</Text>
+  </Item>
+
+  <Item>
+    <TextId>1099</TextId>
+    <Text>Расст. разреза слева</Text>
+  </Item>
+
+  <Item>
+    <TextId>1100</TextId>
+    <Text>Сортаменты арматуры</Text>
+  </Item>
+
+  <Item>
+    <TextId>1104</TextId>
+    <Text>Мин длина. гориз. армат.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1105</TextId>
+    <Text>Мин длина. верт. армат.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1113</TextId>
+    <Text>Отступ разреза снизу</Text>
+  </Item>
+
+  <Item>
+    <TextId>1114</TextId>
+    <Text>Стена</Text>
+  </Item>
+
+  <Item>
+    <TextId>1115</TextId>
+    <Text>Надпись арматуры</Text>
+  </Item>
+
+  <Item>
+    <TextId>1116</TextId>
+    <Text>Имя стены</Text>
+  </Item>
+
+  <Item>
+    <TextId>1117</TextId>
+    <Text>Обозначение 1</Text>
+  </Item>
+
+  <Item>
+    <TextId>1118</TextId>
+    <Text>Обозначение 2</Text>
+  </Item>
+
+  <Item>
+    <TextId>1119</TextId>
+    <Text>Разрез 1 1</Text>
+  </Item>
+
+  <Item>
+    <TextId>1120</TextId>
+    <Text>Обозначение</Text>
+  </Item>
+
+  <Item>
+    <TextId>1121</TextId>
+    <Text>Разрез A-A</Text>
+  </Item>
+
+  <Item>
+    <TextId>1123</TextId>
+    <Text>Длина крюка</Text>
+  </Item>
+
+  <Item>
+    <TextId>1124</TextId>
+    <Text>Значения арматуры</Text>
+  </Item>
+
+  <Item>
+    <TextId>1125</TextId>
+    <Text>Руководство</Text>
+  </Item>
+
+  <Item>
+    <TextId>1126</TextId>
+    <Text>Нормированный</Text>
+  </Item>
+
+  <Item>
+    <TextId>1127</TextId>
+    <Text>Все одинаково</Text>
+  </Item>
+
+  <Item>
+    <TextId>1134</TextId>
+    <Text>Вверху</Text>
+  </Item>
+
+  <Item>
+    <TextId>1135</TextId>
+    <Text>Внизу</Text>
+  </Item>
+
+  <Item>
+    <TextId>1136</TextId>
+    <Text>Внутри</Text>
+  </Item>
+
+  <Item>
+    <TextId>1137</TextId>
+    <Text>Слева</Text>
+  </Item>
+
+  <Item>
+    <TextId>1138</TextId>
+    <Text>Справа</Text>
+  </Item>
+
+  <Item>
+    <TextId>1139</TextId>
+    <Text>Снаружи</Text>
+  </Item>
+
+  <Item>
+    <TextId>1140</TextId>
+    <Text>Дополнительная арматура</Text>
+  </Item>
+
+  <Item>
+    <TextId>1141</TextId>
+    <Text>Фиксатор</Text>
+  </Item>
+
+  <Item>
+    <TextId>1142</TextId>
+    <Text>Выключить</Text>
+  </Item>
+
+  <Item>
+    <TextId>1143</TextId>
+    <Text>Клемма</Text>
+  </Item>
+
+  <Item>
+    <TextId>1144</TextId>
+    <Text>Тип</Text>
+  </Item>
+
+  <Item>
+    <TextId>1145</TextId>
+    <Text>Ориентация</Text>
+  </Item>
+
+  <Item>
+    <TextId>1146</TextId>
+    <Text>Вертикально</Text>
+  </Item>
+
+  <Item>
+    <TextId>1147</TextId>
+    <Text>Горизонтально</Text>
+  </Item>
+
+  <Item>
+    <TextId>1148</TextId>
+    <Text>Сверху</Text>
+  </Item>
+
+  <Item>
+    <TextId>1149</TextId>
+    <Text>Внизу</Text>
+  </Item>
+
+  <Item>
+    <TextId>1150</TextId>
+    <Text>Справа</Text>
+  </Item>
+
+  <Item>
+    <TextId>1151</TextId>
+    <Text>Направление</Text>
+  </Item>
+
+  <Item>
+    <TextId>1152</TextId>
+    <Text>Слева</Text>
+  </Item>
+
+  <Item>
+    <TextId>1153</TextId>
+    <Text> </Text>
+  </Item>
+
+  <Item>
+    <TextId>1154</TextId>
+    <Text> Фиксатор на квадратный метр</Text>
+  </Item>
+
+  <Item>
+    <TextId>1155</TextId>
+    <Text> Фиксатор на квадратный ярд</Text>
+  </Item>
+
+  <Item>
+    <TextId>1156</TextId>
+    <Text> Клеммы на квадратный метр</Text>
+  </Item>
+
+  <Item>
+    <TextId>1157</TextId>
+    <Text> Клеммы на квадратный ярд</Text>
+  </Item>
+
+  <Item>
+    <TextId>1158</TextId>
+    <Text>Количество на единицу поверхностей</Text>
+  </Item>
+
+  <Item>
+    <TextId>1159</TextId>
+    <Text>Значение невозможно отобразить при многократном создании</Text>
+  </Item>
+
+  <Item>
+    <TextId>1160</TextId>
+    <Text>Формат</Text>
+  </Item>
+
+  <Item>
+    <TextId>1161</TextId>
+    <Text>Арматура</Text>
+  </Item>
+
+  <Item>
+    <TextId>1162</TextId>
+    <Text>Горизонтально</Text>
+  </Item>
+
+  <Item>
+    <TextId>1163</TextId>
+    <Text>Вертикально</Text>
+  </Item>
+
+  <Item>
+    <TextId>1164</TextId>
+    <Text>Сетки</Text>
+  </Item>
+
+  <Item>
+    <TextId>1165</TextId>
+    <Text>Край стены</Text>
+  </Item>
+
+  <Item>
+    <TextId>1166</TextId>
+    <Text>Проем в стене</Text>
+  </Item>
+
+  <Item>
+    <TextId>1167</TextId>
+    <Text>Хомут</Text>
+  </Item>
+
+  <Item>
+    <TextId>1168</TextId>
+    <Text>Горизонтальный открытый хомут</Text>
+  </Item>
+
+  <Item>
+    <TextId>1169</TextId>
+    <Text>Вертикальный открытый хомут</Text>
+  </Item>
+
+  <Item>
+    <TextId>1170</TextId>
+    <Text>Горизонтальный хомут</Text>
+  </Item>
+
+  <Item>
+    <TextId>1171</TextId>
+    <Text>Вертикальный хомут</Text>
+  </Item>
+
+  <Item>
+    <TextId>1172</TextId>
+    <Text>Фиксатор, клемма</Text>
+  </Item>
+
+  <Item>
+    <TextId>4999</TextId>
+    <Text>Этот PythonPart позволяет Вам создавать автоматически арматуру в прямоугольной стене.\n\nЧтобы начать, следуйте таким шагам:\n 1) Выберите стену для армирования.\n 2)Выберите вторую стену над первой стеной(по-выбору)\n 3) Выберите проемы, (по-выбору) \n 3)Во вкладке "Общее", "Основная арматура" и "Открытый хомут" определите параметры для арматуры стены.\n Щелкните "Создать" чтобы проверить и создать арматуру стены.\n 4) Во вкладке "Разрезы" определите параметры разрезов.\n Щелкните "Создать" и поместите разрезы.</Text>
+  </Item>
+
+  <Item>
+    <TextId>5000</TextId>
+    <Text>Пожалуйста, выберите элементы,</Text>
+  </Item>
+
+  <Item>
+    <TextId>5001</TextId>
+    <Text>чтобы посмотреть вкладку "Общее".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5003</TextId>
+    <Text>чтобы посмотреть вкладку "Осн арматура".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5004</TextId>
+    <Text>Чтобы увидеть вкладку "Дополнительная арматура".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5005</TextId>
+    <Text>чтобы посмотреть вкладку "Открытый хомут".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5007</TextId>
+    <Text>Чтобы увидеть вкладку "Разрезы".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5008</TextId>
+    <Text>Чтобы увидеть вкладку "Формат".</Text>
+  </Item>
+
+  <Item>
+    <TextId>10010</TextId>
+    <Text>Нельзя  создать армат из-за след. ошибки: \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10016</TextId>
+    <Text>Арматура в выбранной стене уже создана</Text>
+  </Item>
+
+  <Item>
+    <TextId>10018</TextId>
+    <Text>Пож сначала создайте арматуру</Text>
+  </Item>
+
+  <Item>
+    <TextId>10019</TextId>
+    <Text>Щелкните в плане, чтобы поместить разрезы в области чертежа</Text>
+  </Item>
+
+  <Item>
+    <TextId>10020</TextId>
+    <Text>Диаметр горизонт. арматуры меньше Øмин = {} мм \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10021</TextId>
+    <Text>Диаметр вертик. арматуры меньше Øмин = {} мм \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10022</TextId>
+    <Text>Шаг горизонт арматуры больше чем Sмакс = {} мм \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10023</TextId>
+    <Text>Шаг вертик арматуры больше чем Sмакс = {} мм \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10024</TextId>
+    <Text>Шаг горизонт хомутов больше чем Sмакс = {} мм \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10025</TextId>
+    <Text>Шаг вертик хомутов больше чем Sмакс = {} мм \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10026</TextId>
+    <Text>Скорректировать эти параметры автоматически?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10027</TextId>
+    <Text>Пож введите параметры и щелкните Создать чтобы создать арматуру</Text>
+  </Item>
+
+  <Item>
+    <TextId>10028</TextId>
+    <Text>Пожалуйста, выберите стену в 3D виде</Text>
+  </Item>
+
+  <Item>
+    <TextId>10029</TextId>
+    <Text>Процесс завершен. Пожалуйста, щелкните закрыть или нажмите клавишу ESC</Text>
+  </Item>
+
+  <Item>
+    <TextId>10030</TextId>
+    <Text>Пож введите параметры и щелкните Создать чтобы создать разрезы</Text>
+  </Item>
+
+  <Item>
+    <TextId>10031</TextId>
+    <Text>Пожалуйста, проверьте предварительный просмотр арматуры для проемов \n Возможно арматура находится вне геометрии стены.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10032</TextId>
+    <Text>Пож. выберите объект в 3D виде.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10035</TextId>
+    <Text>Толщина двух выбранных стен не согласуется. Это может привести к тому, что часть арматуры будет размещена неправильно. Все равно продолжить?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10036</TextId>
+    <Text>+ Основной стержень арматуры не может быть создан из-за следующих параметров:</Text>
+  </Item>
+
+  <Item>
+    <TextId>10037</TextId>
+    <Text> - Недостаточная длина ролика</Text>
+  </Item>
+
+  <Item>
+    <TextId>10038</TextId>
+    <Text> - Недостаточная минимальная длина стержня</Text>
+  </Item>
+
+  <Item>
+    <TextId>10039</TextId>
+    <Text>Хотите продолжить создание арматуры, несмотря на это предупреждение?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10040</TextId>
+    <Text>Этот PythonPart связан с архитектурным компонентом, с которыми он был создан. \nОбратите внимание,что Вы не можете скопировать этот PythonPart в другое место.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10041</TextId>
+    <Text>Параметр изменен.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10042</TextId>
+    <Text>Хотите обновить номер позиции стержня арматуры?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10043</TextId>
+    <Text>Вы скопировали Python Part, который связан с архитектурным объектом.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10044</TextId>
+    <Text>Хотите подключить его с новым архитектурным объектом?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10045</TextId>
+    <Text>+ Созданное армирование краев будет обрезано, поскольку объект Проем закрыт до края стены.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10046</TextId>
+    <Text>Хотите разделить армирование краев в области проема?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10047</TextId>
+    <Text>Выберите стену/стены с помощью левой кнопки мыши или выделите область</Text>
+  </Item>
+
+  <Item>
+    <TextId>10048</TextId>
+    <Text>Найдена неправильная вышележащая стена.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10049</TextId>
+    <Text>Приложение поддерживает только стены и расположенную над ними стену с одинаковой толщиной.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10050</TextId>
+    <Text>Приложение поддерживает только стены и расположенную над ними стену с одинаковым выступом при виде в плане.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10051</TextId>
+    <Text>Приложение поддерживает только стены и расположенную над ними стену с одинаковым углом поворота при виде в плане.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10052</TextId>
+    <Text>Пожалуйста, выберите заново стену/стены или снимите флажок вверху второй стены.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10053</TextId>
+    <Text>Недопустимый выбор:</Text>
+  </Item>
+
+  <Item>
+    <TextId>10054</TextId>
+    <Text>Приложение поддерживает только стены с горизонтальным, прямоугольным сечением.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10055</TextId>
+    <Text>Приложение поддерживает только стены без наклонных поверхностей на верхней или нижней стороне.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10056</TextId>
+    <Text>Приложение поддерживает только стены без наклона.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10057</TextId>
+    <Text>Приложение поддерживает только стены без пазов или консолей.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10058</TextId>
+    <Text>Приложение поддерживает только стены, длина которых в 4 раза больше толщины.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10059</TextId>
+    <Text>Пожалуйста, вновь выберите стену/стены</Text>
+  </Item>
+
+  <Item>
+    <TextId>10060</TextId>
+    <Text>Инструмент не может распознать слой для некоторых стен, на которые можно наложить арматуру по видам робот или толщине. \nЧтобы улучшить выбор,нужно назначить соответствующему слою стены вид работы "Бетонные работы" или отдельно армированные слои стены \nвыбрав сумму и одиночные щелчки вместо выбора поверхности.\nПожалуйста, повторите выбор.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10061</TextId>
+    <Text>Проем находится снаружи стены.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10062</TextId>
+    <Text>или изменить проем</Text>
+  </Item>
+
+  <Item>
+    <TextId>10063</TextId>
+    <Text>При текущем выборе минимум над одной стеной нет стены. В этом случае соединительный стержень не используется.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10064</TextId>
+    <Text>Проем находится в выбранной Вами стене не полностью.</Text>
+  </Item>
+
+</Element>

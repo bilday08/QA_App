@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Element>
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Workflow</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>További információk:</Text>
+    </Item>
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Tutorial</Text>
+    </Item>
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Általános</Text>
+    </Item>
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Szintmagasság</Text>
+    </Item>
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Betontakarás</Text>
+    </Item>
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Sín</Text>
+    </Item>
+    <Item>
+        <TextId>1040</TextId>
+        <Text>Gyártó</Text>
+    </Item>
+    <Item>
+        <TextId>1041</TextId>
+        <Text>Terméknév</Text>
+    </Item>
+    <Item>
+        <TextId>1042</TextId>
+        <Text>Átmérő</Text>
+    </Item>
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Magasság</Text>
+    </Item>
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Beépítés</Text>
+    </Item>
+    <Item>
+        <TextId>1045</TextId>
+        <Text>Tartományok sínenként</Text>
+    </Item>
+    <Item>
+        <TextId>1046</TextId>
+        <Text>Tartomány 1</Text>
+    </Item>
+    <Item>
+        <TextId>1047</TextId>
+        <Text>Pozíciójelölés</Text>
+    </Item>
+    <Item>
+        <TextId>1048</TextId>
+        <Text>Csapok száma</Text>
+    </Item>
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Távolság kezdet</Text>
+    </Item>
+    <Item>
+        <TextId>1050</TextId>
+        <Text>Távolság 1</Text>
+    </Item>
+    <Item>
+        <TextId>1051</TextId>
+        <Text>Távolság 2</Text>
+    </Item>
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Távolság 3</Text>
+    </Item>
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Távolság 4</Text>
+    </Item>
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Távolság 5</Text>
+    </Item>
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Távolság 6</Text>
+    </Item>
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Távolság vég</Text>
+    </Item>
+    <Item>
+        <TextId>1057</TextId>
+        <Text>Tartomány 2</Text>
+    </Item>
+    <Item>
+        <TextId>1068</TextId>
+        <Text>Tartomány 3</Text>
+    </Item>
+    <Item>
+        <TextId>1079</TextId>
+        <Text>Tartomány 4</Text>
+    </Item>
+    <Item>
+        <TextId>1090</TextId>
+        <Text>Elrendezés</Text>
+    </Item>
+    <Item>
+        <TextId>1095</TextId>
+        <Text>Távolság</Text>
+    </Item>
+    <Item>
+        <TextId>1099</TextId>
+        <Text>Elforgatott sínek</Text>
+    </Item>
+    <Item>
+        <TextId>1100</TextId>
+        <Text>Szög elhelyezés</Text>
+    </Item>
+    <Item>
+        <TextId>1101</TextId>
+        <Text>Kezdőszög</Text>
+    </Item>
+    <Item>
+        <TextId>1102</TextId>
+        <Text>Sínek száma</Text>
+    </Item>
+    <Item>
+        <TextId>1103</TextId>
+        <Text>Saroksínek</Text>
+    </Item>
+    <Item>
+        <TextId>1108</TextId>
+        <Text>Oldalsó sínek</Text>
+    </Item>
+    <Item>
+        <TextId>1115</TextId>
+        <Text>Létrehozás</Text>
+    </Item>
+    <Item>
+        <TextId>1117</TextId>
+        <Text>Metszetek</Text>
+    </Item>
+    <Item>
+        <TextId>1118</TextId>
+        <Text>Általános információk</Text>
+    </Item>
+    <Item>
+        <TextId>1119</TextId>
+        <Text>Elhelyezés és geometria beállítások</Text>
+    </Item>
+    <Item>
+        <TextId>1201</TextId>
+        <Text>Távolság 7</Text>
+    </Item>
+    <Item>
+        <TextId>1205</TextId>
+        <Text>Elemek</Text>
+    </Item>
+    <Item>
+        <TextId>1206</TextId>
+        <Text>Födém kiválasztása magasság átvételhez</Text>
+    </Item>
+
+    <Item>
+        <TextId>1210</TextId>
+        <Text>Metszetek elhelyezése</Text>
+    </Item>
+    <Item>
+        <TextId>1211</TextId>
+        <Text>Leírás 1</Text>
+    </Item>
+    <Item>
+        <TextId>1212</TextId>
+        <Text>Leírás 2</Text>
+    </Item>
+    <Item>
+        <TextId>1213</TextId>
+        <Text>Metszetjelölés</Text>
+    </Item>
+    <Item>
+        <TextId>1214</TextId>
+        <Text>Felirat</Text>
+    </Item>
+    <Item>
+        <TextId>1215</TextId>
+        <Text>Python Part</Text>
+    </Item>
+    <Item>
+        <TextId>1216</TextId>
+        <Text>Típus kiválasztása</Text>
+    </Item>
+    <Item>
+        <TextId>1217</TextId>
+        <Text>3D objektum</Text>
+    </Item>
+    <Item>
+        <TextId>1218</TextId>
+        <Text>Elemek kiválasztása</Text>
+    </Item>
+    <Item>
+        <TextId>1219</TextId>
+        <Text>Sínek elhelyezése</Text>
+    </Item>
+    <Item>
+        <TextId>1220</TextId>
+        <Text>Pillér</Text>
+    </Item>
+    <Item>
+        <TextId>1221</TextId>
+        <Text>Falsarok</Text>
+    </Item>
+    <Item>
+        <TextId>1222</TextId>
+        <Text>Falvég</Text>
+    </Item>
+    <Item>
+        <TextId>1226</TextId>
+        <Text>Átszúródás-vasalás</Text>
+    </Item>
+    <Item>
+        <TextId>1228</TextId>
+        <Text>Horizontális metszet</Text>
+    </Item>
+    <Item>
+        <TextId>1229</TextId>
+        <Text>Vertikális metszet</Text>
+    </Item>
+    <Item>
+        <TextId>1233</TextId>
+        <Text>Felül</Text>
+    </Item>
+    <Item>
+        <TextId>1234</TextId>
+        <Text>Alul</Text>
+    </Item>
+    <Item>
+        <TextId>1235</TextId>
+        <Text>Formátum</Text>
+    </Item>
+    <Item>
+        <TextId>1236</TextId>
+        <Text>Vasalás</Text>
+    </Item>
+    <Item>
+        <TextId>1237</TextId>
+        <Text>Sín és csap</Text>
+    </Item>
+    
+    <Item>
+        <TextId>4999</TextId>
+        <Text>Ez a PythonPart lehetővé teszi átszúródási lécek automatikus létrehozását kerek és derékszögű pillérekhez valamint falsarkokhoz és falvégekhez.\n\nKezdéshez kérem, kövesse az alább ismertetett lépéseket:\n 1) Válassza annak az átszúródás-vasalásnak a fajtáját, amelyet létre szeretne hozni.\n 2) Válassza ki a megfelelő elemeket.\n 3) A szintmagasság automatikus átvételéhez válassza ki a födémet. (opcionális)\n 4) Menjen végig az "Általános", "Sínek", "Elrendezés" panellapokon az átszúródási vasalás meghatározásához. Kattintson a "Létrehozás" gombra a vasalás ellenőrzéséhez és létrehozásához.\n 5) Menjen végig a "Metszetek" panellapon a metszetparamétereket meghatározásához. Kattintson a "Létrehozás" gombra és helyezze el a metszeteket.</Text>
+    </Item>
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Kérem, válasszon ki elemeket</Text>
+    </Item>
+    <Item>
+        <TextId>5001</TextId>
+        <Text>az "Általános" panellap megtekintéséhez.</Text>
+    </Item>
+    <Item>
+        <TextId>5003</TextId>
+        <Text>a "Sínek" panellap megtekintéséhez.</Text>
+    </Item>
+    <Item>
+        <TextId>5005</TextId>
+        <Text>az "Elrendezés" panellap megtekintéséhez.</Text>
+    </Item>
+    <Item>
+        <TextId>5007</TextId>
+        <Text>a "Metszetek" panellap megtekintéséhez.</Text>
+    </Item>
+    <Item>
+        <TextId>5008</TextId>
+        <Text>a „Formátum” lappal.</Text>
+    </Item>
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Az átszúródási pont nem hozható létre a következő hibák miatt:</Text>
+    </Item>
+    <Item>
+        <TextId>10001</TextId>
+        <Text>- A csapok magassága nagyobb, mint = {} mm\nSzeretné ezt a paramétert automatikusan korrigálni?</Text>
+    </Item>
+    <Item>
+        <TextId>10002</TextId>
+        <Text>Kérem, a födémet a 3D nézetben válassza ki.</Text>
+    </Item>
+    <Item>
+        <TextId>10003</TextId>
+        <Text>Kérem, a pillért a 3D nézetben válassza ki.</Text>
+    </Item>
+    <Item>
+        <TextId>10005</TextId>
+        <Text>Kérem, falat a 3D nézetben válasszon ki.</Text>
+    </Item>
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Válasszon ki pontokat óramutató szerint az alaprajzon.</Text>
+    </Item>
+    <Item>
+        <TextId>10018</TextId>
+        <Text>Kérem, válasszon újra falat</Text>
+    </Item>
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Kérem, válasszon elemeket</Text>
+    </Item>
+    <Item>
+        <TextId>10023</TextId>
+        <Text>Kérjük, először készítse el az átszúródó léceket</Text>
+    </Item>
+    <Item>
+        <TextId>10024</TextId>
+        <Text>Ön már elhelyezte az átszúródó léceket ezen a helyen</Text>
+    </Item>
+    <Item>
+        <TextId>10026</TextId>
+        <Text>Kérjük, adja meg a paramétereket, és válassza a Létrehozás lehetőséget az átszúródó lécek létrehozásához</Text>
+    </Item>
+    <Item>
+        <TextId>10027</TextId>
+        <Text>Válasszon ki egy beszúrási pontot a metszet elhelyezéséhez.</Text>
+    </Item>
+    <Item>
+        <TextId>10028</TextId>
+        <Text>Kérem, adja meg a paramétereket és válassza ki a Létrehozás gombot a metszetek létrehozásához</Text>
+    </Item>
+    <Item>
+        <TextId>10029</TextId>
+        <Text>A folyamat befejeződött. Kérem, lépjen ki a PythonPartból az ESC billentyű megnyomásával vagy a Bezárás gomb kiválasztásával</Text>
+    </Item>
+    <Item>
+        <TextId>10030</TextId>
+        <Text>Ez a PythonPart ahhoz az architektúrakomponenshez kapcsolódik, amellyel létrehozták.\nFigyeljen arra, hogy ezt a PythonPartot nem másolhatja más helyre.</Text>
+    </Item>
+    <Item>
+        <TextId>10031</TextId>
+        <Text>Egy architektúraobjektumhoz kapcsolt Python Partot másolt.</Text>
+    </Item>
+    <Item>
+        <TextId>10032</TextId>
+        <Text>Szeretné ezt összekapcsolni az új építészobjektummal?</Text>
+    </Item>
+</Element>

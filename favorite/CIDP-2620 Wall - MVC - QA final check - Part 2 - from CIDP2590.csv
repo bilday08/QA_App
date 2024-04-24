@@ -1,0 +1,15 @@
+TestCase Name,TestCase Description,TestCase Result,Note,Status
+Wall without top wall - Error popup and loss label when creating sections for wall that uses mesh reinforcement,Wall without top wall - Error popup and loss label when creating sections for wall that uses mesh reinforcement,As expected,Main feature,Pass
+"Wall without top wall - Cannot create edge rebar in cases number of rebar in (4, 6)","Wall without top wall - Cannot create edge rebar in cases number of rebar in (4, 6)",As expected,Main feature,Pass
+Wall without top wall - Cannot turn off the opening rebars,Wall without top wall - Cannot turn off the opening rebars,As expected,Main feature,Pass
+Wall without top wall - Wrong diameter of stirrup from the palette to model,Wall without top wall - Wrong diameter of stirrup from the palette to model,As expected,Main feature,Pass
+Wall without top wall - Wrong concrete cover of Mesh at opening location,Wall without top wall - Wrong concrete cover of Mesh at opening location,As expected,Main feature,Pass
+"Wall without top wall - For horizontal spacer/clamp, when users increase (1), the spacer start offset is not changed","Wall without top wall - For horizontal spacer/clamp, when users increase (1), the spacer start offset is not changed",As expected,Main feature,Pass
+wall with top wall - Error popup and loss label when creating sections for wall that uses mesh reinforcement,wall with top wall - Error popup and loss label when creating sections for wall that uses mesh reinforcement,As expected,Main feature,Pass
+wall with top wall - Cannot detect the top wall to cut the vertical rebar and edge rebar,wall with top wall - Cannot detect the top wall to cut the vertical rebar and edge rebar,As expected,Main feature,Pass
+wall with top wall - Vertical rebar should not place above the opening in the top wall,wall with top wall - Vertical rebar should not place above the opening in the top wall,As expected,Main feature,Pass
+"wall with top wall - Cannot create edge rebar in cases number of rebar in (4, 6)","wall with top wall - Cannot create edge rebar in cases number of rebar in (4, 6)",As expected,Main feature,Pass
+wall with top wall - Cannot turn off the opening rebars,wall with top wall - Cannot turn off the opening rebars,As expected,Main feature,Pass
+wall with top wall - Wrong diameter of stirrup from the palette to model,wall with top wall - Wrong diameter of stirrup from the palette to model,As expected,Main feature,Pass
+wall with top wall - Wrong concrete cover of Mesh at opening location,wall with top wall - Wrong concrete cover of Mesh at opening location,As expected,Main feature,Pass
+"wall with top wall - For horizontal spacer/clamp, when users increase (1), the spacer start offset is not changed","wall with top wall - For horizontal spacer/clamp, when users increase (1), the spacer start offset is not changed",As expected,Main feature,Pass

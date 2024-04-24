@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+  <Item>
+    <TextId>1001</TextId>
+    <Text>Workflow</Text>
+  </Item>
+  <Item>
+    <TextId>1002</TextId>
+    <Text>Další informace:</Text>
+  </Item>
+
+  <Item>
+    <TextId>1003</TextId>
+    <Text>Tutorial</Text>
+  </Item>
+
+  <Item>
+    <TextId>1004</TextId>
+    <Text>Prvky</Text>
+  </Item>
+
+  <Item>
+    <TextId>1005</TextId>
+    <Text>Výztuž</Text>
+  </Item>
+
+  <Item>
+    <TextId>1006</TextId>
+    <Text>Řezy</Text>
+  </Item>
+
+  <Item>
+    <TextId>1007</TextId>
+    <Text>Vytvořit</Text>
+  </Item>
+
+  <Item>
+    <TextId>1009</TextId>
+    <Text>3D Objekt</Text>
+  </Item>
+
+  <Item>
+    <TextId>1011</TextId>
+    <Text>Vyberte typ</Text>
+  </Item>
+
+  <Item>
+    <TextId>1012</TextId>
+    <Text>Obecné</Text>
+  </Item>
+
+  <Item>
+    <TextId>1013</TextId>
+    <Text>Obecná nastavení</Text>
+  </Item>
+
+  <Item>
+    <TextId>1020</TextId>
+    <Text>Krytí výztuže</Text>
+  </Item>
+
+  <Item>
+    <TextId>1021</TextId>
+    <Text>Třída pevnosti betonu</Text>
+  </Item>
+
+  <Item>
+    <TextId>1024</TextId>
+    <Text>Nastavení výztuže</Text>
+  </Item>
+
+  <Item>
+    <TextId>1025</TextId>
+    <Text>Min. ø horizontální výtz.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1026</TextId>
+    <Text>Min. ø vertikální výzt.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1027</TextId>
+    <Text>Max rozteč horizontální výzt.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1028</TextId>
+    <Text>Max rozteč vertikální výzt.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1029</TextId>
+    <Text>Úhel háků</Text>
+  </Item>
+
+  <Item>
+    <TextId>1030</TextId>
+    <Text>Max délka horizontální výzt.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1031</TextId>
+    <Text>Přesah po šířce</Text>
+  </Item>
+
+  <Item>
+    <TextId>1032</TextId>
+    <Text>Úhel uložení</Text>
+  </Item>
+
+  <Item>
+    <TextId>1033</TextId>
+    <Text>Typ sítě</Text>
+  </Item>
+
+  <Item>
+    <TextId>1034</TextId>
+    <Text>Hlavní výztuž</Text>
+  </Item>
+
+  <Item>
+    <TextId>1035</TextId>
+    <Text>Prutová výztuž</Text>
+  </Item>
+
+  <Item>
+    <TextId>1036</TextId>
+    <Text>Sítě</Text>
+  </Item>
+
+  <Item>
+    <TextId>1037</TextId>
+    <Text>Parametry sítě</Text>
+  </Item>
+
+  <Item>
+    <TextId>1038</TextId>
+    <Text>Vertikální výztuž</Text>
+  </Item>
+
+  <Item>
+    <TextId>1039</TextId>
+    <Text>Průměr</Text>
+  </Item>
+
+  <Item>
+    <TextId>1040</TextId>
+    <Text>Odstup</Text>
+  </Item>
+
+  <Item>
+    <TextId>1041</TextId>
+    <Text>Délka počátečních prutů</Text>
+  </Item>
+
+  <Item>
+    <TextId>1042</TextId>
+    <Text>Horizontální výztuž</Text>
+  </Item>
+
+  <Item>
+    <TextId>1043</TextId>
+    <Text>Typ výztuže</Text>
+  </Item>
+
+  <Item>
+    <TextId>1045</TextId>
+    <Text>Délka přesahu</Text>
+  </Item>
+
+  <Item>
+    <TextId>1046</TextId>
+    <Text>Výztuž konce stěny</Text>
+  </Item>
+
+  <Item>
+    <TextId>1047</TextId>
+    <Text>Počet prutů</Text>
+  </Item>
+
+  <Item>
+    <TextId>1048</TextId>
+    <Text>Počáteční délka</Text>
+  </Item>
+
+  <Item>
+    <TextId>1049</TextId>
+    <Text>Počáteční šířka</Text>
+  </Item>
+
+  <Item>
+    <TextId>1050</TextId>
+    <Text>Přesah po délce</Text>
+  </Item>
+
+  <Item>
+    <TextId>1051</TextId>
+    <Text>Směr uložení</Text>
+  </Item>
+
+  <Item>
+    <TextId>1052</TextId>
+    <Text>Podélně</Text>
+  </Item>
+
+  <Item>
+    <TextId>1053</TextId>
+    <Text>PythonPart</Text>
+  </Item>
+
+  <Item>
+    <TextId>1054</TextId>
+    <Text>Výztuž otvoru ve stěně</Text>
+  </Item>
+
+  <Item>
+    <TextId>1055</TextId>
+    <Text>Přidat výztuž kolem otvoru</Text>
+  </Item>
+
+  <Item>
+    <TextId>1056</TextId>
+    <Text>Příčně</Text>
+  </Item>
+
+  <Item>
+    <TextId>1057</TextId>
+    <Text>Ořezat sítě</Text>
+  </Item>
+
+  <Item>
+    <TextId>1058</TextId>
+    <Text>Změnit směr uložení</Text>
+  </Item>
+
+  <Item>
+    <TextId>1059</TextId>
+    <Text>Posunout síť</Text>
+  </Item>
+
+  <Item>
+    <TextId>1060</TextId>
+    <Text>Zásuvné třmínky</Text>
+  </Item>
+
+  <Item>
+    <TextId>1061</TextId>
+    <Text>Horizontální zásuvný třmínek</Text>
+  </Item>
+
+  <Item>
+    <TextId>1062</TextId>
+    <Text>Jako hlavní výztuž</Text>
+  </Item>
+
+  <Item>
+    <TextId>1063</TextId>
+    <Text>Skupina sítí</Text>
+  </Item>
+
+  <Item>
+    <TextId>1065</TextId>
+    <Text>Délka zásuvného třmínku</Text>
+  </Item>
+
+  <Item>
+    <TextId>1067</TextId>
+    <Text>Vertikální zásuvný třmínek</Text>
+  </Item>
+
+  <Item>
+    <TextId>1072</TextId>
+    <Text>Délka přesahu zásuvného třmínku</Text>
+  </Item>
+
+  <Item>
+    <TextId>1073</TextId>
+    <Text>Horizontální třmínek</Text>
+  </Item>
+
+  <Item>
+    <TextId>1077</TextId>
+    <Text>Vertikální třmínek</Text>
+  </Item>
+
+  <Item>
+    <TextId>1081</TextId>
+    <Text>Umístit řezy</Text>
+  </Item>
+
+  <Item>
+    <TextId>1082</TextId>
+    <Text>Vybrat stěnu nad</Text>
+  </Item>
+
+  <Item>
+    <TextId>1083</TextId>
+    <Text>Vybrat otvory</Text>
+  </Item>
+
+  <Item>
+    <TextId>1084</TextId>
+    <Text>Vybrat první stěnu</Text>
+  </Item>
+
+  <Item>
+    <TextId>1085</TextId>
+    <Text>Zkontrolovat a uložit</Text>
+  </Item>
+
+  <Item>
+    <TextId>1086</TextId>
+    <Text>Uzavřený horiz. třmínek pro h &lt;</Text>
+  </Item>
+
+  <Item>
+    <TextId>1087</TextId>
+    <Text>Uzavřený vert. třmínek pro h &lt;</Text>
+  </Item>
+
+  <Item>
+    <TextId>1088</TextId>
+    <Text>Prodloužit horizontálně</Text>
+  </Item>
+
+  <Item>
+    <TextId>1089</TextId>
+    <Text>Prodloužit vertikálně</Text>
+  </Item>
+
+  <Item>
+    <TextId>1090</TextId>
+    <Text>Pohled</Text>
+  </Item>
+
+  <Item>
+    <TextId>1091</TextId>
+    <Text>Hlavní výztuž - poloměr ohybu</Text>
+  </Item>
+
+  <Item>
+    <TextId>1092</TextId>
+    <Text>Třmínek - poloměr ohybu</Text>
+  </Item>
+
+  <Item>
+    <TextId>1094</TextId>
+    <Text>Vertikální řez</Text>
+  </Item>
+
+  <Item>
+    <TextId>1098</TextId>
+    <Text>Horizontální řez</Text>
+  </Item>
+
+  <Item>
+    <TextId>1099</TextId>
+    <Text>Vzdálenost řezu zleva</Text>
+  </Item>
+
+  <Item>
+    <TextId>1100</TextId>
+    <Text>Katalog průřezůi</Text>
+  </Item>
+
+  <Item>
+    <TextId>1104</TextId>
+    <Text>Min.délka horizontálních prutů</Text>
+  </Item>
+
+  <Item>
+    <TextId>1105</TextId>
+    <Text>Min. délka vertikálních prutů</Text>
+  </Item>
+
+  <Item>
+    <TextId>1113</TextId>
+    <Text>Vzdálenost řezu zdola</Text>
+  </Item>
+
+  <Item>
+    <TextId>1114</TextId>
+    <Text>Stěna</Text>
+  </Item>
+
+  <Item>
+    <TextId>1115</TextId>
+    <Text>Popis výztuže</Text>
+  </Item>
+
+  <Item>
+    <TextId>1116</TextId>
+    <Text>Název stěny</Text>
+  </Item>
+
+  <Item>
+    <TextId>1117</TextId>
+    <Text>Označení 1</Text>
+  </Item>
+
+  <Item>
+    <TextId>1118</TextId>
+    <Text>Označení 2</Text>
+  </Item>
+
+  <Item>
+    <TextId>1119</TextId>
+    <Text>Řez 1-1</Text>
+  </Item>
+
+  <Item>
+    <TextId>1120</TextId>
+    <Text>Označení</Text>
+  </Item>
+
+  <Item>
+    <TextId>1121</TextId>
+    <Text>Řez A-A</Text>
+  </Item>
+
+  <Item>
+    <TextId>1123</TextId>
+    <Text>Délka háků</Text>
+  </Item>
+
+  <Item>
+    <TextId>1124</TextId>
+    <Text>Hodnoty výztuže</Text>
+  </Item>
+
+  <Item>
+    <TextId>1125</TextId>
+    <Text>Manuální</Text>
+  </Item>
+
+  <Item>
+    <TextId>1126</TextId>
+    <Text>Na základě normy</Text>
+  </Item>
+
+  <Item>
+    <TextId>1127</TextId>
+    <Text>Vše stejné</Text>
+  </Item>
+
+  <Item>
+    <TextId>1134</TextId>
+    <Text>Nahoře</Text>
+  </Item>
+
+  <Item>
+    <TextId>1135</TextId>
+    <Text>Dole</Text>
+  </Item>
+
+  <Item>
+    <TextId>1136</TextId>
+    <Text>Uvnitř</Text>
+  </Item>
+
+  <Item>
+    <TextId>1137</TextId>
+    <Text>Vlevo</Text>
+  </Item>
+
+  <Item>
+    <TextId>1138</TextId>
+    <Text>Vpravo</Text>
+  </Item>
+
+  <Item>
+    <TextId>1139</TextId>
+    <Text>Venku</Text>
+  </Item>
+
+  <Item>
+    <TextId>1140</TextId>
+    <Text>Dodatečná výztuž</Text>
+  </Item>
+
+  <Item>
+    <TextId>1141</TextId>
+    <Text>Distanční vložka</Text>
+  </Item>
+
+  <Item>
+    <TextId>1142</TextId>
+    <Text>Vyp</Text>
+  </Item>
+
+  <Item>
+    <TextId>1143</TextId>
+    <Text>Spona</Text>
+  </Item>
+
+  <Item>
+    <TextId>1144</TextId>
+    <Text>Typ</Text>
+  </Item>
+
+  <Item>
+    <TextId>1145</TextId>
+    <Text>Zarovnání</Text>
+  </Item>
+
+  <Item>
+    <TextId>1146</TextId>
+    <Text>Vertikální</Text>
+  </Item>
+
+  <Item>
+    <TextId>1147</TextId>
+    <Text>Horizontální</Text>
+  </Item>
+
+  <Item>
+    <TextId>1148</TextId>
+    <Text>Nahoru</Text>
+  </Item>
+
+  <Item>
+    <TextId>1149</TextId>
+    <Text>Dulu</Text>
+  </Item>
+
+  <Item>
+    <TextId>1150</TextId>
+    <Text>Vpravo</Text>
+  </Item>
+
+  <Item>
+    <TextId>1151</TextId>
+    <Text>Směr</Text>
+  </Item>
+
+  <Item>
+    <TextId>1152</TextId>
+    <Text>Vlevo</Text>
+  </Item>
+
+  <Item>
+    <TextId>1153</TextId>
+    <Text> </Text>
+  </Item>
+
+  <Item>
+    <TextId>1154</TextId>
+    <Text> Distanční vložky na metr čtvereční</Text>
+  </Item>
+
+  <Item>
+    <TextId>1155</TextId>
+    <Text> Distanční vložky na yard čtvereční</Text>
+  </Item>
+
+  <Item>
+    <TextId>1156</TextId>
+    <Text> Spony na metr čtvereční</Text>
+  </Item>
+
+  <Item>
+    <TextId>1157</TextId>
+    <Text> Spony na yard čtvereční</Text>
+  </Item>
+
+  <Item>
+    <TextId>1158</TextId>
+    <Text>Počet na plošnou jednotku</Text>
+  </Item>
+
+  <Item>
+    <TextId>1159</TextId>
+    <Text>Hodnotu nelze zobrazit při vícenásobném vytvoření</Text>
+  </Item>
+
+  <Item>
+    <TextId>1160</TextId>
+    <Text>Formát</Text>
+  </Item>
+
+  <Item>
+    <TextId>1161</TextId>
+    <Text>Výztuž</Text>
+  </Item>
+
+  <Item>
+    <TextId>1162</TextId>
+    <Text>Horizontální</Text>
+  </Item>
+
+  <Item>
+    <TextId>1163</TextId>
+    <Text>Vertikální</Text>
+  </Item>
+
+  <Item>
+    <TextId>1164</TextId>
+    <Text>Sítě</Text>
+  </Item>
+
+  <Item>
+    <TextId>1165</TextId>
+    <Text>Hrany stěny</Text>
+  </Item>
+
+  <Item>
+    <TextId>1166</TextId>
+    <Text>Otvory stěny</Text>
+  </Item>
+
+  <Item>
+    <TextId>1167</TextId>
+    <Text>Třmínky</Text>
+  </Item>
+
+  <Item>
+    <TextId>1168</TextId>
+    <Text>Horizontální zásuvný třmínek</Text>
+  </Item>
+
+  <Item>
+    <TextId>1169</TextId>
+    <Text>Vertikální zásuvný třmínek</Text>
+  </Item>
+
+  <Item>
+    <TextId>1170</TextId>
+    <Text>Horizontální třmínek</Text>
+  </Item>
+
+  <Item>
+    <TextId>1171</TextId>
+    <Text>Vertikální třmínek</Text>
+  </Item>
+
+  <Item>
+    <TextId>1172</TextId>
+    <Text>Distanční vložka, Spona</Text>
+  </Item>
+
+  <Item>
+    <TextId>4999</TextId>
+    <Text>Tento PythonPart vám umožní automatické vytvoření výztuže v obdélníkové stěně. \n\nChcete-li začít, postupujte podle následujících pokynů:\n 1) Vyberte stěnu, která má být vyztužena. \n 2) Vyberte druhou stěnu, která je nad první. (volitelně) \n 3) Vyberte otvory. (volitelně) \n 4) Projděte záložky "Obecné", "Hlavní výztuž", "Zásuvné třmínky" pro nastavení výztuže stěny. \n     Klikněte na "Vytvořit" pro kontrolu nastavení a vytvoření výztuže. \n 5) Projděte záložky "Řezy" pro definování parametrů řezů. \n     Klikněte na "Vytvořit" pro umístění řezů do fólie.</Text>
+  </Item>
+
+  <Item>
+    <TextId>5000</TextId>
+    <Text>Vyberte prosím prvky</Text>
+  </Item>
+
+  <Item>
+    <TextId>5001</TextId>
+    <Text>pro zobrazení záložky "Obecné".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5003</TextId>
+    <Text>pro zobrazení záložky "Hlavní výztuž".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5004</TextId>
+    <Text>pro zobrazení záložky "Dodatečná výztuž".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5005</TextId>
+    <Text>pro zobrazení záložky "Zásuvný třmínek".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5007</TextId>
+    <Text>pro zobrazení záložky "Řezy".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5008</TextId>
+    <Text>pro zobrazení záložky "Formát".</Text>
+  </Item>
+
+  <Item>
+    <TextId>10010</TextId>
+    <Text>Výztuž nelze vytvořit na základě následující chyby: \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10016</TextId>
+    <Text>Ve vybrané stěně je již výztuž vytvořena.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10018</TextId>
+    <Text>Vytvořte nejdříve výztuž</Text>
+  </Item>
+
+  <Item>
+    <TextId>10019</TextId>
+    <Text>Klikněte v půdorysném zobrazení pro umístění řezu</Text>
+  </Item>
+
+  <Item>
+    <TextId>10020</TextId>
+    <Text>Průměr horizontální výztuže je menší než Ømin = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10021</TextId>
+    <Text>Průměr vertikální výztuže je menší než Ømin = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10022</TextId>
+    <Text>Rozteč horizontální výztuže je větší než Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10023</TextId>
+    <Text>Rozteč vertikální výztuže je větší než Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10024</TextId>
+    <Text>Rozteč horizontálních třmínků je větší než Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10025</TextId>
+    <Text>Rozteč vertikálních třmínků je větší než Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10026</TextId>
+    <Text>Chcete korigovat tyto parametry automaticky?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10027</TextId>
+    <Text>Zadejte parametry a vyberte Vytvořit pro vytvoření výztuže</Text>
+  </Item>
+
+  <Item>
+    <TextId>10028</TextId>
+    <Text>Vyberte prosím stěnu ve 3D zobrazení</Text>
+  </Item>
+
+  <Item>
+    <TextId>10029</TextId>
+    <Text>Proces byl dokončen. Ukončete  PythonPart stisknutím klávesy ESC nebo tlačítkem Zavřít</Text>
+  </Item>
+
+  <Item>
+    <TextId>10030</TextId>
+    <Text>Zadejte parametry a vyberte Vytvořit pro vytvoření řezů</Text>
+  </Item>
+
+  <Item>
+    <TextId>10031</TextId>
+    <Text>Zkontrolujte náhled výztuže kolem otvorů. \n V některých případech může být výztuž umístěna mimo průřez stěny.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10032</TextId>
+    <Text>Vyberte prosím objekt ve 3D zobrazení.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10035</TextId>
+    <Text>Tloušťka obou vybraných stěn se neshoduje. To by mohlo mít za následek, že část výztuže nebude správně uložena. Přesto pokračovat?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10036</TextId>
+    <Text>+ Hlavní výztužný prut se nepodařilo vytvořit kvůli následujícím parametrům:</Text>
+  </Item>
+
+  <Item>
+    <TextId>10037</TextId>
+    <Text> - Nedostatečná délka role</Text>
+  </Item>
+
+  <Item>
+    <TextId>10038</TextId>
+    <Text> - Nedostatečná min. délka prutu</Text>
+  </Item>
+
+  <Item>
+    <TextId>10039</TextId>
+    <Text>Chcete i přes toto varování pokračovat v generování výztuže?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10040</TextId>
+    <Text>Tento PythonPart je připojen k architektonickému prvku, se kterým byl vytvořen.\nVezměte prosím na vědomí, že tento PythonPart nemůžete zkopírovat do jiného umístění.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10041</TextId>
+    <Text>Parametr byl upraven.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10042</TextId>
+    <Text>Přejete si aktualizovat čísla položek prutové výztuže?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10043</TextId>
+    <Text>Zkopírovali jste PythonPart propojený s architektonickým prvkem.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10044</TextId>
+    <Text>Přejete si ho propojit s novým architektonickým prvkem?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10045</TextId>
+    <Text>+ Okrajová výztuž, která má být vytvořena, bude odříznuta v okamžiku, kdy otvor objektu je až k okraji stěny.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10046</TextId>
+    <Text>Chcete rozdělit okrajovou výztuž v oblasti otvoru?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10047</TextId>
+    <Text>Výběr stěny (stěn) kliknutím levým tlačítkem myši nebo výběrem oblasti</Text>
+  </Item>
+
+  <Item>
+    <TextId>10048</TextId>
+    <Text>Nebyla nalezena žádná platná nad ležící stěna.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10049</TextId>
+    <Text>Aplikace podporuje pouze stěny a stěnu nad nimi o stejné tloušťce.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10050</TextId>
+    <Text>Aplikace podporuje pouze stěny a stěnu nad nimi se stejným průmětem v půdorysu.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10051</TextId>
+    <Text>Aplikace podporuje pouze stěny a stěnu nad nimi se stejným úhlem natočení v půdorysu.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10052</TextId>
+    <Text>Znovu vyberte stěnu/stěny nebo deaktivujte zaškrtávací políčko Vybrat stěnu nad</Text>
+  </Item>
+
+  <Item>
+    <TextId>10053</TextId>
+    <Text>Nepřípustný výběr:</Text>
+  </Item>
+
+  <Item>
+    <TextId>10054</TextId>
+    <Text>Aplikace podporuje pouze stěny s horizontálním obdélníkovým průřezem.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10055</TextId>
+    <Text>Aplikace podporuje pouze stěny bez šikmých ploch na horní nebo spodní straně.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10056</TextId>
+    <Text>Aplikace podporuje pouze stěny bez sklonu.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10057</TextId>
+    <Text>Aplikace podporuje pouze stěny bez zářezů nebo konzol.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10058</TextId>
+    <Text>Aplikace podporuje pouze stěny, jejichž délka je 4krát větší než tloušťka.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10059</TextId>
+    <Text>Vyberte prosím stěnu(y) znovu</Text>
+  </Item>
+
+  <Item>
+    <TextId>10060</TextId>
+    <Text>Nástroj nedokázal u některých stěn rozpoznat vrstvu, na kterou se má aplikovat výztuž, podle práce nebo tloušťky. \\nPro zlepšení výběru přiřaďte k příslušným vrstvám stěn práci "Betonářské práce" nebo vyberte vrstvy stěn, na které chcete aplikovat výztuž, jednotlivě \\npomocí součtové funkce a jednotlivými kliknutími místo plošného výběru.\\nZopakujte výběr prosím.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10061</TextId>
+    <Text>Otvor se nachází mimo stěnu.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10062</TextId>
+    <Text>nebo upravte otvor</Text>
+  </Item>
+
+  <Item>
+    <TextId>10063</TextId>
+    <Text>V aktuálním výběru se zdá, že alespoň jedna stěna nemá nad sebou žádnou stěnu. V tomto případě se spojovací pruty nepoužívají.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10064</TextId>
+    <Text>Jeden otvor není zcela uvnitř vybrané stěny.</Text>
+  </Item>
+
+</Element>

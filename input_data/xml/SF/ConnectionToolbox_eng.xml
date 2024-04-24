@@ -1,0 +1,2472 @@
+
+<Element>
+
+    <!--GENERAL-->
+
+    <Item>
+        <TextId>9000</TextId>
+		<Text>Geometry</Text>
+    </Item>
+
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Select Element</Text>
+    </Item>
+
+    <Item>
+        <TextId>9002</TextId>
+        <Text>Plate|Cleat|Bolt|Weld|Hole|End Condition</Text>
+    </Item>
+
+    <Item>
+        <TextId>9003</TextId>
+        <Text>Representation</Text>
+    </Item>
+
+    <Item>
+        <TextId>9004</TextId>
+        <Text>Connection Toolbox</Text>
+    </Item>
+
+    <!--PLATE-->
+
+    <Item>
+        <TextId>1000</TextId>
+        <Text>Plate</Text>
+    </Item>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Plate Type</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>End Plate|Stiffener</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Plate Shape</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Grade</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Style</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Shape</Text>
+    </Item>
+
+    <Item>
+        <TextId>1007</TextId>
+        <Text>PlaceStyle</Text>
+    </Item>
+
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Number of Stiffener</Text>
+    </Item>
+
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Grade</Text>
+    </Item>
+
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Plate Parameters</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Points</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>Select Polyline2D</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>Select Polyline3D</Text>
+    </Item>
+
+    <Item>
+        <TextId>1014</TextId>
+        <Text>Thickness</Text>
+    </Item>
+
+    <Item>
+        <TextId>1015</TextId>
+        <Text>Width</Text>
+    </Item>
+
+    <Item>
+        <TextId>1016</TextId>
+        <Text>Length</Text>
+    </Item>
+
+    <Item>
+        <TextId>1017</TextId>
+        <Text>Corner Shape</Text>
+    </Item>
+
+    <Item>
+        <TextId>1018</TextId>
+        <Text>Corner Square|Corner Chamfer|Corner Fillet</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Radius</Text>
+    </Item>
+
+    <Item>
+        <TextId>1020</TextId>
+        <Text>Fillet Radius</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text> Fillet</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>  Fillet</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>   Fillet</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Fillet</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text> Chamfer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Length</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Width</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>  Chamfer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1029</TextId>
+        <Text>Length</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Width</Text>
+    </Item>
+
+    <Item>
+        <TextId>1031</TextId>
+        <Text>   Chamfer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Length</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Width</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Chamfer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Length</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Width</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Positioning</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Orientation</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Shape</Text>
+    </Item>
+
+    <Item>
+        <TextId>1040</TextId>
+        <Text>Orientation</Text>
+    </Item>
+
+    <Item>
+        <TextId>1041</TextId>
+        <Text>Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>1042</TextId>
+        <Text>Vector</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Reference Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Reference Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>1045</TextId>
+        <Text>Rotation Angle</Text>
+    </Item>
+
+    <Item>
+        <TextId>1046</TextId>
+        <Text>Angle </Text>
+    </Item>
+
+    <Item>
+        <TextId>1047</TextId>
+        <Text>Plate reversed</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Create Element</Text>
+    </Item>
+
+    <Item>
+        <TextId>1050</TextId>
+        <Text>Confirm</Text>
+    </Item>
+
+    <Item>
+        <TextId>1051</TextId>
+        <Text>Select Thickness Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Rectangle</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Circle</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Polyline</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Auto</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Manual</Text>
+    </Item>
+
+    <Item>
+        <TextId>1057</TextId>
+        <Text>Corner Shape Parameters</Text>
+    </Item>
+
+    <Item>
+        <TextId>1058</TextId>
+        <Text>Offset</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Offset </Text>
+    </Item>
+
+    <Item>
+        <TextId>1060</TextId>
+        <Text>Position at Polyline</Text>
+    </Item>
+
+    <Item>
+        <TextId>1061</TextId>
+        <Text>Custom</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Width Clearance</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Clearance</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Radius</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Length Clearance</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>Profile dependent</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>Show Snap Points</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Format</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>Layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1502</TextId>
+        <Text>Pen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1503</TextId>
+        <Text>Pen from layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1504</TextId>
+        <Text>Line</Text>
+    </Item>
+
+    <Item>
+        <TextId>1505</TextId>
+        <Text>Line from layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1506</TextId>
+        <Text>Color</Text>
+    </Item>
+
+    <Item>
+        <TextId>1507</TextId>
+        <Text>Color from layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1508</TextId>
+        <Text>Surface element</Text>
+    </Item>
+
+    <Item>
+        <TextId>1509</TextId>
+        <Text>Surface</Text>
+    </Item>
+
+    <Item>
+        <TextId>1510</TextId>
+        <Text>Surface element</Text>
+    </Item>
+
+    <Item>
+        <TextId>1511</TextId>
+        <Text>Hatching</Text>
+    </Item>
+
+    <Item>
+        <TextId>1512</TextId>
+        <Text>Pattern</Text>
+    </Item>
+
+    <Item>
+        <TextId>1513</TextId>
+        <Text>Fill</Text>
+    </Item>
+
+    <Item>
+        <TextId>1514</TextId>
+        <Text>Bitmap area</Text>
+    </Item>
+
+    <Item>
+        <TextId>1515</TextId>
+        <Text>Style area</Text>
+    </Item>
+
+    <!--CLEAT-->
+
+    <Item>
+        <TextId>2000</TextId>
+        <Text>Cleat</Text>
+    </Item>
+
+    <Item>
+        <TextId>2001</TextId>
+        <Text>Cleat Shape</Text>
+    </Item>
+
+    <Item>
+        <TextId>2002</TextId>
+        <Text>Profile|Bent Plate</Text>
+    </Item>
+
+    <Item>
+        <TextId>2003</TextId>
+        <Text>Select Profile</Text>
+    </Item>
+
+    <Item>
+        <TextId>2004</TextId>
+        <Text>Grade</Text>
+    </Item>
+
+    <Item>
+        <TextId>2005</TextId>
+        <Text>Cleat Parameters</Text>
+    </Item>
+
+    <Item>
+        <TextId>2006</TextId>
+        <Text>Cleat length</Text>
+    </Item>
+
+    <Item>
+        <TextId>2007</TextId>
+        <Text> Cleat length</Text>
+    </Item>
+
+    <Item>
+        <TextId>2008</TextId>
+        <Text>Cleat Thickness</Text>
+    </Item>
+
+    <Item>
+        <TextId>2009</TextId>
+        <Text>Cleat angle</Text>
+    </Item>
+
+    <Item>
+        <TextId>2010</TextId>
+        <Text>Level of detail</Text>
+    </Item>
+
+    <Item>
+        <TextId>2011</TextId>
+        <Text>Chamfer width</Text>
+    </Item>
+
+    <Item>
+        <TextId>2012</TextId>
+        <Text>Fillet radius</Text>
+    </Item>
+
+    <Item>
+        <TextId>2013</TextId>
+        <Text>Positioning</Text>
+    </Item>
+
+    <Item>
+        <TextId>2014</TextId>
+        <Text>Offset</Text>
+    </Item>
+
+    <Item>
+        <TextId>2015</TextId>
+        <Text>Placing Style</Text>
+    </Item>
+
+    <Item>
+        <TextId>2016</TextId>
+        <Text>Select Points</Text>
+    </Item>
+
+    <Item>
+        <TextId>2017</TextId>
+        <Text>First Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>2018</TextId>
+        <Text>Second Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>2019</TextId>
+        <Text>Reference Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>2020</TextId>
+        <Text>Reference Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>2021</TextId>
+        <Text>Offset</Text>
+    </Item>
+
+    <Item>
+        <TextId>2022</TextId>
+        <Text>Cleat Rotation</Text>
+    </Item>
+
+    <Item>
+        <TextId>2023</TextId>
+        <Text>Hole</Text>
+    </Item>
+
+    <Item>
+        <TextId>2024</TextId>
+        <Text>Create Hole</Text>
+    </Item>
+
+    <Item>
+        <TextId>2025</TextId>
+        <Text>Number of holes</Text>
+    </Item>
+
+    <Item>
+        <TextId>2026</TextId>
+        <Text>Hole Distance 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>2027</TextId>
+        <Text>Hole Distance 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>2028</TextId>
+        <Text>Hole radius</Text>
+    </Item>
+
+    <Item>
+        <TextId>2029</TextId>
+        <Text>Hole radius 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>2030</TextId>
+        <Text>Hole radius 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>2031</TextId>
+        <Text>Number of Edges</Text>
+    </Item>
+
+    <Item>
+        <TextId>2032</TextId>
+        <Text>Edge length</Text>
+    </Item>
+
+    <Item>
+        <TextId>2033</TextId>
+        <Text>Create Element</Text>
+    </Item>
+
+    <Item>
+        <TextId>2034</TextId>
+        <Text>Confirm</Text>
+    </Item>
+
+    <Item>
+        <TextId>2035</TextId>
+        <Text>Select points to determine the angle of the Cleat</Text>
+    </Item>
+
+    <Item>
+        <TextId>2036</TextId>
+        <Text>Low</Text>
+    </Item>
+
+    <Item>
+        <TextId>2037</TextId>
+        <Text>Medium</Text>
+    </Item>
+
+    <Item>
+        <TextId>2038</TextId>
+        <Text>High</Text>
+    </Item>
+
+    <Item>
+        <TextId>2039</TextId>
+        <Text>Auto</Text>
+    </Item>
+
+    <Item>
+        <TextId>2040</TextId>
+        <Text>Manual</Text>
+    </Item>
+
+    <Item>
+        <TextId>2041</TextId>
+        <Text>None</Text>
+    </Item>
+
+    <Item>
+        <TextId>2042</TextId>
+        <Text>Circle</Text>
+    </Item>
+
+    <Item>
+        <TextId>2043</TextId>
+        <Text>Arc</Text>
+    </Item>
+
+    <Item>
+        <TextId>2044</TextId>
+        <Text>Polygon</Text>
+    </Item>
+
+    <Item>
+        <TextId>2500</TextId>
+        <Text>Format</Text>
+    </Item>
+
+    <Item>
+        <TextId>2501</TextId>
+        <Text>Layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>2502</TextId>
+        <Text>Pen</Text>
+    </Item>
+
+    <Item>
+        <TextId>2503</TextId>
+        <Text>Pen from layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>2504</TextId>
+        <Text>Line</Text>
+    </Item>
+
+    <Item>
+        <TextId>2505</TextId>
+        <Text>Line from layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>2506</TextId>
+        <Text>Color</Text>
+    </Item>
+
+    <Item>
+        <TextId>2507</TextId>
+        <Text>Color from layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>2508</TextId>
+        <Text>Surface element</Text>
+    </Item>
+
+    <Item>
+        <TextId>2509</TextId>
+        <Text>Surface</Text>
+    </Item>
+
+    <Item>
+        <TextId>2510</TextId>
+        <Text>Surface element</Text>
+    </Item>
+
+    <Item>
+        <TextId>2511</TextId>
+        <Text>Hatching</Text>
+    </Item>
+
+    <Item>
+        <TextId>2512</TextId>
+        <Text>Pattern</Text>
+    </Item>
+
+    <Item>
+        <TextId>2513</TextId>
+        <Text>Fill</Text>
+    </Item>
+
+    <Item>
+        <TextId>2514</TextId>
+        <Text>Bitmap area</Text>
+    </Item>
+
+    <Item>
+        <TextId>2515</TextId>
+        <Text>Style area</Text>
+    </Item>
+
+    <Item>
+        <TextId>2516</TextId>
+        <Text>Offset</Text>
+    </Item>
+
+    <Item>
+        <TextId>2517</TextId>
+        <Text>Offset</Text>
+    </Item>
+
+    <!--BOLT-->
+
+    <Item>
+        <TextId>3000</TextId>
+        <Text>Bolt</Text>
+    </Item>
+
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Bolt Type</Text>
+    </Item>
+
+    <Item>
+        <TextId>3002</TextId>
+        <Text>General Bolt|Anchor Bolt</Text>
+    </Item>
+
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Hook Type</Text>
+    </Item>
+
+    <Item>
+        <TextId>3004</TextId>
+        <Text>Headed|L-hook|J-hook</Text>
+    </Item>
+
+    <Item>
+        <TextId>3005</TextId>
+        <Text>Head Shape</Text>
+    </Item>
+
+    <Item>
+        <TextId>3006</TextId>
+        <Text>Hexagon|CounterSunk</Text>
+    </Item>
+
+    <Item>
+        <TextId>3007</TextId>
+        <Text>Bolt Parameters</Text>
+    </Item>
+
+    <Item>
+        <TextId>3008</TextId>
+        <Text>Size</Text>
+    </Item>
+
+    <Item>
+        <TextId>3009</TextId>
+        <Text>Size</Text>
+    </Item>
+
+    <Item>
+        <TextId>3010</TextId>
+        <Text>Length</Text>
+    </Item>
+
+    <Item>
+        <TextId>3011</TextId>
+        <Text>Washers</Text>
+    </Item>
+
+    <Item>
+        <TextId>3012</TextId>
+        <Text>Nut Washers</Text>
+    </Item>
+
+    <Item>
+        <TextId>3013</TextId>
+        <Text>Bolt Grade</Text>
+    </Item>
+
+    <Item>
+        <TextId>3014</TextId>
+        <Text>Level of detail</Text>
+    </Item>
+
+    <Item>
+        <TextId>3015</TextId>
+        <Text>Positioning</Text>
+    </Item>
+
+    <Item>
+        <TextId>3016</TextId>
+        <Text>Number of Bolts</Text>
+    </Item>
+
+    <Item>
+        <TextId>3017</TextId>
+        <Text>Orientation</Text>
+    </Item>
+
+    <Item>
+        <TextId>3018</TextId>
+        <Text>Orientation</Text>
+    </Item>
+
+    <Item>
+        <TextId>3019</TextId>
+        <Text>Custom</Text>
+    </Item>
+
+    <Item>
+        <TextId>3020</TextId>
+        <Text>Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>3021</TextId>
+        <Text>Vector</Text>
+    </Item>
+
+    <Item>
+        <TextId>3022</TextId>
+        <Text>Top</Text>
+    </Item>
+
+    <Item>
+        <TextId>3023</TextId>
+        <Text>Center</Text>
+    </Item>
+
+    <Item>
+        <TextId>3024</TextId>
+        <Text>Bottom</Text>
+    </Item>
+
+    <Item>
+        <TextId>3025</TextId>
+        <Text>Reference Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>3026</TextId>
+        <Text>Bolt Group Dimension</Text>
+    </Item>
+
+    <Item>
+        <TextId>3027</TextId>
+        <Text>Distance</Text>
+    </Item>
+
+    <Item>
+        <TextId>3028</TextId>
+        <Text> Distance</Text>
+    </Item>
+
+    <Item>
+        <TextId>3029</TextId>
+        <Text>  Distance</Text>
+    </Item>
+
+    <Item>
+        <TextId>3030</TextId>
+        <Text>   Distance</Text>
+    </Item>
+
+    <Item>
+        <TextId>3031</TextId>
+        <Text>Rotation Angle</Text>
+    </Item>
+
+    <Item>
+        <TextId>3032</TextId>
+        <Text>Rotation Angle</Text>
+    </Item>
+
+    <Item>
+        <TextId>3033</TextId>
+        <Text>Bolt reversed</Text>
+    </Item>
+
+    <Item>
+        <TextId>3034</TextId>
+        <Text>Offset</Text>
+    </Item>
+
+    <Item>
+        <TextId>3035</TextId>
+        <Text>Offset </Text>
+    </Item>
+
+    <Item>
+        <TextId>3036</TextId>
+        <Text>Create Element</Text>
+    </Item>
+
+    <Item>
+        <TextId>3037</TextId>
+        <Text>Confirm</Text>
+    </Item>
+
+    <Item>
+        <TextId>3038</TextId>
+        <Text>Select Grip Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>3039</TextId>
+        <Text>Low</Text>
+    </Item>
+
+    <Item>
+        <TextId>3040</TextId>
+        <Text>Medium</Text>
+    </Item>
+
+    <Item>
+        <TextId>3041</TextId>
+        <Text>High</Text>
+    </Item>
+
+    <Item>
+        <TextId>3500</TextId>
+        <Text>Format</Text>
+    </Item>
+
+    <Item>
+        <TextId>3501</TextId>
+        <Text>Layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>3502</TextId>
+        <Text>Pen</Text>
+    </Item>
+
+    <Item>
+        <TextId>3503</TextId>
+        <Text>Pen from layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>3504</TextId>
+        <Text>Line</Text>
+    </Item>
+
+    <Item>
+        <TextId>3505</TextId>
+        <Text>Line from layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>3506</TextId>
+        <Text>Color</Text>
+    </Item>
+
+    <Item>
+        <TextId>3507</TextId>
+        <Text>Color from layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>3508</TextId>
+        <Text>Surface element</Text>
+    </Item>
+
+    <Item>
+        <TextId>3509</TextId>
+        <Text>Surface</Text>
+    </Item>
+
+    <Item>
+        <TextId>3510</TextId>
+        <Text>Surface element</Text>
+    </Item>
+
+    <Item>
+        <TextId>3511</TextId>
+        <Text>Hatching</Text>
+    </Item>
+
+    <Item>
+        <TextId>3512</TextId>
+        <Text>Pattern</Text>
+    </Item>
+
+    <Item>
+        <TextId>3513</TextId>
+        <Text>Fill</Text>
+    </Item>
+
+    <Item>
+        <TextId>3514</TextId>
+        <Text>Bitmap area</Text>
+    </Item>
+
+    <Item>
+        <TextId>3515</TextId>
+        <Text>Style area</Text>
+    </Item>
+
+    <!--WELD-->
+
+    <Item>
+        <TextId>4000</TextId>
+        <Text>Weld</Text>
+    </Item>
+
+    <Item>
+        <TextId>4001</TextId>
+        <Text>WeldType</Text>
+    </Item>
+
+    <Item>
+        <TextId>4002</TextId>
+        <Text>Polyline|Fillet|Convex|Concave</Text>
+    </Item>
+
+    <Item>
+        <TextId>4003</TextId>
+        <Text>General Values</Text>
+    </Item>
+
+    <Item>
+        <TextId>4004</TextId>
+        <Text>Weld length</Text>
+    </Item>
+
+    <Item>
+        <TextId>4005</TextId>
+        <Text>Weld width</Text>
+    </Item>
+
+    <Item>
+        <TextId>4006</TextId>
+        <Text>Weld angle</Text>
+    </Item>
+
+    <Item>
+        <TextId>4010</TextId>
+        <Text>Positioning</Text>
+    </Item>
+
+    <Item>
+        <TextId>4011</TextId>
+        <Text>Rotation</Text>
+    </Item>
+
+    <Item>
+        <TextId>4012</TextId>
+        <Text>Create Element</Text>
+    </Item>
+
+    <Item>
+        <TextId>4013</TextId>
+        <Text>Confirm</Text>
+    </Item>
+
+    <Item>
+        <TextId>4014</TextId>
+        <Text>Modification</Text>
+    </Item>
+
+    <Item>
+        <TextId>4015</TextId>
+        <Text>Start Over</Text>
+    </Item>
+
+    <Item>
+        <TextId>4016</TextId>
+        <Text>Remove Last Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>4017</TextId>
+        <Text>New Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>4018</TextId>
+        <Text>Move Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>4500</TextId>
+        <Text>Format</Text>
+    </Item>
+
+    <Item>
+        <TextId>4501</TextId>
+        <Text>Layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>4502</TextId>
+        <Text>Pen</Text>
+    </Item>
+
+    <Item>
+        <TextId>4503</TextId>
+        <Text>Pen from layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>4504</TextId>
+        <Text>Line</Text>
+    </Item>
+
+    <Item>
+        <TextId>4505</TextId>
+        <Text>Line from layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>4506</TextId>
+        <Text>Color</Text>
+    </Item>
+
+    <Item>
+        <TextId>4507</TextId>
+        <Text>Color from layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>4508</TextId>
+        <Text>Surface element</Text>
+    </Item>
+
+    <Item>
+        <TextId>4509</TextId>
+        <Text>Surface</Text>
+    </Item>
+
+    <Item>
+        <TextId>4510</TextId>
+        <Text>Surface element</Text>
+    </Item>
+
+    <Item>
+        <TextId>4511</TextId>
+        <Text>Hatching</Text>
+    </Item>
+
+    <Item>
+        <TextId>4512</TextId>
+        <Text>Pattern</Text>
+    </Item>
+
+    <Item>
+        <TextId>4513</TextId>
+        <Text>Fill</Text>
+    </Item>
+
+    <Item>
+        <TextId>4514</TextId>
+        <Text>Bitmap area</Text>
+    </Item>
+
+    <Item>
+        <TextId>4515</TextId>
+        <Text>Style area</Text>
+    </Item>
+
+    <!--STIFFENER-->
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Stiffener Parameters</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>Points</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>Select Polyline2D</Text>
+    </Item>
+
+    <Item>
+        <TextId>5003</TextId>
+        <Text>Select Polyline3D</Text>
+    </Item>
+
+    <Item>
+        <TextId>5004</TextId>
+        <Text>Thickness</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>Length</Text>
+    </Item>
+
+    <Item>
+        <TextId>5006</TextId>
+        <Text>Width</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>Distance Ox</Text>
+    </Item>
+
+    <Item>
+        <TextId>5008</TextId>
+        <Text>Radius</Text>
+    </Item>
+
+    <Item>
+        <TextId>5009</TextId>
+        <Text>Corner Shape</Text>
+    </Item>
+
+    <Item>
+        <TextId>5010</TextId>
+        <Text>Corner Square|Corner Chamfer|Corner Fillet</Text>
+    </Item>
+
+    <Item>
+        <TextId>5011</TextId>
+        <Text>Fillet Radius</Text>
+    </Item>
+
+    <Item>
+        <TextId>5012</TextId>
+        <Text> Fillet</Text>
+    </Item>
+
+    <Item>
+        <TextId>5013</TextId>
+        <Text>  Fillet</Text>
+    </Item>
+
+    <Item>
+        <TextId>5014</TextId>
+        <Text>   Fillet</Text>
+    </Item>
+
+    <Item>
+        <TextId>5015</TextId>
+        <Text>Fillet</Text>
+    </Item>
+
+    <Item>
+        <TextId>5016</TextId>
+        <Text> Chamfer</Text>
+    </Item>
+
+    <Item>
+        <TextId>5017</TextId>
+        <Text>Length</Text>
+    </Item>
+
+    <Item>
+        <TextId>5018</TextId>
+        <Text>Width</Text>
+    </Item>
+
+    <Item>
+        <TextId>5019</TextId>
+        <Text>  Chamfer</Text>
+    </Item>
+
+    <Item>
+        <TextId>5020</TextId>
+        <Text>Length</Text>
+    </Item>
+
+    <Item>
+        <TextId>5021</TextId>
+        <Text>Width</Text>
+    </Item>
+
+    <Item>
+        <TextId>5022</TextId>
+        <Text>   Chamfer</Text>
+    </Item>
+
+    <Item>
+        <TextId>5023</TextId>
+        <Text>Length</Text>
+    </Item>
+
+    <Item>
+        <TextId>5024</TextId>
+        <Text>Width</Text>
+    </Item>
+
+    <Item>
+        <TextId>5025</TextId>
+        <Text>Chamfer</Text>
+    </Item>
+
+    <Item>
+        <TextId>5026</TextId>
+        <Text>Length</Text>
+    </Item>
+
+    <Item>
+        <TextId>5027</TextId>
+        <Text>Width</Text>
+    </Item>
+
+    <Item>
+        <TextId>5028</TextId>
+        <Text>Positioning</Text>
+    </Item>
+
+    <Item>
+        <TextId>5029</TextId>
+        <Text>Orientaion</Text>
+    </Item>
+
+    <Item>
+        <TextId>5030</TextId>
+        <Text>Orientation</Text>
+    </Item>
+
+    <Item>
+        <TextId>5031</TextId>
+        <Text>Custom</Text>
+    </Item>
+
+    <Item>
+        <TextId>5032</TextId>
+        <Text>Shape</Text>
+    </Item>
+
+    <Item>
+        <TextId>5033</TextId>
+        <Text>Vector </Text>
+    </Item>
+
+    <Item>
+        <TextId>5034</TextId>
+        <Text>Reference Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>5035</TextId>
+        <Text>Reference Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>5036</TextId>
+        <Text>Rotation Angle</Text>
+    </Item>
+
+    <Item>
+        <TextId>5037</TextId>
+        <Text>Angle Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>5038</TextId>
+        <Text>Angle Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>5039</TextId>
+        <Text>Offset</Text>
+    </Item>
+
+    <Item>
+        <TextId>5040</TextId>
+        <Text>Offset X</Text>
+    </Item>
+
+    <Item>
+        <TextId>5041</TextId>
+        <Text>Offset Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>5042</TextId>
+        <Text>Offset Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>5043</TextId>
+        <Text>Create Element</Text>
+    </Item>
+
+    <Item>
+        <TextId>5044</TextId>
+        <Text>Confirm</Text>
+    </Item>
+
+    <Item>
+        <TextId>5045</TextId>
+        <Text>Chamfer Length</Text>
+    </Item>
+
+    <Item>
+        <TextId>5046</TextId>
+        <Text>Rectangle</Text>
+    </Item>
+
+    <Item>
+        <TextId>5047</TextId>
+        <Text>Triangle</Text>
+    </Item>
+
+    <Item>
+        <TextId>5048</TextId>
+        <Text>Corner Shape Parameters</Text>
+    </Item>
+
+    <Item>
+        <TextId>5049</TextId>
+        <Text>Plate Size/Position</Text>
+    </Item>
+
+    <Item>
+        <TextId>5050</TextId>
+        <Text>Show Snap Points</Text>
+    </Item>
+
+    <Item>
+        <TextId>5051</TextId>
+        <Text>Trapezoid</Text>
+    </Item>
+
+    <Item>
+        <TextId>5052</TextId>
+        <Text>Dim 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>5053</TextId>
+        <Text>Dim 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>5054</TextId>
+        <Text>Distance Oy</Text>
+    </Item>
+
+    <Item>
+        <TextId>5055</TextId>
+        <Text>Angle X</Text>
+    </Item>
+
+    <Item>
+        <TextId>5500</TextId>
+        <Text>Properties</Text>
+    </Item>
+
+    <Item>
+        <TextId>5501</TextId>
+        <Text>Layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>5502</TextId>
+        <Text>Pen</Text>
+    </Item>
+
+    <Item>
+        <TextId>5503</TextId>
+        <Text>Pen from layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>5504</TextId>
+        <Text>Line</Text>
+    </Item>
+
+    <Item>
+        <TextId>5505</TextId>
+        <Text>Line from layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>5506</TextId>
+        <Text>Color</Text>
+    </Item>
+
+    <Item>
+        <TextId>5507</TextId>
+        <Text>Color from layer</Text>
+    </Item>
+
+    <!--WELD SYMBOL-->
+
+    <Item>
+        <TextId>6000</TextId>
+        <Text>Add Symbol</Text>
+    </Item>
+
+    <Item>
+        <TextId>6001</TextId>
+        <Text>Weld Length</Text>
+    </Item>
+
+    <Item>
+        <TextId>6002</TextId>
+        <Text>Weld Pitch</Text>
+    </Item>
+
+    <Item>
+        <TextId>6003</TextId>
+        <Text>Details</Text>
+    </Item>
+
+    <Item>
+        <TextId>6004</TextId>
+        <Text>Weld All Around</Text>
+    </Item>
+
+    <Item>
+        <TextId>6005</TextId>
+        <Text>Field Weld</Text>
+    </Item>
+
+    <Item>
+        <TextId>6006</TextId>
+        <Text>Tail Note</Text>
+    </Item>
+
+    <Item>
+        <TextId>6007</TextId>
+        <Text>Weld Type</Text>
+    </Item>
+
+    <Item>
+        <TextId>6500</TextId>
+        <Text>Weld Symbol</Text>
+    </Item>
+
+    <Item>
+        <TextId>6501</TextId>
+        <Text>Reference Line Length</Text>
+    </Item>
+
+    <Item>
+        <TextId>6502</TextId>
+        <Text>Text Scale</Text>
+    </Item>
+
+    <Item>
+        <TextId>6503</TextId>
+        <Text>Layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>6504</TextId>
+        <Text>Pen</Text>
+    </Item>
+
+    <Item>
+        <TextId>6505</TextId>
+        <Text>Pen by layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>6506</TextId>
+        <Text>Linetype</Text>
+    </Item>
+
+    <Item>
+        <TextId>6507</TextId>
+        <Text>Linetype by layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>6508</TextId>
+        <Text>Color</Text>
+    </Item>
+
+    <Item>
+        <TextId>6509</TextId>
+        <Text>Color by layer</Text>
+    </Item>
+
+    <!--HOLE-->
+
+    <Item>
+        <TextId>7000</TextId>
+        <Text>Hole</Text>
+    </Item>
+
+    <Item>
+        <TextId>7001</TextId>
+        <Text>Hole Shape</Text>
+    </Item>
+
+    <Item>
+        <TextId>7002</TextId>
+        <Text> Circle</Text>
+    </Item>
+
+    <Item>
+        <TextId>7003</TextId>
+        <Text>Rectangular</Text>
+    </Item>
+
+    <Item>
+        <TextId>7004</TextId>
+        <Text>Diameter</Text>
+    </Item>
+
+    <Item>
+        <TextId>7005</TextId>
+        <Text>Depth</Text>
+    </Item>
+
+    <Item>
+        <TextId>7006</TextId>
+        <Text>Width</Text>
+    </Item>
+
+    <Item>
+        <TextId>7007</TextId>
+        <Text>Length</Text>
+    </Item>
+
+    <Item>
+        <TextId>7008</TextId>
+        <Text>Corner Shape</Text>
+    </Item>
+
+    <Item>
+        <TextId>7009</TextId>
+        <Text>Chamfer</Text>
+    </Item>
+
+    <Item>
+        <TextId>7010</TextId>
+        <Text>Fillet</Text>
+    </Item>
+
+    <Item>
+        <TextId>7011</TextId>
+        <Text>Confirm</Text>
+    </Item>
+
+    <Item>
+        <TextId>7012</TextId>
+        <Text>Create Element</Text>
+    </Item>
+
+    <Item>
+        <TextId>7013</TextId>
+        <Text>Corner Square|Corner Chamfer|Corner Fillet</Text>
+    </Item>
+
+    <Item>
+        <TextId>7014</TextId>
+        <Text> Chamfer</Text>
+    </Item>
+
+    <Item>
+        <TextId>7015</TextId>
+        <Text>  Chamfer</Text>
+    </Item>
+
+    <Item>
+        <TextId>7016</TextId>
+        <Text>   Chamfer</Text>
+    </Item>
+
+    <Item>
+        <TextId>7017</TextId>
+        <Text>Chamfer size</Text>
+    </Item>
+
+    <Item>
+        <TextId>7018</TextId>
+        <Text> Fillet</Text>
+    </Item>
+
+    <Item>
+        <TextId>7019</TextId>
+        <Text>  Fillet</Text>
+    </Item>
+
+    <Item>
+        <TextId>7020</TextId>
+        <Text>   Fillet</Text>
+    </Item>
+
+    <Item>
+        <TextId>7021</TextId>
+        <Text>Fillet Radius</Text>
+    </Item>
+
+    <Item>
+        <TextId>7022</TextId>
+        <Text>Angle</Text>
+    </Item>
+
+    <Item>
+        <TextId>7023</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>7024</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>7025</TextId>
+        <Text>Create Hole</Text>
+    </Item>
+
+    <Item>
+        <TextId>7026</TextId>
+        <Text>Delete Hole</Text>
+    </Item>
+
+    <Item>
+        <TextId>7027</TextId>
+        <Text>Position Parameters</Text>
+    </Item>
+
+    <Item>
+        <TextId>7028</TextId>
+        <Text>Offset X</Text>
+    </Item>
+
+    <Item>
+        <TextId>7029</TextId>
+        <Text>Offset Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>7030</TextId>
+        <Text>Slot</Text>
+    </Item>
+
+    <!-- ENDCONDITION -->
+
+    <Item>
+        <TextId>8000</TextId>
+        <Text>End Condition</Text>
+    </Item>
+
+    <Item>
+        <TextId>8001</TextId>
+        <Text>Create Element</Text>
+    </Item>
+
+    <Item>
+        <TextId>8002</TextId>
+        <Text>Confirm</Text>
+    </Item>
+
+    <Item>
+        <TextId>8003</TextId>
+        <Text>Top Operation</Text>
+    </Item>
+
+    <Item>
+        <TextId>8004</TextId>
+        <Text>Bottom Operation</Text>
+    </Item>
+
+    <Item>
+        <TextId>8005</TextId>
+        <Text>Operation Type</Text>
+    </Item>
+
+    <Item>
+        <TextId>8006</TextId>
+        <Text>None</Text>
+    </Item>
+
+    <Item>
+        <TextId>8007</TextId>
+        <Text>Cope Plain</Text>
+    </Item>
+
+    <Item>
+        <TextId>8008</TextId>
+        <Text>Cope Std</Text>
+    </Item>
+
+    <Item>
+        <TextId>8009</TextId>
+        <Text>Cope FEMA</Text>
+    </Item>
+
+    <Item>
+        <TextId>8010</TextId>
+        <Text>Cope Seismic</Text>
+    </Item>
+
+    <Item>
+        <TextId>8011</TextId>
+        <Text>Cut Flange Width</Text>
+    </Item>
+
+    <Item><!-- profile-->
+        <TextId>8012</TextId>
+        <Text>I</Text>
+    </Item>
+
+    <Item>
+        <TextId>8013</TextId>
+        <Text>Rectangle Hollow</Text>
+    </Item>
+
+    <Item>
+        <TextId>8014</TextId>
+        <Text>L</Text>
+    </Item>
+
+    <Item>
+        <TextId>8015</TextId>
+        <Text>Circle Hollow</Text>
+    </Item>
+
+    <Item>
+        <TextId>8016</TextId>
+        <Text>C</Text>
+    </Item>
+
+    <Item>
+        <TextId>8017</TextId>
+        <Text>T</Text>
+    </Item>
+
+    <Item>
+        <TextId>8018</TextId>
+        <Text>Rectangle</Text>
+    </Item>
+
+    <Item>
+        <TextId>8019</TextId>
+        <Text>Circle</Text>
+    </Item>
+
+    <Item>
+        <TextId>8020</TextId>
+        <Text>I Asym</Text>
+    </Item>
+
+    <Item>
+        <TextId>8021</TextId>
+        <Text>Cold Formed</Text>
+    </Item>
+
+    <Item>
+        <TextId>8022</TextId>
+        <Text>Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>8023</TextId>
+        <Text>Rails</Text>
+    </Item>
+
+    <Item>
+        <TextId>8024</TextId>
+        <Text>Notch</Text>
+    </Item>
+
+    <Item><!-- Cope plain-->
+        <TextId>8025</TextId>
+        <Text>Cope length</Text>
+    </Item>
+
+    <Item>
+        <TextId>8026</TextId>
+        <Text>Cope depth</Text>
+    </Item>
+
+    <Item>
+        <TextId>8027</TextId>
+        <Text>Cope radius</Text>
+    </Item>
+
+    <Item><!-- Cope Std-->
+        <TextId>8028</TextId>
+        <Text>Cope length</Text>
+    </Item>
+
+    <Item>
+        <TextId>8029</TextId>
+        <Text>Cope depth</Text>
+    </Item>
+
+    <Item>
+        <TextId>8030</TextId>
+        <Text>Re-entrant radius</Text>
+    </Item>
+
+    <Item>
+        <TextId>8031</TextId>
+        <Text>Root face</Text>
+    </Item>
+
+    <Item>
+        <TextId>8032</TextId>
+        <Text>Groove angle</Text>
+    </Item>
+
+    <Item>
+        <TextId>8033</TextId>
+        <Text>Shop cope</Text>
+    </Item>
+
+    <Item>
+        <TextId>8034</TextId>
+        <Text>Clip web</Text>
+    </Item>
+
+    <Item><!-- Cope FEMA-->
+        <TextId>8035</TextId>
+        <Text>Cope length</Text>
+    </Item>
+
+    <Item>
+        <TextId>8036</TextId>
+        <Text>Re-entrant length</Text>
+    </Item>
+
+    <Item>
+        <TextId>8037</TextId>
+        <Text>Re-entrant depth</Text>
+    </Item>
+
+    <Item>
+        <TextId>8038</TextId>
+        <Text>Flange flush length</Text>
+    </Item>
+
+    <Item>
+        <TextId>8039</TextId>
+        <Text>Re-entrant radius</Text>
+    </Item>
+
+    <Item>
+        <TextId>8040</TextId>
+        <Text>Groove angle</Text>
+    </Item>
+
+    <Item>
+        <TextId>8041</TextId>
+        <Text>Re-entrant hole distance</Text>
+    </Item>
+
+    <Item>
+        <TextId>8042</TextId>
+        <Text>Root face</Text>
+    </Item>
+
+    <Item>
+        <TextId>8043</TextId>
+        <Text>Shop cope</Text>
+    </Item>
+
+    <Item>
+        <TextId>8044</TextId>
+        <Text>Clip web</Text>
+    </Item>
+
+    <Item><!-- Cope Seismic-->
+        <TextId>8045</TextId>
+        <Text>Cope length</Text>
+    </Item>
+
+    <Item>
+        <TextId>8046</TextId>
+        <Text>Re-entrant length</Text>
+    </Item>
+
+    <Item>
+        <TextId>8047</TextId>
+        <Text>Re-entrant depth</Text>
+    </Item>
+
+    <Item>
+        <TextId>8048</TextId>
+        <Text>Flange flush length</Text>
+    </Item>
+
+    <Item>
+        <TextId>8049</TextId>
+        <Text>Re-entrant radius</Text>
+    </Item>
+
+    <Item>
+        <TextId>8050</TextId>
+        <Text>Groove angle</Text>
+    </Item>
+
+    <Item>
+        <TextId>8051</TextId>
+        <Text>Re-entrant hole distance</Text>
+    </Item>
+
+    <Item>
+        <TextId>8052</TextId>
+        <Text>Root face</Text>
+    </Item>
+
+    <Item><!-- Cut flange width-->
+        <TextId>8053</TextId>
+        <Text>Flange length near side</Text>
+    </Item>
+
+    <Item>
+        <TextId>8054</TextId>
+        <Text>Flange length far side</Text>
+    </Item>
+
+    <Item>
+        <TextId>8055</TextId>
+        <Text>Cut flange flush</Text>
+    </Item>
+
+    <Item>
+        <TextId>8056</TextId>
+        <Text>Cut flange width</Text>
+    </Item>
+
+    <Item><!-- Notch-->
+        <TextId>8057</TextId>
+        <Text>Notch Length</Text>
+    </Item>
+
+    <Item>
+        <TextId>8058</TextId>
+        <Text>Notch width</Text>
+    </Item>
+
+    <Item>
+        <TextId>8059</TextId>
+        <Text>Notch offset</Text>
+    </Item>
+
+    <Item>
+        <TextId>8060</TextId>
+        <Text>Notch Radius</Text>
+    </Item>
+
+    <Item>
+        <TextId>8061</TextId>
+        <Text>Near Side Operation</Text>
+    </Item>
+
+    <Item>
+        <TextId>8062</TextId>
+        <Text>Far Side Operation</Text>
+    </Item>
+
+    <Item><!-- Moment connection -->
+        <TextId>8063</TextId>
+        <Text>Moment connection web setback</Text>
+    </Item>
+
+    <!-- DIALOG LINES -->
+
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Please select 2 point to place the cleat element</Text>
+    </Item>
+
+    <Item>
+        <TextId>10001</TextId>
+        <Text>Insert Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>10002</TextId>
+        <Text>Press Points Button to choose Polyline</Text>
+    </Item>
+
+    <Item>
+        <TextId>10005</TextId>
+        <Text>Click To Locate New Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>10006</TextId>
+        <Text>Select insert Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>10007</TextId>
+        <Text>Select First insert Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>Select Second insert Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Select point along Bolt direction</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Select origin of Bolt direction</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>Select First insert Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>10012</TextId>
+        <Text>Select Second insert Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>10013</TextId>
+        <Text>Select First angle Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>10014</TextId>
+        <Text>Select Second angle Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>10015</TextId>
+        <Text>Select insert Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>10016</TextId>
+        <Text>Select First insert Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>10017</TextId>
+        <Text>Select Second insert Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>10018</TextId>
+        <Text>Select point along Plate direction</Text>
+    </Item>
+
+    <Item>
+        <TextId>10019</TextId>
+        <Text>Select origin of Plate direction</Text>
+    </Item>
+
+    <Item>
+        <TextId>10020</TextId>
+        <Text>Select insert Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Select Polyline</Text>
+    </Item>
+
+    <Item>
+        <TextId>10024</TextId>
+        <Text>Select Thickness Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>10027</TextId>
+        <Text>Select insert Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>10028</TextId>
+        <Text>Select First insert Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>10029</TextId>
+        <Text>Select Next insert Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>10030</TextId>
+        <Text>Select Structural Framing Element</Text>
+    </Item>
+
+    <Item>
+        <TextId>10031</TextId>
+        <Text>Select new Point along the Weld</Text>
+    </Item>
+
+    <Item>
+        <TextId>10032</TextId>
+        <Text>Select a Profile in the Palette</Text>
+    </Item>
+
+    <Item>
+        <TextId>10033</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>10034</TextId>
+        <Text>Select a handle then drag and modify the parameters of weld</Text>
+    </Item>
+
+    <!-- POP-UP MESSAGE -->
+
+    <Item>
+        <TextId>11000</TextId>
+        <Text>You have to place the bolt first</Text>
+    </Item>
+
+    <Item>
+        <TextId>11001</TextId>
+        <Text>This is not a closed polyline</Text>
+    </Item>
+
+    <Item>
+        <TextId>11002</TextId>
+        <Text>Not all points are on the same 3D plane</Text>
+    </Item>
+
+    <Item>
+        <TextId>11003</TextId>
+        <Text>Please select between two exist points</Text>
+    </Item>
+
+    <Item>
+        <TextId>11004</TextId>
+        <Text>No localisation available.\n</Text>
+    </Item>
+
+    <Item>
+        <TextId>11005</TextId>
+        <Text>This PythonPart can only run correct with a valid localisation file.\n</Text>
+    </Item>
+
+    <Item>
+        <TextId>11006</TextId>
+        <Text>No geometry will be created.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11007</TextId>
+        <Text>Minimum 2 points required</Text>
+    </Item>
+
+    <Item>
+        <TextId>11008</TextId>
+        <Text>You have to select an insert point first</Text>
+    </Item>
+
+    <Item>
+        <TextId>11009</TextId>
+        <Text>Please reselect a point because 2 points selected cannot belong to the same surface.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11010</TextId>
+        <Text>Please select a Plate or a Structural Framing element first</Text>
+    </Item>
+
+    <Item>
+        <TextId>11011</TextId>
+        <Text>This operation will delete holes that result in invalid geometry. Proceed with deletion?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11012</TextId>
+        <Text>The selected element's profile is not compatible with the connection toolbox.&#13;&#10; Please use the Nemetschek profile catalog.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11013</TextId>
+        <Text>Please select a Structural Framing Element.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11014</TextId>
+        <Text>Incompatible operation type</Text>
+    </Item>
+
+    <Item>
+        <TextId>11015</TextId>
+        <Text>Incompatible element type</Text>
+    </Item>
+
+    <Item>
+        <TextId>11016</TextId>
+        <Text>This feature is not compatible with your current license</Text>
+    </Item>
+
+    <Item>
+        <TextId>11017</TextId>
+        <Text>This feature is incompatible with the version of Allplan you are using.</Text>
+    </Item>
+
+    <!-- NOT USED TO EXPRESS -->
+
+    <Item>
+        <TextId>12000</TextId>
+        <Text>Ox</Text>
+    </Item>
+
+    <Item>
+        <TextId>12001</TextId>
+        <Text>Oy</Text>
+    </Item>
+
+    <Item>
+        <TextId>12002</TextId>
+        <Text>Oz</Text>
+    </Item>
+
+    <Item>
+        <TextId>12003</TextId>
+        <Text>Ox: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12004</TextId>
+        <Text>Oy: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12005</TextId>
+        <Text>Oz: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12006</TextId>
+        <Text>Hole</Text>
+    </Item>
+
+    <Item>
+        <TextId>12007</TextId>
+        <Text>Create Hole</Text>
+    </Item>
+
+    <Item>
+        <TextId>12008</TextId>
+        <Text>Hole radius</Text>
+    </Item>
+
+    <Item>
+        <TextId>12009</TextId>
+        <Text>Slot Length</Text>
+    </Item>
+
+    <Item>
+        <TextId>12010</TextId>
+        <Text>Hole Angle</Text>
+    </Item>
+
+    <Item>
+        <TextId>12011</TextId>
+        <Text>Hole Offset</Text>
+    </Item>
+
+    <Item>
+        <TextId>12012</TextId>
+        <Text>Place</Text>
+    </Item>
+
+    <Item>
+        <TextId>12013</TextId>
+        <Text>Height Properties</Text>
+    </Item>
+
+    <Item>
+        <TextId>12014</TextId>
+        <Text>Reference Point</Text>
+    </Item>
+
+    <Item>
+        <TextId>12015</TextId>
+        <Text>StartPoint</Text>
+    </Item>
+
+    <Item>
+        <TextId>12016</TextId>
+        <Text>EndPoint</Text>
+    </Item>
+
+    <Item>
+        <TextId>12017</TextId>
+        <Text>2</Text>
+    </Item>
+
+    <Item>
+        <TextId>12018</TextId>
+        <Text>3</Text>
+    </Item>
+
+    <Item>
+        <TextId>12019</TextId>
+        <Text>Cleat</Text>
+    </Item>
+
+    <Item>
+        <TextId>12020</TextId>
+        <Text>Bolt</Text>
+    </Item>
+
+    <Item>
+        <TextId>12021</TextId>
+        <Text>Weld</Text>
+    </Item>
+
+    <Item>
+        <TextId>12022</TextId>
+        <Text>Points</Text>
+    </Item>
+
+    <Item>
+        <TextId>12023</TextId>
+        <Text>Stiffener</Text>
+    </Item>
+</Element>

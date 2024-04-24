@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Workflow</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Další informace:</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Tutorial</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Vybrat typ</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>3D Objekt</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>PythonPart</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Vytvořit výztuž</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>Obecné</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>Obecná nastavení</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Krytí výztuže</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text>Třída pevnosti betonu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>Katalog průřezů</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>Třmínek - poloměr ohybu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Nastavení výztuže</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text>Min. ø hlavní výztuže</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Min. ø boční výztuže</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Min. ø třmíků</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>Max. rozteč třmínků</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Úhel háků třmínků</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Max. délka prutu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Hlavní výztuž - poloměr ohybu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Podélná výztuž</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Hlavní výztuž - horní</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Průměr</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Počet prutů</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Plocha výztuže (As)</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Hlavní výztuž - dolní</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Hlavní výztuž - přídavná</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Přídavná výztuž dole</Text>
+    </Item>
+
+    <Item>
+        <TextId>1048</TextId>
+        <Text>Délka prutu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Boční výztuž</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Ukládka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Odstup od okraje na začátku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Odstup od okraje na konci</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Jedna oblast ukládky</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Vytvořit</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Odstup</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Délka háků</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Odstup uprostřed</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Odstup na začátku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>Odstup na konci</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>Definice tloušťky desky</Text>
+    </Item>
+
+    <Item>
+        <TextId>1068</TextId>
+        <Text>Počet oblastí</Text>
+    </Item>
+
+    <Item>
+        <TextId>1081</TextId>
+        <Text>Řezy</Text>
+    </Item>
+
+    <Item>
+        <TextId>1082</TextId>
+        <Text>Pohled</Text>
+    </Item>
+
+    <Item>
+        <TextId>1083</TextId>
+        <Text>Název nosníku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1084</TextId>
+        <Text>Popis 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1085</TextId>
+        <Text>Popis 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1086</TextId>
+        <Text>Měřítko</Text>
+    </Item>
+
+    <Item>
+        <TextId>1087</TextId>
+        <Text>Popis výztuže</Text>
+    </Item>
+
+    <Item>
+        <TextId>1089</TextId>
+        <Text>Prvky</Text>
+    </Item>
+
+    <Item>
+        <TextId>1090</TextId>
+        <Text>Výztuž</Text>
+    </Item>
+
+    <Item>
+        <TextId>1092</TextId>
+        <Text>Vyberte element</Text>
+    </Item>
+
+    <Item>
+        <TextId>1091</TextId>
+        <Text>Délka ukládky uprostřed</Text>
+    </Item>
+
+    <Item>
+        <TextId>1093</TextId>
+        <Text>Délka ukládky</Text>
+    </Item>
+
+    <Item>
+        <TextId>1094</TextId>
+        <Text>Umístit řezy</Text>
+    </Item>
+
+    <Item>
+        <TextId>1096</TextId>
+        <Text>Tloušťka desky</Text>
+    </Item>
+
+    <Item>
+        <TextId>1097</TextId>
+        <Text>Nastavení oblasti</Text>
+    </Item>
+
+    <Item>
+        <TextId>1098</TextId>
+        <Text>Délka ukládky na začátku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1099</TextId>
+        <Text>Třmínky</Text>
+    </Item>
+
+    <Item>
+        <TextId>1100</TextId>
+        <Text>Délka ukládky na konci</Text>
+    </Item>
+
+    <Item>
+        <TextId>1101</TextId>
+        <Text>Řezy</Text>
+    </Item>
+
+    <Item>
+        <TextId>1102</TextId>
+        <Text>Oblast</Text>
+    </Item>
+
+    <Item>
+        <TextId>1103</TextId>
+        <Text>Řez 1-1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1104</TextId>
+        <Text>Řez 2-2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1105</TextId>
+        <Text>Řez 3-3</Text>
+    </Item>
+
+    <Item>
+        <TextId>1106</TextId>
+        <Text>Zobrazit vstupní tabulku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1107</TextId>
+        <Text>Podélná výztuž</Text>
+    </Item>
+
+    <Item>
+        <TextId>1108</TextId>
+        <Text>Nosník</Text>
+    </Item>
+
+    <Item>
+        <TextId>1109</TextId>
+        <Text>Délka přesahu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1110</TextId>
+        <Text>Délka háku = D *</Text>
+    </Item>
+
+    <Item>
+        <TextId>1111</TextId>
+        <Text>Kotevní délka na začátku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1112</TextId>
+        <Text>Kotevní délka na konci</Text>
+    </Item>
+
+    <Item>
+        <TextId>1113</TextId>
+        <Text>Odstup na začátku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1114</TextId>
+        <Text>Odstup na konci</Text>
+    </Item>
+
+    <Item>
+        <TextId>1117</TextId>
+        <Text>Min. čistý odstup mezi pruty</Text>
+    </Item>
+
+    <Item>
+        <TextId>1118</TextId>
+        <Text>Hodnoty výztuže</Text>
+    </Item>
+
+    <Item>
+        <TextId>1119</TextId>
+        <Text>Manuální</Text>
+    </Item>
+
+    <Item>
+        <TextId>1120</TextId>
+        <Text>Na základě normy</Text>
+    </Item>
+
+    <Item>
+        <TextId>1121</TextId>
+        <Text>Háky na konci</Text>
+    </Item>
+
+    <Item>
+        <TextId>1148</TextId>
+        <Text>Mód pohledu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1149</TextId>
+        <Text>Pohled pro celý nosník</Text>
+    </Item>
+
+    <Item>
+        <TextId>1150</TextId>
+        <Text>Pohled pro každé pole</Text>
+    </Item>
+
+    <Item>
+        <TextId>1151</TextId>
+        <Text>Řezy</Text>
+    </Item>
+
+    <Item>
+        <TextId>1153</TextId>
+        <Text>Háky na začátku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1157</TextId>
+        <Text>1:50</Text>
+    </Item>
+
+    <Item>
+        <TextId>1158</TextId>
+        <Text>1:25</Text>
+    </Item>
+
+    <Item>
+        <TextId>1159</TextId>
+        <Text>1:20</Text>
+    </Item>
+
+    <Item>
+        <TextId>1161</TextId>
+        <Text>Zde zadejte prosím počet oblastí výztuže</Text>
+    </Item>
+
+    <Item>
+        <TextId>1162</TextId>
+        <Text>Formát</Text>
+    </Item>
+
+    <Item>
+        <TextId>1163</TextId>
+        <Text>Hlavní výztuž</Text>
+    </Item>
+
+    <Item>
+        <TextId>1164</TextId>
+        <Text>Horní výztuž</Text>
+    </Item>
+
+    <Item>
+        <TextId>1166</TextId>
+        <Text>Dolní výztuž</Text>
+    </Item>
+
+    <Item>
+        <TextId>1167</TextId>
+        <Text>Přídavná výztuž</Text>
+    </Item>
+
+    <Item>
+        <TextId>1168</TextId>
+        <Text>Hlavní třmínek</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Ano</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>Ne</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Boční výztuž</Text>
+    </Item>
+
+    <!-- For palette messages -->
+    <Item>
+        <TextId>4999</TextId>
+        <Text>Tento PythonPart vám umožní automaticky vytvořit výztuž nosníku.\n\nPostupujte podle následujících kroků:\n 1) Vyberte nosník pro vyztužení.\n 2) Projděte záložky "Obecně", "Hlavní výztuž", "Třmínek" pro nastavení výztuže nosníku. \n      Klikněte na "Vytvořit" pro kontrolu a vytvoření výztuže.\n 3) Projděte záložku "Řezy" pro nastavení parametrů řezu. \n      Klikněte na "Vytvořit" a umístěte řez do fólie.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Vyberte prosím prvky</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>pro zobrazení záložky "Obecné".</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>Přejděte na kartu Podélná výztuž.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>pro zobrazení záložky "Třmínky".</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>pro zobrazení záložky "Řezy".</Text>
+    </Item>
+    <Item>
+        <TextId>5008</TextId>
+        <Text>Přejděte na kartu Formát.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>Kliknutím levým tlačítkem myši vyberete jeden nosník / kliknutím pravým tlačítkem myši vyberete více nosníků</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Úprava parametrů a vytvoření výztuže / ESC pro opětovný výběr sloupu(ů)</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Výběr nosníků kliknutím levým tlačítkem myši nebo výběrem oblasti</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>Výběr sloupu(ů) kliknutím levým tlačítkem myši nebo výběrem oblasti</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Zadejte parametry a vyberte Vytvořit pro vytvoření řezů</Text>
+    </Item>
+
+    <Item>
+        <TextId>10022</TextId>
+        <Text>Zadejte souřadnice pro umístění řezu v půdorysném pohledu</Text>
+    </Item>
+
+    <Item>
+        <TextId>10038</TextId>
+        <Text>Parametr byl upraven.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10039</TextId>
+        <Text>Přejete si aktualizovat čísla položek prutové výztuže?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10040</TextId>
+        <Text>Zkopírovali jste PythonPart propojený s architektonickým prvkem.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10041</TextId>
+        <Text>Přejete si ho propojit s novým architektonickým prvkem?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10042</TextId>
+        <Text>Horní rovina vybraných nosníků je rozdílná.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10043</TextId>
+        <Text>Tato verze nepodporuje nosníky s různými směry.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10044</TextId>
+        <Text>Šířka nosníků je různá.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10045</TextId>
+        <Text>Vybrané nosníky kolidují nebo je alespoň jeden nosník duplicitní.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10046</TextId>
+        <Text>Tato verze nepodporuje nosníky s excentrickými osami.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10047</TextId>
+        <Text>- Aplikace podporuje pouze sloupy obdélníkového nebo kulatého tvaru.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10048</TextId>
+        <Text>- Aplikace nepodporuje sloupy se společným objemem.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10049</TextId>
+        <Text>- Aplikace podporuje pouze sloupy s obdélníkovým nebo kruhovým průřezem.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10050</TextId>
+        <Text>- Šířka nosníků je větší než šířka podpěry.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10051</TextId>
+        <Text>- Jeden z vrcholů nosníku je mimo půdorysný průřez podpěry.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10052</TextId>
+        <Text>- Úhel natočení podpěry a nosníku se liší.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10053</TextId>
+        <Text>- Mezi vybranou podpěrou a nosníkem je mezera.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10054</TextId>
+        <Text>Vyberte znovu sloupy.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10055</TextId>
+        <Text>Vyberte znovu nosníky.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10056</TextId>
+        <Text>Neplatný výběr:</Text>
+    </Item>
+
+    <Item>
+        <TextId>10057</TextId>
+        <Text>Kliknutím pravým tlačítkem myši zahájíte výběr sloupu(ů) nebo zadáte parametry výztuže nebo stisknete ESC pro opětovný výběr nosníku(ů).</Text>
+    </Item>
+
+    <Item>
+        <TextId>10058</TextId>
+        <Text>Zadejte parametry výztuže nebo stiskněte ESC pro opětovný výběr nosníku.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10059</TextId>
+        <Text>- Světlý odstup mezi boční výztuží nesplňuje požadavek definovaný na kartě obecné.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10060</TextId>
+        <Text>- Délka boční výztuže alespoň v jednom poli přesahuje nastavení maximální délky prutu na kartě obecné.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10061</TextId>
+        <Text>- Světlá vzdálenost mezi spodní výztuží nesplňuje požadavek uvedený na kartě obecné.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10062</TextId>
+        <Text>- Délka hlavní spodní výztuže alespoň v jednom poli přesahuje nastavení maximální délky prutu na kartě obecné.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10063</TextId>
+        <Text>- Délka hlavní horní výztuže alespoň v jednom poli přesahuje nastavení maximální délky prutu na kartě obecné.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10064</TextId>
+        <Text>Upravte parametry tak, aby celková délka prutu byla menší než maximální délka prutu.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10065</TextId>
+        <Text>Přejete si pokračovat?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10066</TextId>
+        <Text>Je možné vytvořit horní výztuž přes více polí nebo ji rozdělit na jednotlivá pole. \nChcete ji vytvořit pro více polí?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10067</TextId>
+        <Text>- Světlý odstup mezi horní výztuží nesplňuje požadavek uvedený na kartě obecné.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10068</TextId>
+        <Text>- Délka přídavné spodní výztuže alespoň v jednom poli je větší než nastavení maximální délky prutu na kartě obecné.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10069</TextId>
+        <Text>- Světlý odstup spodní hlavní výztuže a přídavné výztuže nesplňuje požadavek z karty obecné.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10070</TextId>
+        <Text>- Zadaný počet přídavných výztuží a hlavních spodních výztuží není vhodný pro umístění v modelu nosníku.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10071</TextId>
+        <Text>Tento PythonPart je připojen k architektonickému prvku, se kterým byl vytvořen.\nVezměte prosím na vědomí, že tento PythonPart nemůžete zkopírovat do jiného umístění.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10072</TextId>
+        <Text>Ještě jste nevytvořili výztuž. Opravdu chcete tuto funkci přerušit?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10090</TextId>
+        <Text>- Světlý odstup mezi bočními pruty je větší než maximální odstup mezi pruty.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10091</TextId>
+        <Text>Upravte prosím parametry na kartách, abyste aktualizovali výztuž.</Text>
+    </Item>
+
+</Element>

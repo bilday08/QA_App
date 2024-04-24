@@ -1,0 +1,11 @@
+TestCase Name,TestCase Description,TestCase Result,Note,Status
+Wall without top wall - Issues related to copy feature,Wall without top wall - Issues related to copy feature,As expected,Main feature,Pass
+Wall without top wall - Lost rebars,Wall without top wall - Lost rebars,As expected,Main feature,Pass
+Wall without top wall - Issues related to rebars mark number,Wall without top wall - Issues related to rebars mark number,As expected,Main feature,Pass
+wall with top wall - Issues related to copy feature,wall with top wall - Issues related to copy feature,As expected,Main feature,Pass
+wall with top wall - Lost rebars,wall with top wall - Lost rebars,As expected,Main feature,Pass
+wall with top wall - Issues related to rebars mark number,wall with top wall - Issues related to rebars mark number,As expected,Main feature,Pass
+Additional case for wall without wall above,Additional case for wall without wall above,As expected,Main feature,Pass
+Additional case for wall with wall above,Additional case for wall with wall above,As expected,Main feature,Pass
+Versioning in branch 2022,Versioning in branch 2022,As expected,Main feature,Pass
+Versioning in branch 2023,Versioning in branch 2023,As expected,Main feature,Pass

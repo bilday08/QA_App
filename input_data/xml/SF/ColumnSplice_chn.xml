@@ -1,0 +1,200 @@
+<Element>
+
+    <!-- General-->
+    <Item>
+        <TextId>9000</TextId>
+        <Text>Column Splice</Text>
+    </Item>
+
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Help</Text>
+    </Item>
+
+    <!-- General parameters -->
+    <Item>
+        <TextId>1000</TextId>
+        <Text>General Parameters</Text>
+    </Item>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Splice type</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Flange &amp; Web</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Cap &amp; Base</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Welded</Text>
+    </Item>
+
+    <!-- Plate -->
+    <Item>
+        <TextId>2000</TextId>
+        <Text>Web Plate Parameters</Text>
+    </Item>
+
+    <Item>
+        <TextId>2001</TextId>
+        <Text>Thickness</Text>
+    </Item>
+
+    <Item>
+        <TextId>2002</TextId>
+        <Text>Length</Text>
+    </Item>
+
+    <Item>
+        <TextId>2003</TextId>
+        <Text>Width</Text>
+    </Item>
+
+    <Item>
+        <TextId>2004</TextId>
+        <Text>Flange Plate Parameters</Text>
+    </Item>
+
+    <Item>
+        <TextId>2005</TextId>
+        <Text>Width</Text>
+    </Item>
+
+    <!-- Bolt -->
+    <Item>
+        <TextId>3000</TextId>
+        <Text>Bolt Parameters</Text>
+    </Item>
+
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Size</Text>
+    </Item>
+
+    <Item>
+        <TextId>3002</TextId>
+        <Text>Washers</Text>
+    </Item>
+
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Nut Washers</Text>
+    </Item>
+
+    <Item>
+        <TextId>3004</TextId>
+        <Text>Bolt Grade</Text>
+    </Item>
+
+    <Item>
+        <TextId>3005</TextId>
+        <Text>Level of detail</Text>
+    </Item>
+
+    <Item>
+        <TextId>3006</TextId>
+        <Text>Low</Text>
+    </Item>
+
+    <Item>
+        <TextId>3007</TextId>
+        <Text>Medium</Text>
+    </Item>
+
+    <Item>
+        <TextId>3008</TextId>
+        <Text>High</Text>
+    </Item>
+
+    <Item>
+        <TextId>3009</TextId>
+        <Text>Web Bolt Layout</Text>
+    </Item>
+
+    <Item>
+        <TextId>3010</TextId>
+        <Text>Rows</Text>
+    </Item>
+
+    <Item>
+        <TextId>3011</TextId>
+        <Text>Columns</Text>
+    </Item>
+
+    <Item>
+        <TextId>3012</TextId>
+        <Text>Edge Distance</Text>
+    </Item>
+
+    <Item>
+        <TextId>3013</TextId>
+        <Text>Flange Bolt Layout</Text>
+    </Item>
+
+    <!-- Help tab -->
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Note, You must select two Columns which are:</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>    1. Structural Framing Columns</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>    2. Positioned in the same X and Y location</Text>
+    </Item>
+
+    <Item>
+        <TextId>5003</TextId>
+        <Text>    3. Positioned one above the other in the Z axis</Text>
+    </Item>
+
+    <Item>
+        <TextId>5004</TextId>
+        <Text>    4. Rotated by the same angle</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>    5. Use the same Nemetschek Profile</Text>
+    </Item>
+
+    <!-- Dialog -->
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Select Lower Column</Text>
+    </Item>
+
+    <Item>
+        <TextId>10001</TextId>
+        <Text>Select Upper Column</Text>
+    </Item>
+
+    <!-- POP-UP MESSAGE -->
+    <Item>
+        <TextId>11000</TextId>
+        <Text>This feature is not compatible with your current license.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11001</TextId>
+        <Text>This feature is incompatible with the version of Allplan you are using.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11002</TextId>
+        <Text>Please select a Structural Framing Column that uses a profile from the Nemetschek profile catalog.</Text>
+    </Item>
+
+</Element>

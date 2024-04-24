@@ -1,0 +1,4 @@
+TestCase Name,TestCase Description,TestCase Result,Note,Status
+Using code WIP4 to reopen old pythonparts created from Allplan 2022,"Can reopen old pythonparts created from Allplan 2022-0-2 to 2022-1-10, the reinforcement mass is changed in acceptable range ",As expected,Main feature,Pass
+Using code WIP4 to reopen old pythonparts created from Allplan 2023,"Can reopen old pythonparts created from Allplan 2023-0-0 to 2023-0-7, the reinforcement mass is changed in acceptable range ",As expected,Main feature,Pass
+Using code WIP4 to reopen old pythonparts created from Allplan 2024,"Can reopen old pythonparts created from Allplan 2024-WIP-2 to 2024-WIP-3, the reinforcement mass is changed in acceptable range ",As expected,Main feature,Pass

@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>İş akışı</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Daha fazla bilgi için, lütfen buraya tıklayın:</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Eğitim videosu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Tipi seçin</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>3B Obje</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Python Part</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Donatı yerleştir</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>Genel</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>Genel Ayarlar</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Pas payı</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text>Beton kalitesi</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>Kesit kataloğu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>Etriye bükme pimi</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Çubuk demir parametreleri</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text>Min. Ana çubuk demir çapı</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Min. Yan çubuk demir çapı</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Min. Etriye çapı</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>Min. Etriye aralığı</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Etriye kanca açısı</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Maks. Çubuk uzunluğu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Ana donatı bükme pimi</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Boyuna donatı</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Ana demir donatı üst</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Çap</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Çubuk sayısı</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Donatı alanı (As)</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Ana demir donatı alt</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Ana demir donatı ek</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Ek donatı alt</Text>
+    </Item>
+
+    <Item>
+        <TextId>1048</TextId>
+        <Text>Çubuk uzunluğu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Yan donatı</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Yerleşim</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Başlangıçtan öteleme</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Sondan öteleme</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Tek yerleşim bölgesi</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Oluştur</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Öteleme</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Kanca Uzunluğu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Ortadaki aralık</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Başlangıçtaki aralık</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>Sondaki aralık</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>Döşeme Kalınlığı Tanımı</Text>
+    </Item>
+
+    <Item>
+        <TextId>1068</TextId>
+        <Text>Donatı alanı sayısı</Text>
+    </Item>
+
+    <Item>
+        <TextId>1081</TextId>
+        <Text>Kesitler</Text>
+    </Item>
+
+    <Item>
+        <TextId>1082</TextId>
+        <Text>Cephe</Text>
+    </Item>
+
+    <Item>
+        <TextId>1083</TextId>
+        <Text>Kiriş ismi</Text>
+    </Item>
+
+    <Item>
+        <TextId>1084</TextId>
+        <Text>Açıklama 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1085</TextId>
+        <Text>Açıklama 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1086</TextId>
+        <Text>Ölçek</Text>
+    </Item>
+
+    <Item>
+        <TextId>1087</TextId>
+        <Text>Donatı etiketleme</Text>
+    </Item>
+
+    <Item>
+        <TextId>1089</TextId>
+        <Text>Eleman</Text>
+    </Item>
+
+    <Item>
+        <TextId>1090</TextId>
+        <Text>Donatı</Text>
+    </Item>
+
+    <Item>
+        <TextId>1092</TextId>
+        <Text>Elemanları seçin</Text>
+    </Item>
+
+    <Item>
+        <TextId>1091</TextId>
+        <Text>Ortadaki yerleştirme uzunluğu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1093</TextId>
+        <Text>Yerleştirme uzunluğu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1094</TextId>
+        <Text>Kesitleri yerleştir</Text>
+    </Item>
+
+    <Item>
+        <TextId>1096</TextId>
+        <Text>Döşeme Kalınlığı</Text>
+    </Item>
+
+    <Item>
+        <TextId>1097</TextId>
+        <Text>Donatı alanı için ayar</Text>
+    </Item>
+
+    <Item>
+        <TextId>1098</TextId>
+        <Text>Başlangıçta yerleştirme uzunluğu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1099</TextId>
+        <Text>Etriyeler</Text>
+    </Item>
+
+    <Item>
+        <TextId>1100</TextId>
+        <Text>Sonda yerleştirme uzunluğu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1101</TextId>
+        <Text>Kesit</Text>
+    </Item>
+
+    <Item>
+        <TextId>1102</TextId>
+        <Text>Donatı alanı</Text>
+    </Item>
+
+    <Item>
+        <TextId>1103</TextId>
+        <Text>Kesit 1-1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1104</TextId>
+        <Text>Kesit 2-2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1105</TextId>
+        <Text>Kesit 3-3</Text>
+    </Item>
+
+    <Item>
+        <TextId>1106</TextId>
+        <Text>Giriş tablosunu göster</Text>
+    </Item>
+
+    <Item>
+        <TextId>1107</TextId>
+        <Text>Boyuna donatı</Text>
+    </Item>
+
+    <Item>
+        <TextId>1108</TextId>
+        <Text>Kiriş</Text>
+    </Item>
+
+    <Item>
+        <TextId>1109</TextId>
+        <Text>Turlama uzunluğu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1110</TextId>
+        <Text>Kanca uzunluğu = D *</Text>
+    </Item>
+
+    <Item>
+        <TextId>1111</TextId>
+        <Text>Başlangıçta ankraj uzunluğu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1112</TextId>
+        <Text>Sondaki ankraj uzunluğu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1113</TextId>
+        <Text>Başlangıç mesafesi</Text>
+    </Item>
+
+    <Item>
+        <TextId>1114</TextId>
+        <Text>Bitiş mesafesi</Text>
+    </Item>
+
+    <Item>
+        <TextId>1117</TextId>
+        <Text>Min. çubuklar arasındaki net mesafe</Text>
+    </Item>
+
+    <Item>
+        <TextId>1118</TextId>
+        <Text>Donatı değerleri</Text>
+    </Item>
+
+    <Item>
+        <TextId>1119</TextId>
+        <Text>Manuel</Text>
+    </Item>
+
+    <Item>
+        <TextId>1120</TextId>
+        <Text>norm tabanlı</Text>
+    </Item>
+
+    <Item>
+        <TextId>1121</TextId>
+        <Text>Sondaki kanca</Text>
+    </Item>
+
+    <Item>
+        <TextId>1148</TextId>
+        <Text>Yükseklik modu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1149</TextId>
+        <Text>Tüm kiriş için yükseklik</Text>
+    </Item>
+
+    <Item>
+        <TextId>1150</TextId>
+        <Text>Her donatı alanı için yükseklik</Text>
+    </Item>
+
+    <Item>
+        <TextId>1151</TextId>
+        <Text>Enine kesit</Text>
+    </Item>
+
+    <Item>
+        <TextId>1153</TextId>
+        <Text>Başlangıçta kanca</Text>
+    </Item>
+
+    <Item>
+        <TextId>1157</TextId>
+        <Text>1:50</Text>
+    </Item>
+
+    <Item>
+        <TextId>1158</TextId>
+        <Text>1:25</Text>
+    </Item>
+
+    <Item>
+        <TextId>1159</TextId>
+        <Text>1:20</Text>
+    </Item>
+
+    <Item>
+        <TextId>1161</TextId>
+        <Text>Lütfen donatı alanı numarasını buraya girin</Text>
+    </Item>
+
+    <Item>
+        <TextId>1162</TextId>
+        <Text>Biçim</Text>
+    </Item>
+
+    <Item>
+        <TextId>1163</TextId>
+        <Text>Ana donatı</Text>
+    </Item>
+
+    <Item>
+        <TextId>1164</TextId>
+        <Text>Üst donatı</Text>
+    </Item>
+
+    <Item>
+        <TextId>1166</TextId>
+        <Text>Alt donatı</Text>
+    </Item>
+
+    <Item>
+        <TextId>1167</TextId>
+        <Text>Ek alt</Text>
+    </Item>
+
+    <Item>
+        <TextId>1168</TextId>
+        <Text>Ana etriyeler</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Evet</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>Hayır</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Yan donatı</Text>
+    </Item>
+
+    <!-- For palette messages -->
+    <Item>
+        <TextId>4999</TextId>
+        <Text>Bu PythonPart, kirişlerde otomatik olarak donatı oluşturmanıza olanak sağlar.\n\nBaşlamak için şu adımları uygulamanız yeterlidir:\n 1) Donatılandırılacak kirişi seçin.\n 2) Kiriş donatısını tanımlamak için "Genel", "Ana donatı", "Etriye" sekmelerine gidin. \n      Donatıyı kontrol etmek ve oluşturmak için "Oluştur" u tıklayın.\n 3) Kesit parametrelerini tanımlamak için "Kesitler" sekmesine gidin. \n      ‘’Oluştur’’u tıklayın ve kesitleri yerleştirin.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Lütfen elemanları seçin</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>Genel sekmesine erişin.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>Boyuna Donatı sekmesine erişin.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>Etriyeler sekmesine erişin.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>Kesitler sekmesine erişin.</Text>
+    </Item>
+    <Item>
+        <TextId>5008</TextId>
+        <Text>Biçim sekmesine erişin.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>Tek kiriş seçmek için sol tıklayın / birden fazla kiriş seçmek için sağ tıklayın</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Parametreleri ayarlayın ve donatı oluşturun/ Destekleri yeniden seçmek için ESC tıklayın</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Sol tıklama veya alan seçimi ile kiriş(ler)i seçin</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>Sol tıklama veya alan seçimi ile destek(ler)i seçin</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Kesit oluşturmak için lütfen parametreleri girin ve Oluştur'u seçin</Text>
+    </Item>
+
+    <Item>
+        <TextId>10022</TextId>
+        <Text>Kesiti plan görünümüne yerleştirmek için koordinatları girin</Text>
+    </Item>
+
+    <Item>
+        <TextId>10038</TextId>
+        <Text>Parametrelerde değişiklikler oldu.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10039</TextId>
+        <Text>Donatının işaret numarasını güncellemek istiyor musunuz?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10040</TextId>
+        <Text>Bir mimari objeye bağlı python bölümünü kopyaladınız.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10041</TextId>
+        <Text>Onu yeni mimari objeye bağlamak istiyor musunuz?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10042</TextId>
+        <Text>Seçilen kirişlerin en üst seviyesi farklıdır.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10043</TextId>
+        <Text>Bu sürüm, farklı yönlere sahip kirişleri desteklemez.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10044</TextId>
+        <Text>Kirişlerin genişliği farklıdır.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10045</TextId>
+        <Text>Seçilen kirişler çakışıyor veya en az bir kiriş bir çifttir.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10046</TextId>
+        <Text>Bu sürüm, eksantrik eksenli kirişleri desteklemez.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10047</TextId>
+        <Text>- Uygulama yalnızca dikdörtgen veya yuvarlak şekilli kolonları destekler.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10048</TextId>
+        <Text>- Uygulama, ortak bir hacme sahip kolonları desteklemiyor.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10049</TextId>
+        <Text>- Uygulama yalnızca dikdörtgen veya daire kesitli kolonları destekler.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10050</TextId>
+        <Text>- Kirişlerin genişliği bir destekten daha büyüktür.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10051</TextId>
+        <Text>- Kirişin köşelerinden biri mesnet kesitinin plan görünümünün dışındadır.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10052</TextId>
+        <Text>- Destek ve kirişin dönüş açısı farklıdır.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10053</TextId>
+        <Text>- Seçilen destek ve kiriş arasında bir boşluk var.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10054</TextId>
+        <Text>Lütfen destekleri yeniden seçin.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10055</TextId>
+        <Text>Lütfen kirişleri yeniden seçin.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10056</TextId>
+        <Text>Geçersiz seçim:</Text>
+    </Item>
+
+    <Item>
+        <TextId>10057</TextId>
+        <Text>Destek(ler)i seçmeye başlamak veya donatı parametrelerini girmek için sağ tıklayın veya kiriş(ler)i yeniden seçmek için ESC'ye basın</Text>
+    </Item>
+
+    <Item>
+        <TextId>10058</TextId>
+        <Text>Donatı parametrelerini girin veya kirişi yeniden seçmek için ESC'ye basın.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10059</TextId>
+        <Text>- Yan donatılar arasındaki net mesafe, genel sekmesinde tanımlanan gereksinimi karşılamıyor.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10060</TextId>
+        <Text>- En az bir aralıktaki yan donatı uzunluğu, genel sekmesindeki maksimum çubuk uzunluğu ayarını aşıyor.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10061</TextId>
+        <Text>- Alt donatılar arasındaki net mesafe, genel sekmesindeki gereksinimi karşılamıyor.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10062</TextId>
+        <Text>- En az bir açıklıktaki ana alt donatının uzunluğu, genel sekmesindeki maksimum çubuk uzunluğu ayarını aşıyor.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10063</TextId>
+        <Text>- En az bir aralıktaki ana üst donatı uzunluğu, genel sekmesindeki maksimum çubuk uzunluğu ayarını aşıyor.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10064</TextId>
+        <Text>Toplam çubuk uzunluğunun maksimum çubuk uzunluğundan daha küçük olduğundan emin olmak için lütfen parametreleri değiştirin.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10065</TextId>
+        <Text>Devam etmek istiyor musun?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10066</TextId>
+        <Text>Birden fazla aralıkta üst donatılar oluşturmak veya bunları aralık başına bölmek mümkündür. \nOnları birden çok alanda mı oluşturmak istiyorsunuz?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10067</TextId>
+        <Text>- Üst donatı demiri arasındaki net mesafe, genel sekmesindeki gereksinimi karşılamıyor.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10068</TextId>
+        <Text>- En az bir donatı alanındaki ilave alt donatı uzunluğu, genel sekmesindeki maksimum çubuk uzunluğu ayarından daha büyüktür.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10069</TextId>
+        <Text>- Alt ana donatı ve ek donatı arasındaki net mesafe, Genel Sekmesindeki gereksinimi karşılamıyor.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10070</TextId>
+        <Text>- - Girdiğiniz ilave donatı sayısı ve ana alt donatı sayısı kiriş modeline yerleştirilmeye uygun değil.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10071</TextId>
+        <Text>Bu PythonPart, oluşturulduğu mimari bileşenine bağlıdır. \nLütfen, PythonPart'ı başka bir konuma kopyalamanın mümkün olmadığını unutmayın.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10072</TextId>
+        <Text>Henüz donatı oluşturmadınız. Bu işlevi iptal etmek istediğinizden emin misiniz?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10090</TextId>
+        <Text>- Yan donatılar arasındaki net mesafe, çubuklar arasındaki maksimum açıklığı aşıyor.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10091</TextId>
+        <Text>Donatıyı güncellemek için lütfen sekmelerdeki parametreleri değiştirin</Text>
+    </Item>
+
+</Element>

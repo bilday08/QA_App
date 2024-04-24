@@ -1,0 +1,413 @@
+<Element>
+
+    <!--GENERAL-->
+    <Item>
+        <TextId>9000</TextId>
+        <Text>Donja ploča</Text>
+    </Item>
+
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Geometrija</Text>
+    </Item>
+
+    <!--PLATE-->
+    <Item>
+        <TextId>1000</TextId>
+        <Text>Parametri ploče</Text>
+    </Item>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Širina</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Dubina</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Debljina</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Standard</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Automatski</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Razmak</Text>
+    </Item>
+
+    <Item>
+        <TextId>1007</TextId>
+        <Text>Veličina</Text>
+    </Item>
+
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Pravokutnik</Text>
+    </Item>
+
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Krug</Text>
+    </Item>
+
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Oblik ploče</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Promjer</Text>
+    </Item>
+
+    <!--BOLT-->
+    <Item>
+        <TextId>2000</TextId>
+        <Text>Parametri sidra</Text>
+    </Item>
+
+    <Item>
+        <TextId>2001</TextId>
+        <Text>Odmak od ruba</Text>
+    </Item>
+
+    <Item>
+        <TextId>2002</TextId>
+        <Text>Broj vijaka</Text>
+    </Item>
+
+    <Item>
+        <TextId>2003</TextId>
+        <Text>Broj vijaka</Text>
+    </Item>
+
+    <Item>
+        <TextId>2004</TextId>
+        <Text>Vrsta kuke</Text>
+    </Item>
+
+    <Item>
+        <TextId>2005</TextId>
+        <Text>S glavom/L kuka/J kuka</Text>
+    </Item>
+
+    <Item>
+        <TextId>2006</TextId>
+        <Text>Veličina</Text>
+    </Item>
+
+    <Item>
+        <TextId>2007</TextId>
+        <Text>Duljina</Text>
+    </Item>
+
+    <Item>
+        <TextId>2008</TextId>
+        <Text>Podložne pločice</Text>
+    </Item>
+
+    <Item>
+        <TextId>2009</TextId>
+        <Text>Klasa sidra</Text>
+    </Item>
+
+    <Item>
+        <TextId>2010</TextId>
+        <Text>Nivo detalja</Text>
+    </Item>
+
+    <Item>
+        <TextId>2011</TextId>
+        <Text>Nisko</Text>
+    </Item>
+
+    <Item>
+        <TextId>2012</TextId>
+        <Text>Srednje</Text>
+    </Item>
+
+    <Item>
+        <TextId>2013</TextId>
+        <Text>Visoko</Text>
+    </Item>
+
+    <Item>
+        <TextId>2014</TextId>
+        <Text>Broj vijaka</Text>
+    </Item>
+
+    <!--WELD-->
+    <Item>
+        <TextId>3000</TextId>
+        <Text>Parametri vara</Text>
+    </Item>
+
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Vrsta vara</Text>
+    </Item>
+
+    <Item>
+        <TextId>3002</TextId>
+        <Text>Polilinija / Odrez / Konveksno / Konkavno</Text>
+    </Item>
+
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Širina vara</Text>
+    </Item>
+
+    <Item>
+        <TextId>3004</TextId>
+        <Text>Kut vara</Text>
+    </Item>
+
+    <Item>
+        <TextId>3005</TextId>
+        <Text>Duljina vara</Text>
+    </Item>
+
+    <Item>
+        <TextId>3006</TextId>
+        <Text>Dubina vara</Text>
+    </Item>
+
+    <Item>
+        <TextId>3007</TextId>
+        <Text>Polje vara</Text>
+    </Item>
+
+    <Item>
+        <TextId>3008</TextId>
+        <Text>Bilješka</Text>
+    </Item>
+
+    <Item>
+        <TextId>3009</TextId>
+        <Text>Standard</Text>
+    </Item>
+
+    <Item>
+        <TextId>3010</TextId>
+        <Text>noga/prirubnica</Text>
+    </Item>
+
+    <Item>
+        <TextId>3011</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>3012</TextId>
+        <Text>Prirubnice vara</Text>
+    </Item>
+
+    <Item>
+        <TextId>3013</TextId>
+        <Text>Mreža vara</Text>
+    </Item>
+
+    <!--STIFFENER-->
+    <Item>
+        <TextId>4000</TextId>
+        <Text>Parametri ukrute</Text>
+    </Item>
+
+    <Item>
+        <TextId>4001</TextId>
+        <Text>Horizontalna ukruta</Text>
+    </Item>
+
+    <Item>
+        <TextId>4002</TextId>
+        <Text>Centar</Text>
+    </Item>
+
+    <Item>
+        <TextId>4003</TextId>
+        <Text>Broj ukruta</Text>
+    </Item>
+
+    <Item>
+        <TextId>4004</TextId>
+        <Text>Rub</Text>
+    </Item>
+
+    <Item>
+        <TextId>4005</TextId>
+        <Text>Vertikalna ukruta</Text>
+    </Item>
+
+    <Item>
+        <TextId>4006</TextId>
+        <Text>Centar</Text>
+    </Item>
+
+    <Item>
+        <TextId>4007</TextId>
+        <Text>Broj ukruta</Text>
+    </Item>
+
+    <Item>
+        <TextId>4008</TextId>
+        <Text>Rub</Text>
+    </Item>
+
+    <Item>
+        <TextId>4009</TextId>
+        <Text>Debljina</Text>
+    </Item>
+
+    <Item>
+        <TextId>4010</TextId>
+        <Text>Duljina</Text>
+    </Item>
+
+    <Item>
+        <TextId>4011</TextId>
+        <Text>Širina</Text>
+    </Item>
+
+    <Item>
+        <TextId>4012</TextId>
+        <Text>Duljina zaobljenja</Text>
+    </Item>
+
+    <Item>
+        <TextId>4013</TextId>
+        <Text>Nacrt</Text>
+    </Item>
+
+    <Item>
+        <TextId>4014</TextId>
+        <Text>Rub/Sredina</Text>
+    </Item>
+
+    <Item>
+        <TextId>4015</TextId>
+        <Text>Kružno</Text>
+    </Item>
+
+    <Item>
+        <TextId>4016</TextId>
+        <Text>Broj ukruta</Text>
+    </Item>
+
+    <Item>
+        <TextId>4017</TextId>
+        <Text>Početni kut</Text>
+    </Item>
+
+    <!-- DIALOG LINES -->
+
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Odaberi nosivi stup okvira</Text>
+    </Item>
+
+    <Item>
+        <TextId>10001</TextId>
+        <Text>Promijeni parametre</Text>
+    </Item>
+
+    <!-- POP-UP MESSAGE -->
+
+    <Item>
+        <TextId>11000</TextId>
+        <Text>Nosivi stup okvira je izbrisan. Želite li odabrati drugi nosač?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11001</TextId>
+        <Text>Kopirali ste PythonPart koji je povezan s nosivim stupom. Želite li ga spojiti na novi nosivi stup?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11002</TextId>
+        <Text>Ova značajka nije kompatibilna s trenutnom licencom</Text>
+    </Item>
+
+    <Item>
+        <TextId>11003</TextId>
+        <Text>Ova funkcija nije kompatibilna s korištenom Allplan verzijom.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11004</TextId>
+        <Text>Odaberite stup bez nagiba na kraju.</Text>
+    </Item>
+
+    <!-- PROFILE NAME -->
+    <Item>
+        <TextId>12000</TextId>
+        <Text>I</Text>
+    </Item>
+
+    <Item>
+        <TextId>12001</TextId>
+        <Text>Pravokutno šuplje</Text>
+    </Item>
+
+    <Item>
+        <TextId>12002</TextId>
+        <Text>L</Text>
+    </Item>
+
+    <Item>
+        <TextId>12003</TextId>
+        <Text>Kružno šuplje</Text>
+    </Item>
+
+    <Item>
+        <TextId>12004</TextId>
+        <Text>C</Text>
+    </Item>
+
+    <Item>
+        <TextId>12005</TextId>
+        <Text>T</Text>
+    </Item>
+
+    <Item>
+        <TextId>12006</TextId>
+        <Text>Pravokutnik</Text>
+    </Item>
+
+    <Item>
+        <TextId>12007</TextId>
+        <Text>Krug</Text>
+    </Item>
+
+    <Item>
+        <TextId>12008</TextId>
+        <Text>I Asim</Text>
+    </Item>
+
+    <Item>
+        <TextId>12009</TextId>
+        <Text>Hladno formirano</Text>
+    </Item>
+
+    <Item>
+        <TextId>12010</TextId>
+        <Text>Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>12011</TextId>
+        <Text>Šine</Text>
+    </Item>
+
+</Element>

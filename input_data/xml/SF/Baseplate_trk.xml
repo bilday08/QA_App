@@ -1,0 +1,413 @@
+<Element>
+
+    <!--GENERAL-->
+    <Item>
+        <TextId>9000</TextId>
+        <Text>Taban plakası</Text>
+    </Item>
+
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Geometri</Text>
+    </Item>
+
+    <!--PLATE-->
+    <Item>
+        <TextId>1000</TextId>
+        <Text>Plaka Parametreleri</Text>
+    </Item>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Genişlik</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Derinlik</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Kalınlık</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Standart</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Otomatik</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Öteleme</Text>
+    </Item>
+
+    <Item>
+        <TextId>1007</TextId>
+        <Text>Boyut</Text>
+    </Item>
+
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Dikdörtgen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Daire</Text>
+    </Item>
+
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Plaka şekli</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Çap</Text>
+    </Item>
+
+    <!--BOLT-->
+    <Item>
+        <TextId>2000</TextId>
+        <Text>Dirsek Parametreleri</Text>
+    </Item>
+
+    <Item>
+        <TextId>2001</TextId>
+        <Text>Kenar mesafesi (E)</Text>
+    </Item>
+
+    <Item>
+        <TextId>2002</TextId>
+        <Text>Dirsek sayısı (X)</Text>
+    </Item>
+
+    <Item>
+        <TextId>2003</TextId>
+        <Text>Dirsek sayısı (Y)</Text>
+    </Item>
+
+    <Item>
+        <TextId>2004</TextId>
+        <Text>Kanca tipi</Text>
+    </Item>
+
+    <Item>
+        <TextId>2005</TextId>
+        <Text>Başlı/L-kanca/J-kanca</Text>
+    </Item>
+
+    <Item>
+        <TextId>2006</TextId>
+        <Text>Boyut</Text>
+    </Item>
+
+    <Item>
+        <TextId>2007</TextId>
+        <Text>Uzunluk</Text>
+    </Item>
+
+    <Item>
+        <TextId>2008</TextId>
+        <Text>Rondelalar</Text>
+    </Item>
+
+    <Item>
+        <TextId>2009</TextId>
+        <Text>Dirsek sınıfı</Text>
+    </Item>
+
+    <Item>
+        <TextId>2010</TextId>
+        <Text>Ayrıntı düzeyi</Text>
+    </Item>
+
+    <Item>
+        <TextId>2011</TextId>
+        <Text>DÜşük</Text>
+    </Item>
+
+    <Item>
+        <TextId>2012</TextId>
+        <Text>Orta</Text>
+    </Item>
+
+    <Item>
+        <TextId>2013</TextId>
+        <Text>Yüksek</Text>
+    </Item>
+
+    <Item>
+        <TextId>2014</TextId>
+        <Text>Dirsek sayısı (N)</Text>
+    </Item>
+
+    <!--WELD-->
+    <Item>
+        <TextId>3000</TextId>
+        <Text>Kaynak parametreleri</Text>
+    </Item>
+
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Kaynak tipi</Text>
+    </Item>
+
+    <Item>
+        <TextId>3002</TextId>
+        <Text>Çokluçizgi / Fileto / Dışbükey / İçbükey</Text>
+    </Item>
+
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Kaynak genişliği</Text>
+    </Item>
+
+    <Item>
+        <TextId>3004</TextId>
+        <Text>Kaynak açısı</Text>
+    </Item>
+
+    <Item>
+        <TextId>3005</TextId>
+        <Text>Kaynak uzunluğu</Text>
+    </Item>
+
+    <Item>
+        <TextId>3006</TextId>
+        <Text>Kaynak sahası</Text>
+    </Item>
+
+    <Item>
+        <TextId>3007</TextId>
+        <Text>Alan kaynağı</Text>
+    </Item>
+
+    <Item>
+        <TextId>3008</TextId>
+        <Text>Kuyruk Notu</Text>
+    </Item>
+
+    <Item>
+        <TextId>3009</TextId>
+        <Text>Standart</Text>
+    </Item>
+
+    <Item>
+        <TextId>3010</TextId>
+        <Text>Bacak/flanş</Text>
+    </Item>
+
+    <Item>
+        <TextId>3011</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>3012</TextId>
+        <Text>Kaynak flanşı</Text>
+    </Item>
+
+    <Item>
+        <TextId>3013</TextId>
+        <Text>Bacak kaynağı</Text>
+    </Item>
+
+    <!--STIFFENER-->
+    <Item>
+        <TextId>4000</TextId>
+        <Text>Takviye parametreleri</Text>
+    </Item>
+
+    <Item>
+        <TextId>4001</TextId>
+        <Text>Yatay takviyeler</Text>
+    </Item>
+
+    <Item>
+        <TextId>4002</TextId>
+        <Text>Merkez</Text>
+    </Item>
+
+    <Item>
+        <TextId>4003</TextId>
+        <Text>Takviye sayısı</Text>
+    </Item>
+
+    <Item>
+        <TextId>4004</TextId>
+        <Text>Kenar</Text>
+    </Item>
+
+    <Item>
+        <TextId>4005</TextId>
+        <Text>Dikey takviyeler</Text>
+    </Item>
+
+    <Item>
+        <TextId>4006</TextId>
+        <Text>Merkez</Text>
+    </Item>
+
+    <Item>
+        <TextId>4007</TextId>
+        <Text>Takviye sayısı</Text>
+    </Item>
+
+    <Item>
+        <TextId>4008</TextId>
+        <Text>Kenar</Text>
+    </Item>
+
+    <Item>
+        <TextId>4009</TextId>
+        <Text>Kalınlık</Text>
+    </Item>
+
+    <Item>
+        <TextId>4010</TextId>
+        <Text>Uzunluk</Text>
+    </Item>
+
+    <Item>
+        <TextId>4011</TextId>
+        <Text>Genişlik</Text>
+    </Item>
+
+    <Item>
+        <TextId>4012</TextId>
+        <Text>Pah Uzunluğu</Text>
+    </Item>
+
+    <Item>
+        <TextId>4013</TextId>
+        <Text>Pafta</Text>
+    </Item>
+
+    <Item>
+        <TextId>4014</TextId>
+        <Text>Kenar/Merkez</Text>
+    </Item>
+
+    <Item>
+        <TextId>4015</TextId>
+        <Text>Dairesel</Text>
+    </Item>
+
+    <Item>
+        <TextId>4016</TextId>
+        <Text>Takviye sayısı</Text>
+    </Item>
+
+    <Item>
+        <TextId>4017</TextId>
+        <Text>Başlangıç açısı (a)</Text>
+    </Item>
+
+    <!-- DIALOG LINES -->
+
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Bir Strüktürel Çerçeveleme Kolonu Seçin</Text>
+    </Item>
+
+    <Item>
+        <TextId>10001</TextId>
+        <Text>Parametreleri düzenle</Text>
+    </Item>
+
+    <!-- POP-UP MESSAGE -->
+
+    <Item>
+        <TextId>11000</TextId>
+        <Text>Strüktürel Çerçeveleme Kolonu silinir. Başka bir kolon seçmek istiyor musunuz?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11001</TextId>
+        <Text>Strüktürel Çerçeveleme Kolonuna bağlı Pythonpartı kopyaladınız. Bunu yeni Strüktürel Çerçeveleme Kolonuna bağlamak ister misiniz?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11002</TextId>
+        <Text>Bu özellik mevcut lisansınızla uyumlu değil</Text>
+    </Item>
+
+    <Item>
+        <TextId>11003</TextId>
+        <Text>Bu özellik, kullanmakta olduğunuz Allplan versiyonu ile uyumsuzdur.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11004</TextId>
+        <Text>Lütfen sonunda eğim olmayan bir Strüktürel Çerçeveleme Kolonu seçin.</Text>
+    </Item>
+
+    <!-- PROFILE NAME -->
+    <Item>
+        <TextId>12000</TextId>
+        <Text>I</Text>
+    </Item>
+
+    <Item>
+        <TextId>12001</TextId>
+        <Text>Dikdörtgen oyuk</Text>
+    </Item>
+
+    <Item>
+        <TextId>12002</TextId>
+        <Text>L</Text>
+    </Item>
+
+    <Item>
+        <TextId>12003</TextId>
+        <Text>Dairesel oyuk</Text>
+    </Item>
+
+    <Item>
+        <TextId>12004</TextId>
+        <Text>C</Text>
+    </Item>
+
+    <Item>
+        <TextId>12005</TextId>
+        <Text>T</Text>
+    </Item>
+
+    <Item>
+        <TextId>12006</TextId>
+        <Text>Dikdörtgen</Text>
+    </Item>
+
+    <Item>
+        <TextId>12007</TextId>
+        <Text>Daire</Text>
+    </Item>
+
+    <Item>
+        <TextId>12008</TextId>
+        <Text>I Asym</Text>
+    </Item>
+
+    <Item>
+        <TextId>12009</TextId>
+        <Text>Soğuk Şekillendirilmiş</Text>
+    </Item>
+
+    <Item>
+        <TextId>12010</TextId>
+        <Text>Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>12011</TextId>
+        <Text>Ray</Text>
+    </Item>
+
+</Element>

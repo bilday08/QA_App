@@ -1,0 +1,5 @@
+TestCase Name,TestCase Description,TestCase Result,Note,Status
+The length of the generated rebar is the same as the input value for pin length - Edge horizontal pin,The length of the generated rebar is the same as the input value for pin length - Edge horizontal pin,As expected,Main feature,Pass
+The length of the generated rebar is the same as the input value for pin length - horizontal pin at opening,The length of the generated rebar is the same as the input value for pin length - horizontal pin at opening,As expected,Main feature,Pass
+The length of the generated rebar is the same as the input value for pin length - Vertical pin at top,The length of the generated rebar is the same as the input value for pin length - Vertical pin at top,As expected,Main feature,Pass
+The length of the generated rebar is the same as the input value for pin length - vertical pin at opening,The length of the generated rebar is the same as the input value for pin length - vertical pin at opening,As expected,Main feature,Pass

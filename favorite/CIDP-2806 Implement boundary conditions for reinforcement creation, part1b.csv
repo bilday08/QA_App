@@ -1,0 +1,6 @@
+TestCase Name,TestCase Description,TestCase Result,Note,Status
+Checking the boundary condition for wall opening incompletely inside the walls,Checking the boundary condition for wall opening incompletely inside the walls,As expected,Main feature,Pass
+Checking the boundary condition for wall opening outside the walls,Checking the boundary condition for wall opening outside the walls,As expected,Main feature,Pass
+"Check the distance between the opening and the connection area, d<0mm","Check the distance between the opening and the connection area, d<0mm",As expected,Main feature,Pass
+"Check the distance between the opening and the connection area, d in [0, 1000mm)","Check the distance between the opening and the connection area, d in [0, 1000mm)",As expected,Main feature,Pass
+"Check the distance between the opening and the connection area, d >1000mm","Check the distance between the opening and the connection area, d >1000mm",As expected,Main feature,Pass

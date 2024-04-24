@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Workflow</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Więcej informacji:</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Tutorial</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Wybierz typ</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Obiekt 3D</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>PythonPart</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Wstaw zbrojenie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>Ogólne</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>Parametry ogólne</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Otulina</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text>Klasa betonu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>Katalog przekrojów poprzecznych</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>Rolka do gięcia strzemion</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Parametry zbrojenia</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text>Min. ø Zbrojenia głównego</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Min. ø Prętów bocznych</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Min. ø Strzemion</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>Maks. rozstaw strzemion</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Kąt haka strzemiona</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Maksymalna długość pręta</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Główna rolka do gięcia zbrojenia</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Zbrojenie podłużne</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Zbrojenie główne Góra</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Średnica</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Ilość prętów</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Powierzchnia zbrojenia (As)</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Zbrojenie główne Dół</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Zbrojenie główne - pręty dodatkowe</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Dodatkowe zbrojenie Dół</Text>
+    </Item>
+
+    <Item>
+        <TextId>1048</TextId>
+        <Text>Długość pręta</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Pręty boczne</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Rozkład</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Odsunięcie na początku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Odsunięcie na końcu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Pojedynczy region rozkładu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Utwórz</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Rozstaw</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Długość haka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Rozstaw na środku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Rozstaw na początku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>Rozstaw na końcu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>Definicja grubości płyty</Text>
+    </Item>
+
+    <Item>
+        <TextId>1068</TextId>
+        <Text>Liczba pól zbrojenia</Text>
+    </Item>
+
+    <Item>
+        <TextId>1081</TextId>
+        <Text>Przekroje</Text>
+    </Item>
+
+    <Item>
+        <TextId>1082</TextId>
+        <Text>Widok</Text>
+    </Item>
+
+    <Item>
+        <TextId>1083</TextId>
+        <Text>Nazwa belki</Text>
+    </Item>
+
+    <Item>
+        <TextId>1084</TextId>
+        <Text>Opis 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1085</TextId>
+        <Text>Opis 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1086</TextId>
+        <Text>Skala</Text>
+    </Item>
+
+    <Item>
+        <TextId>1087</TextId>
+        <Text>Opis zbrojenia</Text>
+    </Item>
+
+    <Item>
+        <TextId>1089</TextId>
+        <Text>Elementy</Text>
+    </Item>
+
+    <Item>
+        <TextId>1090</TextId>
+        <Text>Zbrojenie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1092</TextId>
+        <Text>Wybierz elementy</Text>
+    </Item>
+
+    <Item>
+        <TextId>1091</TextId>
+        <Text>Długość rozkładu w środku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1093</TextId>
+        <Text>Długość rozkładu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1094</TextId>
+        <Text>Wstaw przekroje</Text>
+    </Item>
+
+    <Item>
+        <TextId>1096</TextId>
+        <Text>Grubość płyty</Text>
+    </Item>
+
+    <Item>
+        <TextId>1097</TextId>
+        <Text>Ustawienie dla przęsła</Text>
+    </Item>
+
+    <Item>
+        <TextId>1098</TextId>
+        <Text>Długość rozkładu na początku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1099</TextId>
+        <Text>Strzemiona</Text>
+    </Item>
+
+    <Item>
+        <TextId>1100</TextId>
+        <Text>Długość rozkładu na początku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1101</TextId>
+        <Text>Przekroje</Text>
+    </Item>
+
+    <Item>
+        <TextId>1102</TextId>
+        <Text>Przęsło</Text>
+    </Item>
+
+    <Item>
+        <TextId>1103</TextId>
+        <Text>Przekrój 1-1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1104</TextId>
+        <Text>Przekrój 2-2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1105</TextId>
+        <Text>Przekrój 3-3</Text>
+    </Item>
+
+    <Item>
+        <TextId>1106</TextId>
+        <Text>Pokaż tabelę wprowadzania</Text>
+    </Item>
+
+    <Item>
+        <TextId>1107</TextId>
+        <Text>Zbrojenie podłużne</Text>
+    </Item>
+
+    <Item>
+        <TextId>1108</TextId>
+        <Text>Belka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1109</TextId>
+        <Text>Długość zakładu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1110</TextId>
+        <Text>Długość haka = D*</Text>
+    </Item>
+
+    <Item>
+        <TextId>1111</TextId>
+        <Text>Długość zakotwienia na początku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1112</TextId>
+        <Text>Długość zakotwienia na końcu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1113</TextId>
+        <Text>Odsunięcie na początku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1114</TextId>
+        <Text>Odsunięcie na końcu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1117</TextId>
+        <Text>Minimalny odstęp pomiędzy prętami</Text>
+    </Item>
+
+    <Item>
+        <TextId>1118</TextId>
+        <Text>Wartości dla zbrojenia</Text>
+    </Item>
+
+    <Item>
+        <TextId>1119</TextId>
+        <Text>Ręcznie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1120</TextId>
+        <Text>W oparciu o normę</Text>
+    </Item>
+
+    <Item>
+        <TextId>1121</TextId>
+        <Text>Haki na końcu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1148</TextId>
+        <Text>Tryb wysokości</Text>
+    </Item>
+
+    <Item>
+        <TextId>1149</TextId>
+        <Text>Elewacja dla całej belki</Text>
+    </Item>
+
+    <Item>
+        <TextId>1150</TextId>
+        <Text>Elewacja dla każdego przęsła</Text>
+    </Item>
+
+    <Item>
+        <TextId>1151</TextId>
+        <Text>Przekroje poprzeczne</Text>
+    </Item>
+
+    <Item>
+        <TextId>1153</TextId>
+        <Text>Haki na początku</Text>
+    </Item>
+
+    <Item>
+        <TextId>1157</TextId>
+        <Text>1:50</Text>
+    </Item>
+
+    <Item>
+        <TextId>1158</TextId>
+        <Text>1:25</Text>
+    </Item>
+
+    <Item>
+        <TextId>1159</TextId>
+        <Text>1:20</Text>
+    </Item>
+
+    <Item>
+        <TextId>1161</TextId>
+        <Text>Proszę wprowadzić numer pola zbrojenia</Text>
+    </Item>
+
+    <Item>
+        <TextId>1162</TextId>
+        <Text>Format</Text>
+    </Item>
+
+    <Item>
+        <TextId>1163</TextId>
+        <Text>Zbrojenie główne</Text>
+    </Item>
+
+    <Item>
+        <TextId>1164</TextId>
+        <Text>Zbrojenie górne</Text>
+    </Item>
+
+    <Item>
+        <TextId>1166</TextId>
+        <Text>Zbrojenie dolne</Text>
+    </Item>
+
+    <Item>
+        <TextId>1167</TextId>
+        <Text>Dodatkowe dolne</Text>
+    </Item>
+
+    <Item>
+        <TextId>1168</TextId>
+        <Text>Główne strzemiona</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Tak</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>Nie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Pręty boczne</Text>
+    </Item>
+
+    <!-- For palette messages -->
+    <Item>
+        <TextId>4999</TextId>
+        <Text>Ten PythonPart umożliwia automatyczne generowanie zbrojenia w belkach.\n\nAby rozpocząć, wykonaj następujące kroki:\n 1) Wybierz belkę do zbrojenia.\n 2) Przejdź przez zakładki „Ogólne”, „Zbrojenie główne”, „Strzemiona”, aby zdefiniować zbrojenie belki.\n      Kliknij „Utwórz”, aby sprawdzić i utworzyć zbrojenie.\n 3) Przejdź do zakładki „Przekroje”, aby zdefiniować parametry przekrojów.\n      Kliknij „Utwórz” i umieść przekroje.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Wybierz elementy, aby</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>wyświetlić kartę "Ogólne".</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>Przejdź do zakładki „Zbrojenie podłużne”</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>wyświetlić kartę "Strzemiona".</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>wyświetlić kartę "Przekroje".</Text>
+    </Item>
+    <Item>
+        <TextId>5008</TextId>
+        <Text>aby zobaczyć kartę Format.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>Kliknij lewym przyciskiem myszy, aby wybrać pojedynczą belkę lub kliknij prawym przyciskiem myszy, aby wybrać wiele belek.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Dostosuj parametry i utwórz zbrojenie lub ESC, aby ponownie wybrać słup(y)</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Wybierz belki, klikając lewym przyciskiem myszy lub zaznaczając obszar</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>Wybierz podpory, klikając lewym przyciskiem myszy lub zaznaczając obszar</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Wprowadź parametry i kliknij Utwórz, aby wygenerować przekroje</Text>
+    </Item>
+
+    <Item>
+        <TextId>10022</TextId>
+        <Text>Wprowadź współrzędne, aby umieścić przekrój w rzucie poziomym</Text>
+    </Item>
+
+    <Item>
+        <TextId>10038</TextId>
+        <Text>Parametr został zmieniony.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10039</TextId>
+        <Text>Czy chcesz zaktualizować numer pozycji zbrojenia?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10040</TextId>
+        <Text>Skopiowano PythonPart skojarzony z obiektem architektonicznym.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10041</TextId>
+        <Text>Czy chcesz powiązać go z nowym obiektem architektonicznym?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10042</TextId>
+        <Text>Górny poziom wybranych belek jest różny.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10043</TextId>
+        <Text>Ta wersja nie obsługuje belek o różnych kierunkach.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10044</TextId>
+        <Text>Szerokość belek jest różna.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10045</TextId>
+        <Text>Wybrane belki kolidują lub co najmniej jedna belka jest powielona.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10046</TextId>
+        <Text>Ta wersja nie obsługuje belek z mimośrodowymi osiami.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10047</TextId>
+        <Text>- Aplikacja obsługuje tylko podpory o kształcie prostokątnym lub okrągłym.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10048</TextId>
+        <Text>- Aplikacja nie obsługuje podpór o wspólnej objętości.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10049</TextId>
+        <Text>- Aplikacja obsługuje tylko słupy o przekroju prostokątnym lub kołowym.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10050</TextId>
+        <Text>- Szerokość belek jest większa niż podpory.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10051</TextId>
+        <Text>- Jeden z wierzchołków belki znajduje się poza rzutem przekroju belki.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10052</TextId>
+        <Text>- Kąt obrotu podpory i belki jest różny.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10053</TextId>
+        <Text>- Między wybraną podporą a belką występuje przerwa.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10054</TextId>
+        <Text>Proszę ponownie wybrać podpory.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10055</TextId>
+        <Text>Wybierz nową belkę.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10056</TextId>
+        <Text>Nieprawidłowy wybór:</Text>
+    </Item>
+
+    <Item>
+        <TextId>10057</TextId>
+        <Text>Kliknij prawym przyciskiem myszy, aby rozpocząć wybieranie słupów lub naciśnij klawisz ESC, aby ponownie wybrać belkę (belki)</Text>
+    </Item>
+
+    <Item>
+        <TextId>10058</TextId>
+        <Text>Wprowadź parametry zbrojenia lub naciśnij klawisz ESC, aby ponownie wybrać belkę</Text>
+    </Item>
+
+    <Item>
+        <TextId>10059</TextId>
+        <Text>- Prześwit pomiędzy bocznymi prętami zbrojeniowymi nie spełnia wymagań określonych w zakładce Ogólne.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10060</TextId>
+        <Text>- Długość bocznych prętów zbrojeniowych w co najmniej jednym przęśle przekracza maksymalną długość pręta ustawioną w zakładce Ogólne.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10061</TextId>
+        <Text>- Prześwit pomiędzy dolnymi prętami zbrojeniowymi nie spełnia wymagań z zakładki Ogólne.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10062</TextId>
+        <Text>- Długość głównego dolnego pręta zbrojeniowego w co najmniej jednym przęśle przekracza maksymalną długość pręta ustawioną w zakładce Ogólne.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10063</TextId>
+        <Text>- Długość górnego głównego pręta zbrojeniowego w co najmniej jednym przęśle przekracza maksymalną długość pręta ustawioną w zakładce Ogólne.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10064</TextId>
+        <Text>Zmodyfikuj parametry, aby upewnić się, że całkowita długość pręta jest mniejsza niż maksymalna długość pręta.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10065</TextId>
+        <Text>Czy chcesz kontynuować?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10066</TextId>
+        <Text>Możliwe jest tworzenie górnych prętów zbrojeniowych na wielu przęsłach lub dzielenie ich na poszczególne przęsła. \\nCzy chcesz je utworzyć na wielu przęsłach?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10067</TextId>
+        <Text>- Prześwit pomiędzy górnymi prętami zbrojeniowymi nie spełnia wymagań w zakładce Ogólne.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10068</TextId>
+        <Text>- Długość dodatkowego dolnego pręta zbrojeniowego w co najmniej jednym przęśle jest większa niż maksymalna długość pręta ustawiona w zakładce Ogólne.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10069</TextId>
+        <Text>- Prześwit pomiędzy głównym dolnym prętem zbrojeniowym a dodatkowymi prętami zbrojeniowymi nie spełnia wymagań zakładki Ogólne.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10070</TextId>
+        <Text>- Wprowadzona liczba dodatkowego zbrojenia i dolnego zbrojenia głównego nie jest odpowiednia do umieszczenia w modelu belki.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10071</TextId>
+        <Text>Ten PythonPart jest połączony z komponentem architektonicznym, za pomocą którego został utworzony.\nNależy pamiętać, że skopiowanie takiego PythonPart do innej lokalizacji nie jest możliwe.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10072</TextId>
+        <Text>Nie utworzono jeszcze zbrojenia. Czy na pewno chcesz anulować tę funkcję?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10090</TextId>
+        <Text>- Odległość między bocznymi prętami zbrojeniowymi jest większa niż maksymalna odległość między prętami.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10091</TextId>
+        <Text>Zmień parametry w zakładkach, aby zaktualizować zbrojenie</Text>
+    </Item>
+
+</Element>

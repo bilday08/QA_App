@@ -1,0 +1,200 @@
+<Element>
+
+    <!-- General-->
+    <Item>
+        <TextId>9000</TextId>
+        <Text>Joint de pilier</Text>
+    </Item>
+
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Aide</Text>
+    </Item>
+
+    <!-- General parameters -->
+    <Item>
+        <TextId>1000</TextId>
+        <Text>Paramètres généraux</Text>
+    </Item>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Type de choc</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Bride et branche</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Fin et base</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Soudé</Text>
+    </Item>
+
+    <!-- Plate -->
+    <Item>
+        <TextId>2000</TextId>
+        <Text>Paramètres de la plaque d'attache</Text>
+    </Item>
+
+    <Item>
+        <TextId>2001</TextId>
+        <Text>Épaisseur</Text>
+    </Item>
+
+    <Item>
+        <TextId>2002</TextId>
+        <Text>Longueur</Text>
+    </Item>
+
+    <Item>
+        <TextId>2003</TextId>
+        <Text>Largeur</Text>
+    </Item>
+
+    <Item>
+        <TextId>2004</TextId>
+        <Text>Paramètres de la plaque à bride</Text>
+    </Item>
+
+    <Item>
+        <TextId>2005</TextId>
+        <Text>Largeur</Text>
+    </Item>
+
+    <!-- Bolt -->
+    <Item>
+        <TextId>3000</TextId>
+        <Text>Paramètres d'ancrage</Text>
+    </Item>
+
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Taille</Text>
+    </Item>
+
+    <Item>
+        <TextId>3002</TextId>
+        <Text>Rondelles</Text>
+    </Item>
+
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Écrou Rondelles</Text>
+    </Item>
+
+    <Item>
+        <TextId>3004</TextId>
+        <Text>Classe de qualité de l'ancre</Text>
+    </Item>
+
+    <Item>
+        <TextId>3005</TextId>
+        <Text>Niveau de détail</Text>
+    </Item>
+
+    <Item>
+        <TextId>3006</TextId>
+        <Text>Faible</Text>
+    </Item>
+
+    <Item>
+        <TextId>3007</TextId>
+        <Text>Moyen</Text>
+    </Item>
+
+    <Item>
+        <TextId>3008</TextId>
+        <Text>Elevé</Text>
+    </Item>
+
+    <Item>
+        <TextId>3009</TextId>
+        <Text>Boulon de branche Disposition</Text>
+    </Item>
+
+    <Item>
+        <TextId>3010</TextId>
+        <Text>Rangées</Text>
+    </Item>
+
+    <Item>
+        <TextId>3011</TextId>
+        <Text>Piliers</Text>
+    </Item>
+
+    <Item>
+        <TextId>3012</TextId>
+        <Text>Distance entre les bords</Text>
+    </Item>
+
+    <Item>
+        <TextId>3013</TextId>
+        <Text>Disposition des brides et des boulons</Text>
+    </Item>
+
+    <!-- Help tab -->
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Remarque : veuillez choisir deux piliers, à savoir :</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>    1. Piliers de la structure porteuse</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>    2. Positionnés sur la même position X et Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>5003</TextId>
+        <Text>    3. Positionnés l'un au-dessus de l'autre sur l'axe Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>5004</TextId>
+        <Text>    4. Tournés selon le même angle</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>    5. Veuillez utiliser le même profil Nemetschek</Text>
+    </Item>
+
+    <!-- Dialog -->
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Sélectionner la colonne inférieure</Text>
+    </Item>
+
+    <Item>
+        <TextId>10001</TextId>
+        <Text>Sélectionner la colonne supérieure</Text>
+    </Item>
+
+    <!-- POP-UP MESSAGE -->
+    <Item>
+        <TextId>11000</TextId>
+        <Text>Cette fonction n'est pas compatible avec votre licence actuelle.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11001</TextId>
+        <Text>Cette fonction n'est pas compatible avec la version d'Allplan utilisée.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11002</TextId>
+        <Text>Veuillez sélectionner un poteau de structure qui utilise un profil du catalogue de profils Nemetschek.</Text>
+    </Item>
+
+</Element>

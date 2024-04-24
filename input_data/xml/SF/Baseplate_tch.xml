@@ -1,0 +1,413 @@
+<Element>
+
+    <!--GENERAL-->
+    <Item>
+        <TextId>9000</TextId>
+        <Text>Kotevní deska</Text>
+    </Item>
+
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Geometrie</Text>
+    </Item>
+
+    <!--PLATE-->
+    <Item>
+        <TextId>1000</TextId>
+        <Text>Plát - Parametry</Text>
+    </Item>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Šířka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Hloubka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Tloušťka</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Standard</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Automaticky</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Odstup</Text>
+    </Item>
+
+    <Item>
+        <TextId>1007</TextId>
+        <Text>Velikost</Text>
+    </Item>
+
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Obdélník</Text>
+    </Item>
+
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Kruh</Text>
+    </Item>
+
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Tvar plátu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Průměr</Text>
+    </Item>
+
+    <!--BOLT-->
+    <Item>
+        <TextId>2000</TextId>
+        <Text>Šroub - Parametry</Text>
+    </Item>
+
+    <Item>
+        <TextId>2001</TextId>
+        <Text>Odstup od hran</Text>
+    </Item>
+
+    <Item>
+        <TextId>2002</TextId>
+        <Text>Počet šroubů</Text>
+    </Item>
+
+    <Item>
+        <TextId>2003</TextId>
+        <Text>Počet šroubů</Text>
+    </Item>
+
+    <Item>
+        <TextId>2004</TextId>
+        <Text>Typ háku</Text>
+    </Item>
+
+    <Item>
+        <TextId>2005</TextId>
+        <Text>S hlavou/L-Háky/J-Háky</Text>
+    </Item>
+
+    <Item>
+        <TextId>2006</TextId>
+        <Text>Velikost</Text>
+    </Item>
+
+    <Item>
+        <TextId>2007</TextId>
+        <Text>Délka</Text>
+    </Item>
+
+    <Item>
+        <TextId>2008</TextId>
+        <Text>Podložky hlavy</Text>
+    </Item>
+
+    <Item>
+        <TextId>2009</TextId>
+        <Text>Šroub - Třída jakosti</Text>
+    </Item>
+
+    <Item>
+        <TextId>2010</TextId>
+        <Text>Úroveň detailu</Text>
+    </Item>
+
+    <Item>
+        <TextId>2011</TextId>
+        <Text>Nízká</Text>
+    </Item>
+
+    <Item>
+        <TextId>2012</TextId>
+        <Text>Střední</Text>
+    </Item>
+
+    <Item>
+        <TextId>2013</TextId>
+        <Text>Vysoká</Text>
+    </Item>
+
+    <Item>
+        <TextId>2014</TextId>
+        <Text>Počet šroubů</Text>
+    </Item>
+
+    <!--WELD-->
+    <Item>
+        <TextId>3000</TextId>
+        <Text>Svar - Parametry</Text>
+    </Item>
+
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Typ svaru</Text>
+    </Item>
+
+    <Item>
+        <TextId>3002</TextId>
+        <Text>Polygon / Zaoblení / Konvexní / Konkávní</Text>
+    </Item>
+
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Šířka svaru</Text>
+    </Item>
+
+    <Item>
+        <TextId>3004</TextId>
+        <Text>Úhel svaru</Text>
+    </Item>
+
+    <Item>
+        <TextId>3005</TextId>
+        <Text>Délka svaru</Text>
+    </Item>
+
+    <Item>
+        <TextId>3006</TextId>
+        <Text>Hloubka svaru</Text>
+    </Item>
+
+    <Item>
+        <TextId>3007</TextId>
+        <Text>Svařování v terénu</Text>
+    </Item>
+
+    <Item>
+        <TextId>3008</TextId>
+        <Text>Poznámka</Text>
+    </Item>
+
+    <Item>
+        <TextId>3009</TextId>
+        <Text>Standard</Text>
+    </Item>
+
+    <Item>
+        <TextId>3010</TextId>
+        <Text>Rameno/Příruba</Text>
+    </Item>
+
+    <Item>
+        <TextId>3011</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>3012</TextId>
+        <Text>Svar přírub</Text>
+    </Item>
+
+    <Item>
+        <TextId>3013</TextId>
+        <Text>Svar ramen</Text>
+    </Item>
+
+    <!--STIFFENER-->
+    <Item>
+        <TextId>4000</TextId>
+        <Text>Výztuhy - Parametry</Text>
+    </Item>
+
+    <Item>
+        <TextId>4001</TextId>
+        <Text>Horizontální výztuha</Text>
+    </Item>
+
+    <Item>
+        <TextId>4002</TextId>
+        <Text>Uprostřed</Text>
+    </Item>
+
+    <Item>
+        <TextId>4003</TextId>
+        <Text>Počet výztuh</Text>
+    </Item>
+
+    <Item>
+        <TextId>4004</TextId>
+        <Text>Okraj</Text>
+    </Item>
+
+    <Item>
+        <TextId>4005</TextId>
+        <Text>Vertikální výztuha</Text>
+    </Item>
+
+    <Item>
+        <TextId>4006</TextId>
+        <Text>Uprostřed</Text>
+    </Item>
+
+    <Item>
+        <TextId>4007</TextId>
+        <Text>Počet výztuh</Text>
+    </Item>
+
+    <Item>
+        <TextId>4008</TextId>
+        <Text>Okraj</Text>
+    </Item>
+
+    <Item>
+        <TextId>4009</TextId>
+        <Text>Tloušťka</Text>
+    </Item>
+
+    <Item>
+        <TextId>4010</TextId>
+        <Text>Délka</Text>
+    </Item>
+
+    <Item>
+        <TextId>4011</TextId>
+        <Text>Šířka</Text>
+    </Item>
+
+    <Item>
+        <TextId>4012</TextId>
+        <Text>Délka zkosení</Text>
+    </Item>
+
+    <Item>
+        <TextId>4013</TextId>
+        <Text>Rozvržení</Text>
+    </Item>
+
+    <Item>
+        <TextId>4014</TextId>
+        <Text>Okraj/Střed</Text>
+    </Item>
+
+    <Item>
+        <TextId>4015</TextId>
+        <Text>Kruhový tvar</Text>
+    </Item>
+
+    <Item>
+        <TextId>4016</TextId>
+        <Text>Počet výztuh</Text>
+    </Item>
+
+    <Item>
+        <TextId>4017</TextId>
+        <Text>Počáteční úhel</Text>
+    </Item>
+
+    <!-- DIALOG LINES -->
+
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Vyberte sloup rámového skeletu</Text>
+    </Item>
+
+    <Item>
+        <TextId>10001</TextId>
+        <Text>Upravit parametry</Text>
+    </Item>
+
+    <!-- POP-UP MESSAGE -->
+
+    <Item>
+        <TextId>11000</TextId>
+        <Text>Sloup rámového skeletu byl vymazán. Chcete vybrat jiný sloup?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11001</TextId>
+        <Text>Zkopírovali jste PythonPart, který je připojen ke sloupu rámového skeletu. Chcete ho připojit k novému sloupu?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11002</TextId>
+        <Text>Tato funkce není kompatibilní s vaší aktuální licencí</Text>
+    </Item>
+
+    <Item>
+        <TextId>11003</TextId>
+        <Text>Tato funkce není kompatibilní s verzí programu Allplan, kterou používáte.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11004</TextId>
+        <Text>Vyberte prosím sloup rámového skeletu bez sklonu na konci.</Text>
+    </Item>
+
+    <!-- PROFILE NAME -->
+    <Item>
+        <TextId>12000</TextId>
+        <Text>I</Text>
+    </Item>
+
+    <Item>
+        <TextId>12001</TextId>
+        <Text>Obdélníkové duté tělo</Text>
+    </Item>
+
+    <Item>
+        <TextId>12002</TextId>
+        <Text>L</Text>
+    </Item>
+
+    <Item>
+        <TextId>12003</TextId>
+        <Text>Dutý kruh</Text>
+    </Item>
+
+    <Item>
+        <TextId>12004</TextId>
+        <Text>C</Text>
+    </Item>
+
+    <Item>
+        <TextId>12005</TextId>
+        <Text>T</Text>
+    </Item>
+
+    <Item>
+        <TextId>12006</TextId>
+        <Text>Obdélník</Text>
+    </Item>
+
+    <Item>
+        <TextId>12007</TextId>
+        <Text>Kruh</Text>
+    </Item>
+
+    <Item>
+        <TextId>12008</TextId>
+        <Text>I Asym</Text>
+    </Item>
+
+    <Item>
+        <TextId>12009</TextId>
+        <Text>Tvarováno za studena</Text>
+    </Item>
+
+    <Item>
+        <TextId>12010</TextId>
+        <Text>Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>12011</TextId>
+        <Text>Kolejnice</Text>
+    </Item>
+
+</Element>

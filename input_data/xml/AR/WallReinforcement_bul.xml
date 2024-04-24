@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+  <Item>
+    <TextId>1001</TextId>
+    <Text>Работен процес</Text>
+  </Item>
+  <Item>
+    <TextId>1002</TextId>
+    <Text>Повече информация:</Text>
+  </Item>
+
+  <Item>
+    <TextId>1003</TextId>
+    <Text>Учебник</Text>
+  </Item>
+
+  <Item>
+    <TextId>1004</TextId>
+    <Text>Елементи</Text>
+  </Item>
+
+  <Item>
+    <TextId>1005</TextId>
+    <Text>Армировка</Text>
+  </Item>
+
+  <Item>
+    <TextId>1006</TextId>
+    <Text>Разрези</Text>
+  </Item>
+
+  <Item>
+    <TextId>1007</TextId>
+    <Text>Създаване</Text>
+  </Item>
+
+  <Item>
+    <TextId>1009</TextId>
+    <Text>3D обект</Text>
+  </Item>
+
+  <Item>
+    <TextId>1011</TextId>
+    <Text>Избор на тип</Text>
+  </Item>
+
+  <Item>
+    <TextId>1012</TextId>
+    <Text>Общо</Text>
+  </Item>
+
+  <Item>
+    <TextId>1013</TextId>
+    <Text>Общи настройки</Text>
+  </Item>
+
+  <Item>
+    <TextId>1020</TextId>
+    <Text>Бетоново покритие</Text>
+  </Item>
+
+  <Item>
+    <TextId>1021</TextId>
+    <Text>Клас на бетона</Text>
+  </Item>
+
+  <Item>
+    <TextId>1024</TextId>
+    <Text>Параметри на прът</Text>
+  </Item>
+
+  <Item>
+    <TextId>1025</TextId>
+    <Text>Мин. диам. хоризонт. пръти</Text>
+  </Item>
+
+  <Item>
+    <TextId>1026</TextId>
+    <Text>Мин. диам. верт. пръти</Text>
+  </Item>
+
+  <Item>
+    <TextId>1027</TextId>
+    <Text>Мин. разст. хоризонт. пръти</Text>
+  </Item>
+
+  <Item>
+    <TextId>1028</TextId>
+    <Text>Мин. разст. верт. пръти</Text>
+  </Item>
+
+  <Item>
+    <TextId>1029</TextId>
+    <Text>Ъгъл на кука</Text>
+  </Item>
+
+  <Item>
+    <TextId>1030</TextId>
+    <Text>Макс. дължина хоризонт. пръти</Text>
+  </Item>
+
+  <Item>
+    <TextId>1031</TextId>
+    <Text>Напречно снаждане</Text>
+  </Item>
+
+  <Item>
+    <TextId>1032</TextId>
+    <Text>Ъгъл на полагане</Text>
+  </Item>
+
+  <Item>
+    <TextId>1033</TextId>
+    <Text>Тип мрежа</Text>
+  </Item>
+
+  <Item>
+    <TextId>1034</TextId>
+    <Text>Основна армировка</Text>
+  </Item>
+
+  <Item>
+    <TextId>1035</TextId>
+    <Text>Армиране с пръти</Text>
+  </Item>
+
+  <Item>
+    <TextId>1036</TextId>
+    <Text>Армиране с мрежи</Text>
+  </Item>
+
+  <Item>
+    <TextId>1037</TextId>
+    <Text>Параметри мрежа</Text>
+  </Item>
+
+  <Item>
+    <TextId>1038</TextId>
+    <Text>Основни верт. пръти</Text>
+  </Item>
+
+  <Item>
+    <TextId>1039</TextId>
+    <Text>Диаметър</Text>
+  </Item>
+
+  <Item>
+    <TextId>1040</TextId>
+    <Text>Разстояние</Text>
+  </Item>
+
+  <Item>
+    <TextId>1041</TextId>
+    <Text>Дълж. на чакащи пръти</Text>
+  </Item>
+
+  <Item>
+    <TextId>1042</TextId>
+    <Text>Основна хоризонтална армировка</Text>
+  </Item>
+
+  <Item>
+    <TextId>1043</TextId>
+    <Text>Тип армировка</Text>
+  </Item>
+
+  <Item>
+    <TextId>1045</TextId>
+    <Text>Дължина на снаждане</Text>
+  </Item>
+
+  <Item>
+    <TextId>1046</TextId>
+    <Text>Ръбови пръти на стена</Text>
+  </Item>
+
+  <Item>
+    <TextId>1047</TextId>
+    <Text>Брой пръти</Text>
+  </Item>
+
+  <Item>
+    <TextId>1048</TextId>
+    <Text>Начална дължина</Text>
+  </Item>
+
+  <Item>
+    <TextId>1049</TextId>
+    <Text>Начална ширина</Text>
+  </Item>
+
+  <Item>
+    <TextId>1050</TextId>
+    <Text>Надължно снаждане</Text>
+  </Item>
+
+  <Item>
+    <TextId>1051</TextId>
+    <Text>Посока на полагане</Text>
+  </Item>
+
+  <Item>
+    <TextId>1052</TextId>
+    <Text>Надлъжно</Text>
+  </Item>
+
+  <Item>
+    <TextId>1053</TextId>
+    <Text>Python Part</Text>
+  </Item>
+
+  <Item>
+    <TextId>1054</TextId>
+    <Text>Пръти около отвор на стена</Text>
+  </Item>
+
+  <Item>
+    <TextId>1055</TextId>
+    <Text>Добавяне на пръти при отвор</Text>
+  </Item>
+
+  <Item>
+    <TextId>1056</TextId>
+    <Text>Напречно</Text>
+  </Item>
+
+  <Item>
+    <TextId>1057</TextId>
+    <Text>Изрязване мрежа</Text>
+  </Item>
+
+  <Item>
+    <TextId>1058</TextId>
+    <Text>Промяна на посока на полагане</Text>
+  </Item>
+
+  <Item>
+    <TextId>1059</TextId>
+    <Text>Преместване мрежа</Text>
+  </Item>
+
+  <Item>
+    <TextId>1060</TextId>
+    <Text>Фиби</Text>
+  </Item>
+
+  <Item>
+    <TextId>1061</TextId>
+    <Text>Хоризонтални фиби</Text>
+  </Item>
+
+  <Item>
+    <TextId>1062</TextId>
+    <Text>Като основните пръти</Text>
+  </Item>
+
+  <Item>
+    <TextId>1063</TextId>
+    <Text>Група мрежи</Text>
+  </Item>
+
+  <Item>
+    <TextId>1065</TextId>
+    <Text>Дължина на фиба</Text>
+  </Item>
+
+  <Item>
+    <TextId>1067</TextId>
+    <Text>Вертикални фиби</Text>
+  </Item>
+
+  <Item>
+    <TextId>1072</TextId>
+    <Text>Огъната дължина на фиба</Text>
+  </Item>
+
+  <Item>
+    <TextId>1073</TextId>
+    <Text>Хоризонтални стремена</Text>
+  </Item>
+
+  <Item>
+    <TextId>1077</TextId>
+    <Text>Вертикални стремена</Text>
+  </Item>
+
+  <Item>
+    <TextId>1081</TextId>
+    <Text>Поставяне на разрез</Text>
+  </Item>
+
+  <Item>
+    <TextId>1082</TextId>
+    <Text>Изберете втора стена горе</Text>
+  </Item>
+
+  <Item>
+    <TextId>1083</TextId>
+    <Text>Изберете отвори</Text>
+  </Item>
+
+  <Item>
+    <TextId>1084</TextId>
+    <Text>Изберете първа стена</Text>
+  </Item>
+
+  <Item>
+    <TextId>1085</TextId>
+    <Text>Проверка и полаг. на армировка</Text>
+  </Item>
+
+  <Item>
+    <TextId>1086</TextId>
+    <Text>Използване на хориз. стремена за h &lt;</Text>
+  </Item>
+
+  <Item>
+    <TextId>1087</TextId>
+    <Text>Използване на верт. стремена за h &lt;</Text>
+  </Item>
+
+  <Item>
+    <TextId>1088</TextId>
+    <Text>Удължаване хориз.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1089</TextId>
+    <Text>Удължаване верт.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1090</TextId>
+    <Text>Изглед</Text>
+  </Item>
+
+  <Item>
+    <TextId>1091</TextId>
+    <Text>Радиус на огъване основна армировка</Text>
+  </Item>
+
+  <Item>
+    <TextId>1092</TextId>
+    <Text>Радиус на огъване стремена</Text>
+  </Item>
+
+  <Item>
+    <TextId>1094</TextId>
+    <Text>Вертикален разрез</Text>
+  </Item>
+
+  <Item>
+    <TextId>1098</TextId>
+    <Text>Хоризонтален разрез</Text>
+  </Item>
+
+  <Item>
+    <TextId>1099</TextId>
+    <Text>Отместване в ляво</Text>
+  </Item>
+
+  <Item>
+    <TextId>1100</TextId>
+    <Text>Каталог армировъчна стомана</Text>
+  </Item>
+
+  <Item>
+    <TextId>1104</TextId>
+    <Text>Макс. дължина хоризонт. пръти.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1105</TextId>
+    <Text>Мин. дължина верт. пръти.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1113</TextId>
+    <Text>Отместване долу</Text>
+  </Item>
+
+  <Item>
+    <TextId>1114</TextId>
+    <Text>Стена</Text>
+  </Item>
+
+  <Item>
+    <TextId>1115</TextId>
+    <Text>Надписване на пръти</Text>
+  </Item>
+
+  <Item>
+    <TextId>1116</TextId>
+    <Text>Име на стена</Text>
+  </Item>
+
+  <Item>
+    <TextId>1117</TextId>
+    <Text>Описание 1</Text>
+  </Item>
+
+  <Item>
+    <TextId>1118</TextId>
+    <Text>Описание 2</Text>
+  </Item>
+
+  <Item>
+    <TextId>1119</TextId>
+    <Text>Разрез 1-1</Text>
+  </Item>
+
+  <Item>
+    <TextId>1120</TextId>
+    <Text>Описание</Text>
+  </Item>
+
+  <Item>
+    <TextId>1121</TextId>
+    <Text>Разрез A-A</Text>
+  </Item>
+
+  <Item>
+    <TextId>1123</TextId>
+    <Text>Дължина на кука</Text>
+  </Item>
+
+  <Item>
+    <TextId>1124</TextId>
+    <Text>Стойности на армировката</Text>
+  </Item>
+
+  <Item>
+    <TextId>1125</TextId>
+    <Text>Ръчно</Text>
+  </Item>
+
+  <Item>
+    <TextId>1126</TextId>
+    <Text>На база стандарти</Text>
+  </Item>
+
+  <Item>
+    <TextId>1127</TextId>
+    <Text>Всички еднакви</Text>
+  </Item>
+
+  <Item>
+    <TextId>1134</TextId>
+    <Text>Горе</Text>
+  </Item>
+
+  <Item>
+    <TextId>1135</TextId>
+    <Text>Долу</Text>
+  </Item>
+
+  <Item>
+    <TextId>1136</TextId>
+    <Text>Вътре</Text>
+  </Item>
+
+  <Item>
+    <TextId>1137</TextId>
+    <Text>Ляво</Text>
+  </Item>
+
+  <Item>
+    <TextId>1138</TextId>
+    <Text>Дясно</Text>
+  </Item>
+
+  <Item>
+    <TextId>1139</TextId>
+    <Text>Вън</Text>
+  </Item>
+
+  <Item>
+    <TextId>1140</TextId>
+    <Text>Допълнителна армировка</Text>
+  </Item>
+
+  <Item>
+    <TextId>1141</TextId>
+    <Text>Столче</Text>
+  </Item>
+
+  <Item>
+    <TextId>1142</TextId>
+    <Text>Изкл.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1143</TextId>
+    <Text>S</Text>
+  </Item>
+
+  <Item>
+    <TextId>1144</TextId>
+    <Text>Тип</Text>
+  </Item>
+
+  <Item>
+    <TextId>1145</TextId>
+    <Text>Направление</Text>
+  </Item>
+
+  <Item>
+    <TextId>1146</TextId>
+    <Text>Вертикално</Text>
+  </Item>
+
+  <Item>
+    <TextId>1147</TextId>
+    <Text>Хоризонтално</Text>
+  </Item>
+
+  <Item>
+    <TextId>1148</TextId>
+    <Text>Нагоре</Text>
+  </Item>
+
+  <Item>
+    <TextId>1149</TextId>
+    <Text>Надолу</Text>
+  </Item>
+
+  <Item>
+    <TextId>1150</TextId>
+    <Text>Дясно</Text>
+  </Item>
+
+  <Item>
+    <TextId>1151</TextId>
+    <Text>Направление</Text>
+  </Item>
+
+  <Item>
+    <TextId>1152</TextId>
+    <Text>Ляво</Text>
+  </Item>
+
+  <Item>
+    <TextId>1153</TextId>
+    <Text> </Text>
+  </Item>
+
+  <Item>
+    <TextId>1154</TextId>
+    <Text> столчета на квадратен метър</Text>
+  </Item>
+
+  <Item>
+    <TextId>1155</TextId>
+    <Text> столчета на квадратен ярд</Text>
+  </Item>
+
+  <Item>
+    <TextId>1156</TextId>
+    <Text> S-ове на квадратен метър</Text>
+  </Item>
+
+  <Item>
+    <TextId>1157</TextId>
+    <Text> S-ове на квадратен ярд</Text>
+  </Item>
+
+  <Item>
+    <TextId>1158</TextId>
+    <Text>Брой за единица площ</Text>
+  </Item>
+
+  <Item>
+    <TextId>1159</TextId>
+    <Text>Стойността не се изобразява при многократно създаване</Text>
+  </Item>
+
+  <Item>
+    <TextId>1160</TextId>
+    <Text>Формат</Text>
+  </Item>
+
+  <Item>
+    <TextId>1161</TextId>
+    <Text>Армировка</Text>
+  </Item>
+
+  <Item>
+    <TextId>1162</TextId>
+    <Text>Хоризонтално</Text>
+  </Item>
+
+  <Item>
+    <TextId>1163</TextId>
+    <Text>Вертикално</Text>
+  </Item>
+
+  <Item>
+    <TextId>1164</TextId>
+    <Text>Мрежи</Text>
+  </Item>
+
+  <Item>
+    <TextId>1165</TextId>
+    <Text>Ръб на стена</Text>
+  </Item>
+
+  <Item>
+    <TextId>1166</TextId>
+    <Text>Отвор в стена</Text>
+  </Item>
+
+  <Item>
+    <TextId>1167</TextId>
+    <Text>Стреме</Text>
+  </Item>
+
+  <Item>
+    <TextId>1168</TextId>
+    <Text>Хоризонтални фиби</Text>
+  </Item>
+
+  <Item>
+    <TextId>1169</TextId>
+    <Text>Вертикални фиби</Text>
+  </Item>
+
+  <Item>
+    <TextId>1170</TextId>
+    <Text>Хоризонтални стремена</Text>
+  </Item>
+
+  <Item>
+    <TextId>1171</TextId>
+    <Text>Вертикални стремена</Text>
+  </Item>
+
+  <Item>
+    <TextId>1172</TextId>
+    <Text>Столчета S-ове</Text>
+  </Item>
+
+  <Item>
+    <TextId>4999</TextId>
+    <Text>Този PythonPart ще ви даде възможност за автоматично създаване на армировка в стени.\n\nЗа да започнете да я използвате, моля запознайте се със следните стъпки:\n 1) Изберете стената, която искате да армирате.\n 2) Изберете втора стена над първата стена. (Опция) \n 3) Изберете отворите на стената. (Опция) \n4) Преминете през разделите "Общо", "Оановна армировка", "Стремена", за да дефинирате армировката на стената. \n      Кликенте "Създаване", за да проверите и създадете армировката на стената.\n 5) Преминете през раздела "Разрез", за да дефинирате параметрите на разреза. \n      Кликнете "създаване" и поставете разреза.</Text>
+  </Item>
+
+  <Item>
+    <TextId>5000</TextId>
+    <Text>Изберете елементи, за да</Text>
+  </Item>
+
+  <Item>
+    <TextId>5001</TextId>
+    <Text>отворите раздела "Общо".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5003</TextId>
+    <Text>отворите раздела "Основни пръти".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5004</TextId>
+    <Text>отворите раздела "Допълнителна армировка".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5005</TextId>
+    <Text>отворите раздела "Фиби".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5007</TextId>
+    <Text>отворите раздела "Разрези".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5008</TextId>
+    <Text>отворите раздела "Формат".</Text>
+  </Item>
+
+  <Item>
+    <TextId>10010</TextId>
+    <Text>Не може да се създаде армировка заради следните грешки: \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10016</TextId>
+    <Text>Избраната стена вече има армировка</Text>
+  </Item>
+
+  <Item>
+    <TextId>10018</TextId>
+    <Text>Моля, първо създайте армировка</Text>
+  </Item>
+
+  <Item>
+    <TextId>10019</TextId>
+    <Text>Кликнете точка в план, за да вмъкнете разрезите</Text>
+  </Item>
+
+  <Item>
+    <TextId>10020</TextId>
+    <Text>Диаметърът на хориз. пръти е по-малък от Ømin = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10021</TextId>
+    <Text>Диаметърът на верт. пръти е по-малък от Ømin = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10022</TextId>
+    <Text>Разстоянието м/у основните хориз. пръти е по-голямо от Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10023</TextId>
+    <Text>Разстоянието м/у основните верт. пръти е по-голямо от Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10024</TextId>
+    <Text>Разстоянието м/у хориз. стремена е по-голямо от Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10025</TextId>
+    <Text>Разстоянието м/у верт. стремена е по-голямо от Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10026</TextId>
+    <Text>Искате ли да поправите параметрите автоматично?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10027</TextId>
+    <Text>Въведете параметрите и изберете Създаване, за да генерирате армировката.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10028</TextId>
+    <Text>Изберете стената и отворите в 3D изглед.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10029</TextId>
+    <Text>Процесът е завършен. Моля затворете PythonParts с бутона Затваряне или натиснете ESC.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10030</TextId>
+    <Text>Въведете параметрите и изберете Създаване, за да генерирате разрезите.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10031</TextId>
+    <Text>Проверете предварителния преглед с прътите и отвора. \n Армировката би могла да се удължи извън стената/отвора.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10032</TextId>
+    <Text>Моля, изберете обекти в 3D изглед на модела.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10035</TextId>
+    <Text>Дебелините на избраните стени са различни. Това може да доведе до некоректно полагане на прътите. Искате ли да продължите?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10036</TextId>
+    <Text>+ Основният армировъчен прът не може да бъде създаден поради следните параметри:</Text>
+  </Item>
+
+  <Item>
+    <TextId>10037</TextId>
+    <Text> - Недостатъчна дължина на огъвка</Text>
+  </Item>
+
+  <Item>
+    <TextId>10038</TextId>
+    <Text> - Недостатъчна минимална дължина</Text>
+  </Item>
+
+  <Item>
+    <TextId>10039</TextId>
+    <Text>Искате ли да игнорирате това предупреждение и да създадете армировката?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10040</TextId>
+    <Text>PythonPart е свързана с архитектурния компонент, с който е създадена.\nИмайте предвид, че копирането на тази PythonPart на друго място не е възможно.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10041</TextId>
+    <Text>Направени са промени в параметрите.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10042</TextId>
+    <Text>Искате ли да актуализирате номера на позиция на пръта?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10043</TextId>
+    <Text>Копирали сте Python Part, свързана с архитектурен обект.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10044</TextId>
+    <Text>Искате ли да я свържете с новия архитектурен обект?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10045</TextId>
+    <Text>+ Ъгловият прът ще бъде срязан, защото отворът в стената е близо до ръба на стената.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10046</TextId>
+    <Text>Искате ли да разделите ъгловия прът в зоната на отвора?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10047</TextId>
+    <Text>Изберете стени с ляв клик или селективен прозорец</Text>
+  </Item>
+
+  <Item>
+    <TextId>10048</TextId>
+    <Text>Не е намерена стена над стената</Text>
+  </Item>
+
+  <Item>
+    <TextId>10049</TextId>
+    <Text>Приложението поддържа стени и стени над тях с еднаква дебелина.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10050</TextId>
+    <Text>Приложението поддържа стени и стени над тях с еднаква проекция в план.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10051</TextId>
+    <Text>Приложението поддържа стени и стени над тях с еднакъв ъгъл на завъртане в план.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10052</TextId>
+    <Text>Моля, селектирайте стените отново или изключете маркера за стена над стената.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10053</TextId>
+    <Text>Грешна селекция:</Text>
+  </Item>
+
+  <Item>
+    <TextId>10054</TextId>
+    <Text>Приложението поддържа само стени с хоризонтално правоъгълно напречно сечение.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10055</TextId>
+    <Text>Приложението поддържа само стени без наклонени повърхности горе и долу.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10056</TextId>
+    <Text>Приложението поддържа само стени без наклон.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10057</TextId>
+    <Text>Приложението поддържа само стени без ниши и конзоли.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10058</TextId>
+    <Text>Приложението поддържа само стени, чиято дължина е 4 пъти по-голяма от дебелината им.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10059</TextId>
+    <Text>Моля, изберете стенати</Text>
+  </Item>
+
+  <Item>
+    <TextId>10060</TextId>
+    <Text>За някои стени инструментът не можа да открие слоеве, за които може да се приложи армировка по отрасъл или дебелина. \nЗа да се подобри селекцията, на съответните слоеве на стените трябва да се присвои отрасъл "Бетонови работи" или слоевете, които трябва да бъдат армирани, трябва да бъдат избрани индивидуално \nс помощта на функцията за сумиране и единични кликове вместо селективен прозорец.\nМоля, повторете избора.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10061</TextId>
+    <Text>Има отвор извън стената.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10062</TextId>
+    <Text>или сменете отвора</Text>
+  </Item>
+
+  <Item>
+    <TextId>10063</TextId>
+    <Text>С текущата селекция изглежда, че поне една стена няма стена над нея. В този случай свързващите анкери не се използват.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10064</TextId>
+    <Text>Един отвор не е напълно в стената, която сте избрали.</Text>
+  </Item>
+
+</Element>

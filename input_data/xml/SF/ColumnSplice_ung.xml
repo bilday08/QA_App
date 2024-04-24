@@ -1,0 +1,200 @@
+<Element>
+
+    <!-- General-->
+    <Item>
+        <TextId>9000</TextId>
+        <Text>Pillértoldás</Text>
+    </Item>
+
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Súgó</Text>
+    </Item>
+
+    <!-- General parameters -->
+    <Item>
+        <TextId>1000</TextId>
+        <Text>Általános beállítások</Text>
+    </Item>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Toldás típusa</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Karima és talp</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Vég és alap</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Felhegesztve</Text>
+    </Item>
+
+    <!-- Plate -->
+    <Item>
+        <TextId>2000</TextId>
+        <Text>Talplemez-paraméterek</Text>
+    </Item>
+
+    <Item>
+        <TextId>2001</TextId>
+        <Text>Vastagság</Text>
+    </Item>
+
+    <Item>
+        <TextId>2002</TextId>
+        <Text>Hossz</Text>
+    </Item>
+
+    <Item>
+        <TextId>2003</TextId>
+        <Text>Szélesség</Text>
+    </Item>
+
+    <Item>
+        <TextId>2004</TextId>
+        <Text>Karimalemez-beállítások</Text>
+    </Item>
+
+    <Item>
+        <TextId>2005</TextId>
+        <Text>Szélesség</Text>
+    </Item>
+
+    <!-- Bolt -->
+    <Item>
+        <TextId>3000</TextId>
+        <Text>Horgonyparaméterek</Text>
+    </Item>
+
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Méret</Text>
+    </Item>
+
+    <Item>
+        <TextId>3002</TextId>
+        <Text>Alátétek</Text>
+    </Item>
+
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Anya alatétek</Text>
+    </Item>
+
+    <Item>
+        <TextId>3004</TextId>
+        <Text>Horgonyzási minőségi osztály</Text>
+    </Item>
+
+    <Item>
+        <TextId>3005</TextId>
+        <Text>Részletezettség</Text>
+    </Item>
+
+    <Item>
+        <TextId>3006</TextId>
+        <Text>Alacsony</Text>
+    </Item>
+
+    <Item>
+        <TextId>3007</TextId>
+        <Text>Közepes</Text>
+    </Item>
+
+    <Item>
+        <TextId>3008</TextId>
+        <Text>Magas</Text>
+    </Item>
+
+    <Item>
+        <TextId>3009</TextId>
+        <Text>Talpcsap-elrendezés</Text>
+    </Item>
+
+    <Item>
+        <TextId>3010</TextId>
+        <Text>Sorok</Text>
+    </Item>
+
+    <Item>
+        <TextId>3011</TextId>
+        <Text>Pillérek</Text>
+    </Item>
+
+    <Item>
+        <TextId>3012</TextId>
+        <Text>Éltávolság</Text>
+    </Item>
+
+    <Item>
+        <TextId>3013</TextId>
+        <Text>Karima-csap elrendezés</Text>
+    </Item>
+
+    <!-- Help tab -->
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Megjegyzés: Kérjük, válasszon két pillért, nevezetesen:</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>    1. Vázoszlopok</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>    2. Ugyanabban az X és Y pozícióban elhelyezve</Text>
+    </Item>
+
+    <Item>
+        <TextId>5003</TextId>
+        <Text>    3. A Z tengelyen egymás fölött elhelyezve</Text>
+    </Item>
+
+    <Item>
+        <TextId>5004</TextId>
+        <Text>    4. Ugyanazzal a szöggel elforgatva</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>    5. Kérjük, használja ugyanazt a Nemetschek-profilt</Text>
+    </Item>
+
+    <!-- Dialog -->
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Select Lower Column</Text>
+    </Item>
+
+    <Item>
+        <TextId>10001</TextId>
+        <Text>Select Upper Column</Text>
+    </Item>
+
+    <!-- POP-UP MESSAGE -->
+    <Item>
+        <TextId>11000</TextId>
+        <Text>Ez a funkció nem kompatibilis az Ön jelenlegi licencével.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11001</TextId>
+        <Text>Ez a funkció nem kompatibilis az Allplan jelenleg használt verziójával.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11002</TextId>
+        <Text>Kérjük, válasszon ki egy olyan vázoszlopot, amely a Nemetschek profilkatalógusából származó profilt használ.</Text>
+    </Item>
+
+</Element>

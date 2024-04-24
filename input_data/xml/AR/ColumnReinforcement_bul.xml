@@ -1,0 +1,719 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Element>
+  <Item>
+    <TextId>1001</TextId>
+    <Text>Работен процес</Text>
+  </Item>
+  <Item>
+    <TextId>1002</TextId>
+    <Text>Повече информация:</Text>
+  </Item>
+  <Item>
+    <TextId>1003</TextId>
+    <Text>Учебник</Text>
+  </Item>
+  <Item>
+    <TextId>1004</TextId>
+    <Text>Изберете първата колона</Text>
+  </Item>
+  <Item>
+    <TextId>1005</TextId>
+    <Text>Изберете втора колона горе</Text>
+  </Item>
+  <Item>
+    <TextId>1006</TextId>
+    <Text>Армировка</Text>
+  </Item>
+  <Item>
+    <TextId>1010</TextId>
+    <Text>Проверка и полаг. на армировка</Text>
+  </Item>
+  <Item>
+    <TextId>1011</TextId>
+    <Text>Създаване</Text>
+  </Item>
+  <Item>
+    <TextId>1013</TextId>
+    <Text>Разрези</Text>
+  </Item>
+  <Item>
+    <TextId>1014</TextId>
+    <Text>Поставяне на разрези</Text>
+  </Item>
+  <Item>
+    <TextId>1021</TextId>
+    <Text>Общо</Text>
+  </Item>
+  <Item>
+    <TextId>1022</TextId>
+    <Text>Общи настройки</Text>
+  </Item>
+  <Item>
+    <TextId>1023</TextId>
+    <Text>Стойности на армировката</Text>
+  </Item>
+  <Item>
+    <TextId>1024</TextId>
+    <Text>Ръчно</Text>
+  </Item>
+  <Item>
+    <TextId>1025</TextId>
+    <Text>На база стандарти</Text>
+  </Item>
+  <Item>
+    <TextId>1026</TextId>
+    <Text>Дължина на снаждане</Text>
+  </Item>
+  <Item>
+    <TextId>1027</TextId>
+    <Text>Име на колона</Text>
+  </Item>
+  <Item>
+    <TextId>1028</TextId>
+    <Text>Бетоново покритие</Text>
+  </Item>
+  <Item>
+    <TextId>1030</TextId>
+    <Text>Клас на бетона</Text>
+  </Item>
+  <Item>
+    <TextId>1031</TextId>
+    <Text>Каталог с напречни сечения</Text>
+  </Item>
+  <Item>
+    <TextId>1033</TextId>
+    <Text>Дебелина на горната плоча</Text>
+  </Item>
+  <Item>
+    <TextId>1034</TextId>
+    <Text>Параметри на прът</Text>
+  </Item>
+  <Item>
+    <TextId>1035</TextId>
+    <Text>Мин. диаметър на основни пръти</Text>
+  </Item>
+  <Item>
+    <TextId>1036</TextId>
+    <Text>Мин. диаметър на стремена</Text>
+  </Item>
+  <Item>
+    <TextId>1037</TextId>
+    <Text>Макс. разст. м/у стремена</Text>
+  </Item>
+  <Item>
+    <TextId>1039</TextId>
+    <Text>Мин. разстояние между прътите</Text>
+  </Item>
+  <Item>
+    <TextId>1040</TextId>
+    <Text>Макс. процент на армиране p = As/Ac [%]</Text>
+  </Item>
+  <Item>
+    <TextId>1041</TextId>
+    <Text>Коеф. за външен диам. на пръти</Text>
+  </Item>
+  <Item>
+    <TextId>1047</TextId>
+    <Text>Надлъжна армировка</Text>
+  </Item>
+  <Item>
+    <TextId>1048</TextId>
+    <Text>Диаметър</Text>
+  </Item>
+  <Item>
+    <TextId>1049</TextId>
+    <Text>Брой пръти</Text>
+  </Item>
+  <Item>
+    <TextId>1051</TextId>
+    <Text>Огънат чакащ прът</Text>
+  </Item>
+  <Item>
+    <TextId>1052</TextId>
+    <Text>Разстояние на огъвка</Text>
+  </Item>
+  <Item>
+    <TextId>1053</TextId>
+    <Text>Съотношение на огъвка 1 /</Text>
+  </Item>
+  <Item>
+    <TextId>1054</TextId>
+    <Text>Дължина на чакащ прът</Text>
+  </Item>
+  <Item>
+    <TextId>1055</TextId>
+    <Text>Ъглов прът</Text>
+  </Item>
+  <Item>
+    <TextId>1061</TextId>
+    <Text>Страничен прът</Text>
+  </Item>
+  <Item>
+    <TextId>1074</TextId>
+    <Text>Страничен прът по дългата страна</Text>
+  </Item>
+  <Item>
+    <TextId>1081</TextId>
+    <Text>Страничен прът по късата страна</Text>
+  </Item>
+  <Item>
+    <TextId>1099</TextId>
+    <Text>S-кука</Text>
+  </Item>
+  <Item>
+    <TextId>1100</TextId>
+    <Text>Ромбовидно стреме</Text>
+  </Item>
+  <Item>
+    <TextId>1102</TextId>
+    <Text>Брой вътрешни връзки</Text>
+  </Item>
+  <Item>
+    <TextId>1103</TextId>
+    <Text>Завъртане</Text>
+  </Item>
+  <Item>
+    <TextId>1104</TextId>
+    <Text>План</Text>
+  </Item>
+  <Item>
+    <TextId>1105</TextId>
+    <Text>⌀</Text>
+  </Item>
+  <Item>
+    <TextId>1106</TextId>
+    <Text>Форма</Text>
+  </Item>
+  <Item>
+    <TextId>1107</TextId>
+    <Text>Стреме, затворено</Text>
+  </Item>
+  <Item>
+    <TextId>1108</TextId>
+    <Text>Стремена</Text>
+  </Item>
+  <Item>
+    <TextId>1109</TextId>
+    <Text>Подреждане на връзки</Text>
+  </Item>
+  <Item>
+    <TextId>1110</TextId>
+    <Text>Форма прът</Text>
+  </Item>
+  <Item>
+    <TextId>1111</TextId>
+    <Text>Брой външни връзки</Text>
+  </Item>
+  <Item>
+    <TextId>1112</TextId>
+    <Text>Външни връзки</Text>
+  </Item>
+  <Item>
+    <TextId>1113</TextId>
+    <Text>Разстояние</Text>
+  </Item>
+  <Item>
+    <TextId>1114</TextId>
+    <Text>Дължина на кука</Text>
+  </Item>
+  <Item>
+    <TextId>1115</TextId>
+    <Text>Ъгъл на кука</Text>
+  </Item>
+  <Item>
+    <TextId>1116</TextId>
+    <Text>Горен регион</Text>
+  </Item>
+  <Item>
+    <TextId>1117</TextId>
+    <Text>По-малко разстояние горе</Text>
+  </Item>
+  <Item>
+    <TextId>1118</TextId>
+    <Text>Дължина на полагане</Text>
+  </Item>
+  <Item>
+    <TextId>1120</TextId>
+    <Text>Долен регион</Text>
+  </Item>
+  <Item>
+    <TextId>1121</TextId>
+    <Text>По-малко разстояние долу</Text>
+  </Item>
+  <Item>
+    <TextId>1125</TextId>
+    <Text>Мащаб 1:</Text>
+  </Item>
+  <Item>
+    <TextId>1126</TextId>
+    <Text>Изглед</Text>
+  </Item>
+  <Item>
+    <TextId>1127</TextId>
+    <Text>Хориз. напречно сечение</Text>
+  </Item>
+  <Item>
+    <TextId>1130</TextId>
+    <Text>Надписване на пръти</Text>
+  </Item>
+  <Item>
+    <TextId>1133</TextId>
+    <Text>Елементи</Text>
+  </Item>
+  <Item>
+    <TextId>1134</TextId>
+    <Text>Нов разрез</Text>
+  </Item>
+  <Item>
+    <TextId>1135</TextId>
+    <Text>Начало</Text>
+  </Item>
+  <Item>
+    <TextId>1136</TextId>
+    <Text>Избор на тип</Text>
+  </Item>
+  <Item>
+    <TextId>1137</TextId>
+    <Text>Python Part</Text>
+  </Item>
+  <Item>
+    <TextId>1138</TextId>
+    <Text>3D обекти</Text>
+  </Item>
+  <Item>
+    <TextId>1139</TextId>
+    <Text>Име на сечение 1</Text>
+  </Item>
+  <Item>
+    <TextId>1140</TextId>
+    <Text>Име на сечение 2</Text>
+  </Item>
+  <Item>
+    <TextId>1141</TextId>
+    <Text>Име на сечение 3</Text>
+  </Item>
+  <Item>
+    <TextId>1143</TextId>
+    <Text>Описание 1</Text>
+  </Item>
+  <Item>
+    <TextId>1144</TextId>
+    <Text>Описание 2</Text>
+  </Item>
+  <Item>
+    <TextId>1149</TextId>
+    <Text>Колона</Text>
+  </Item>
+  <Item>
+    <TextId>1153</TextId>
+    <Text>Разрез 1-1</Text>
+  </Item>
+  <Item>
+    <TextId>1154</TextId>
+    <Text>Разрез 2-2</Text>
+  </Item>
+  <Item>
+    <TextId>1155</TextId>
+    <Text>Разрез 3-3</Text>
+  </Item>
+  <Item>
+    <TextId>1156</TextId>
+    <Text>Радиус на огъване основна армировка</Text>
+  </Item>
+  <Item>
+    <TextId>1157</TextId>
+    <Text>Радиус на огъване стремена</Text>
+  </Item>
+  <Item>
+    <TextId>1159</TextId>
+    <Text>Кука горе</Text>
+  </Item>
+  <Item>
+    <TextId>1160</TextId>
+    <Text>Ъгъл</Text>
+  </Item>
+  <Item>
+    <TextId>1161</TextId>
+    <Text>Вътрешна връзка 1</Text>
+  </Item>
+  <Item>
+    <TextId>1162</TextId>
+    <Text>Вътрешна връзка 2</Text>
+  </Item>
+  <Item>
+    <TextId>1163</TextId>
+    <Text>Вътрешна връзка 3</Text>
+  </Item>
+  <Item>
+    <TextId>1164</TextId>
+    <Text>Вътрешна връзка 4</Text>
+  </Item>
+  <Item>
+    <TextId>1165</TextId>
+    <Text>Вътрешна връзка 5</Text>
+  </Item>
+  <Item>
+    <TextId>1166</TextId>
+    <Text>Вътрешна връзка 6</Text>
+  </Item>
+  <Item>
+    <TextId>1167</TextId>
+    <Text>Фактор на огъване</Text>
+  </Item>
+  <Item>
+    <TextId>1168</TextId>
+    <Text>Форма прът</Text>
+  </Item>
+  <Item>
+    <TextId>1169</TextId>
+    <Text>Характеристики на външна връзка</Text>
+  </Item>
+  <Item>
+    <TextId>1170</TextId>
+    <Text>Характеристики на вътрешна връзка 1</Text>
+  </Item>
+  <Item>
+    <TextId>1171</TextId>
+    <Text>Характеристики на вътрешна връзка 2</Text>
+  </Item>
+  <Item>
+    <TextId>1172</TextId>
+    <Text>Характеристики на вътрешна връзка 3</Text>
+  </Item>
+  <Item>
+    <TextId>1173</TextId>
+    <Text>Характеристики на вътрешна връзка 4</Text>
+  </Item>
+  <Item>
+    <TextId>1174</TextId>
+    <Text>Характеристики на вътрешна връзка 5</Text>
+  </Item>
+  <Item>
+    <TextId>1175</TextId>
+    <Text>Характеристики на вътрешна връзка 6</Text>
+  </Item>
+  <Item>
+    <TextId>1177</TextId>
+    <Text>Кука в началото</Text>
+  </Item>
+  <Item>
+    <TextId>1178</TextId>
+    <Text>Ъгъл на куката в началото</Text>
+  </Item>
+  <Item>
+    <TextId>1179</TextId>
+    <Text>Дължина на куката в началото</Text>
+  </Item>
+   <Item>
+    <TextId>1180</TextId>
+    <Text>Кука в края</Text>
+  </Item>
+  <Item>
+    <TextId>1181</TextId>
+    <Text>Ъгъл на куката в края</Text>
+  </Item>
+  <Item>
+    <TextId>1182</TextId>
+    <Text>Дължина на куката в края</Text>
+  </Item>
+  <Item>
+    <TextId>1183</TextId>
+    <Text>Формат</Text>
+  </Item>
+  <Item>
+    <TextId>1184</TextId>
+    <Text>Основна армировка</Text>
+  </Item>
+  <Item>
+    <TextId>1185</TextId>
+    <Text>Жив плет</Text>
+  </Item>
+  <Item>
+    <TextId>1186</TextId>
+    <Text>Дълга страна</Text>
+  </Item>
+  <Item>
+    <TextId>1187</TextId>
+    <Text>Къса страна</Text>
+  </Item>
+  <Item>
+    <TextId>1188</TextId>
+    <Text>Страна</Text>
+  </Item>
+  <Item>
+    <TextId>1189</TextId>
+    <Text>Основна</Text>
+  </Item>
+  <Item>
+    <TextId>1190</TextId>
+    <Text>Ромб</Text>
+  </Item>
+  <Item>
+    <TextId>1191</TextId>
+    <Text>Затворено стреме</Text>
+  </Item>
+  <Item>
+    <TextId>4999</TextId>
+    <Text>Този PythonPart ви позволява автоматично да армирате колони с правоъгълно и кръгло сечение. \n\nЗа да започнете, моля следвайте стъпките:\n 1) Изберете колоната, която искате да армирате.\n 2) Изберете втора колона върху колоната (опция).\n 3) Преминете през разделите "Общо", "Основна армировка", "Стремена", за да дефинирате параметрите на армировката.\n    Кликнете ''Създаване'', за да проверите и създадете армировката на колоната.\n 4) Преминете през раздела "Разрез", за да дефинирате параметрите на разреза.\n    Кликнете "Създаване", за да създадете и поставите разрезите.</Text>
+  </Item>
+  <Item>
+    <TextId>5000</TextId>
+    <Text>Изберете елементи, за да</Text>
+  </Item>
+  <Item>
+    <TextId>5001</TextId>
+    <Text>отворите раздела "Общо".</Text>
+  </Item>
+  <Item>
+    <TextId>5003</TextId>
+    <Text>отворите раздела "Основни пръти".</Text>
+  </Item>
+  <Item>
+    <TextId>5005</TextId>
+    <Text>отворите раздела "Стремена".</Text>
+  </Item>
+  <Item>
+    <TextId>5007</TextId>
+    <Text>отворите раздела "Разрези".</Text>
+  </Item>
+  <Item>
+    <TextId>5008</TextId>
+    <Text>отворите раздела "Формат".</Text>
+  </Item>
+  <Item>
+    <TextId>10000</TextId>
+    <Text>Армировката не може да се създаде, заради следните грешки:</Text>
+  </Item>
+  <Item>
+    <TextId>10001</TextId>
+    <Text> - Диаметъра на стремената е по-малък от Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10002</TextId>
+    <Text> - Диаметърът на основната армировка е по-малък от Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10003</TextId>
+    <Text> - Разстоянието м/у стремената е по-малко от  Smin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10004</TextId>
+    <Text>Избраната колона не е възможна! Моля, изберете отново.</Text>
+  </Item>
+  <Item>
+    <TextId>10005</TextId>
+    <Text>Искате ли да изберете горна колона?</Text>
+  </Item>
+  <Item>
+    <TextId>10006</TextId>
+    <Text>Избор на горна колона: </Text>
+  </Item>
+  <Item>
+    <TextId>10007</TextId>
+    <Text>Ляв клик, за избор на една колона / десен клик, за избор на повече колони, за да създадете армировка</Text>
+  </Item>
+  <Item>
+    <TextId>10008</TextId>
+    <Text>Изберете ΟΚ. Въведете параметрите за армировката.</Text>
+  </Item>
+  <Item>
+    <TextId>10009</TextId>
+    <Text>Грешка при запазване на настройката: {}</Text>
+  </Item>
+  <Item>
+    <TextId>10010</TextId>
+    <Text>Грешка при зареждане на настройката. Проверете формата на файла.</Text>
+  </Item>
+  <Item>
+    <TextId>10011</TextId>
+    <Text>Не е избрана колона</Text>
+  </Item>
+  <Item>
+    <TextId>10012</TextId>
+    <Text>Искате ли да поправите параметрите автоматично?</Text>
+  </Item>
+  <Item>
+    <TextId>10013</TextId>
+    <Text>Избраната колона вече има армировка.</Text>
+  </Item>
+  <Item>
+    <TextId>10014</TextId>
+    <Text>Грешка при активиране на продуктов ключ.</Text>
+  </Item>
+  <Item>
+    <TextId>10015</TextId>
+    <Text>Моля, първо създайте армировка</Text>
+  </Item>
+  <Item>
+    <TextId>10016</TextId>
+    <Text>Изберете колона за задаване на армировка</Text>
+  </Item>
+  <Item>
+    <TextId>10017</TextId>
+    <Text> - По дългата страна диаметърът на армировката е по-малък от Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10018</TextId>
+    <Text> - По късата страна диаметърът на армировката е по-малък от Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10019</TextId>
+    <Text> - Диам. на страничните пръти е по-малък от Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10020</TextId>
+    <Text> - На база на мин. разстояние от {}mm между прътите, което е дефинирано в раздел Общо, мин. брой на основните пръти Ø{} е {}\n</Text>
+  </Item>
+  <Item>
+    <TextId>10021</TextId>
+    <Text> - На база на минималното светло разстояние от </Text>
+  </Item>
+  <Item>
+    <TextId>10022</TextId>
+    <Text> - mm между прътите, дефинирано в раздел "Общо" </Text>
+  </Item>
+  <Item>
+    <TextId>10023</TextId>
+    <Text>:\n   + По дългата страна макс. брой на основни пръти ø</Text>
+  </Item>
+  <Item>
+    <TextId>10024</TextId>
+    <Text>:\n   + По късата страна макс. брой на основни пръти ø</Text>
+  </Item>
+  <Item>
+    <TextId>10025</TextId>
+    <Text>:\n   + По дългата страна макс. брой на основни пръти ø</Text>
+  </Item>
+  <Item>
+    <TextId>10026</TextId>
+    <Text>:\n   + По късата страна макс. брой на основни пръти ø</Text>
+  </Item>
+  <Item>
+    <TextId>10027</TextId>
+    <Text>, макс. брой основни пръти ø</Text>
+  </Item>
+  <Item>
+    <TextId>10028</TextId>
+    <Text> - Избраният процент на армиране е </Text>
+  </Item>
+  <Item>
+    <TextId>10029</TextId>
+    <Text> и надвишава макс. процент от </Text>
+  </Item>
+  <Item>
+    <TextId>10030</TextId>
+    <Text>Рестартиране на избор на колона</Text>
+  </Item>
+  <Item>
+    <TextId>10031</TextId>
+    <Text>Изборът е неуспешен, моля изберете отново.</Text>
+  </Item>
+  <Item>
+    <TextId>10033</TextId>
+    <Text>Искате ли да затворите Python Part за колони?</Text>
+  </Item>
+  <!-- Empty -->
+  <Item>
+    <TextId>10034</TextId>
+    <Text/>
+  </Item>
+  <Item>
+    <TextId>10035</TextId>
+    <Text>Моля, изберете колона с правоъгълно или кръгло напр. сечение в 3D изглед на модела.</Text>
+  </Item>
+  <Item>
+    <TextId>10036</TextId>
+    <Text>Моля, завършете избора на обекта в 3D изглед на модела.</Text>
+  </Item>
+  <Item>
+    <TextId>10037</TextId>
+    <Text>Кликнете точка, за да поставите разрезите в план</Text>
+  </Item>
+  <Item>
+    <TextId>10038</TextId>
+    <Text>Въведете стойности за армировката в разделите и кликнете бутона "Създаване" (Проверка и полагане на армировка)</Text>
+  </Item>
+  <Item>
+    <TextId>10039</TextId>
+    <Text>Задайте информация за разрези и надпосване в раздела за Разрези и кликнете Създаване (Полагане на разрез)</Text>
+  </Item>
+  <Item>
+    <TextId>10040</TextId>
+    <Text>Процесът може да завърши ако натиснете бутона ESC/бутона 'Затваряне' или кликнете Създаване</Text>
+  </Item>
+
+  <Item>
+    <TextId>10041</TextId>
+    <Text>Направени са промени в параметрите.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10042</TextId>
+    <Text>Искате ли да актуализирате номера на позиция на пръта?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10043</TextId>
+    <Text>PythonPart е свързана с архитектурния компонент, с който е създадена.\nИмайте предвид, че копирането на тази PythonPart на друго място не е възможно.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10047</TextId>
+    <Text>Копирали сте Python Part, свързана с архитектурен обект.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10048</TextId>
+    <Text>Искате ли да я свържете с новия архитектурен обект?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10049</TextId>
+    <Text>Изберете колони с ляв клик или селективен прозорец</Text>
+  </Item>
+
+  <Item>
+    <TextId>10050</TextId>
+    <Text>- Приложението поддържа само колони с правоъгълно или кръгло напречно сечение.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10051</TextId>
+    <Text>Приложението поддържа само стени без наклонени повърхности горе и долу.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10052</TextId>
+    <Text>Приложението поддържа само стени без наклон.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10053</TextId>
+    <Text>Приложението поддържа само стени без ниши и конзоли.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10054</TextId>
+    <Text>Приложението поддържа само кръгли колони, чиято височина е 3 пъти по-голяма от диаметъра.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10055</TextId>
+    <Text>Приложението поддържа само колони с подходящи пропорции:\n+ Височината не бива да надвишава 4 пъти ширината на напречното сечение\n+ Височината е поне 3 пъти по-голяма от дължината или ширината на напречното сечение.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10056</TextId>
+    <Text>Не е намерена подходяща колона горе. Моля да изберете повторно колоните или да изключите втора колона горе.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10057</TextId>
+    <Text>Приложението поддържа само колони от един и същи геометричен тип.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10058</TextId>
+    <Text>Моля, изберете колоните отново.</Text>
+  </Item>
+
+</Element>

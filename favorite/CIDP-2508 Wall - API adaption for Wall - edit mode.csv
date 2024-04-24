@@ -1,0 +1,12 @@
+TestCase Name,TestCase Description,TestCase Result,Note,Status
+Checking the behaviour of reinforcement group in edit mode (mass is kept unchanged) - Wall without top wall,Checking the behaviour of reinforcement group in edit mode (mass is kept unchanged) - Wall without top wall,As expected,Main feature,Pass
+Checking the behaviour of reinforcement group in edit mode (mass is kept unchanged) - wall with top wall,Checking the behaviour of reinforcement group in edit mode (mass is kept unchanged) - wall with top wall,As expected,Main feature,Pass
+Checking the behaviour of reinforcement group in edit mode (layer is kept unchanged) - Wall with rebar option,Checking the behaviour of reinforcement group in edit mode (layer is kept unchanged) - Wall with rebar option,As expected,Main feature,Pass
+Checking the behaviour of reinforcement group in edit mode (layer is kept unchanged) - wall with Mesh option,Checking the behaviour of reinforcement group in edit mode (layer is kept unchanged) - wall with Mesh option,As expected,Main feature,Pass
+Checking the behaviour of rebar mark in edit mode – Rebar option,Checking the behaviour of rebar mark in edit mode – Rebar option,As expected,Main feature,Pass
+Checking the behaviour of rebar mark in edit mode – Mesh option,Checking the behaviour of rebar mark in edit mode - Mesh option,As expected,Main feature,Pass
+Checking the section and labeling after reactivation - wall with top wall,Checking the section and labeling after reactivation - wall with top wall,As expected,Main feature,Pass
+Checking the copy/Move workflow of pythonpart ,Checking the copy/Move workflow of pythonpart ,As expected,Main feature,Pass
+Checking the Double right click workflow of pythonpart ,Checking the Double right click workflow of pythonpart ,As expected,Main feature,Pass
+Checking versioning in branch 2022 (keep rebar mass after reactivation from 2022-0-2 to 2022-1-9) ,Checking versioning in branch 2022 (keep rebar mass after reactivation from 2022-0-2 to 2022-1-9) ,As expected,Main feature,Pass
+Checking versioning in branch 2023 (keep rebar mass after reactivation from 2023-0-0 to 2023-0-3),Checking versioning in branch 2023 (keep rebar mass after reactivation from 2023-0-0 to 2022-1-3) ,As expected,Main feature,Pass

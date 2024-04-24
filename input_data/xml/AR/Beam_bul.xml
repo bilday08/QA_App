@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Работен процес</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Повече информация:</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Учебник</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Избор на тип</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>3D обект</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Python Part</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Полагане на армировка</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>Общо</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>Общи настройки</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Бетоново покритие</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text>Клас на бетона</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>Каталог с напречни сечения</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>Радиус на огъване стремена</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Параметри на прът</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text>Мин. диаметър на основна армировка</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Мин. диаметър на напречна армировка</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Мин. диаметър на стремена</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>Мин. разстояние м/у стремена</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Ъгъл на кука на стреме</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Макс. дължина на прът</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Радиус на огъване основна армировка</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Надлъжен прът</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Основна горна армировка</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Диаметър</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Брой пръти</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Площ на армировка (As)</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Основна долна армировка</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Допълн. основни пръти</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Допълнителни долни пръти</Text>
+    </Item>
+
+    <Item>
+        <TextId>1048</TextId>
+        <Text>Дължина на прът</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Напречен прът</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Полагане</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Разстояние от началото</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Разстояние от края</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Регион на единично полагане</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Създаване</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Разстояние</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Дължина на кука</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Разстояние в средата</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Разстояние в началото</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>Разстояние в края</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>Дефиниране дебелина на плоча</Text>
+    </Item>
+
+    <Item>
+        <TextId>1068</TextId>
+        <Text>Брой полета</Text>
+    </Item>
+
+    <Item>
+        <TextId>1081</TextId>
+        <Text>Разрези</Text>
+    </Item>
+
+    <Item>
+        <TextId>1082</TextId>
+        <Text>Изглед</Text>
+    </Item>
+
+    <Item>
+        <TextId>1083</TextId>
+        <Text>Име на греда</Text>
+    </Item>
+
+    <Item>
+        <TextId>1084</TextId>
+        <Text>Описание 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1085</TextId>
+        <Text>Описание 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1086</TextId>
+        <Text>Мащаб</Text>
+    </Item>
+
+    <Item>
+        <TextId>1087</TextId>
+        <Text>Надписване на пръти</Text>
+    </Item>
+
+    <Item>
+        <TextId>1089</TextId>
+        <Text>Елементи</Text>
+    </Item>
+
+    <Item>
+        <TextId>1090</TextId>
+        <Text>Армировка</Text>
+    </Item>
+
+    <Item>
+        <TextId>1092</TextId>
+        <Text>Избор на елементи</Text>
+    </Item>
+
+    <Item>
+        <TextId>1091</TextId>
+        <Text>Дължина на полагане в средата</Text>
+    </Item>
+
+    <Item>
+        <TextId>1093</TextId>
+        <Text>Дължина на полагане</Text>
+    </Item>
+
+    <Item>
+        <TextId>1094</TextId>
+        <Text>Поставяне на разрези</Text>
+    </Item>
+
+    <Item>
+        <TextId>1096</TextId>
+        <Text>Дебелина на плоча</Text>
+    </Item>
+
+    <Item>
+        <TextId>1097</TextId>
+        <Text>Настройка на полета</Text>
+    </Item>
+
+    <Item>
+        <TextId>1098</TextId>
+        <Text>Дължина на полагане в началото</Text>
+    </Item>
+
+    <Item>
+        <TextId>1099</TextId>
+        <Text>Стремена</Text>
+    </Item>
+
+    <Item>
+        <TextId>1100</TextId>
+        <Text>Дължина на полагане в края</Text>
+    </Item>
+
+    <Item>
+        <TextId>1101</TextId>
+        <Text>Напречно сечение</Text>
+    </Item>
+
+    <Item>
+        <TextId>1102</TextId>
+        <Text>Поле</Text>
+    </Item>
+
+    <Item>
+        <TextId>1103</TextId>
+        <Text>Разрез 1-1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1104</TextId>
+        <Text>Разрез 2-2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1105</TextId>
+        <Text>Разрез 3-3</Text>
+    </Item>
+
+    <Item>
+        <TextId>1106</TextId>
+        <Text>Показване таблица за въвеждане</Text>
+    </Item>
+
+    <Item>
+        <TextId>1107</TextId>
+        <Text>Надлъжен прът</Text>
+    </Item>
+
+    <Item>
+        <TextId>1108</TextId>
+        <Text>Греда</Text>
+    </Item>
+
+    <Item>
+        <TextId>1109</TextId>
+        <Text>Дължина на снаждане</Text>
+    </Item>
+
+    <Item>
+        <TextId>1110</TextId>
+        <Text>Дължина на кука = D *</Text>
+    </Item>
+
+    <Item>
+        <TextId>1111</TextId>
+        <Text>Дължина на закотвяне в началото</Text>
+    </Item>
+
+    <Item>
+        <TextId>1112</TextId>
+        <Text>Дължина на закотвяне в края</Text>
+    </Item>
+
+    <Item>
+        <TextId>1113</TextId>
+        <Text>Разстояние в началото</Text>
+    </Item>
+
+    <Item>
+        <TextId>1114</TextId>
+        <Text>Разстояние в края</Text>
+    </Item>
+
+    <Item>
+        <TextId>1117</TextId>
+        <Text>Мин. светло разстояние между прътите</Text>
+    </Item>
+
+    <Item>
+        <TextId>1118</TextId>
+        <Text>Стойности на армировката</Text>
+    </Item>
+
+    <Item>
+        <TextId>1119</TextId>
+        <Text>Ръчно</Text>
+    </Item>
+
+    <Item>
+        <TextId>1120</TextId>
+        <Text>На база стандарти</Text>
+    </Item>
+
+    <Item>
+        <TextId>1121</TextId>
+        <Text>Кука в края</Text>
+    </Item>
+
+    <Item>
+        <TextId>1148</TextId>
+        <Text>Режим на изглед</Text>
+    </Item>
+
+    <Item>
+        <TextId>1149</TextId>
+        <Text>Изглед на цялата греда</Text>
+    </Item>
+
+    <Item>
+        <TextId>1150</TextId>
+        <Text>Изглед поле по поле</Text>
+    </Item>
+
+    <Item>
+        <TextId>1151</TextId>
+        <Text>Напречно сечение</Text>
+    </Item>
+
+    <Item>
+        <TextId>1153</TextId>
+        <Text>Кука в началото</Text>
+    </Item>
+
+    <Item>
+        <TextId>1157</TextId>
+        <Text>1:50</Text>
+    </Item>
+
+    <Item>
+        <TextId>1158</TextId>
+        <Text>1:25</Text>
+    </Item>
+
+    <Item>
+        <TextId>1159</TextId>
+        <Text>1:20</Text>
+    </Item>
+
+    <Item>
+        <TextId>1161</TextId>
+        <Text>Въведете тук номер на полето</Text>
+    </Item>
+
+    <Item>
+        <TextId>1162</TextId>
+        <Text>Формат</Text>
+    </Item>
+
+    <Item>
+        <TextId>1163</TextId>
+        <Text>Основна армировка</Text>
+    </Item>
+
+    <Item>
+        <TextId>1164</TextId>
+        <Text>Горен прът</Text>
+    </Item>
+
+    <Item>
+        <TextId>1166</TextId>
+        <Text>Долен прът</Text>
+    </Item>
+
+    <Item>
+        <TextId>1167</TextId>
+        <Text>Допълнителна долу</Text>
+    </Item>
+
+    <Item>
+        <TextId>1168</TextId>
+        <Text>Основни стремена</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Да</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>Не</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Напречен прът</Text>
+    </Item>
+
+    <!-- For palette messages -->
+    <Item>
+        <TextId>4999</TextId>
+        <Text>Този PythonPart ще ви даде възможност за автоматично създаване на армировка в греди.\n\nЗа да започнете да я използвате, моля запознайте се със следните стъпки:\n 1) Изберете гредата, която искате да армирате.\n 2) Преминете през разделите "Общо", "Оановна армировка", "Стремена", за да дефинирате армировката на гредата. \n      Кликенте "Създаване", за да проверите и създадете армировката на гредата.\n 3) Преминете през раздела "Разрез", за да дефинирате параметрите на разреза. \n      Кликнете "създаване" и поставете разреза.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Изберете елементи, за да</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>отворите раздела "Общо".</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>отворите раздела "Надлъжна армировка"</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>отворите раздела "Стремена".</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>отворите раздела "Разрези".</Text>
+    </Item>
+    <Item>
+        <TextId>5008</TextId>
+        <Text>отворите раздела "Формат".</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>Ляв клик, за да изберете една греда / десен клик, за да изберете няколко греди</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Настройване на параметри и създаване на армировка / ESC, за да изберете отново опорите</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Изберете греди с ляв клик или селективен прозорец</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>Изберете опори с ляв клик или селективен прозорец</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Въведете параметрите на разреза и поставете в план.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10022</TextId>
+        <Text>Въведете координати, за да поставите разреза в план.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10038</TextId>
+        <Text>Направени са промени в параметрите.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10039</TextId>
+        <Text>Искате ли да актуализирате номера на позиция на пръта?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10040</TextId>
+        <Text>Копирали сте Python Part, свързана с архитектурен обект.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10041</TextId>
+        <Text>Искате ли да я свържете с новия архитектурен обект?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10042</TextId>
+        <Text>Горното ниво на избраната греда е различно.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10043</TextId>
+        <Text>Тази версия не поддържа греди в различни направления.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10044</TextId>
+        <Text>Ширината на гредата е различна.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10045</TextId>
+        <Text>Избраните греди се пресичат или поне едната е дублирана.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10046</TextId>
+        <Text>Тази версия не поддържа греди с ексцентрична ос.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10047</TextId>
+        <Text>- Приложението поддържа само колони с правоъгълна или кръгла форма.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10048</TextId>
+        <Text>- Приложението не поддържа колони с пресичащ се обем.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10049</TextId>
+        <Text>- Приложението поддържа само колони с правоъгълно или кръгло напречно сечение.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10050</TextId>
+        <Text>- Ширината на гредите е по-голяма от тази на опорите.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10051</TextId>
+        <Text>- Един от върховете на гредата лежи извън проекцията в план на напречното сечение на гредата.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10052</TextId>
+        <Text>- Ъгълът на завъртане на опората и гредата е различен.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10053</TextId>
+        <Text>- Има разстояние между избраната греда и опората.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10054</TextId>
+        <Text>Моля, изберете опорите отново.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10055</TextId>
+        <Text>Моля, изберете гредите отново.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10056</TextId>
+        <Text>Грешна селекция:</Text>
+    </Item>
+
+    <Item>
+        <TextId>10057</TextId>
+        <Text>Десен клик, за да започнете селектирането на опорите или ESC, за да изберете гредите отново</Text>
+    </Item>
+
+    <Item>
+        <TextId>10058</TextId>
+        <Text>Въведете параметри на армировката или натиснете ESC, за да изберете гредите отново</Text>
+    </Item>
+
+    <Item>
+        <TextId>10059</TextId>
+        <Text>- Светлото разстояние между страничните пръти не е според изискването, дефинирано в разбела Общо.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10060</TextId>
+        <Text>- Дължината на страничните пръти в поне едно поле надвишава макс. дължина, зададена в раздел Общо.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10061</TextId>
+        <Text>- Светлото разстояние между долните пръти не отговаря на изискванията, зададени в раздел Общо.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10062</TextId>
+        <Text>- Дължината на основните долни пръти в поне едно поле надвишава макс. дължина, зададена в раздел Общо.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10063</TextId>
+        <Text>- Дължината на основните горни пръти в поне едно поле надвишава макс. дължина, зададена в раздел Общо.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10064</TextId>
+        <Text>Моля, редактирайте параметрите, за да сте сигурни, че общата дължина на прътите е п-малка от максималната дължина.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10065</TextId>
+        <Text>Искате ли да продължите?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10066</TextId>
+        <Text>Възможно е да създадете горни пръти през няколко полета или да ги разделите поле по поле. \nИскате ли да ги създадете през няколко полета?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10067</TextId>
+        <Text>- Светлото разстояние между горните пръти не отговаря на изискванията, зададени в раздел Общо.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10068</TextId>
+        <Text>- Дължината на допълнителните долни пръти в поне едно поле надвишава макс. дължина, зададена в раздел Общо.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10069</TextId>
+        <Text>Светлото разстояние между долните пръти и допълнителните пръти не е според изискванията в раздела Общо.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10070</TextId>
+        <Text>Броят на допълнителни пръти и главната долна армировка, които сте въвели не са подходящи за полагане в модела на гредата.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10071</TextId>
+        <Text>PythonPart е свързана с архитектурния компонент, с който е създадена.\nИмайте предвид, че копирането на тази PythonPart на друго място не е възможно.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10072</TextId>
+        <Text>Все още не сте създали армировка. Наистина ли искате да откажете тази функция?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10090</TextId>
+        <Text>- Светлото разстояние между страничните пръти надвишава макс. разстояние между прътите.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10091</TextId>
+        <Text>Моля, редактирайте параметрите в разделите, за да актуализирате армировката.</Text>
+    </Item>
+
+</Element>

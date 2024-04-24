@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Workflow</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Voor meer info, klik hier</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Tutorial</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Type kiezen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>3D object</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Python part</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Plaats wapening</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>Algemeen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>Algemene instellingen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Betondekking</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text>Betonkwaliteit</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>Doorsnedetabel</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>Buigdoorn beugel</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Instellingen wapeningsstaven</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text>Min. hoofdwapening diameter</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Min. zijwapening diameter</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Min. beugel diameter</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>Max. beugel afstand</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Haakhoek beugel</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Max. staaflengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Buigdoorn wapening</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Langse wapening</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Hoofdwapening boven</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Diameter</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Aantal staven</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Wapeningsoppervlakte (As)</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Hoofdwapening onder</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Hoofdwapening extra</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Extra wapening onder</Text>
+    </Item>
+
+    <Item>
+        <TextId>1048</TextId>
+        <Text>Staaflengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Zijwapening</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Verlegging</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Offset vanaf start</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Offset vanaf einde</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Enkele verleggingsbereik</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Creëren</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Afstand</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Haaklengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Bereik midden</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Bereik begin</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>Bereik einde</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>Vloerdikte definitie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1068</TextId>
+        <Text>Aantal overspanningen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1081</TextId>
+        <Text>Doorsneden</Text>
+    </Item>
+
+    <Item>
+        <TextId>1082</TextId>
+        <Text>Hoogte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1083</TextId>
+        <Text>Balknaam</Text>
+    </Item>
+
+    <Item>
+        <TextId>1084</TextId>
+        <Text>Beschrijving 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1085</TextId>
+        <Text>Beschrijving 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1086</TextId>
+        <Text>Schaal</Text>
+    </Item>
+
+    <Item>
+        <TextId>1087</TextId>
+        <Text>Wapeningsbijschriften</Text>
+    </Item>
+
+    <Item>
+        <TextId>1089</TextId>
+        <Text>Elementen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1090</TextId>
+        <Text>Wapening</Text>
+    </Item>
+
+    <Item>
+        <TextId>1092</TextId>
+        <Text>Selecteer elementen</Text>
+    </Item>
+
+    <Item>
+        <TextId>1091</TextId>
+        <Text>Verleggingslengte midden</Text>
+    </Item>
+
+    <Item>
+        <TextId>1093</TextId>
+        <Text>Verleggingslengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1094</TextId>
+        <Text>Plaats sneden</Text>
+    </Item>
+
+    <Item>
+        <TextId>1096</TextId>
+        <Text>Vloerdikte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1097</TextId>
+        <Text>Instelling voor overspanning</Text>
+    </Item>
+
+    <Item>
+        <TextId>1098</TextId>
+        <Text>Verleggingslengte begin</Text>
+    </Item>
+
+    <Item>
+        <TextId>1099</TextId>
+        <Text>Beugels</Text>
+    </Item>
+
+    <Item>
+        <TextId>1100</TextId>
+        <Text>Verleggingslengte einde</Text>
+    </Item>
+
+    <Item>
+        <TextId>1101</TextId>
+        <Text>Dwarsdoorsneden</Text>
+    </Item>
+
+    <Item>
+        <TextId>1102</TextId>
+        <Text>Overspanning</Text>
+    </Item>
+
+    <Item>
+        <TextId>1103</TextId>
+        <Text>Snede 1-1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1104</TextId>
+        <Text>Snede 2-2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1105</TextId>
+        <Text>Snede 3-3</Text>
+    </Item>
+
+    <Item>
+        <TextId>1106</TextId>
+        <Text>Ingave tabel weergeven</Text>
+    </Item>
+
+    <Item>
+        <TextId>1107</TextId>
+        <Text>Langse wapening</Text>
+    </Item>
+
+    <Item>
+        <TextId>1108</TextId>
+        <Text>Balk</Text>
+    </Item>
+
+    <Item>
+        <TextId>1109</TextId>
+        <Text>Overlappingslengte</Text>
+    </Item>
+
+    <Item>
+        <TextId>1110</TextId>
+        <Text>Haaklengte = L *</Text>
+    </Item>
+
+    <Item>
+        <TextId>1111</TextId>
+        <Text>Verankeringslengte begin</Text>
+    </Item>
+
+    <Item>
+        <TextId>1112</TextId>
+        <Text>Verankeringslengte einde</Text>
+    </Item>
+
+    <Item>
+        <TextId>1113</TextId>
+        <Text>Offset begin</Text>
+    </Item>
+
+    <Item>
+        <TextId>1114</TextId>
+        <Text>Offset einde</Text>
+    </Item>
+
+    <Item>
+        <TextId>1117</TextId>
+        <Text>Min. vrije afstand tussen staven</Text>
+    </Item>
+
+    <Item>
+        <TextId>1118</TextId>
+        <Text>Wapening waarden</Text>
+    </Item>
+
+    <Item>
+        <TextId>1119</TextId>
+        <Text>Manueem</Text>
+    </Item>
+
+    <Item>
+        <TextId>1120</TextId>
+        <Text>Norm gebasseerd</Text>
+    </Item>
+
+    <Item>
+        <TextId>1121</TextId>
+        <Text>Haken einde</Text>
+    </Item>
+
+    <Item>
+        <TextId>1148</TextId>
+        <Text>Hoogte modus</Text>
+    </Item>
+
+    <Item>
+        <TextId>1149</TextId>
+        <Text>Hoogte voor de volledige balk</Text>
+    </Item>
+
+    <Item>
+        <TextId>1150</TextId>
+        <Text>Hoogte voor elke overspanning</Text>
+    </Item>
+
+    <Item>
+        <TextId>1151</TextId>
+        <Text>Dwarsdoorsneden</Text>
+    </Item>
+
+    <Item>
+        <TextId>1153</TextId>
+        <Text>Haken begin</Text>
+    </Item>
+
+    <Item>
+        <TextId>1157</TextId>
+        <Text>1:50</Text>
+    </Item>
+
+    <Item>
+        <TextId>1158</TextId>
+        <Text>1:25</Text>
+    </Item>
+
+    <Item>
+        <TextId>1159</TextId>
+        <Text>1:20</Text>
+    </Item>
+
+    <Item>
+        <TextId>1161</TextId>
+        <Text>Geef het aantal overspanningen hier in</Text>
+    </Item>
+
+    <Item>
+        <TextId>1162</TextId>
+        <Text>Formaat</Text>
+    </Item>
+
+    <Item>
+        <TextId>1163</TextId>
+        <Text>Hoofdwapening</Text>
+    </Item>
+
+    <Item>
+        <TextId>1164</TextId>
+        <Text>Wapening boven</Text>
+    </Item>
+
+    <Item>
+        <TextId>1166</TextId>
+        <Text>Wapening onder</Text>
+    </Item>
+
+    <Item>
+        <TextId>1167</TextId>
+        <Text>Exta onder</Text>
+    </Item>
+
+    <Item>
+        <TextId>1168</TextId>
+        <Text>Hoofdbeugels</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Ja</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>Nee</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Zijwapening</Text>
+    </Item>
+
+    <!-- For palette messages -->
+    <Item>
+        <TextId>4999</TextId>
+        <Text>Met deze PythonPart kunt u automatisch wapening in balken generen.
+
+Volg deze stappen om aan de slag te gaan:
+    1) Selecteer de balk die u wilt wapenen.
+    2) Ga door de tabbladen "Algemeen", "Hoofdwapening", "Beugels" om de wapeningsinstellingen te definiëren.
+        Klik op "Genereren" om de balkwapening te controleren en te genereren.
+    3) Ga door het tabblad "Doorsneden" om de snedeinstellingen te definiëren.
+        Klik op "Genereren" en plaats de doorsneden.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Selecteer elementen om te</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>toegang te krijgen tot het tabblad "Algemeen".</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>Ga naar het tabblad "Langse wapening".</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>toegang te krijgen tot het tabblad "Beugels".</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>toegang te krijgen tot het tabblad "Doorsneden".</Text>
+    </Item>
+    <Item>
+        <TextId>5008</TextId>
+        <Text>ga naar het tabblad "Formaat".</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>Klik met de linkermuisknop om een ​​enkele balk te selecteren / klik met de rechtermuisknop om meerdere balken te selecteren</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Pas parameters aan en genereer wapening / ESC om de steun(en) opnieuw te selecteren</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Selecteer balk(en) door met de linkermuisknop te klikken of met de selectiekader</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>Selecteer steun(en) door met de linkermuisknop te klikken of met de selectiekader</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Snede-instellingen invoeren en in de plattegrond plaatsen</Text>
+    </Item>
+
+    <Item>
+        <TextId>10022</TextId>
+        <Text>Klik een punt in plattegrond om de snedes te plaatsen</Text>
+    </Item>
+
+    <Item>
+        <TextId>10038</TextId>
+        <Text>Er zijn wijzigingen in de parameter.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10039</TextId>
+        <Text>Wilt u het positienummer van de wapening bijwerken?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10040</TextId>
+        <Text>U heeft het PhytonPart gekopieerd dat is verbonden met een architectuurobject.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10041</TextId>
+        <Text>Wil je het het nieuwe architectuurobject koppelen?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10042</TextId>
+        <Text>de bovenkant van de geselecteerde balken is verschillend.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10043</TextId>
+        <Text>Deze versie ondersteunt geen balken met verschillende richtingen.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10044</TextId>
+        <Text>De breedte van de balken is verschillend.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10045</TextId>
+        <Text>De geselecteerde balken botsen of ten minste één balk is een duplicaat.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10046</TextId>
+        <Text>Deze versie ondersteunt geen balken met excentrische assen.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10047</TextId>
+        <Text>- De applicatie ondersteunt alleen kolommen met rechthoekige of ronde vormen.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10048</TextId>
+        <Text>- De applicatie ondersteunt geen kolommen met een gemeenschappelijk volume.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10049</TextId>
+        <Text>- De applicatie ondersteunt alleen kolommen met een rechthoekige of cirkelvormige doorsnede.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10050</TextId>
+        <Text>- De breedte van liggers is groter dan van een steun.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10051</TextId>
+        <Text>- Een van de hoekpunten van de balk bevindt zich buiten het bovenaanzicht van de steundoorsnede.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10052</TextId>
+        <Text>- De rotatiehoek van steun en balk is verschillend.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10053</TextId>
+        <Text>- Tussen de geselecteerde steun en balk zit een opening.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10054</TextId>
+        <Text>Selecteer de steunen opnieuw.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10055</TextId>
+        <Text>Selecteer de balken opnieuw.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10056</TextId>
+        <Text>Ongeldige selectie:</Text>
+    </Item>
+
+    <Item>
+        <TextId>10057</TextId>
+        <Text>Klik met de rechtermuisknop om de steun(en) te selecteren of wapeningsparameters in te voeren of druk op ESC om de balk(en) opnieuw te selecteren</Text>
+    </Item>
+
+    <Item>
+        <TextId>10058</TextId>
+        <Text>Voer wapeningsparameters in of druk op ESC om de balk opnieuw te selecteren</Text>
+    </Item>
+
+    <Item>
+        <TextId>10059</TextId>
+        <Text>- De vrije afstand tussen de zijstaven voldoet niet aan de eis die is gedefinieerd in het tabblad Algemeen.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10060</TextId>
+        <Text>- De lengte van de zijwapening in ten minste één overspanning overschrijdt de maximale staaflengte-instelling op het tabblad Algemeen.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10061</TextId>
+        <Text>- De vrije afstand tussen de onderste wapening voldoet niet aan de eis in het tabblad Algemeen.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10062</TextId>
+        <Text>- De lengte van de onderste hoofdwapening in ten minste één overspanning overschrijdt de maximale staaflengte-instelling op het tabblad Algemeen.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10063</TextId>
+        <Text>- De lengte van de bovenste hoofdwapening in ten minste één overspanning overschrijdt de maximale staaflengte-instelling op het tabblad Algemeen.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10064</TextId>
+        <Text>Wijzig de parameters om ervoor te zorgen dat de totale staaflengte kleiner is dan de maximale staaflengte.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10065</TextId>
+        <Text>Wilt u verdergaan?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10066</TextId>
+        <Text>Het is mogelijk om de bovenste staven over meerdere overspanningen te maken of ze per overspanning te splitsen.
+Wilt u ze over meerdere overspanningen maken?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10067</TextId>
+        <Text>- De vrije afstand tussen de bovenste wapening voldoet niet aan de eis in het algemene tabblad.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10068</TextId>
+        <Text>- De lengte van de toegevoegde onderste wapening in ten minste één overspanning is groter dan de maximale staaflengte-instelling op het tabblad Algemeen.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10069</TextId>
+        <Text>- De vrije afstand van de onderste hoofdwapening en extra wapening voldoet niet aan de vereiste in het tabblad Algemeen.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10070</TextId>
+        <Text>- Het aantal toegevoegde wapeningsstaven en onderste hoofd staven dat u invoert, zijn niet geschikt om in het balkmodel te worden geplaatst.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10071</TextId>
+        <Text>Dit PythonPart is verbonden met het Architecturaal component waarmee het is gemaakt.
+Houd er rekening mee dat het niet mogelijk is om dat PythonPart naar een andere locatie te kopiëren.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10072</TextId>
+        <Text>U heeft nog geen wapening gemaakt. Weet u zeker dat u deze functie wilt annuleren?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10090</TextId>
+        <Text>- De vrije afstand tussen de zijwapening is groter dan de maximale speling tussen de staven.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10091</TextId>
+        <Text>Wijzig de parameters in de tabbladen om de wapening bij te werken</Text>
+    </Item>
+
+</Element>

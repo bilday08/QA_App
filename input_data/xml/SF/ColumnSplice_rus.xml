@@ -1,0 +1,200 @@
+<Element>
+
+    <!-- General-->
+    <Item>
+        <TextId>9000</TextId>
+        <Text>Стык колонн</Text>
+    </Item>
+
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Справка</Text>
+    </Item>
+
+    <!-- General parameters -->
+    <Item>
+        <TextId>1000</TextId>
+        <Text>Общие настройки</Text>
+    </Item>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Тип соединения</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Фланец &amp; Сегмент</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Конец &amp; Базис</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Сварной</Text>
+    </Item>
+
+    <!-- Plate -->
+    <Item>
+        <TextId>2000</TextId>
+        <Text>Параметры сегмента плиты</Text>
+    </Item>
+
+    <Item>
+        <TextId>2001</TextId>
+        <Text>Толщина</Text>
+    </Item>
+
+    <Item>
+        <TextId>2002</TextId>
+        <Text>Длина</Text>
+    </Item>
+
+    <Item>
+        <TextId>2003</TextId>
+        <Text>Ширина</Text>
+    </Item>
+
+    <Item>
+        <TextId>2004</TextId>
+        <Text>Настройки фланца для  плиты</Text>
+    </Item>
+
+    <Item>
+        <TextId>2005</TextId>
+        <Text>Ширина</Text>
+    </Item>
+
+    <!-- Bolt -->
+    <Item>
+        <TextId>3000</TextId>
+        <Text>Параметры анкера</Text>
+    </Item>
+
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Размер</Text>
+    </Item>
+
+    <Item>
+        <TextId>3002</TextId>
+        <Text>Подкладные шайбы</Text>
+    </Item>
+
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Гайка подкл. шайбы</Text>
+    </Item>
+
+    <Item>
+        <TextId>3004</TextId>
+        <Text>Класс качества анкера</Text>
+    </Item>
+
+    <Item>
+        <TextId>3005</TextId>
+        <Text>Степень подробности</Text>
+    </Item>
+
+    <Item>
+        <TextId>3006</TextId>
+        <Text>Низкий(ая,ое)</Text>
+    </Item>
+
+    <Item>
+        <TextId>3007</TextId>
+        <Text>Средний</Text>
+    </Item>
+
+    <Item>
+        <TextId>3008</TextId>
+        <Text>Высокий</Text>
+    </Item>
+
+    <Item>
+        <TextId>3009</TextId>
+        <Text>Компоновки для сегмента болта</Text>
+    </Item>
+
+    <Item>
+        <TextId>3010</TextId>
+        <Text>Ряды</Text>
+    </Item>
+
+    <Item>
+        <TextId>3011</TextId>
+        <Text>Колонны</Text>
+    </Item>
+
+    <Item>
+        <TextId>3012</TextId>
+        <Text>Расстояние до края</Text>
+    </Item>
+
+    <Item>
+        <TextId>3013</TextId>
+        <Text>Настройки фланца для плиты</Text>
+    </Item>
+
+    <!-- Help tab -->
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Указание: Пож, выберите две колонны а именно:</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>    1. Несущие колонны</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>    2. Размещенный на одинаковых X- и Y-позициях</Text>
+    </Item>
+
+    <Item>
+        <TextId>5003</TextId>
+        <Text>    3. Размещенный друг на друга в Z-оси</Text>
+    </Item>
+
+    <Item>
+        <TextId>5004</TextId>
+        <Text>    4. Повернут на одинаковый угол</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>    5. Пож-та, используйте одинаковый профиль Nemetschek</Text>
+    </Item>
+
+    <!-- Dialog -->
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Выбрать нижнюю колонну</Text>
+    </Item>
+
+    <Item>
+        <TextId>10001</TextId>
+        <Text>Выберите верхнюю колонну</Text>
+    </Item>
+
+    <!-- POP-UP MESSAGE -->
+    <Item>
+        <TextId>11000</TextId>
+        <Text>Эта функция не совместима с Вашей текущей лицензией.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11001</TextId>
+        <Text>Эта функция не совместима с используемой версией Allplan.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11002</TextId>
+        <Text>Пожалуйста, выберите несущую колонну, использующую профиль из каталога Nemetschek.</Text>
+    </Item>
+
+</Element>

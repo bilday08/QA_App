@@ -1,0 +1,722 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Element>
+  <Item>
+    <TextId>1001</TextId>
+    <Text>Workflow</Text>
+  </Item>
+  <Item>
+    <TextId>1002</TextId>
+    <Text>Voor meer info, klik hier</Text>
+  </Item>
+  <Item>
+    <TextId>1003</TextId>
+    <Text>Tutorial</Text>
+  </Item>
+  <Item>
+    <TextId>1004</TextId>
+    <Text>Selecteer eerste kolom</Text>
+  </Item>
+  <Item>
+    <TextId>1005</TextId>
+    <Text>Selecteer tweede kolom bovenop</Text>
+  </Item>
+  <Item>
+    <TextId>1006</TextId>
+    <Text>Wapening</Text>
+  </Item>
+  <Item>
+    <TextId>1010</TextId>
+    <Text>Controleren en plaatsen</Text>
+  </Item>
+  <Item>
+    <TextId>1011</TextId>
+    <Text>Creëren</Text>
+  </Item>
+  <Item>
+    <TextId>1013</TextId>
+    <Text>Doorsneden</Text>
+  </Item>
+  <Item>
+    <TextId>1014</TextId>
+    <Text>Plaats sneden</Text>
+  </Item>
+  <Item>
+    <TextId>1021</TextId>
+    <Text>Algemeen</Text>
+  </Item>
+  <Item>
+    <TextId>1022</TextId>
+    <Text>Algemene instellingen</Text>
+  </Item>
+  <Item>
+    <TextId>1023</TextId>
+    <Text>Wapening waarden</Text>
+  </Item>
+  <Item>
+    <TextId>1024</TextId>
+    <Text>Manueel</Text>
+  </Item>
+  <Item>
+    <TextId>1025</TextId>
+    <Text>Norm gebasseerd</Text>
+  </Item>
+  <Item>
+    <TextId>1026</TextId>
+    <Text>Overlappingslengte</Text>
+  </Item>
+  <Item>
+    <TextId>1027</TextId>
+    <Text>Kolomnaam</Text>
+  </Item>
+  <Item>
+    <TextId>1028</TextId>
+    <Text>Betondekking</Text>
+  </Item>
+  <Item>
+    <TextId>1030</TextId>
+    <Text>Betonkwaliteit</Text>
+  </Item>
+  <Item>
+    <TextId>1031</TextId>
+    <Text>Doorsnedetabel</Text>
+  </Item>
+  <Item>
+    <TextId>1033</TextId>
+    <Text>Dikte van de bovenste plaat</Text>
+  </Item>
+  <Item>
+    <TextId>1034</TextId>
+    <Text>Wapeningsinstellingen</Text>
+  </Item>
+  <Item>
+    <TextId>1035</TextId>
+    <Text>Min. diameter hoofdwapening</Text>
+  </Item>
+  <Item>
+    <TextId>1036</TextId>
+    <Text>Min. diameter beugels</Text>
+  </Item>
+  <Item>
+    <TextId>1037</TextId>
+    <Text>Max. afstand beugels</Text>
+  </Item>
+  <Item>
+    <TextId>1039</TextId>
+    <Text>Min. speling tussen staven</Text>
+  </Item>
+  <Item>
+    <TextId>1040</TextId>
+    <Text>Max. wapeningsverhouding p = As/Ac [%]</Text>
+  </Item>
+  <Item>
+    <TextId>1041</TextId>
+    <Text>Factor voor buitendiameter staaf</Text>
+  </Item>
+  <Item>
+    <TextId>1047</TextId>
+    <Text>Hoofdwapening</Text>
+  </Item>
+  <Item>
+    <TextId>1048</TextId>
+    <Text>Diameter</Text>
+  </Item>
+  <Item>
+    <TextId>1049</TextId>
+    <Text>Aantal staven</Text>
+  </Item>
+  <Item>
+    <TextId>1051</TextId>
+    <Text>Knik startstaaf</Text>
+  </Item>
+  <Item>
+    <TextId>1052</TextId>
+    <Text>Knik lengte</Text>
+  </Item>
+  <Item>
+    <TextId>1053</TextId>
+    <Text>Knikverhouding = 1 /</Text>
+  </Item>
+  <Item>
+    <TextId>1054</TextId>
+    <Text>Lengte startstaaf</Text>
+  </Item>
+  <Item>
+    <TextId>1055</TextId>
+    <Text>Hoekwapening</Text>
+  </Item>
+  <Item>
+    <TextId>1061</TextId>
+    <Text>Zijwapening</Text>
+  </Item>
+  <Item>
+    <TextId>1074</TextId>
+    <Text>Zijwapening in lange zijde</Text>
+  </Item>
+  <Item>
+    <TextId>1081</TextId>
+    <Text>Zijwapening in korte zijde</Text>
+  </Item>
+  <Item>
+    <TextId>1099</TextId>
+    <Text>S-haak</Text>
+  </Item>
+  <Item>
+    <TextId>1100</TextId>
+    <Text>Diamant beugel</Text>
+  </Item>
+  <Item>
+    <TextId>1102</TextId>
+    <Text>Inner ties amount</Text>
+  </Item>
+  <Item>
+    <TextId>1103</TextId>
+    <Text>Draaien</Text>
+  </Item>
+  <Item>
+    <TextId>1104</TextId>
+    <Text>Layout</Text>
+  </Item>
+  <Item>
+    <TextId>1105</TextId>
+    <Text>⌀</Text>
+  </Item>
+  <Item>
+    <TextId>1106</TextId>
+    <Text>Vorm</Text>
+  </Item>
+  <Item>
+    <TextId>1107</TextId>
+    <Text>Beugel, gesloten</Text>
+  </Item>
+  <Item>
+    <TextId>1108</TextId>
+    <Text>Beugels</Text>
+  </Item>
+  <Item>
+    <TextId>1109</TextId>
+    <Text>Tie Arrangement</Text>
+  </Item>
+  <Item>
+    <TextId>1110</TextId>
+    <Text>Staafvorm</Text>
+  </Item>
+  <Item>
+    <TextId>1111</TextId>
+    <Text>Outer ties amount</Text>
+  </Item>
+  <Item>
+    <TextId>1112</TextId>
+    <Text>Outer ties</Text>
+  </Item>
+  <Item>
+    <TextId>1113</TextId>
+    <Text>Afstand</Text>
+  </Item>
+  <Item>
+    <TextId>1114</TextId>
+    <Text>Haaklengte</Text>
+  </Item>
+  <Item>
+    <TextId>1115</TextId>
+    <Text>Haakhoek</Text>
+  </Item>
+  <Item>
+    <TextId>1116</TextId>
+    <Text>Bereik boven</Text>
+  </Item>
+  <Item>
+    <TextId>1117</TextId>
+    <Text>Kleinere afstand boven</Text>
+  </Item>
+  <Item>
+    <TextId>1118</TextId>
+    <Text>Verleggingslengte</Text>
+  </Item>
+  <Item>
+    <TextId>1120</TextId>
+    <Text>Bereik onder</Text>
+  </Item>
+  <Item>
+    <TextId>1121</TextId>
+    <Text>Kleinere afstand onder</Text>
+  </Item>
+  <Item>
+    <TextId>1125</TextId>
+    <Text>Schaal 1:</Text>
+  </Item>
+  <Item>
+    <TextId>1126</TextId>
+    <Text>Hoogte</Text>
+  </Item>
+  <Item>
+    <TextId>1127</TextId>
+    <Text>Horizontale dwarsdoorsneden</Text>
+  </Item>
+  <Item>
+    <TextId>1130</TextId>
+    <Text>Wapeningsbijschriften</Text>
+  </Item>
+  <Item>
+    <TextId>1133</TextId>
+    <Text>Elementen</Text>
+  </Item>
+  <Item>
+    <TextId>1134</TextId>
+    <Text>Nieuwe selectie</Text>
+  </Item>
+  <Item>
+    <TextId>1135</TextId>
+    <Text>Start</Text>
+  </Item>
+  <Item>
+    <TextId>1136</TextId>
+    <Text>Kies Type</Text>
+  </Item>
+  <Item>
+    <TextId>1137</TextId>
+    <Text>PythonPart</Text>
+  </Item>
+  <Item>
+    <TextId>1138</TextId>
+    <Text>3D Lichaam</Text>
+  </Item>
+  <Item>
+    <TextId>1139</TextId>
+    <Text>Snedenaam 1</Text>
+  </Item>
+  <Item>
+    <TextId>1140</TextId>
+    <Text> Snedenaam 2</Text>
+  </Item>
+  <Item>
+    <TextId>1141</TextId>
+    <Text>  Snedenaam 3</Text>
+  </Item>
+  <Item>
+    <TextId>1143</TextId>
+    <Text>Beschrijving 1</Text>
+  </Item>
+  <Item>
+    <TextId>1144</TextId>
+    <Text>Beschrijving 2</Text>
+  </Item>
+  <Item>
+    <TextId>1149</TextId>
+    <Text>Kolom</Text>
+  </Item>
+  <Item>
+    <TextId>1153</TextId>
+    <Text>Snede 1-1</Text>
+  </Item>
+  <Item>
+    <TextId>1154</TextId>
+    <Text>Snede 2-2</Text>
+  </Item>
+  <Item>
+    <TextId>1155</TextId>
+    <Text>Snede 3-3</Text>
+  </Item>
+  <Item>
+    <TextId>1156</TextId>
+    <Text>Buigdoorn hoofdwapening</Text>
+  </Item>
+  <Item>
+    <TextId>1157</TextId>
+    <Text>Buigdoorn beugel</Text>
+  </Item>
+  <Item>
+    <TextId>1159</TextId>
+    <Text>Haak boven</Text>
+  </Item>
+  <Item>
+    <TextId>1160</TextId>
+    <Text>Hoek</Text>
+  </Item>
+  <Item>
+    <TextId>1161</TextId>
+    <Text>Inner tie 1</Text>
+  </Item>
+  <Item>
+    <TextId>1162</TextId>
+    <Text>Inner tie 2</Text>
+  </Item>
+  <Item>
+    <TextId>1163</TextId>
+    <Text>Inner tie 3</Text>
+  </Item>
+  <Item>
+    <TextId>1164</TextId>
+    <Text>Inner tie 4</Text>
+  </Item>
+  <Item>
+    <TextId>1165</TextId>
+    <Text>Inner tie 5</Text>
+  </Item>
+  <Item>
+    <TextId>1166</TextId>
+    <Text>Inner tie 6</Text>
+  </Item>
+  <Item>
+    <TextId>1167</TextId>
+    <Text>Buigdoorn factor</Text>
+  </Item>
+  <Item>
+    <TextId>1168</TextId>
+    <Text>Staafvorm</Text>
+  </Item>
+  <Item>
+    <TextId>1169</TextId>
+    <Text>Outer tie properties</Text>
+  </Item>
+  <Item>
+    <TextId>1170</TextId>
+    <Text>Inner tie 1 properties</Text>
+  </Item>
+  <Item>
+    <TextId>1171</TextId>
+    <Text>Inner tie 2 properties</Text>
+  </Item>
+  <Item>
+    <TextId>1172</TextId>
+    <Text>Inner tie 3 properties</Text>
+  </Item>
+  <Item>
+    <TextId>1173</TextId>
+    <Text>Inner tie 4 properties</Text>
+  </Item>
+  <Item>
+    <TextId>1174</TextId>
+    <Text>Inner tie 5 properties</Text>
+  </Item>
+  <Item>
+    <TextId>1175</TextId>
+    <Text>Inner tie 6 properties</Text>
+  </Item>
+  <Item>
+    <TextId>1177</TextId>
+    <Text>Haak begin</Text>
+  </Item>
+  <Item>
+    <TextId>1178</TextId>
+    <Text>Haakhoek begin</Text>
+  </Item>
+  <Item>
+    <TextId>1179</TextId>
+    <Text>Haaklengte begin</Text>
+  </Item>
+   <Item>
+    <TextId>1180</TextId>
+    <Text>Haak einde</Text>
+  </Item>
+  <Item>
+    <TextId>1181</TextId>
+    <Text>Haakhoek einde</Text>
+  </Item>
+  <Item>
+    <TextId>1182</TextId>
+    <Text>Haaklengte einde</Text>
+  </Item>
+  <Item>
+    <TextId>1183</TextId>
+    <Text>Formaat</Text>
+  </Item>
+  <Item>
+    <TextId>1184</TextId>
+    <Text>Hoofdwapening</Text>
+  </Item>
+  <Item>
+    <TextId>1185</TextId>
+    <Text>Hoek</Text>
+  </Item>
+  <Item>
+    <TextId>1186</TextId>
+    <Text>Lange zijde</Text>
+  </Item>
+  <Item>
+    <TextId>1187</TextId>
+    <Text>Korte zijde</Text>
+  </Item>
+  <Item>
+    <TextId>1188</TextId>
+    <Text>zijde</Text>
+  </Item>
+  <Item>
+    <TextId>1189</TextId>
+    <Text>Hoofd</Text>
+  </Item>
+  <Item>
+    <TextId>1190</TextId>
+    <Text>Diamond</Text>
+  </Item>
+  <Item>
+    <TextId>1191</TextId>
+    <Text>Beugel, gesloten</Text>
+  </Item>
+  <Item>
+    <TextId>4999</TextId>
+    <Text>Deze PythonPart zorgt ervoor dat u automatisch wapening in rechthoekige en ronde kolommen kan creëren.\n\nOm te beginnen, volg deze stappen:\n   1) Selecteer de kolom die u wilt wapenen.\n   2) Selecteer een tweede kolom bovenop de eerste kolom. (Optioneel)\n   3) Ga door de tabbladen "Algemeen", "Hoofdwapening", "Beugels" om de wapeningsinstellingen te definiëren.\n       Klik op "Creëren" om de wapening te controleren en te plaatsen.\n   4) Ga door het tabblad "Doorsneden" om de instellingen van de sneden te definiëren.\n       Klik op "Creëren" en plaatst de doorsneden.</Text>
+  </Item>
+  <Item>
+    <TextId>5000</TextId>
+    <Text>Selecteer elementen om</Text>
+  </Item>
+  <Item>
+    <TextId>5001</TextId>
+    <Text>toegang te krijgen tot het tabblad "Algemeen".</Text>
+  </Item>
+  <Item>
+    <TextId>5003</TextId>
+    <Text>oegang te krijgen tot het tabblad"Hoofwapening".</Text>
+  </Item>
+  <Item>
+    <TextId>5005</TextId>
+    <Text>oegang te krijgen tot het tabblad "Beugels".</Text>
+  </Item>
+  <Item>
+    <TextId>5007</TextId>
+    <Text>oegang te krijgen tot het tabblad "Doorsneden".</Text>
+  </Item>
+  <Item>
+    <TextId>5008</TextId>
+    <Text>Toegang tot het tabblad "Formaat".</Text>
+  </Item>
+  <Item>
+    <TextId>10000</TextId>
+    <Text>Kan geen wapening creëren vanwege de volgende fout(en):\n</Text>
+  </Item>
+  <Item>
+    <TextId>10001</TextId>
+    <Text> - De diameter van de beugel is kleiner dan Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10002</TextId>
+    <Text> - De diameter van de kolom hoofdwapening  is kleiner dan Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10003</TextId>
+    <Text> - De beugelafstand is groter dan = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10004</TextId>
+    <Text>De geselecteerde kolom is niet geldig. Selecteer opnieuw.</Text>
+  </Item>
+  <Item>
+    <TextId>10005</TextId>
+    <Text>Wilt u de bovenste kolom selecteren?</Text>
+  </Item>
+  <Item>
+    <TextId>10006</TextId>
+    <Text>Selecteer bovenste kolom: </Text>
+  </Item>
+  <Item>
+    <TextId>10007</TextId>
+    <Text>Klik links om een enkele kolom te selecteren / Klik rechts om meerdere kolommen te selecteren om te wapenen.</Text>
+  </Item>
+  <Item>
+    <TextId>10008</TextId>
+    <Text>De selectie is OK. Invoerparameter voor wapening</Text>
+  </Item>
+  <Item>
+    <TextId>10009</TextId>
+    <Text>Instelling opslaan mislukt: {}</Text>
+  </Item>
+  <Item>
+    <TextId>10010</TextId>
+    <Text>Instelling laden mislukt! Controleer het bestandsformaat.</Text>
+  </Item>
+  <Item>
+    <TextId>10011</TextId>
+    <Text>Geen kolom geselecteerd</Text>
+  </Item>
+  <Item>
+    <TextId>10012</TextId>
+    <Text>Wilt u deze/deze instelling(en) automatisch corrigeren?</Text>
+  </Item>
+  <Item>
+    <TextId>10013</TextId>
+    <Text>De geselecteerde kolom heeft al wapening</Text>
+  </Item>
+  <Item>
+    <TextId>10014</TextId>
+    <Text>Kan Product Key niet activeren</Text>
+  </Item>
+  <Item>
+    <TextId>10015</TextId>
+    <Text>Maak eerst wapening aan</Text>
+  </Item>
+  <Item>
+    <TextId>10016</TextId>
+    <Text>Selecteer een kolom om wapening te creëren</Text>
+  </Item>
+  <Item>
+    <TextId>10017</TextId>
+    <Text> - In de langse kant is de wapeningdiameter kleiner dan Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10018</TextId>
+    <Text> - In de korte kant is de wapeningdiameter kleiner dan Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10019</TextId>
+    <Text> - Diameter wapening in zijwapening kleiner dan Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10020</TextId>
+    <Text> - Gebaseerd op de minimale vrije afstand van {}mm tussen wapeningsstaven gedefinieerd in het tabblad Algemeen, het maximum aantal hoofdstaven Ø{} is {}\n</Text>
+  </Item>
+  <Item>
+    <TextId>10021</TextId>
+    <Text> - Gebaseerd op de minimale vrije afstand van </Text>
+  </Item>
+  <Item>
+    <TextId>10022</TextId>
+    <Text> mm tussen staven gedefinieerd in het tabblad Algemeen </Text>
+  </Item>
+  <Item>
+    <TextId>10023</TextId>
+    <Text>:\n   + In de lange kant het maximale aantal hoofdstaven ø{} is {}</Text>
+  </Item>
+  <Item>
+    <TextId>10024</TextId>
+    <Text>:\n   + In de korte kan het maximale aantal hoofdstaven ø{} is {}</Text>
+  </Item>
+  <Item>
+    <TextId>10025</TextId>
+    <Text>:\n   + In de lange kant het maximale aantal hoofdstaven ø</Text>
+  </Item>
+  <Item>
+    <TextId>10026</TextId>
+    <Text>:\n   + In de korte kan het maximale aantal hoofdstaven ø</Text>
+  </Item>
+  <Item>
+    <TextId>10027</TextId>
+    <Text>, het maximale aantal hoofdstaven ø</Text>
+  </Item>
+  <Item>
+    <TextId>10028</TextId>
+    <Text> - Gekozen wapeningsverhouding is </Text>
+  </Item>
+  <Item>
+    <TextId>10029</TextId>
+    <Text> en overschrijdt de maximale verhouding van </Text>
+  </Item>
+  <Item>
+    <TextId>10030</TextId>
+    <Text>Herstart kolom selecteren</Text>
+  </Item>
+  <Item>
+    <TextId>10031</TextId>
+    <Text>Selectie mislukt, selecteer opnieuw</Text>
+  </Item>
+  <Item>
+    <TextId>10033</TextId>
+    <Text>Wilt u de kolom-PythonPart verlaten?</Text>
+  </Item>
+  <!-- Empty -->
+  <Item>
+    <TextId>10034</TextId>
+    <Text/>
+  </Item>
+  <Item>
+    <TextId>10035</TextId>
+    <Text>Selecteer ronde kolom of rechthoekige kolom in '3D-modelweergave'</Text>
+  </Item>
+  <Item>
+    <TextId>10036</TextId>
+    <Text>Voltooi de objectselectie in '3D-modelweergave'</Text>
+  </Item>
+  <Item>
+    <TextId>10037</TextId>
+    <Text>Klik op een punt in de plattegrond om de sneden te plaatsen</Text>
+  </Item>
+  <Item>
+    <TextId>10038</TextId>
+    <Text>Bepaald de waardes voor wapening in de tabbladen en klik op de knop 'Creëren' (Controleer en plaats wapening)</Text>
+  </Item>
+  <Item>
+    <TextId>10039</TextId>
+    <Text>Geef invoer voor snede en bijschriften in het tabblad Doorsneden en klik vervolgens op Creëren (doorsneden plaatsen)</Text>
+  </Item>
+  <Item>
+    <TextId>10040</TextId>
+    <Text>Het proces kan worden voltooid als u op de ESC-toets/'Sluiten' drukt of als u op 'Creëren' klikt voor meer doorsneden</Text>
+  </Item>
+
+  <Item>
+    <TextId>10041</TextId>
+    <Text>Er zijn wijzigingen in de parameter.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10042</TextId>
+    <Text>Wilt u het positienummer van de wapening bijwerken?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10043</TextId>
+    <Text>Deze PythonPart is verbonden met de Architectural component waarmee het is gemaakt.
+Houd er rekening mee dat het niet mogelijk is om deze PythonPart naar een andere locatie te kopiëren.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10047</TextId>
+    <Text>U heeft de PythonPart gekopieerd dat is verbonden met een architectuurobject.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10048</TextId>
+    <Text>Wil je het het nieuwe architectuurobject koppelen?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10049</TextId>
+    <Text>Selecteer kolom(men) door met de linkermuisknop te klikken of door oppervlakteselectie</Text>
+  </Item>
+
+  <Item>
+    <TextId>10050</TextId>
+    <Text>De applicatie ondersteunt alleen kolommen met een rechthoekige, vierkante of ronde doorsnede.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10051</TextId>
+    <Text>De applicatie ondersteunt alleen kolommen zonder schuine vlakken aan de boven- of onderkant.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10052</TextId>
+    <Text>De applicatie ondersteunt alleen kolommen zonder helling.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10053</TextId>
+    <Text>De applicatie ondersteunt alleen kolommen zonder inkepingen of consoles.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10054</TextId>
+    <Text>De applicatie ondersteunt alleen een ronde kolom waarvan de hoogte 3 keer groter is dan de diameter.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10055</TextId>
+    <Text>De applicatie ondersteunt alleen kolommen met geldige verhoudingen:
++ De lengte mag niet groter zijn dan 4 keer de breedte in doorsnede
++ De hoogte is minimaal 3 keer groter dan de lengte of breedte van de doorsnede</Text>
+  </Item>
+
+  <Item>
+    <TextId>10056</TextId>
+    <Text>Er is geen geldige kolom hierboven gevonden. Selecteer de kolom(men) opnieuw of schakel het selectievakje in de tweede kolom bovenaan uit.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10057</TextId>
+    <Text>De applicatie ondersteunt alleen kolommen met hetzelfde type geometrie.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10058</TextId>
+    <Text>Selecteer kolom(men) opnieuw.</Text>
+  </Item>
+
+</Element>

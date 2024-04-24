@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Flujo de trabajo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Para más información haz clic aquí:</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Tutorial</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Elegir tipo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Objeto 3D</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>PythonPart</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Colocar armado</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>General</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>Parámetros generales</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Recubrimiento de hormigón</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text>Calidad del hormigón</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>Catálogo de secciones transversales</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>Bulón del estribo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Parámetros de barra de armado</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text>Diámetro mín. de la barra principal</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Diámetro mín. de la barra lateral</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Diámetro mín. del estribo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>Espacio máximo entre soportes</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Ángulo del gancho del estribo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Longitud de barra máx.</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Bulón de la barra principal</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Barra longitudinal</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Barra principal superior</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Diámetro</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Número de barras</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Superficie del armado (As)</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Barra principal inferior</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Barra principal adicional</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Barra inferior  adicional</Text>
+    </Item>
+
+    <Item>
+        <TextId>1048</TextId>
+        <Text>Longitud de barra</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Barra lateral</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Emplazamiento</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Desfase desde el inicio</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Desfase desde el final</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Superficie de colocación individual</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Crear</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Espaciado</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Longitud del gancho</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Espaciado en el centro</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Espaciado al inicio</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>Espaciado al final</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>Definición del espesor del forjado</Text>
+    </Item>
+
+    <Item>
+        <TextId>1068</TextId>
+        <Text>Número de vanos</Text>
+    </Item>
+
+    <Item>
+        <TextId>1081</TextId>
+        <Text>Secciones</Text>
+    </Item>
+
+    <Item>
+        <TextId>1082</TextId>
+        <Text>Alzado</Text>
+    </Item>
+
+    <Item>
+        <TextId>1083</TextId>
+        <Text>Nombre de la viga</Text>
+    </Item>
+
+    <Item>
+        <TextId>1084</TextId>
+        <Text>Descripción 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1085</TextId>
+        <Text>Descripción 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1086</TextId>
+        <Text>Escala</Text>
+    </Item>
+
+    <Item>
+        <TextId>1087</TextId>
+        <Text>Etiquetado del armado</Text>
+    </Item>
+
+    <Item>
+        <TextId>1089</TextId>
+        <Text>Elementos</Text>
+    </Item>
+
+    <Item>
+        <TextId>1090</TextId>
+        <Text>Armado</Text>
+    </Item>
+
+    <Item>
+        <TextId>1092</TextId>
+        <Text>Seleccionar elementos</Text>
+    </Item>
+
+    <Item>
+        <TextId>1091</TextId>
+        <Text>Longitud de colocación en el medio</Text>
+    </Item>
+
+    <Item>
+        <TextId>1093</TextId>
+        <Text>Longitud de colocación</Text>
+    </Item>
+
+    <Item>
+        <TextId>1094</TextId>
+        <Text>Colocar secciones</Text>
+    </Item>
+
+    <Item>
+        <TextId>1096</TextId>
+        <Text>Espesor del forjado</Text>
+    </Item>
+
+    <Item>
+        <TextId>1097</TextId>
+        <Text>Configuración del vano</Text>
+    </Item>
+
+    <Item>
+        <TextId>1098</TextId>
+        <Text>Longitud de colocación inicial</Text>
+    </Item>
+
+    <Item>
+        <TextId>1099</TextId>
+        <Text>Estribo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1100</TextId>
+        <Text>Longitud de colocación final</Text>
+    </Item>
+
+    <Item>
+        <TextId>1101</TextId>
+        <Text>Secciones transversales</Text>
+    </Item>
+
+    <Item>
+        <TextId>1102</TextId>
+        <Text>Vano</Text>
+    </Item>
+
+    <Item>
+        <TextId>1103</TextId>
+        <Text>Sección 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1104</TextId>
+        <Text>Sección 2-2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1105</TextId>
+        <Text>Sección 3-3</Text>
+    </Item>
+
+    <Item>
+        <TextId>1106</TextId>
+        <Text>Ver tabla de entradas</Text>
+    </Item>
+
+    <Item>
+        <TextId>1107</TextId>
+        <Text>Barra longitudinal</Text>
+    </Item>
+
+    <Item>
+        <TextId>1108</TextId>
+        <Text>Balken</Text>
+    </Item>
+
+    <Item>
+        <TextId>1109</TextId>
+        <Text>Longitud de solape</Text>
+    </Item>
+
+    <Item>
+        <TextId>1110</TextId>
+        <Text>Longitud del gancho = D *</Text>
+    </Item>
+
+    <Item>
+        <TextId>1111</TextId>
+        <Text>Longitud del anclaje al inicio</Text>
+    </Item>
+
+    <Item>
+        <TextId>1112</TextId>
+        <Text>Longitud del anclaje al final</Text>
+    </Item>
+
+    <Item>
+        <TextId>1113</TextId>
+        <Text>Distancia inicial</Text>
+    </Item>
+
+    <Item>
+        <TextId>1114</TextId>
+        <Text>Distancia final</Text>
+    </Item>
+
+    <Item>
+        <TextId>1117</TextId>
+        <Text>Espacio libre entre barras</Text>
+    </Item>
+
+    <Item>
+        <TextId>1118</TextId>
+        <Text>Valores de la barra de armado</Text>
+    </Item>
+
+    <Item>
+        <TextId>1119</TextId>
+        <Text>Manual</Text>
+    </Item>
+
+    <Item>
+        <TextId>1120</TextId>
+        <Text>Basado en la norma</Text>
+    </Item>
+
+    <Item>
+        <TextId>1121</TextId>
+        <Text>Ganchos al final</Text>
+    </Item>
+
+    <Item>
+        <TextId>1148</TextId>
+        <Text>Modo de visualización</Text>
+    </Item>
+
+    <Item>
+        <TextId>1149</TextId>
+        <Text>Vista de toda la viga</Text>
+    </Item>
+
+    <Item>
+        <TextId>1150</TextId>
+        <Text>Altura para cada arco</Text>
+    </Item>
+
+    <Item>
+        <TextId>1151</TextId>
+        <Text>Secciones transversales</Text>
+    </Item>
+
+    <Item>
+        <TextId>1153</TextId>
+        <Text>Ganchos iniciales</Text>
+    </Item>
+
+    <Item>
+        <TextId>1157</TextId>
+        <Text>1:50</Text>
+    </Item>
+
+    <Item>
+        <TextId>1158</TextId>
+        <Text>1:25</Text>
+    </Item>
+
+    <Item>
+        <TextId>1159</TextId>
+        <Text>1:20</Text>
+    </Item>
+
+    <Item>
+        <TextId>1161</TextId>
+        <Text>Introduce aquí el número de arcos</Text>
+    </Item>
+
+    <Item>
+        <TextId>1162</TextId>
+        <Text>Formato</Text>
+    </Item>
+
+    <Item>
+        <TextId>1163</TextId>
+        <Text>Armado principal</Text>
+    </Item>
+
+    <Item>
+        <TextId>1164</TextId>
+        <Text>Barra superior</Text>
+    </Item>
+
+    <Item>
+        <TextId>1166</TextId>
+        <Text>Barra inferior</Text>
+    </Item>
+
+    <Item>
+        <TextId>1167</TextId>
+        <Text>Planta adicional</Text>
+    </Item>
+
+    <Item>
+        <TextId>1168</TextId>
+        <Text>Estribos principales</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Sí</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>o</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Barra lateral</Text>
+    </Item>
+
+    <!-- For palette messages -->
+    <Item>
+        <TextId>4999</TextId>
+        <Text>Este PythonPart te permite generar automáticamente armaduras en vigas.\n\nPara comenzar, sigue los siguientes pasos:\n1) Selecciona la viga a armar.\n 2) Pasar por las pestañas "General", "Armado principal", "Estribos" para definir el armado de la viga.\n      Haz clic en "Crear" para comprobar y crear el armado.\n 3) Dirígete a la pestaña "Secciones" para definir los parámetros de la sección.\n      Haz clic en "Crear" y coloca las secciones.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Por favor selecciona los elementos</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>Para ver la pestaña "General".</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>Ve a la pestaña" armado longitudinal"</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>para ver la pestaña "Soporte".</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>para ver la pestaña "Secciones".</Text>
+    </Item>
+    <Item>
+        <TextId>5008</TextId>
+        <Text>Accede a la pestaña "Formato"</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>Haz clic con el botón izquierdo para seleccionar una sola barra/Haz clic con el botón derecho para seleccionar varias barras</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Ajusta los parámetros y crea un armado / ESC para seleccionar la(s) columna(s) nuevamente</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Seleccionar vigas haciendo clic con el botón izquierdo del ratón o en la selección de superf.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>Selecciona los apoyos haciendo clic con el botón izquierdo del ratón o la selección de superficies</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Introduce los parámetros y haz clic en Crear para generar secciones</Text>
+    </Item>
+
+    <Item>
+        <TextId>10022</TextId>
+        <Text>Haz clic en un punto en la vista en planta para colocar las secciones.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10038</TextId>
+        <Text>Se han modificado los parámetros.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10039</TextId>
+        <Text>¿Quieres actualizar el número de posición de la barra de armado, ?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10040</TextId>
+        <Text>Has copiado el PythonPart conectado a un objeto arquitectónico.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10041</TextId>
+        <Text>¿Quieres vincularlo al nuevo objeto arquitectónico?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10042</TextId>
+        <Text>El nivel superior de las vigas seleccionadas es diferente.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10043</TextId>
+        <Text>Esta versión no es compatible con las vigas de apoyo con distintas direcciones.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10044</TextId>
+        <Text>El ancho de las vigas es diferente.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10045</TextId>
+        <Text>Las vigas seleccionadas chocan o al menos una de ella está duplicada.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10046</TextId>
+        <Text>Esta versión no es compatible con las vigas con ejes excéntricos.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10047</TextId>
+        <Text>- El programa solo es compatible con pilares de formas rectangulares y circulares.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10048</TextId>
+        <Text>- El programa no es compatible con pilares de volumen común.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10049</TextId>
+        <Text>- El programa solo es compatible con pilares de sección transversal rectangular o circular.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10050</TextId>
+        <Text>- El ancho de las vigas es mayor que el del soporte.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10051</TextId>
+        <Text>- Uno de los vértices de las vigas está fuera de la vista en planta de la sección transversal.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10052</TextId>
+        <Text>- El ángulo de rotación del soporte y la viga es diferente.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10053</TextId>
+        <Text>- Hay un hueco entre el soporte seleccionado y la viga.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10054</TextId>
+        <Text>Vuelve a seleccionar los soportes.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10055</TextId>
+        <Text>Vuelve a seleccionar las vigas.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10056</TextId>
+        <Text>Selección no válida:</Text>
+    </Item>
+
+    <Item>
+        <TextId>10057</TextId>
+        <Text>Haz clic con el botón derecho del ratón para empezar a seleccionar los soportes o introducir los parámetros del armado o pulsa ESC para volver a seleccionar las vigas.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10058</TextId>
+        <Text>Introduce los parámetros del armado o pulsa ESC para volver a seleccionar la viga.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10059</TextId>
+        <Text>- La distancia libre entre las barras laterales no cumple con los requisitos definidos en la pestaña general.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10060</TextId>
+        <Text>- La longitud de la barra lateral excede, en al menos un arco, la longitud máx. de barra configurada en lapestaña general.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10061</TextId>
+        <Text>- La distancia libre entre las barras inferiores no cumple con los requisitos definidos en la pestaña general.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10062</TextId>
+        <Text>- La longitud de la barra principal inferior excede, en al menos un arco, la longitud máx. de barra en la pestaña general.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10063</TextId>
+        <Text>- La longitud de la barra sup. principal excede, en al menos un arco, la longitud máx. de barra establecida en la pestaña general.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10064</TextId>
+        <Text>Modifica los parámetros para asegurarte de que la long. total de barra es menor que la longitud máx. de barra.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10065</TextId>
+        <Text>¿Quieres continuar?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10066</TextId>
+        <Text>Es posible crear barras superiores a lo largo de varios vanos o dividirlas por vano. ¿Quieres crearlas?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10067</TextId>
+        <Text>- La distancia libre entre la barra superior no rellena los requisitos en la pestaña general.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10068</TextId>
+        <Text>- La longitud de la barra inferior adicional es, en al menos un arco, mayor que la longitud máxima de barra en la pestaña general.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10069</TextId>
+        <Text>- La distancia libre entre la barra inferior y la barra adicional no cumple con los requisitos definidos en la pestaña general.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10070</TextId>
+        <Text>- El número de barras adicionales y la barra inf. principal que introduzcas no son compatibles para colocarlas en el modelo de vigas.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10071</TextId>
+        <Text>El PythonPart está conectado al elemento arquit. con el que se creó. Ten en cuenta que no es posible copiar ese PythonPart a otra ubicaciçon.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10072</TextId>
+        <Text>Aún no has creado un armado. ¿Estás seguro de que quieres cancelar?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10090</TextId>
+        <Text>- La distancia libre entre barras laterales supera la distancia libre máx. entre barras.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10091</TextId>
+        <Text>Modifica los parámetros en las pestañas para actualizar el armado</Text>
+    </Item>
+
+</Element>

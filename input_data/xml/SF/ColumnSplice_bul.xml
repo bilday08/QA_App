@@ -1,0 +1,200 @@
+<Element>
+
+    <!-- General-->
+    <Item>
+        <TextId>9000</TextId>
+        <Text>Снаждане колона</Text>
+    </Item>
+
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Помощ</Text>
+    </Item>
+
+    <!-- General parameters -->
+    <Item>
+        <TextId>1000</TextId>
+        <Text>Общи настройки</Text>
+    </Item>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Тип снаждане</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Фланш &amp; Стебло</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Горе &amp; База</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Заварка</Text>
+    </Item>
+
+    <!-- Plate -->
+    <Item>
+        <TextId>2000</TextId>
+        <Text>Параметри на стеблена плоча</Text>
+    </Item>
+
+    <Item>
+        <TextId>2001</TextId>
+        <Text>Дебелина</Text>
+    </Item>
+
+    <Item>
+        <TextId>2002</TextId>
+        <Text>Дължина</Text>
+    </Item>
+
+    <Item>
+        <TextId>2003</TextId>
+        <Text>Ширина</Text>
+    </Item>
+
+    <Item>
+        <TextId>2004</TextId>
+        <Text>Параметри на фланшова плоча</Text>
+    </Item>
+
+    <Item>
+        <TextId>2005</TextId>
+        <Text>Ширина</Text>
+    </Item>
+
+    <!-- Bolt -->
+    <Item>
+        <TextId>3000</TextId>
+        <Text>Параметри на болтове</Text>
+    </Item>
+
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Размер</Text>
+    </Item>
+
+    <Item>
+        <TextId>3002</TextId>
+        <Text>Шайби</Text>
+    </Item>
+
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Шайби за гайки</Text>
+    </Item>
+
+    <Item>
+        <TextId>3004</TextId>
+        <Text>Клас на болт</Text>
+    </Item>
+
+    <Item>
+        <TextId>3005</TextId>
+        <Text>Ниво на детайлиране</Text>
+    </Item>
+
+    <Item>
+        <TextId>3006</TextId>
+        <Text>Ниско</Text>
+    </Item>
+
+    <Item>
+        <TextId>3007</TextId>
+        <Text>Средно</Text>
+    </Item>
+
+    <Item>
+        <TextId>3008</TextId>
+        <Text>Високо</Text>
+    </Item>
+
+    <Item>
+        <TextId>3009</TextId>
+        <Text>План на болтове на стеблото</Text>
+    </Item>
+
+    <Item>
+        <TextId>3010</TextId>
+        <Text>Редове</Text>
+    </Item>
+
+    <Item>
+        <TextId>3011</TextId>
+        <Text>Колони</Text>
+    </Item>
+
+    <Item>
+        <TextId>3012</TextId>
+        <Text>Разстояние от ръба</Text>
+    </Item>
+
+    <Item>
+        <TextId>3013</TextId>
+        <Text>План на болтове на фланш</Text>
+    </Item>
+
+    <!-- Help tab -->
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Забележка: трябва да изберете две колони, които са:</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>    1. Колони за скелетна конструкция</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>    2. Позиционирани на едно и също място по X и Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>5003</TextId>
+        <Text>    3. Позиционирани една над друго по Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>5004</TextId>
+        <Text>    4. Завъртяни на един и същ ъгъл</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>    5. Използват един и същ Nemetschek профил</Text>
+    </Item>
+
+    <!-- Dialog -->
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Изберете долна колона</Text>
+    </Item>
+
+    <Item>
+        <TextId>10001</TextId>
+        <Text>Изберете горна колона</Text>
+    </Item>
+
+    <!-- POP-UP MESSAGE -->
+    <Item>
+        <TextId>11000</TextId>
+        <Text>Тази функция не е в съответствие с вашия текущ лиценз.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11001</TextId>
+        <Text>Тази функция не е в съответствие с версията на Allplan, която използвате.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11002</TextId>
+        <Text>Моля, изберете колона от скелетна конструкция, която използва профил от Каталог с профили на Nemetschek.</Text>
+    </Item>
+
+</Element>

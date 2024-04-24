@@ -1,0 +1,413 @@
+<Element>
+
+    <!--GENERAL-->
+    <Item>
+        <TextId>9000</TextId>
+        <Text>Chapa do apoio</Text>
+    </Item>
+
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Geometria</Text>
+    </Item>
+
+    <!--PLATE-->
+    <Item>
+        <TextId>1000</TextId>
+        <Text>Parâmetros da Chapa</Text>
+    </Item>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Largura</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Profundidade</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Espessura</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Padrão</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Automatic</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Distância</Text>
+    </Item>
+
+    <Item>
+        <TextId>1007</TextId>
+        <Text>Tamanho</Text>
+    </Item>
+
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Retângulo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Circular</Text>
+    </Item>
+
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Plate Formato</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Diâmetro</Text>
+    </Item>
+
+    <!--BOLT-->
+    <Item>
+        <TextId>2000</TextId>
+        <Text>Parâmetros dos Parafusos</Text>
+    </Item>
+
+    <Item>
+        <TextId>2001</TextId>
+        <Text>Edge Distance</Text>
+    </Item>
+
+    <Item>
+        <TextId>2002</TextId>
+        <Text>Number of Bolts</Text>
+    </Item>
+
+    <Item>
+        <TextId>2003</TextId>
+        <Text>Number of Bolts</Text>
+    </Item>
+
+    <Item>
+        <TextId>2004</TextId>
+        <Text>Tipo de Gancho</Text>
+    </Item>
+
+    <Item>
+        <TextId>2005</TextId>
+        <Text>Com cabeça/Gancho em L/Gancho em J</Text>
+    </Item>
+
+    <Item>
+        <TextId>2006</TextId>
+        <Text>Tamanho</Text>
+    </Item>
+
+    <Item>
+        <TextId>2007</TextId>
+        <Text>Comprimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>2008</TextId>
+        <Text>Arruelas</Text>
+    </Item>
+
+    <Item>
+        <TextId>2009</TextId>
+        <Text>Classe do Parafuso</Text>
+    </Item>
+
+    <Item>
+        <TextId>2010</TextId>
+        <Text>Nível de detalhe</Text>
+    </Item>
+
+    <Item>
+        <TextId>2011</TextId>
+        <Text>Baixo</Text>
+    </Item>
+
+    <Item>
+        <TextId>2012</TextId>
+        <Text>Médio</Text>
+    </Item>
+
+    <Item>
+        <TextId>2013</TextId>
+        <Text>Alto</Text>
+    </Item>
+
+    <Item>
+        <TextId>2014</TextId>
+        <Text>Number of Bolts</Text>
+    </Item>
+
+    <!--WELD-->
+    <Item>
+        <TextId>3000</TextId>
+        <Text>Parâmetro da Solda</Text>
+    </Item>
+
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Tipo de Solda</Text>
+    </Item>
+
+    <Item>
+        <TextId>3002</TextId>
+        <Text>Polilinha / Filete / Convexo / Côncavo</Text>
+    </Item>
+
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Largura da Solda</Text>
+    </Item>
+
+    <Item>
+        <TextId>3004</TextId>
+        <Text>Ângulo da Solda</Text>
+    </Item>
+
+    <Item>
+        <TextId>3005</TextId>
+        <Text>Comprimento da Solda</Text>
+    </Item>
+
+    <Item>
+        <TextId>3006</TextId>
+        <Text>Geometria da Solda</Text>
+    </Item>
+
+    <Item>
+        <TextId>3007</TextId>
+        <Text>Campo da Solda</Text>
+    </Item>
+
+    <Item>
+        <TextId>3008</TextId>
+        <Text>Nota de rodapé</Text>
+    </Item>
+
+    <Item>
+        <TextId>3009</TextId>
+        <Text>Padrão</Text>
+    </Item>
+
+    <Item>
+        <TextId>3010</TextId>
+        <Text>Alma/Mesa</Text>
+    </Item>
+
+    <Item>
+        <TextId>3011</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>3012</TextId>
+        <Text>Mesa Soldada</Text>
+    </Item>
+
+    <Item>
+        <TextId>3013</TextId>
+        <Text>Alma Soldada</Text>
+    </Item>
+
+    <!--STIFFENER-->
+    <Item>
+        <TextId>4000</TextId>
+        <Text>Parâmetros dos Enrijecedores</Text>
+    </Item>
+
+    <Item>
+        <TextId>4001</TextId>
+        <Text>Enrijecedores Horizontais</Text>
+    </Item>
+
+    <Item>
+        <TextId>4002</TextId>
+        <Text>Centro</Text>
+    </Item>
+
+    <Item>
+        <TextId>4003</TextId>
+        <Text>Número de Enrijecedores</Text>
+    </Item>
+
+    <Item>
+        <TextId>4004</TextId>
+        <Text>Borda</Text>
+    </Item>
+
+    <Item>
+        <TextId>4005</TextId>
+        <Text>Enrijecedores Verticais</Text>
+    </Item>
+
+    <Item>
+        <TextId>4006</TextId>
+        <Text>Centro</Text>
+    </Item>
+
+    <Item>
+        <TextId>4007</TextId>
+        <Text>Número de Enrijecedores</Text>
+    </Item>
+
+    <Item>
+        <TextId>4008</TextId>
+        <Text>Borda</Text>
+    </Item>
+
+    <Item>
+        <TextId>4009</TextId>
+        <Text>Espessura</Text>
+    </Item>
+
+    <Item>
+        <TextId>4010</TextId>
+        <Text>Comprimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>4011</TextId>
+        <Text>Largura</Text>
+    </Item>
+
+    <Item>
+        <TextId>4012</TextId>
+        <Text>Comprimento do Chanfro</Text>
+    </Item>
+
+    <Item>
+        <TextId>4013</TextId>
+        <Text>Layout</Text>
+    </Item>
+
+    <Item>
+        <TextId>4014</TextId>
+        <Text>Borda/Centro</Text>
+    </Item>
+
+    <Item>
+        <TextId>4015</TextId>
+        <Text>Circular</Text>
+    </Item>
+
+    <Item>
+        <TextId>4016</TextId>
+        <Text>Número de Enrijecedores</Text>
+    </Item>
+
+    <Item>
+        <TextId>4017</TextId>
+        <Text>Start angle</Text>
+    </Item>
+
+    <!-- DIALOG LINES -->
+
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Selecionar um Pilar de Frame Estrutural</Text>
+    </Item>
+
+    <Item>
+        <TextId>10001</TextId>
+        <Text>Editar parâmetros</Text>
+    </Item>
+
+    <!-- POP-UP MESSAGE -->
+
+    <Item>
+        <TextId>11000</TextId>
+        <Text>O Pilar de Frame Estrutural foi excluído. Você deseja selecionar outro Pilar?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11001</TextId>
+        <Text>Você copiou o python part conectado à um Pilar de Frame Estrutural. Você deseja associar à um novo Pilar de Frame Estrutural?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11002</TextId>
+        <Text>This feature is not compatible with your current license</Text>
+    </Item>
+
+    <Item>
+        <TextId>11003</TextId>
+        <Text>This feature is incompatible with the version of Allplan you are using.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11004</TextId>
+        <Text>Please select a Structural Framing Column without a slope at the end.</Text>
+    </Item>
+
+    <!-- PROFILE NAME -->
+    <Item>
+        <TextId>12000</TextId>
+        <Text>I</Text>
+    </Item>
+
+    <Item>
+        <TextId>12001</TextId>
+        <Text>Retangular Vazado</Text>
+    </Item>
+
+    <Item>
+        <TextId>12002</TextId>
+        <Text>L</Text>
+    </Item>
+
+    <Item>
+        <TextId>12003</TextId>
+        <Text>Circular Vazado</Text>
+    </Item>
+
+    <Item>
+        <TextId>12004</TextId>
+        <Text>C</Text>
+    </Item>
+
+    <Item>
+        <TextId>12005</TextId>
+        <Text>T</Text>
+    </Item>
+
+    <Item>
+        <TextId>12006</TextId>
+        <Text>Retângulo</Text>
+    </Item>
+
+    <Item>
+        <TextId>12007</TextId>
+        <Text>Circular</Text>
+    </Item>
+
+    <Item>
+        <TextId>12008</TextId>
+        <Text>I Assimétrico</Text>
+    </Item>
+
+    <Item>
+        <TextId>12009</TextId>
+        <Text>Formado a Frio</Text>
+    </Item>
+
+    <Item>
+        <TextId>12010</TextId>
+        <Text>Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>12011</TextId>
+        <Text>Trilhos</Text>
+    </Item>
+
+</Element>

@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Flux de travail</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Plus d'informations :</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Didacticiel</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Sélectionner le type</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Objet 3D</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Python Part</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Répartir le ferraillage</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>Général</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>Paramètres généraux</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Enrobage</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text>Classe de résistance du béton</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>Série de sections transversales</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>Étrier Rouleau de flexion</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Paramètres du ferraillage</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text>ø minimal du ferraillage principal</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>ø minimal du ferraillage latéral</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>ø minimal du ferraillage des cadres</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>Espacement maximal des cadres</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Angle de crosse du cadre</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Longueur de barre maximale</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Armature principale, rouleau de flexion</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Ferraillage longitudinal</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Ferraillage principal en haut</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Diamètre</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Quantité</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Surface de section (As)</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Ferraillage principal en bas</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Complément au ferraillage principal</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Ferraillage complémentaire en bas</Text>
+    </Item>
+
+    <Item>
+        <TextId>1048</TextId>
+        <Text>Longueur des barres</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Ferraillage latéral</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Répartition</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Espacement des bords au début</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Espacement des bords à la fin</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Région de répartition simple</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Créer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Espacement</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Longueur de crosse</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Distance au centre</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Distance au début</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>Distance à la fin</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>Définition de l'épaisseur du plafond</Text>
+    </Item>
+
+    <Item>
+        <TextId>1068</TextId>
+        <Text>Nombre de champs de ferraillage</Text>
+    </Item>
+
+    <Item>
+        <TextId>1081</TextId>
+        <Text>Coupes</Text>
+    </Item>
+
+    <Item>
+        <TextId>1082</TextId>
+        <Text>Vue</Text>
+    </Item>
+
+    <Item>
+        <TextId>1083</TextId>
+        <Text>Nom de la poutre</Text>
+    </Item>
+
+    <Item>
+        <TextId>1084</TextId>
+        <Text>Description 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1085</TextId>
+        <Text>Description 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1086</TextId>
+        <Text>Echelle</Text>
+    </Item>
+
+    <Item>
+        <TextId>1087</TextId>
+        <Text>Annoter l'armature</Text>
+    </Item>
+
+    <Item>
+        <TextId>1089</TextId>
+        <Text>Eléments</Text>
+    </Item>
+
+    <Item>
+        <TextId>1090</TextId>
+        <Text>Armature</Text>
+    </Item>
+
+    <Item>
+        <TextId>1092</TextId>
+        <Text>Sélectionner éléments</Text>
+    </Item>
+
+    <Item>
+        <TextId>1091</TextId>
+        <Text>Longueur de répartition au milieu</Text>
+    </Item>
+
+    <Item>
+        <TextId>1093</TextId>
+        <Text>Longueur de répartition</Text>
+    </Item>
+
+    <Item>
+        <TextId>1094</TextId>
+        <Text>Placer des coupes</Text>
+    </Item>
+
+    <Item>
+        <TextId>1096</TextId>
+        <Text>Épaisseur du plafond</Text>
+    </Item>
+
+    <Item>
+        <TextId>1097</TextId>
+        <Text>Réglage du champ de ferraillage</Text>
+    </Item>
+
+    <Item>
+        <TextId>1098</TextId>
+        <Text>Longueur de répartition au début</Text>
+    </Item>
+
+    <Item>
+        <TextId>1099</TextId>
+        <Text>Cadre</Text>
+    </Item>
+
+    <Item>
+        <TextId>1100</TextId>
+        <Text>Longueur de répartition à la fin</Text>
+    </Item>
+
+    <Item>
+        <TextId>1101</TextId>
+        <Text>Sections</Text>
+    </Item>
+
+    <Item>
+        <TextId>1102</TextId>
+        <Text>Champ de ferraillage</Text>
+    </Item>
+
+    <Item>
+        <TextId>1103</TextId>
+        <Text>Nom de la coupe 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>1104</TextId>
+        <Text>Nom de la coupe 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>1105</TextId>
+        <Text>Nom de la coupe 3</Text>
+    </Item>
+
+    <Item>
+        <TextId>1106</TextId>
+        <Text>Afficher le tableau de saisie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1107</TextId>
+        <Text>Ferraillage longitudinal</Text>
+    </Item>
+
+    <Item>
+        <TextId>1108</TextId>
+        <Text>Poutre</Text>
+    </Item>
+
+    <Item>
+        <TextId>1109</TextId>
+        <Text>Longueur de rodage</Text>
+    </Item>
+
+    <Item>
+        <TextId>1110</TextId>
+        <Text>Longueur crosse = D</Text>
+    </Item>
+
+    <Item>
+        <TextId>1111</TextId>
+        <Text>Longueur d'ancrage au départ</Text>
+    </Item>
+
+    <Item>
+        <TextId>1112</TextId>
+        <Text>Longueur d'ancrage à la fin</Text>
+    </Item>
+
+    <Item>
+        <TextId>1113</TextId>
+        <Text>Début de décalage</Text>
+    </Item>
+
+    <Item>
+        <TextId>1114</TextId>
+        <Text>Fin de décalage</Text>
+    </Item>
+
+    <Item>
+        <TextId>1117</TextId>
+        <Text>Espace libre min. entre les barreaux</Text>
+    </Item>
+
+    <Item>
+        <TextId>1118</TextId>
+        <Text>Valeurs de ferraillage</Text>
+    </Item>
+
+    <Item>
+        <TextId>1119</TextId>
+        <Text>Manuel</Text>
+    </Item>
+
+    <Item>
+        <TextId>1120</TextId>
+        <Text>Basé sur des normes</Text>
+    </Item>
+
+    <Item>
+        <TextId>1121</TextId>
+        <Text>Crochet à la fin</Text>
+    </Item>
+
+    <Item>
+        <TextId>1148</TextId>
+        <Text>Mode d'affichage</Text>
+    </Item>
+
+    <Item>
+        <TextId>1149</TextId>
+        <Text>Vue pour la barre entière</Text>
+    </Item>
+
+    <Item>
+        <TextId>1150</TextId>
+        <Text>Vue pour chaque champ</Text>
+    </Item>
+
+    <Item>
+        <TextId>1151</TextId>
+        <Text>Sections transversales</Text>
+    </Item>
+
+    <Item>
+        <TextId>1153</TextId>
+        <Text>Crochet au début</Text>
+    </Item>
+
+    <Item>
+        <TextId>1157</TextId>
+        <Text>1:50</Text>
+    </Item>
+
+    <Item>
+        <TextId>1158</TextId>
+        <Text>1:25</Text>
+    </Item>
+
+    <Item>
+        <TextId>1159</TextId>
+        <Text>1:20</Text>
+    </Item>
+
+    <Item>
+        <TextId>1161</TextId>
+        <Text>Veuillez saisir ici le numéro du champ de ferraillage</Text>
+    </Item>
+
+    <Item>
+        <TextId>1162</TextId>
+        <Text>Format</Text>
+    </Item>
+
+    <Item>
+        <TextId>1163</TextId>
+        <Text>Ferraillage principal</Text>
+    </Item>
+
+    <Item>
+        <TextId>1164</TextId>
+        <Text>Ferraillage supérieur</Text>
+    </Item>
+
+    <Item>
+        <TextId>1166</TextId>
+        <Text>Ferraillage inférieur</Text>
+    </Item>
+
+    <Item>
+        <TextId>1167</TextId>
+        <Text>Sol supplémentaire</Text>
+    </Item>
+
+    <Item>
+        <TextId>1168</TextId>
+        <Text>Etrier principal</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Oui</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>Non</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Ferraillage latéral</Text>
+    </Item>
+
+    <!-- For palette messages -->
+    <Item>
+        <TextId>4999</TextId>
+        <Text>Ce PythonPart vous permet de créer automatiquement le ferraillage des poutres.\n\nPour commencer, procédez comme suit :\n 1) Sélectionnez les poutres à ferrailler.\n 2) Parcourez les onglets "Général", "Ferraillage principal" et "Cadres" pour définir le ferraillage de poutre. \n      Cliquez sur "Créer" pour vérifier et créer le ferraillage.\n 3) Parcourez l'onglet "Coupes" pour définir les paramètres de coupe. \n      Cliquez sur "Créer" et positionnez les coupes.</Text>
+    </Item>
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Veuillez terminer le processus de sélection </Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>pour atteindre l'onglet "Général".</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>Appeler l'onglet " Ferraillage longitudinal ".</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>pour atteindre l'onglet "Cadre".</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>pour atteindre l'onglet "Coupes".</Text>
+    </Item>
+    <Item>
+        <TextId>5008</TextId>
+        <Text>pour voir l'onglet "Format".</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>Clic gauche pour sélectionner une seule barre / Clic droit pour sélectionner plusieurs barres</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Adapter les paramètres et créer le ferraillage / ECHAP pour sélectionner à nouveau le(s) pilier(s)</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Sélectionner les barres par un clic gauche ou une sélection de zone</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>Sélection du/des pilier(s) par clic gauche ou sélection de la zone</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Veuillez saisir les paramètres et cliquer sur Créer pour créer les coupes</Text>
+    </Item>
+
+    <Item>
+        <TextId>10022</TextId>
+        <Text>Veuillez saisir les coordonnées pour positionner les coupes sur la surface de dessin</Text>
+    </Item>
+
+    <Item>
+        <TextId>10038</TextId>
+        <Text>Le paramètre a été modifié.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10039</TextId>
+        <Text>Souhaitez-vous mettre à jour le numéro de position de la barre de ferraillage ?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10040</TextId>
+        <Text>Vous avez copié le Python Part qui est lié à un objet d'architecture.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10041</TextId>
+        <Text>Souhaitez-vous le relier au nouvel objet d'architecture ?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10042</TextId>
+        <Text>Le niveau supérieur des barres sélectionnées est différent.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10043</TextId>
+        <Text>Cette version ne prend pas en charge les barres avec des directions différentes.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10044</TextId>
+        <Text>La largeur des barres varie.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10045</TextId>
+        <Text>Les barres sélectionnées entrent en collision ou au moins une barre est un doublon.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10046</TextId>
+        <Text>Cette version ne prend pas en charge les barres avec des axes excentrés.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10047</TextId>
+        <Text>- L'application ne prend en charge que les supports de forme rectangulaire ou circulaire.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10048</TextId>
+        <Text>- L'application ne prend pas en charge les supports ayant un volume commun.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10049</TextId>
+        <Text>- L'application ne prend en charge que les poteaux de section rectangulaire ou circulaire.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10050</TextId>
+        <Text>- La largeur des poutres est supérieure à celle d'un appui.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10051</TextId>
+        <Text>- L'un des sommets de la poutre se trouve en dehors de la vue de dessus de la section transversale de la poutre.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10052</TextId>
+        <Text>- L'angle de rotation du support et de la poutre est différent.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10053</TextId>
+        <Text>- Il y a un espace entre le support sélectionné et la poutre.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10054</TextId>
+        <Text>Veuillez sélectionner à nouveau les piliers.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10055</TextId>
+        <Text>Veuillez sélectionner à nouveau la poutre.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10056</TextId>
+        <Text>Sélection non autorisée :</Text>
+    </Item>
+
+    <Item>
+        <TextId>10057</TextId>
+        <Text>Clic droit pour commencer à sélectionner le(s) pilier(s) ou appuyer sur ECHAP pour sélectionner à nouveau la/les poutres.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10058</TextId>
+        <Text>Veuillez entrer les paramètres de ferraillage ou appuyer sur ECHAP pour sélectionner à nouveau la barre.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10059</TextId>
+        <Text>- L'espace libre entre les barres de ferraillage latérales ne répond pas aux exigences définies dans l'onglet général.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10060</TextId>
+        <Text>- La longueur des barres de ferraillage latérales dans au moins un champ dépasse la longueur maximale des barres définie dans l'onglet Général.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10061</TextId>
+        <Text>- La distance libre entre les barres de ferraillage inférieures ne correspond pas aux exigences de l'onglet général.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10062</TextId>
+        <Text>- La longueur de la barre de ferraillage principale inférieure dans au moins un champ dépasse la longueur de barre maximale définie dans l'onglet Général.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10063</TextId>
+        <Text>- La longueur de la barre de ferrage principale supérieure dépasse dans au moins un champ la longueur de barre maximale définie dans l'onglet Général.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10064</TextId>
+        <Text>Modifiez les paramètres pour vous assurer que la longueur totale de la barre est inférieure à la longueur maximale de la barre.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10065</TextId>
+        <Text>Voulez-vous continuer ?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10066</TextId>
+        <Text>Les barres de ferraillage supérieures peuvent être créées sur plusieurs champs ou divisées par champ. \Souhaitez-vous les créer sur plusieurs champs ?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10067</TextId>
+        <Text>- L'espace libre entre les barres de ferraillage supérieures ne répond pas aux exigences de l'onglet Général.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10068</TextId>
+        <Text>- La longueur de la barre de ferraillage inférieure supplémentaire dans au moins un champ est supérieure à la longueur de barre maximale définie dans l'onglet Général.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10069</TextId>
+        <Text>- La distance libre entre la barre de ferraillage principale inférieure et les barres de ferraillage supplémentaires n'est pas conforme aux exigences de l'onglet Général.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10070</TextId>
+        <Text>- Le nombre de ferraillage supplémentaire et de ferraillage principal inférieur que vous avez saisi ne convient pas pour être placé dans le modèle de poutre.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10071</TextId>
+        <Text>Ce PythonPart est lié au composant d'architecture avec lequel il a été créé. \nCe PythonPart ne peut pas être copié à un autre endroit.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10072</TextId>
+        <Text>Aucun ferraillage n'a encore été créé. Souhaitez-vous vraiment annuler cette fonction ?</Text>
+    </Item>
+
+    <Item>
+        <TextId>10090</TextId>
+        <Text>- La distance libre entre les barres de ferraillage latérales est supérieure à la distance maximale entre les barres.</Text>
+    </Item>
+
+    <Item>
+        <TextId>10091</TextId>
+        <Text>Veuillez modifier les paramètres dans les onglets pour mettre à jour le ferraillage</Text>
+    </Item>
+
+</Element>

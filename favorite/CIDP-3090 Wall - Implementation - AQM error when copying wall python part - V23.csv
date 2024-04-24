@@ -1,0 +1,7 @@
+TestCase Name,TestCase Description,TestCase Result,Note,Status
+Wall Reinforcement - without wall above - All elements - user copy pythonpart into new wall then reactivate pythonpart - Creation and edit mode,The AQM message does not occurs,As expected,Main feature,Pass
+Wall Reinforcement - without wall above - All elements - user copy both pythonpart and wall into new location then reactivate pythonpart - Creation and edit mode,The AQM message does not occurs,As expected,Main feature,Pass
+Wall Reinforcement - without wall above - All elements - user create then double left click on pythonpart - Creation and edit mode,The AQM message does not occurs,As expected,Main feature,Pass
+Wall Reinforcement - with wall above - All elements - User move the wall or pythonpart from each other then reactivate pythonpart - Creation and edit mode,The AQM message does not occurs,As expected,Main feature,Pass
+Wall Reinforcement - with wall above - All elements - Reopen pythonpart created from Allplan 2022 - Creation and edit mode,The AQM message does not occurs,As expected,Main feature,Pass
+Wall Reinforcement - with wall above - All elements - Reopen pythonpart created from Allplan 2023 - Creation and edit mode,The AQM message does not occurs,As expected,Main feature,Pass

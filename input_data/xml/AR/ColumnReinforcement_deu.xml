@@ -1,0 +1,719 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Element>
+  <Item>
+    <TextId>1001</TextId>
+    <Text>Workflow</Text>
+  </Item>
+  <Item>
+    <TextId>1002</TextId>
+    <Text>Mehr Informationen:</Text>
+  </Item>
+  <Item>
+    <TextId>1003</TextId>
+    <Text>Tutorial</Text>
+  </Item>
+  <Item>
+    <TextId>1004</TextId>
+    <Text>Erste Stütze auswählen</Text>
+  </Item>
+  <Item>
+    <TextId>1005</TextId>
+    <Text>Zweite Stütze darüber auswählen</Text>
+  </Item>
+  <Item>
+    <TextId>1006</TextId>
+    <Text>Bewehrung</Text>
+  </Item>
+  <Item>
+    <TextId>1010</TextId>
+    <Text>Überprüfen und verlegen</Text>
+  </Item>
+  <Item>
+    <TextId>1011</TextId>
+    <Text>Erstellen</Text>
+  </Item>
+  <Item>
+    <TextId>1013</TextId>
+    <Text>Schnitte</Text>
+  </Item>
+  <Item>
+    <TextId>1014</TextId>
+    <Text>Schnitte platzieren</Text>
+  </Item>
+  <Item>
+    <TextId>1021</TextId>
+    <Text>Allgemein</Text>
+  </Item>
+  <Item>
+    <TextId>1022</TextId>
+    <Text>Allgemeine Einstellungen</Text>
+  </Item>
+  <Item>
+    <TextId>1023</TextId>
+    <Text>Bewehrungswerte</Text>
+  </Item>
+  <Item>
+    <TextId>1024</TextId>
+    <Text>Manual</Text>
+  </Item>
+  <Item>
+    <TextId>1025</TextId>
+    <Text>Normbasiert</Text>
+  </Item>
+  <Item>
+    <TextId>1026</TextId>
+    <Text>Übergreifungslänge</Text>
+  </Item>
+  <Item>
+    <TextId>1027</TextId>
+    <Text>Bezeichnung Stütze</Text>
+  </Item>
+  <Item>
+    <TextId>1028</TextId>
+    <Text>Betondeckung</Text>
+  </Item>
+  <Item>
+    <TextId>1030</TextId>
+    <Text>Betonfestigkeitsklasse</Text>
+  </Item>
+  <Item>
+    <TextId>1031</TextId>
+    <Text>Querschnittsreihe</Text>
+  </Item>
+  <Item>
+    <TextId>1033</TextId>
+    <Text>Deckendicke</Text>
+  </Item>
+  <Item>
+    <TextId>1034</TextId>
+    <Text>Bewehrungseinstellungen</Text>
+  </Item>
+  <Item>
+    <TextId>1035</TextId>
+    <Text>Min. ø Längsbewehrung</Text>
+  </Item>
+  <Item>
+    <TextId>1036</TextId>
+    <Text>Min. ø Bügelbewehrung</Text>
+  </Item>
+  <Item>
+    <TextId>1037</TextId>
+    <Text>Max. Bügelabstand</Text>
+  </Item>
+  <Item>
+    <TextId>1039</TextId>
+    <Text>Min. lichter Abstand Stäbe</Text>
+  </Item>
+  <Item>
+    <TextId>1040</TextId>
+    <Text>Max. Bewehrungsgrad p = As/Ac [%]</Text>
+  </Item>
+  <Item>
+    <TextId>1041</TextId>
+    <Text>Faktor für Aussendurchmesser</Text>
+  </Item>
+  <Item>
+    <TextId>1047</TextId>
+    <Text>Längsbewehrung</Text>
+  </Item>
+  <Item>
+    <TextId>1048</TextId>
+    <Text>Durchmesser</Text>
+  </Item>
+  <Item>
+    <TextId>1049</TextId>
+    <Text>Anzahl Stäbe</Text>
+  </Item>
+  <Item>
+    <TextId>1051</TextId>
+    <Text>Anfängerbewehrung kröpfen</Text>
+  </Item>
+  <Item>
+    <TextId>1052</TextId>
+    <Text>Kröpfungsmaß</Text>
+  </Item>
+  <Item>
+    <TextId>1053</TextId>
+    <Text>Kröpfungsverhältnis 1 /</Text>
+  </Item>
+  <Item>
+    <TextId>1054</TextId>
+    <Text>Länge Anfängerbewehrung</Text>
+  </Item>
+  <Item>
+    <TextId>1055</TextId>
+    <Text>Eckbewehrungsstab</Text>
+  </Item>
+  <Item>
+    <TextId>1061</TextId>
+    <Text>Seitliche Längsbewehrung</Text>
+  </Item>
+  <Item>
+    <TextId>1074</TextId>
+    <Text>Seitliche Längsbewehrung lange Seite</Text>
+  </Item>
+  <Item>
+    <TextId>1081</TextId>
+    <Text>Seitliche Längsbewehrung kurze Seite</Text>
+  </Item>
+  <Item>
+    <TextId>1099</TextId>
+    <Text>S-Haken</Text>
+  </Item>
+  <Item>
+    <TextId>1100</TextId>
+    <Text>Rautenbügel</Text>
+  </Item>
+  <Item>
+    <TextId>1102</TextId>
+    <Text>Anzahl der Innenanker</Text>
+  </Item>
+  <Item>
+    <TextId>1103</TextId>
+    <Text>Drehen</Text>
+  </Item>
+  <Item>
+    <TextId>1104</TextId>
+    <Text>Layout</Text>
+  </Item>
+  <Item>
+    <TextId>1105</TextId>
+    <Text>⌀</Text>
+  </Item>
+  <Item>
+    <TextId>1106</TextId>
+    <Text>Form</Text>
+  </Item>
+  <Item>
+    <TextId>1107</TextId>
+    <Text>Bügel, geschlossen</Text>
+  </Item>
+  <Item>
+    <TextId>1108</TextId>
+    <Text>Bügel</Text>
+  </Item>
+  <Item>
+    <TextId>1109</TextId>
+    <Text>Anker-Anordnung</Text>
+  </Item>
+  <Item>
+    <TextId>1110</TextId>
+    <Text>Balken-Form</Text>
+  </Item>
+  <Item>
+    <TextId>1111</TextId>
+    <Text>Anzahl Außenanker</Text>
+  </Item>
+  <Item>
+    <TextId>1112</TextId>
+    <Text>Außenanker</Text>
+  </Item>
+  <Item>
+    <TextId>1113</TextId>
+    <Text>Bügellängsabstand</Text>
+  </Item>
+  <Item>
+    <TextId>1114</TextId>
+    <Text>Hakenlänge</Text>
+  </Item>
+  <Item>
+    <TextId>1115</TextId>
+    <Text>Hakenwinkel</Text>
+  </Item>
+  <Item>
+    <TextId>1116</TextId>
+    <Text>Obere Region</Text>
+  </Item>
+  <Item>
+    <TextId>1117</TextId>
+    <Text>Engerer Abstand oben</Text>
+  </Item>
+  <Item>
+    <TextId>1118</TextId>
+    <Text>Länge Verlegung</Text>
+  </Item>
+  <Item>
+    <TextId>1120</TextId>
+    <Text>Untere Region</Text>
+  </Item>
+  <Item>
+    <TextId>1121</TextId>
+    <Text>Engerer Abstand unten</Text>
+  </Item>
+  <Item>
+    <TextId>1125</TextId>
+    <Text>Maßstab 1:</Text>
+  </Item>
+  <Item>
+    <TextId>1126</TextId>
+    <Text>Ansicht</Text>
+  </Item>
+  <Item>
+    <TextId>1127</TextId>
+    <Text>Horizontalschnitt</Text>
+  </Item>
+  <Item>
+    <TextId>1130</TextId>
+    <Text>Entlang der kurzen Seite (B-B)</Text>
+  </Item>
+  <Item>
+    <TextId>1133</TextId>
+    <Text>Elemente</Text>
+  </Item>
+  <Item>
+    <TextId>1134</TextId>
+    <Text>Neue Auswahl</Text>
+  </Item>
+  <Item>
+    <TextId>1135</TextId>
+    <Text>Start</Text>
+  </Item>
+  <Item>
+    <TextId>1136</TextId>
+    <Text>Typ wählen</Text>
+  </Item>
+  <Item>
+    <TextId>1137</TextId>
+    <Text>Python Part</Text>
+  </Item>
+  <Item>
+    <TextId>1138</TextId>
+    <Text>3D Objekt</Text>
+  </Item>
+  <Item>
+    <TextId>1139</TextId>
+    <Text>Schnittbezeichnung 1</Text>
+  </Item>
+  <Item>
+    <TextId>1140</TextId>
+    <Text>Schnittbezeichnung 2</Text>
+  </Item>
+  <Item>
+    <TextId>1141</TextId>
+    <Text>Schnittbezeichnung 3</Text>
+  </Item>
+  <Item>
+    <TextId>1143</TextId>
+    <Text>Beschreibung 1</Text>
+  </Item>
+  <Item>
+    <TextId>1144</TextId>
+    <Text>Beschreibung 2</Text>
+  </Item>
+  <Item>
+    <TextId>1149</TextId>
+    <Text>Stütze</Text>
+  </Item>
+  <Item>
+    <TextId>1153</TextId>
+    <Text>Schnitt 1-1</Text>
+  </Item>
+  <Item>
+    <TextId>1154</TextId>
+    <Text>Schnitt 2-2</Text>
+  </Item>
+  <Item>
+    <TextId>1155</TextId>
+    <Text>Schnitt 3-3</Text>
+  </Item>
+  <Item>
+    <TextId>1156</TextId>
+    <Text>Hauptbewehrung Biegerolle</Text>
+  </Item>
+  <Item>
+    <TextId>1157</TextId>
+    <Text>Bügel Biegerolle</Text>
+  </Item>
+  <Item>
+    <TextId>1159</TextId>
+    <Text>Haken oben</Text>
+  </Item>
+  <Item>
+    <TextId>1160</TextId>
+    <Text>Winkel</Text>
+  </Item>
+  <Item>
+    <TextId>1161</TextId>
+    <Text>Innenanker 1</Text>
+  </Item>
+  <Item>
+    <TextId>1162</TextId>
+    <Text>Innenanker 2</Text>
+  </Item>
+  <Item>
+    <TextId>1163</TextId>
+    <Text>Innenanker 3</Text>
+  </Item>
+  <Item>
+    <TextId>1164</TextId>
+    <Text>Innenanker 4</Text>
+  </Item>
+  <Item>
+    <TextId>1165</TextId>
+    <Text>Innenanker 5</Text>
+  </Item>
+  <Item>
+    <TextId>1166</TextId>
+    <Text>Innenanker 6</Text>
+  </Item>
+  <Item>
+    <TextId>1167</TextId>
+    <Text>Biegerollenfaktor</Text>
+  </Item>
+  <Item>
+    <TextId>1168</TextId>
+    <Text>Balkenform</Text>
+  </Item>
+  <Item>
+    <TextId>1169</TextId>
+    <Text>Eigenschaften Außenanker</Text>
+  </Item>
+  <Item>
+    <TextId>1170</TextId>
+    <Text>Innenanker 1 Eigenschaften</Text>
+  </Item>
+  <Item>
+    <TextId>1171</TextId>
+    <Text>Innenanker 2 Eigenschaften</Text>
+  </Item>
+  <Item>
+    <TextId>1172</TextId>
+    <Text>Innenanker 3 Eigenschaften</Text>
+  </Item>
+  <Item>
+    <TextId>1173</TextId>
+    <Text>Innenanker 4 Eigenschaften</Text>
+  </Item>
+  <Item>
+    <TextId>1174</TextId>
+    <Text>Innenanker 5 Eigenschaften</Text>
+  </Item>
+  <Item>
+    <TextId>1175</TextId>
+    <Text>Innenanker 6 Eigenschaften</Text>
+  </Item>
+  <Item>
+    <TextId>1177</TextId>
+    <Text>Haken am Anfang</Text>
+  </Item>
+  <Item>
+    <TextId>1178</TextId>
+    <Text>Hakenwinkel am Anfang</Text>
+  </Item>
+  <Item>
+    <TextId>1179</TextId>
+    <Text>Hakenlänge am Anfang</Text>
+  </Item>
+   <Item>
+    <TextId>1180</TextId>
+    <Text>Haken am Ende</Text>
+  </Item>
+  <Item>
+    <TextId>1181</TextId>
+    <Text>Hakenwinkel am Ende</Text>
+  </Item>
+  <Item>
+    <TextId>1182</TextId>
+    <Text>Hakenlänge am Ende</Text>
+  </Item>
+  <Item>
+    <TextId>1183</TextId>
+    <Text>Format</Text>
+  </Item>
+  <Item>
+    <TextId>1184</TextId>
+    <Text>Hauptbewehrung</Text>
+  </Item>
+  <Item>
+    <TextId>1185</TextId>
+    <Text>Ecke</Text>
+  </Item>
+  <Item>
+    <TextId>1186</TextId>
+    <Text>Längsseite</Text>
+  </Item>
+  <Item>
+    <TextId>1187</TextId>
+    <Text>Kurze Seite</Text>
+  </Item>
+  <Item>
+    <TextId>1188</TextId>
+    <Text>Seite</Text>
+  </Item>
+  <Item>
+    <TextId>1189</TextId>
+    <Text>Haupt</Text>
+  </Item>
+  <Item>
+    <TextId>1190</TextId>
+    <Text>Raute</Text>
+  </Item>
+  <Item>
+    <TextId>1191</TextId>
+    <Text>geschlossener Bügel</Text>
+  </Item>
+  <Item>
+    <TextId>4999</TextId>
+    <Text>Dieses PythonPart ermöglicht es Ihnen, automatisch Bewehrung in rechteckigen und runden Stützen zu erzeugen.\n\nUm zu beginnen, folgen Sie bitte den unten genannten Schritten.\n 1) Wählen Sie die gewünschte Option und wählen Sie die Elemente in der 3D Ansicht aus.\n 2) Sofern Sie eine darüber liegende Stütze haben, wählen Sie diese bitte ebenfalls aus.\n 3) Nehmen Sie die gewünschten Einstellungen in den nachfolgenden Tabs vor und klicken Sie „Erstellen“, \n    um die Bewehrungsverlegung abzuschließen.\n 4) Nehmen Sie die gewünschten Einstellungen im Tab „Schnitte“ vor und klicken Sie „Erstellen“,\n    um die Schnitte danach abzusetzen.</Text>
+  </Item>
+  <Item>
+    <TextId>5000</TextId>
+    <Text>Bitte wählen Sie Elemente aus</Text>
+  </Item>
+  <Item>
+    <TextId>5001</TextId>
+    <Text>um den Tab "Allgemein" zu sehen.</Text>
+  </Item>
+  <Item>
+    <TextId>5003</TextId>
+    <Text>um den Tab "Hauptbewehrung" zu sehen.</Text>
+  </Item>
+  <Item>
+    <TextId>5005</TextId>
+    <Text>um den Tab "Bügel" zu sehen.</Text>
+  </Item>
+  <Item>
+    <TextId>5007</TextId>
+    <Text>um den Tab "Schnitte" zu sehen.</Text>
+  </Item>
+  <Item>
+    <TextId>5008</TextId>
+    <Text>um den Tab "Format" zu sehen.</Text>
+  </Item>
+  <Item>
+    <TextId>10000</TextId>
+    <Text>Kann Bewehrung aufgrund folgender Fehler nicht erzeugen:</Text>
+  </Item>
+  <Item>
+    <TextId>10001</TextId>
+    <Text> - Bügeldurchmesser ist geringer als Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10002</TextId>
+    <Text> - Längsbewehrungsdurchmesser ist geringer als Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10003</TextId>
+    <Text> - Bügellängsabstand ist größer als Smin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10004</TextId>
+    <Text>Ausgewählte Stütze ist keine gültige Auswahl. Bitte erneut auswählen.</Text>
+  </Item>
+  <Item>
+    <TextId>10005</TextId>
+    <Text>Möchten Sie eine darüber liegende Stütze auswählen?</Text>
+  </Item>
+  <Item>
+    <TextId>10006</TextId>
+    <Text>Bitte darüber liegende Stütze auswählen: </Text>
+  </Item>
+  <Item>
+    <TextId>10007</TextId>
+    <Text>Linksklick zur Auswahl einer einzelner Stütze / Rechtsklick zur Auswahl mehrerer Stützen zur für die Bewehrung</Text>
+  </Item>
+  <Item>
+    <TextId>10008</TextId>
+    <Text>Bitte Parameter eingeben und Erstellen auswählen um Bewehrung zu erzeugen</Text>
+  </Item>
+  <Item>
+    <TextId>10009</TextId>
+    <Text>Speichern fehlgeschlagen: {}</Text>
+  </Item>
+  <Item>
+    <TextId>10010</TextId>
+    <Text>Laden fehlgeschlagen. Bitte Dateiformat prüfen.</Text>
+  </Item>
+  <Item>
+    <TextId>10011</TextId>
+    <Text>Keine Stütze ausgewählt</Text>
+  </Item>
+  <Item>
+    <TextId>10012</TextId>
+    <Text>Möchten Sie diese Parameter automatisch korrigieren?</Text>
+  </Item>
+  <Item>
+    <TextId>10013</TextId>
+    <Text>Ausgewählte Stütze enthält bereits Bewehrung.</Text>
+  </Item>
+  <Item>
+    <TextId>10014</TextId>
+    <Text>Aktivierung Lizenzschlüssel fehlgeschlagen</Text>
+  </Item>
+  <Item>
+    <TextId>10015</TextId>
+    <Text>Bitte zuerst Bewehrung erzeugen</Text>
+  </Item>
+  <Item>
+    <TextId>10016</TextId>
+    <Text>Bitte Stütze auswählen, um Bewehrung zu erzeugen</Text>
+  </Item>
+  <Item>
+    <TextId>10017</TextId>
+    <Text> - Auf der langen Querschnittsseite ist der Durchmesser kleiner als Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10018</TextId>
+    <Text> - Auf der kurzen Querschnittsseite ist der Durchmesser kleiner als Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10019</TextId>
+    <Text> - Bewehrungsdurchmesser auf der kurzen Querschnittsseite ist kleiner als Ømin = {} mm\n</Text>
+  </Item>
+  <Item>
+    <TextId>10020</TextId>
+    <Text> - Basierend auf Ihrer Auswahl des minmalen lichten Abstands zwischen den Bewehrungseisen auf der Registerkarte "Allgemein" beträgt die maximale Anzahl der Längseisen Ø{} ist {}\n</Text>
+  </Item>
+  <Item>
+    <TextId>10021</TextId>
+    <Text> - Basierend auf dem minimalen lichten Abstand von </Text>
+  </Item>
+  <Item>
+    <TextId>10022</TextId>
+    <Text> mm zwischen Bewehrungstäben auf der Registerkarte "Allgemein" </Text>
+  </Item>
+  <Item>
+    <TextId>10023</TextId>
+    <Text>:\n   + auf der langen Querschnittsseite ist die maximale Anzahl der Längseisen ø</Text>
+  </Item>
+  <Item>
+    <TextId>10024</TextId>
+    <Text>:\n   + auf der kurzen Querschnittsseite ist die maximale Anzahl der Längseisen ø</Text>
+  </Item>
+  <Item>
+    <TextId>10025</TextId>
+    <Text>:\n   + auf der langen Querschnittsseite ist die maximale Anzahl der Längseisen ø</Text>
+  </Item>
+  <Item>
+    <TextId>10026</TextId>
+    <Text>:\n   + auf der kurzen Querschnittsseite ist die maximale Anzahl der Längseisen ø</Text>
+  </Item>
+  <Item>
+    <TextId>10027</TextId>
+    <Text>, die maximale Anzahl der Längseisen ø</Text>
+  </Item>
+  <Item>
+    <TextId>10028</TextId>
+    <Text> - Gewählter Bewehrungsgrad ist </Text>
+  </Item>
+  <Item>
+    <TextId>10029</TextId>
+    <Text> und übersteigt den maximalen Bewehrungsgrad von </Text>
+  </Item>
+  <Item>
+    <TextId>10030</TextId>
+    <Text>Stützenauswahl erneut beginnen</Text>
+  </Item>
+  <Item>
+    <TextId>10031</TextId>
+    <Text>Auswahl nicht erfolgreich, bitte erneut auswählen</Text>
+  </Item>
+  <Item>
+    <TextId>10033</TextId>
+    <Text>Möchten Sie das Stützen Python Part verlassen?</Text>
+  </Item>
+  <!-- Empty -->
+  <Item>
+    <TextId>10034</TextId>
+    <Text/>
+  </Item>
+  <Item>
+    <TextId>10035</TextId>
+    <Text>Bitte runde oder recheckige Stütze in der 3D Ansicht auswählen.</Text>
+  </Item>
+  <Item>
+    <TextId>10036</TextId>
+    <Text>Bitte beenden Sie die Auswahl in der 3D Ansicht</Text>
+  </Item>
+  <Item>
+    <TextId>10037</TextId>
+    <Text>Bitte geben Sie Koordinaten ein, um die Schnitte in der Zeichenfläche abzusetzen</Text>
+  </Item>
+  <Item>
+    <TextId>10038</TextId>
+    <Text>Geben Sie den Wert für die Bewehrung in die Registerkarten ein und klicken Sie auf "Erstellen" (Bewehrung prüfen und verlegen)</Text>
+  </Item>
+  <Item>
+    <TextId>10039</TextId>
+    <Text>Machen Sie in der Registerkarte "Schnitt" Eingaben für Abschnitt und Beschriftung, und klicken Sie dann auf Erstellen (Schnitte verlegen)</Text>
+  </Item>
+  <Item>
+    <TextId>10040</TextId>
+    <Text>Beenden Sie den Vorgang, indem Sie die ESC-Taste/'Schließen'-Taste drücken oder klicken Sie auf Erstellen für weitere Abschnitte</Text>
+  </Item>
+
+  <Item>
+    <TextId>10041</TextId>
+    <Text>Der Parameter wurde geändert.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10042</TextId>
+    <Text>Möchten Sie die Positionsnummer des Bewehrungsstabs aktualisieren?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10043</TextId>
+    <Text>Dieser PythonPart ist mit der Architekturkomponente verbunden, mit der er erstellt wurde.\nBitte beachten Sie, dass Sie diesen PythonPart nicht an einen anderen Ort kopieren können.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10047</TextId>
+    <Text>Sie haben den Python Part kopiert, der mit einem Architektur-Objekt verbunden ist.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10048</TextId>
+    <Text>Möchten Sie es mit dem neuen Architekturobjekt verknüpfen?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10049</TextId>
+    <Text>Auswahl der Stütze(n) durch Linksklick oder Flächenauswahl</Text>
+  </Item>
+
+  <Item>
+    <TextId>10050</TextId>
+    <Text>Die Anwendung unterstützt nur Stützen mit rechteckigem, quadratischem oder rundem Querschnitt.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10051</TextId>
+    <Text>Die Anwendung unterstützt nur Stützen ohne schräge Flächen an der Ober- oder Unterseite.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10052</TextId>
+    <Text>Die Anwendung unterstützt nur Stützen ohne Neigung.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10053</TextId>
+    <Text>Die Anwendung unterstützt nur Stützen ohne Ausklinkungen oder Kragsteine.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10054</TextId>
+    <Text>Die Anwendung unterstützt nur eine runde Säule, deren Höhe 3 mal größer ist als der Durchmesser.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10055</TextId>
+    <Text>Die Anwendung unterstützt nur Säulen, die gültige Proportionen haben:\n+ Die Länge sollte das 4-fache der Breite im Querschnitt nicht überschreiten\n+ Die Höhe ist mindestens 3-mal größer als die Länge oder Breite des Querschnitts</Text>
+  </Item>
+
+  <Item>
+    <TextId>10056</TextId>
+    <Text>Es wurde keine gültige Spalte oben gefunden. Bitte Spalte(n) erneut auswählen oder das Kontrollkästchen der zweiten Spalte oben deaktivieren.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10057</TextId>
+    <Text>Die Anwendung unterstützt nur Stützen mit demselben Geometrietyp.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10058</TextId>
+    <Text>Bitte Stütze(n) erneut auswählen.</Text>
+  </Item>
+
+</Element>

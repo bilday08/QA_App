@@ -1,0 +1,2472 @@
+<Element>
+
+    <!--GENERAL-->
+
+    <Item>
+        <TextId>9000</TextId>
+		<Text>Geometria</Text>
+    </Item>
+
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Seleziona elemento</Text>
+    </Item>
+
+    <Item>
+        <TextId>9002</TextId>
+        <Text>Piastra | Staffa | Bullone | Saldatura | Foro | Testa</Text>
+    </Item>
+
+    <Item>
+        <TextId>9003</TextId>
+        <Text>Formato</Text>
+    </Item>
+
+    <Item>
+        <TextId>9004</TextId>
+        <Text>Connection Toolbox</Text>
+    </Item>
+
+    <!--PLATE-->
+
+    <Item>
+        <TextId>1000</TextId>
+        <Text>Piastra</Text>
+    </Item>
+
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Tipo piastra</Text>
+    </Item>
+
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Estremità piastra | Rinforzo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Forma piastra</Text>
+    </Item>
+
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Materiale</Text>
+    </Item>
+
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Stile</Text>
+    </Item>
+
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Forma</Text>
+    </Item>
+
+    <Item>
+        <TextId>1007</TextId>
+        <Text>Stile posa</Text>
+    </Item>
+
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Numero rinforzi</Text>
+    </Item>
+
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Materiale</Text>
+    </Item>
+
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Parametri piastra</Text>
+    </Item>
+
+    <Item>
+        <TextId>1011</TextId>
+        <Text>Punti</Text>
+    </Item>
+
+    <Item>
+        <TextId>1012</TextId>
+        <Text>Seleziona polilinea 2D</Text>
+    </Item>
+
+    <Item>
+        <TextId>1013</TextId>
+        <Text>Seleziona polilinea 3D</Text>
+    </Item>
+
+    <Item>
+        <TextId>1014</TextId>
+        <Text>Spessore</Text>
+    </Item>
+
+    <Item>
+        <TextId>1015</TextId>
+        <Text>Larghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>1016</TextId>
+        <Text>Lunghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>1017</TextId>
+        <Text>Forma vertice</Text>
+    </Item>
+
+    <Item>
+        <TextId>1018</TextId>
+        <Text>Vertice angolato | Vertice smussato | Vertice raccordato</Text>
+    </Item>
+
+    <Item>
+        <TextId>1019</TextId>
+        <Text>Raggio</Text>
+    </Item>
+
+    <Item>
+        <TextId>1020</TextId>
+        <Text>Raggio raccordo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1021</TextId>
+        <Text> Raccordo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1022</TextId>
+        <Text>  Raccordo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1023</TextId>
+        <Text>   Raccordo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1024</TextId>
+        <Text>Raccordo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1025</TextId>
+        <Text> Smusso</Text>
+    </Item>
+
+    <Item>
+        <TextId>1026</TextId>
+        <Text>Lunghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>1027</TextId>
+        <Text>Larghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>1028</TextId>
+        <Text>  Smusso</Text>
+    </Item>
+
+    <Item>
+        <TextId>1029</TextId>
+        <Text>Lunghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>1030</TextId>
+        <Text>Larghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>1031</TextId>
+        <Text>   Smusso</Text>
+    </Item>
+
+    <Item>
+        <TextId>1032</TextId>
+        <Text>Lunghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>1033</TextId>
+        <Text>Larghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>1034</TextId>
+        <Text>Smusso</Text>
+    </Item>
+
+    <Item>
+        <TextId>1035</TextId>
+        <Text>Lunghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>1036</TextId>
+        <Text>Larghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>1037</TextId>
+        <Text>Posizionamento</Text>
+    </Item>
+
+    <Item>
+        <TextId>1038</TextId>
+        <Text>Orientamento</Text>
+    </Item>
+
+    <Item>
+        <TextId>1039</TextId>
+        <Text>Forma</Text>
+    </Item>
+
+    <Item>
+        <TextId>1040</TextId>
+        <Text>Orientamento</Text>
+    </Item>
+
+    <Item>
+        <TextId>1041</TextId>
+        <Text>Punto</Text>
+    </Item>
+
+    <Item>
+        <TextId>1042</TextId>
+        <Text>Vettore</Text>
+    </Item>
+
+    <Item>
+        <TextId>1043</TextId>
+        <Text>Punto riferimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>1044</TextId>
+        <Text>Punto riferimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>1045</TextId>
+        <Text>Angolo rotazione</Text>
+    </Item>
+
+    <Item>
+        <TextId>1046</TextId>
+        <Text>Angolo </Text>
+    </Item>
+
+    <Item>
+        <TextId>1047</TextId>
+        <Text>Piastra capovolta</Text>
+    </Item>
+
+    <Item>
+        <TextId>1049</TextId>
+        <Text>Crea elemento</Text>
+    </Item>
+
+    <Item>
+        <TextId>1050</TextId>
+        <Text>Conferma</Text>
+    </Item>
+
+    <Item>
+        <TextId>1051</TextId>
+        <Text>Seleziona spessore via punto</Text>
+    </Item>
+
+    <Item>
+        <TextId>1052</TextId>
+        <Text>Rettangolo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1053</TextId>
+        <Text>Cerchio</Text>
+    </Item>
+
+    <Item>
+        <TextId>1054</TextId>
+        <Text>Polilinea</Text>
+    </Item>
+
+    <Item>
+        <TextId>1055</TextId>
+        <Text>Automatico</Text>
+    </Item>
+
+    <Item>
+        <TextId>1056</TextId>
+        <Text>Manuale</Text>
+    </Item>
+
+    <Item>
+        <TextId>1057</TextId>
+        <Text>Parametri forma vertice</Text>
+    </Item>
+
+    <Item>
+        <TextId>1058</TextId>
+        <Text>Distanza</Text>
+    </Item>
+
+    <Item>
+        <TextId>1059</TextId>
+        <Text>Distanza </Text>
+    </Item>
+
+    <Item>
+        <TextId>1060</TextId>
+        <Text>Posiziona polilinea</Text>
+    </Item>
+
+    <Item>
+        <TextId>1061</TextId>
+        <Text>Personalizzato</Text>
+    </Item>
+
+    <Item>
+        <TextId>1062</TextId>
+        <Text>Larghezza luce</Text>
+    </Item>
+
+    <Item>
+        <TextId>1063</TextId>
+        <Text>Luce</Text>
+    </Item>
+
+    <Item>
+        <TextId>1064</TextId>
+        <Text>Raggio</Text>
+    </Item>
+
+    <Item>
+        <TextId>1065</TextId>
+        <Text>Lunghezza luce</Text>
+    </Item>
+
+    <Item>
+        <TextId>1066</TextId>
+        <Text>Rileva da profilo</Text>
+    </Item>
+
+    <Item>
+        <TextId>1067</TextId>
+        <Text>Mostra punti snap</Text>
+    </Item>
+
+    <Item>
+        <TextId>1500</TextId>
+        <Text>Formato</Text>
+    </Item>
+
+    <Item>
+        <TextId>1501</TextId>
+        <Text>Layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1502</TextId>
+        <Text>Penna</Text>
+    </Item>
+
+    <Item>
+        <TextId>1503</TextId>
+        <Text>Penna da layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1504</TextId>
+        <Text>Riga</Text>
+    </Item>
+
+    <Item>
+        <TextId>1505</TextId>
+        <Text>Riga da layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1506</TextId>
+        <Text>Colore</Text>
+    </Item>
+
+    <Item>
+        <TextId>1507</TextId>
+        <Text>Colore da layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>1508</TextId>
+        <Text>Campitura</Text>
+    </Item>
+
+    <Item>
+        <TextId>1509</TextId>
+        <Text>Superficie</Text>
+    </Item>
+
+    <Item>
+        <TextId>1510</TextId>
+        <Text>Campitura</Text>
+    </Item>
+
+    <Item>
+        <TextId>1511</TextId>
+        <Text>Tratteggio</Text>
+    </Item>
+
+    <Item>
+        <TextId>1512</TextId>
+        <Text>Retino</Text>
+    </Item>
+
+    <Item>
+        <TextId>1513</TextId>
+        <Text>Riempimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>1514</TextId>
+        <Text>Area pixel</Text>
+    </Item>
+
+    <Item>
+        <TextId>1515</TextId>
+        <Text>Stile area</Text>
+    </Item>
+
+    <!--CLEAT-->
+
+    <Item>
+        <TextId>2000</TextId>
+        <Text>Staffa</Text>
+    </Item>
+
+    <Item>
+        <TextId>2001</TextId>
+        <Text>Forma staffa</Text>
+    </Item>
+
+    <Item>
+        <TextId>2002</TextId>
+        <Text>Profilo | Piastra piegata</Text>
+    </Item>
+
+    <Item>
+        <TextId>2003</TextId>
+        <Text>Seleziona profilo</Text>
+    </Item>
+
+    <Item>
+        <TextId>2004</TextId>
+        <Text>Materiale</Text>
+    </Item>
+
+    <Item>
+        <TextId>2005</TextId>
+        <Text>Parametri staffa</Text>
+    </Item>
+
+    <Item>
+        <TextId>2006</TextId>
+        <Text>Lunghezza staffa</Text>
+    </Item>
+
+    <Item>
+        <TextId>2007</TextId>
+        <Text> Lunghezza staffa</Text>
+    </Item>
+
+    <Item>
+        <TextId>2008</TextId>
+        <Text>Spessore staffa</Text>
+    </Item>
+
+    <Item>
+        <TextId>2009</TextId>
+        <Text>Angolo staffa</Text>
+    </Item>
+
+    <Item>
+        <TextId>2010</TextId>
+        <Text>Grado dettaglio</Text>
+    </Item>
+
+    <Item>
+        <TextId>2011</TextId>
+        <Text>Larghezza smusso</Text>
+    </Item>
+
+    <Item>
+        <TextId>2012</TextId>
+        <Text>Raggio raccordo</Text>
+    </Item>
+
+    <Item>
+        <TextId>2013</TextId>
+        <Text>Posizionamento</Text>
+    </Item>
+
+    <Item>
+        <TextId>2014</TextId>
+        <Text>Distanza</Text>
+    </Item>
+
+    <Item>
+        <TextId>2015</TextId>
+        <Text>Stile posa</Text>
+    </Item>
+
+    <Item>
+        <TextId>2016</TextId>
+        <Text>Seleziona punti</Text>
+    </Item>
+
+    <Item>
+        <TextId>2017</TextId>
+        <Text>Primo punto</Text>
+    </Item>
+
+    <Item>
+        <TextId>2018</TextId>
+        <Text>Secondo punto</Text>
+    </Item>
+
+    <Item>
+        <TextId>2019</TextId>
+        <Text>Punto riferimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>2020</TextId>
+        <Text>Punto riferimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>2021</TextId>
+        <Text>Distanza</Text>
+    </Item>
+
+    <Item>
+        <TextId>2022</TextId>
+        <Text>Rotazione staffa</Text>
+    </Item>
+
+    <Item>
+        <TextId>2023</TextId>
+        <Text>Foro</Text>
+    </Item>
+
+    <Item>
+        <TextId>2024</TextId>
+        <Text>Crea foro</Text>
+    </Item>
+
+    <Item>
+        <TextId>2025</TextId>
+        <Text>Numero fori</Text>
+    </Item>
+
+    <Item>
+        <TextId>2026</TextId>
+        <Text>Distanza foro 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>2027</TextId>
+        <Text>Distanza foro 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>2028</TextId>
+        <Text>Raggio foro</Text>
+    </Item>
+
+    <Item>
+        <TextId>2029</TextId>
+        <Text>Raggio foro 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>2030</TextId>
+        <Text>Raggio foro 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>2031</TextId>
+        <Text>Numero spigoli</Text>
+    </Item>
+
+    <Item>
+        <TextId>2032</TextId>
+        <Text>Lunghezza spigolo</Text>
+    </Item>
+
+    <Item>
+        <TextId>2033</TextId>
+        <Text>Crea elemento</Text>
+    </Item>
+
+    <Item>
+        <TextId>2034</TextId>
+        <Text>Conferma</Text>
+    </Item>
+
+    <Item>
+        <TextId>2035</TextId>
+        <Text>Seleziona punti per definire l'angolo della staffa</Text>
+    </Item>
+
+    <Item>
+        <TextId>2036</TextId>
+        <Text>Bassa</Text>
+    </Item>
+
+    <Item>
+        <TextId>2037</TextId>
+        <Text>Media</Text>
+    </Item>
+
+    <Item>
+        <TextId>2038</TextId>
+        <Text>Alta</Text>
+    </Item>
+
+    <Item>
+        <TextId>2039</TextId>
+        <Text>Automatico</Text>
+    </Item>
+
+    <Item>
+        <TextId>2040</TextId>
+        <Text>Manuale</Text>
+    </Item>
+
+    <Item>
+        <TextId>2041</TextId>
+        <Text>Nessuno</Text>
+    </Item>
+
+    <Item>
+        <TextId>2042</TextId>
+        <Text>Cerchio</Text>
+    </Item>
+
+    <Item>
+        <TextId>2043</TextId>
+        <Text>Arco</Text>
+    </Item>
+
+    <Item>
+        <TextId>2044</TextId>
+        <Text>Poligono</Text>
+    </Item>
+
+    <Item>
+        <TextId>2500</TextId>
+        <Text>Formato</Text>
+    </Item>
+
+    <Item>
+        <TextId>2501</TextId>
+        <Text>Layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>2502</TextId>
+        <Text>Penna</Text>
+    </Item>
+
+    <Item>
+        <TextId>2503</TextId>
+        <Text>Penna da layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>2504</TextId>
+        <Text>Riga</Text>
+    </Item>
+
+    <Item>
+        <TextId>2505</TextId>
+        <Text>Riga da layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>2506</TextId>
+        <Text>Colore</Text>
+    </Item>
+
+    <Item>
+        <TextId>2507</TextId>
+        <Text>Colore da layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>2508</TextId>
+        <Text>Campitura</Text>
+    </Item>
+
+    <Item>
+        <TextId>2509</TextId>
+        <Text>Superficie</Text>
+    </Item>
+
+    <Item>
+        <TextId>2510</TextId>
+        <Text>Campitura</Text>
+    </Item>
+
+    <Item>
+        <TextId>2511</TextId>
+        <Text>Tratteggio</Text>
+    </Item>
+
+    <Item>
+        <TextId>2512</TextId>
+        <Text>Retino</Text>
+    </Item>
+
+    <Item>
+        <TextId>2513</TextId>
+        <Text>Riempimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>2514</TextId>
+        <Text>Area pixel</Text>
+    </Item>
+
+    <Item>
+        <TextId>2515</TextId>
+        <Text>Stile area</Text>
+    </Item>
+
+    <Item>
+        <TextId>2516</TextId>
+        <Text>Distanza</Text>
+    </Item>
+
+    <Item>
+        <TextId>2517</TextId>
+        <Text>Distanza</Text>
+    </Item>
+
+    <!--BOLT-->
+
+    <Item>
+        <TextId>3000</TextId>
+        <Text>Bullone</Text>
+    </Item>
+
+    <Item>
+        <TextId>3001</TextId>
+        <Text>Tipo bullone</Text>
+    </Item>
+
+    <Item>
+        <TextId>3002</TextId>
+        <Text>Bullone generale | Bullone ancoraggio</Text>
+    </Item>
+
+    <Item>
+        <TextId>3003</TextId>
+        <Text>Tipo gancio</Text>
+    </Item>
+
+    <Item>
+        <TextId>3004</TextId>
+        <Text>Testa | Gancio a L | Gancio a J</Text>
+    </Item>
+
+    <Item>
+        <TextId>3005</TextId>
+        <Text>Forma testa</Text>
+    </Item>
+
+    <Item>
+        <TextId>3006</TextId>
+        <Text>Esagonale | Testa svasata</Text>
+    </Item>
+
+    <Item>
+        <TextId>3007</TextId>
+        <Text>Parametri bullone</Text>
+    </Item>
+
+    <Item>
+        <TextId>3008</TextId>
+        <Text>Misura</Text>
+    </Item>
+
+    <Item>
+        <TextId>3009</TextId>
+        <Text>Misura</Text>
+    </Item>
+
+    <Item>
+        <TextId>3010</TextId>
+        <Text>Lunghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>3011</TextId>
+        <Text>Rondelle</Text>
+    </Item>
+
+    <Item>
+        <TextId>3012</TextId>
+        <Text>Rondelle dadi</Text>
+    </Item>
+
+    <Item>
+        <TextId>3013</TextId>
+        <Text>Classe bullone</Text>
+    </Item>
+
+    <Item>
+        <TextId>3014</TextId>
+        <Text>Grado dettaglio</Text>
+    </Item>
+
+    <Item>
+        <TextId>3015</TextId>
+        <Text>Posizionamento</Text>
+    </Item>
+
+    <Item>
+        <TextId>3016</TextId>
+        <Text>Numero bulloni</Text>
+    </Item>
+
+    <Item>
+        <TextId>3017</TextId>
+        <Text>Orientamento</Text>
+    </Item>
+
+    <Item>
+        <TextId>3018</TextId>
+        <Text>Orientamento</Text>
+    </Item>
+
+    <Item>
+        <TextId>3019</TextId>
+        <Text>Personalizzato</Text>
+    </Item>
+
+    <Item>
+        <TextId>3020</TextId>
+        <Text>Punto</Text>
+    </Item>
+
+    <Item>
+        <TextId>3021</TextId>
+        <Text>Vettore</Text>
+    </Item>
+
+    <Item>
+        <TextId>3022</TextId>
+        <Text>Sopra</Text>
+    </Item>
+
+    <Item>
+        <TextId>3023</TextId>
+        <Text>Centro</Text>
+    </Item>
+
+    <Item>
+        <TextId>3024</TextId>
+        <Text>Sotto</Text>
+    </Item>
+
+    <Item>
+        <TextId>3025</TextId>
+        <Text>Punto riferimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>3026</TextId>
+        <Text>Misura gruppo bulloni</Text>
+    </Item>
+
+    <Item>
+        <TextId>3027</TextId>
+        <Text>Distanza</Text>
+    </Item>
+
+    <Item>
+        <TextId>3028</TextId>
+        <Text> Distanza</Text>
+    </Item>
+
+    <Item>
+        <TextId>3029</TextId>
+        <Text>  Distanza</Text>
+    </Item>
+
+    <Item>
+        <TextId>3030</TextId>
+        <Text>   Distanza</Text>
+    </Item>
+
+    <Item>
+        <TextId>3031</TextId>
+        <Text>Angolo rotazione</Text>
+    </Item>
+
+    <Item>
+        <TextId>3032</TextId>
+        <Text>Angolo rotazione</Text>
+    </Item>
+
+    <Item>
+        <TextId>3033</TextId>
+        <Text>Bullone capovolto</Text>
+    </Item>
+
+    <Item>
+        <TextId>3034</TextId>
+        <Text>Distanza</Text>
+    </Item>
+
+    <Item>
+        <TextId>3035</TextId>
+        <Text>Distanza </Text>
+    </Item>
+
+    <Item>
+        <TextId>3036</TextId>
+        <Text>Crea elemento</Text>
+    </Item>
+
+    <Item>
+        <TextId>3037</TextId>
+        <Text>Conferma</Text>
+    </Item>
+
+    <Item>
+        <TextId>3038</TextId>
+        <Text>Seleziona punto grip</Text>
+    </Item>
+
+    <Item>
+        <TextId>3039</TextId>
+        <Text>Bassa</Text>
+    </Item>
+
+    <Item>
+        <TextId>3040</TextId>
+        <Text>Media</Text>
+    </Item>
+
+    <Item>
+        <TextId>3041</TextId>
+        <Text>Alta</Text>
+    </Item>
+
+    <Item>
+        <TextId>3500</TextId>
+        <Text>Formato</Text>
+    </Item>
+
+    <Item>
+        <TextId>3501</TextId>
+        <Text>Layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>3502</TextId>
+        <Text>Penna</Text>
+    </Item>
+
+    <Item>
+        <TextId>3503</TextId>
+        <Text>Penna da layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>3504</TextId>
+        <Text>Riga</Text>
+    </Item>
+
+    <Item>
+        <TextId>3505</TextId>
+        <Text>Riga da layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>3506</TextId>
+        <Text>Colore</Text>
+    </Item>
+
+    <Item>
+        <TextId>3507</TextId>
+        <Text>Colore da layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>3508</TextId>
+        <Text>Campitura</Text>
+    </Item>
+
+    <Item>
+        <TextId>3509</TextId>
+        <Text>Superficie</Text>
+    </Item>
+
+    <Item>
+        <TextId>3510</TextId>
+        <Text>Campitura</Text>
+    </Item>
+
+    <Item>
+        <TextId>3511</TextId>
+        <Text>Tratteggio</Text>
+    </Item>
+
+    <Item>
+        <TextId>3512</TextId>
+        <Text>Retino</Text>
+    </Item>
+
+    <Item>
+        <TextId>3513</TextId>
+        <Text>Riempimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>3514</TextId>
+        <Text>Area pixel</Text>
+    </Item>
+
+    <Item>
+        <TextId>3515</TextId>
+        <Text>Stile area</Text>
+    </Item>
+
+    <!--WELD-->
+
+    <Item>
+        <TextId>4000</TextId>
+        <Text>Saldatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>4001</TextId>
+        <Text>Tipo saldatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>4002</TextId>
+        <Text>Polilinea | Raccordo | Convesso | Concavo</Text>
+    </Item>
+
+    <Item>
+        <TextId>4003</TextId>
+        <Text>Valori generali</Text>
+    </Item>
+
+    <Item>
+        <TextId>4004</TextId>
+        <Text>Lunghezza saldatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>4005</TextId>
+        <Text>Larghezza saldatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>4006</TextId>
+        <Text>Angolo saldatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>4010</TextId>
+        <Text>Posizionamento</Text>
+    </Item>
+
+    <Item>
+        <TextId>4011</TextId>
+        <Text>Rotazione</Text>
+    </Item>
+
+    <Item>
+        <TextId>4012</TextId>
+        <Text>Crea elemento</Text>
+    </Item>
+
+    <Item>
+        <TextId>4013</TextId>
+        <Text>Conferma</Text>
+    </Item>
+
+    <Item>
+        <TextId>4014</TextId>
+        <Text>Modifica</Text>
+    </Item>
+
+    <Item>
+        <TextId>4015</TextId>
+        <Text>Ricomincia da zero</Text>
+    </Item>
+
+    <Item>
+        <TextId>4016</TextId>
+        <Text>Rimuovi ultimo punto</Text>
+    </Item>
+
+    <Item>
+        <TextId>4017</TextId>
+        <Text>Nuovo punto</Text>
+    </Item>
+
+    <Item>
+        <TextId>4018</TextId>
+        <Text>Sposta punto</Text>
+    </Item>
+
+    <Item>
+        <TextId>4500</TextId>
+        <Text>Formato</Text>
+    </Item>
+
+    <Item>
+        <TextId>4501</TextId>
+        <Text>Layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>4502</TextId>
+        <Text>Penna</Text>
+    </Item>
+
+    <Item>
+        <TextId>4503</TextId>
+        <Text>Penna da layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>4504</TextId>
+        <Text>Riga</Text>
+    </Item>
+
+    <Item>
+        <TextId>4505</TextId>
+        <Text>Riga da layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>4506</TextId>
+        <Text>Colore</Text>
+    </Item>
+
+    <Item>
+        <TextId>4507</TextId>
+        <Text>Colore da layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>4508</TextId>
+        <Text>Campitura</Text>
+    </Item>
+
+    <Item>
+        <TextId>4509</TextId>
+        <Text>Superficie</Text>
+    </Item>
+
+    <Item>
+        <TextId>4510</TextId>
+        <Text>Campitura</Text>
+    </Item>
+
+    <Item>
+        <TextId>4511</TextId>
+        <Text>Tratteggio</Text>
+    </Item>
+
+    <Item>
+        <TextId>4512</TextId>
+        <Text>Retino</Text>
+    </Item>
+
+    <Item>
+        <TextId>4513</TextId>
+        <Text>Riempimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>4514</TextId>
+        <Text>Area pixel</Text>
+    </Item>
+
+    <Item>
+        <TextId>4515</TextId>
+        <Text>Stile area</Text>
+    </Item>
+
+    <!--STIFFENER-->
+
+    <Item>
+        <TextId>5000</TextId>
+        <Text>Parametri rinforzo</Text>
+    </Item>
+
+    <Item>
+        <TextId>5001</TextId>
+        <Text>Punti</Text>
+    </Item>
+
+    <Item>
+        <TextId>5002</TextId>
+        <Text>Seleziona polilinea 2D</Text>
+    </Item>
+
+    <Item>
+        <TextId>5003</TextId>
+        <Text>Seleziona polilinea 3D</Text>
+    </Item>
+
+    <Item>
+        <TextId>5004</TextId>
+        <Text>Spessore</Text>
+    </Item>
+
+    <Item>
+        <TextId>5005</TextId>
+        <Text>Lunghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>5006</TextId>
+        <Text>Larghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>5007</TextId>
+        <Text>Distanza Ox</Text>
+    </Item>
+
+    <Item>
+        <TextId>5008</TextId>
+        <Text>Raggio</Text>
+    </Item>
+
+    <Item>
+        <TextId>5009</TextId>
+        <Text>Forma vertice</Text>
+    </Item>
+
+    <Item>
+        <TextId>5010</TextId>
+        <Text>Vertice angolato | Vertice smussato | Vertice raccordato</Text>
+    </Item>
+
+    <Item>
+        <TextId>5011</TextId>
+        <Text>Raggio raccordo</Text>
+    </Item>
+
+    <Item>
+        <TextId>5012</TextId>
+        <Text> Raccordo</Text>
+    </Item>
+
+    <Item>
+        <TextId>5013</TextId>
+        <Text>  Raccordo</Text>
+    </Item>
+
+    <Item>
+        <TextId>5014</TextId>
+        <Text>   Raccordo</Text>
+    </Item>
+
+    <Item>
+        <TextId>5015</TextId>
+        <Text>Raccordo</Text>
+    </Item>
+
+    <Item>
+        <TextId>5016</TextId>
+        <Text> Smusso</Text>
+    </Item>
+
+    <Item>
+        <TextId>5017</TextId>
+        <Text>Lunghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>5018</TextId>
+        <Text>Larghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>5019</TextId>
+        <Text>  Smusso</Text>
+    </Item>
+
+    <Item>
+        <TextId>5020</TextId>
+        <Text>Lunghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>5021</TextId>
+        <Text>Larghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>5022</TextId>
+        <Text>   Smusso</Text>
+    </Item>
+
+    <Item>
+        <TextId>5023</TextId>
+        <Text>Lunghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>5024</TextId>
+        <Text>Larghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>5025</TextId>
+        <Text>Smusso</Text>
+    </Item>
+
+    <Item>
+        <TextId>5026</TextId>
+        <Text>Lunghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>5027</TextId>
+        <Text>Larghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>5028</TextId>
+        <Text>Posizionamento</Text>
+    </Item>
+
+    <Item>
+        <TextId>5029</TextId>
+        <Text>Orientamento</Text>
+    </Item>
+
+    <Item>
+        <TextId>5030</TextId>
+        <Text>Orientamento</Text>
+    </Item>
+
+    <Item>
+        <TextId>5031</TextId>
+        <Text>Personalizzato</Text>
+    </Item>
+
+    <Item>
+        <TextId>5032</TextId>
+        <Text>Forma</Text>
+    </Item>
+
+    <Item>
+        <TextId>5033</TextId>
+        <Text>Vettore </Text>
+    </Item>
+
+    <Item>
+        <TextId>5034</TextId>
+        <Text>Punto riferimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>5035</TextId>
+        <Text>Punto riferimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>5036</TextId>
+        <Text>Angolo rotazione</Text>
+    </Item>
+
+    <Item>
+        <TextId>5037</TextId>
+        <Text>Angolo Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>5038</TextId>
+        <Text>Angolo Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>5039</TextId>
+        <Text>Distanza</Text>
+    </Item>
+
+    <Item>
+        <TextId>5040</TextId>
+        <Text>Distanza X</Text>
+    </Item>
+
+    <Item>
+        <TextId>5041</TextId>
+        <Text>Distanza Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>5042</TextId>
+        <Text>Distanza Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>5043</TextId>
+        <Text>Crea elemento</Text>
+    </Item>
+
+    <Item>
+        <TextId>5044</TextId>
+        <Text>Conferma</Text>
+    </Item>
+
+    <Item>
+        <TextId>5045</TextId>
+        <Text>Lunghezza smusso</Text>
+    </Item>
+
+    <Item>
+        <TextId>5046</TextId>
+        <Text>Rettangolo</Text>
+    </Item>
+
+    <Item>
+        <TextId>5047</TextId>
+        <Text>Triangolo</Text>
+    </Item>
+
+    <Item>
+        <TextId>5048</TextId>
+        <Text>Parametri forma vertice</Text>
+    </Item>
+
+    <Item>
+        <TextId>5049</TextId>
+        <Text>Misura/posizione piastra</Text>
+    </Item>
+
+    <Item>
+        <TextId>5050</TextId>
+        <Text>Mostra punti snap</Text>
+    </Item>
+
+    <Item>
+        <TextId>5051</TextId>
+        <Text>Trapezio</Text>
+    </Item>
+
+    <Item>
+        <TextId>5052</TextId>
+        <Text>Misura 1</Text>
+    </Item>
+
+    <Item>
+        <TextId>5053</TextId>
+        <Text>Misura 2</Text>
+    </Item>
+
+    <Item>
+        <TextId>5054</TextId>
+        <Text>Distanza Oy</Text>
+    </Item>
+
+    <Item>
+        <TextId>5055</TextId>
+        <Text>Angolo X</Text>
+    </Item>
+
+    <Item>
+        <TextId>5500</TextId>
+        <Text>Proprietà</Text>
+    </Item>
+
+    <Item>
+        <TextId>5501</TextId>
+        <Text>Layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>5502</TextId>
+        <Text>Penna</Text>
+    </Item>
+
+    <Item>
+        <TextId>5503</TextId>
+        <Text>Penna da layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>5504</TextId>
+        <Text>Riga</Text>
+    </Item>
+
+    <Item>
+        <TextId>5505</TextId>
+        <Text>Riga da layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>5506</TextId>
+        <Text>Colore</Text>
+    </Item>
+
+    <Item>
+        <TextId>5507</TextId>
+        <Text>Colore da layer</Text>
+    </Item>
+
+    <!--WELD SYMBOL-->
+
+    <Item>
+        <TextId>6000</TextId>
+        <Text>Aggiungi simbolo</Text>
+    </Item>
+
+    <Item>
+        <TextId>6001</TextId>
+        <Text>Lunghezza saldatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>6002</TextId>
+        <Text>Profondità saldatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>6003</TextId>
+        <Text>Dettagli</Text>
+    </Item>
+
+    <Item>
+        <TextId>6004</TextId>
+        <Text>Salda tutto intorno</Text>
+    </Item>
+
+    <Item>
+        <TextId>6005</TextId>
+        <Text>Saldatura campo</Text>
+    </Item>
+
+    <Item>
+        <TextId>6006</TextId>
+        <Text>Nota</Text>
+    </Item>
+
+    <Item>
+        <TextId>6007</TextId>
+        <Text>Tipo saldatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>6500</TextId>
+        <Text>Simbolo saldatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>6501</TextId>
+        <Text>Lunghezza linea riferimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>6502</TextId>
+        <Text>Scala testo</Text>
+    </Item>
+
+    <Item>
+        <TextId>6503</TextId>
+        <Text>Layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>6504</TextId>
+        <Text>Penna</Text>
+    </Item>
+
+    <Item>
+        <TextId>6505</TextId>
+        <Text>Penna da layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>6506</TextId>
+        <Text>Tipo riga</Text>
+    </Item>
+
+    <Item>
+        <TextId>6507</TextId>
+        <Text>Tipo riga da layer</Text>
+    </Item>
+
+    <Item>
+        <TextId>6508</TextId>
+        <Text>Colore</Text>
+    </Item>
+
+    <Item>
+        <TextId>6509</TextId>
+        <Text>Colore da layer</Text>
+    </Item>
+
+    <!--HOLE-->
+
+    <Item>
+        <TextId>7000</TextId>
+        <Text>Foro</Text>
+    </Item>
+
+    <Item>
+        <TextId>7001</TextId>
+        <Text>Forma foro</Text>
+    </Item>
+
+    <Item>
+        <TextId>7002</TextId>
+        <Text> Cerchio</Text>
+    </Item>
+
+    <Item>
+        <TextId>7003</TextId>
+        <Text>Rettangolo</Text>
+    </Item>
+
+    <Item>
+        <TextId>7004</TextId>
+        <Text>Diametro</Text>
+    </Item>
+
+    <Item>
+        <TextId>7005</TextId>
+        <Text>Profondità</Text>
+    </Item>
+
+    <Item>
+        <TextId>7006</TextId>
+        <Text>Larghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>7007</TextId>
+        <Text>Lunghezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>7008</TextId>
+        <Text>Forma vertice</Text>
+    </Item>
+
+    <Item>
+        <TextId>7009</TextId>
+        <Text>Smusso</Text>
+    </Item>
+
+    <Item>
+        <TextId>7010</TextId>
+        <Text>Raccordo</Text>
+    </Item>
+
+    <Item>
+        <TextId>7011</TextId>
+        <Text>Conferma</Text>
+    </Item>
+
+    <Item>
+        <TextId>7012</TextId>
+        <Text>Crea elemento</Text>
+    </Item>
+
+    <Item>
+        <TextId>7013</TextId>
+        <Text>Vertice angolato | Vertice smussato | Vertice raccordato</Text>
+    </Item>
+
+    <Item>
+        <TextId>7014</TextId>
+        <Text> Smusso</Text>
+    </Item>
+
+    <Item>
+        <TextId>7015</TextId>
+        <Text>  Smusso</Text>
+    </Item>
+
+    <Item>
+        <TextId>7016</TextId>
+        <Text>   Smusso</Text>
+    </Item>
+
+    <Item>
+        <TextId>7017</TextId>
+        <Text>Misura smusso</Text>
+    </Item>
+
+    <Item>
+        <TextId>7018</TextId>
+        <Text> Raccordo</Text>
+    </Item>
+
+    <Item>
+        <TextId>7019</TextId>
+        <Text>  Raccordo</Text>
+    </Item>
+
+    <Item>
+        <TextId>7020</TextId>
+        <Text>   Raccordo</Text>
+    </Item>
+
+    <Item>
+        <TextId>7021</TextId>
+        <Text>Raggio raccordo</Text>
+    </Item>
+
+    <Item>
+        <TextId>7022</TextId>
+        <Text>Angolo</Text>
+    </Item>
+
+    <Item>
+        <TextId>7023</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>7024</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>7025</TextId>
+        <Text>Crea foro</Text>
+    </Item>
+
+    <Item>
+        <TextId>7026</TextId>
+        <Text>Cancella foro</Text>
+    </Item>
+
+    <Item>
+        <TextId>7027</TextId>
+        <Text>Parametri posizione</Text>
+    </Item>
+
+    <Item>
+        <TextId>7028</TextId>
+        <Text>Distanza X</Text>
+    </Item>
+
+    <Item>
+        <TextId>7029</TextId>
+        <Text>Distanza Y</Text>
+    </Item>
+
+    <Item>
+        <TextId>7030</TextId>
+        <Text>Slot</Text>
+    </Item>
+
+    <!-- ENDCONDITION -->
+
+    <Item>
+        <TextId>8000</TextId>
+        <Text>Testa</Text>
+    </Item>
+
+    <Item>
+        <TextId>8001</TextId>
+        <Text>Crea elemento</Text>
+    </Item>
+
+    <Item>
+        <TextId>8002</TextId>
+        <Text>Conferma</Text>
+    </Item>
+
+    <Item>
+        <TextId>8003</TextId>
+        <Text>Operazione sopra</Text>
+    </Item>
+
+    <Item>
+        <TextId>8004</TextId>
+        <Text>Operazione sotto</Text>
+    </Item>
+
+    <Item>
+        <TextId>8005</TextId>
+        <Text>Tipo operazione</Text>
+    </Item>
+
+    <Item>
+        <TextId>8006</TextId>
+        <Text>Nessuna</Text>
+    </Item>
+
+    <Item>
+        <TextId>8007</TextId>
+        <Text>Piano incastro</Text>
+    </Item>
+
+    <Item>
+        <TextId>8008</TextId>
+        <Text>Incastro STD</Text>
+    </Item>
+
+    <Item>
+        <TextId>8009</TextId>
+        <Text>Incastro FEMA</Text>
+    </Item>
+
+    <Item>
+        <TextId>8010</TextId>
+        <Text>Incastro sismico</Text>
+    </Item>
+
+    <Item>
+        <TextId>8011</TextId>
+        <Text>Taglia larghezza flangia</Text>
+    </Item>
+
+    <Item><!-- profile-->
+        <TextId>8012</TextId>
+        <Text>I</Text>
+    </Item>
+
+    <Item>
+        <TextId>8013</TextId>
+        <Text>Rettangolo cavo</Text>
+    </Item>
+
+    <Item>
+        <TextId>8014</TextId>
+        <Text>L</Text>
+    </Item>
+
+    <Item>
+        <TextId>8015</TextId>
+        <Text>Cerchio cavo</Text>
+    </Item>
+
+    <Item>
+        <TextId>8016</TextId>
+        <Text>C</Text>
+    </Item>
+
+    <Item>
+        <TextId>8017</TextId>
+        <Text>T</Text>
+    </Item>
+
+    <Item>
+        <TextId>8018</TextId>
+        <Text>Formato</Text>
+    </Item>
+
+    <Item>
+        <TextId>8019</TextId>
+        <Text>Cerchio</Text>
+    </Item>
+
+    <Item>
+        <TextId>8020</TextId>
+        <Text>I Asym</Text>
+    </Item>
+
+    <Item>
+        <TextId>8021</TextId>
+        <Text>Formato a freddo</Text>
+    </Item>
+
+    <Item>
+        <TextId>8022</TextId>
+        <Text>Z</Text>
+    </Item>
+
+    <Item>
+        <TextId>8023</TextId>
+        <Text>Guide</Text>
+    </Item>
+
+    <Item>
+        <TextId>8024</TextId>
+        <Text>Intaglio</Text>
+    </Item>
+
+    <Item><!-- Cope plain-->
+        <TextId>8025</TextId>
+        <Text>Lunghezza incastro</Text>
+    </Item>
+
+    <Item>
+        <TextId>8026</TextId>
+        <Text>Profondità incastro</Text>
+    </Item>
+
+    <Item>
+        <TextId>8027</TextId>
+        <Text>Raggio incastro</Text>
+    </Item>
+
+    <Item><!-- Cope Std-->
+        <TextId>8028</TextId>
+        <Text>Lunghezza incastro</Text>
+    </Item>
+
+    <Item>
+        <TextId>8029</TextId>
+        <Text>Profondità incastro</Text>
+    </Item>
+
+    <Item>
+        <TextId>8030</TextId>
+        <Text>Raggio incasso</Text>
+    </Item>
+
+    <Item>
+        <TextId>8031</TextId>
+        <Text>Anima lembo</Text>
+    </Item>
+
+    <Item>
+        <TextId>8032</TextId>
+        <Text>Angolo scanalatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>8033</TextId>
+        <Text>Shop incastro</Text>
+    </Item>
+
+    <Item>
+        <TextId>8034</TextId>
+        <Text>Fianco clip</Text>
+    </Item>
+
+    <Item><!-- Cope FEMA-->
+        <TextId>8035</TextId>
+        <Text>Lunghezza incastro</Text>
+    </Item>
+
+    <Item>
+        <TextId>8036</TextId>
+        <Text>Lunghezza incasso</Text>
+    </Item>
+
+    <Item>
+        <TextId>8037</TextId>
+        <Text>Profondità incasso</Text>
+    </Item>
+
+    <Item>
+        <TextId>8038</TextId>
+        <Text>Lunghezza flangia a filo</Text>
+    </Item>
+
+    <Item>
+        <TextId>8039</TextId>
+        <Text>Raggio incasso</Text>
+    </Item>
+
+    <Item>
+        <TextId>8040</TextId>
+        <Text>Angolo scanalatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>8041</TextId>
+        <Text>Distanza fori incassati</Text>
+    </Item>
+
+    <Item>
+        <TextId>8042</TextId>
+        <Text>Anima lembo</Text>
+    </Item>
+
+    <Item>
+        <TextId>8043</TextId>
+        <Text>Shop incastro</Text>
+    </Item>
+
+    <Item>
+        <TextId>8044</TextId>
+        <Text>Fianco clip</Text>
+    </Item>
+
+    <Item><!-- Cope Seismic-->
+        <TextId>8045</TextId>
+        <Text>Lunghezza incastro</Text>
+    </Item>
+
+    <Item>
+        <TextId>8046</TextId>
+        <Text>Lunghezza incasso</Text>
+    </Item>
+
+    <Item>
+        <TextId>8047</TextId>
+        <Text>Profondità incasso</Text>
+    </Item>
+
+    <Item>
+        <TextId>8048</TextId>
+        <Text>Lunghezza flangia a filo</Text>
+    </Item>
+
+    <Item>
+        <TextId>8049</TextId>
+        <Text>Raggio incasso</Text>
+    </Item>
+
+    <Item>
+        <TextId>8050</TextId>
+        <Text>Angolo scanalatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>8051</TextId>
+        <Text>Distanza fori incassati</Text>
+    </Item>
+
+    <Item>
+        <TextId>8052</TextId>
+        <Text>Anima lembo</Text>
+    </Item>
+
+    <Item><!-- Cut flange width-->
+        <TextId>8053</TextId>
+        <Text>Lunghezza flangia lato vicino</Text>
+    </Item>
+
+    <Item>
+        <TextId>8054</TextId>
+        <Text>Lunghezza flangia lato lontano</Text>
+    </Item>
+
+    <Item>
+        <TextId>8055</TextId>
+        <Text>Taglia flangia a filo</Text>
+    </Item>
+
+    <Item>
+        <TextId>8056</TextId>
+        <Text>Taglia larghezza flangia</Text>
+    </Item>
+
+    <Item><!-- Notch-->
+        <TextId>8057</TextId>
+        <Text>Lunghezza intaglio</Text>
+    </Item>
+
+    <Item>
+        <TextId>8058</TextId>
+        <Text>Larghezza intaglio</Text>
+    </Item>
+
+    <Item>
+        <TextId>8059</TextId>
+        <Text>Distanza intaglio</Text>
+    </Item>
+
+    <Item>
+        <TextId>8060</TextId>
+        <Text>Raggio intaglio</Text>
+    </Item>
+
+    <Item>
+        <TextId>8061</TextId>
+        <Text>Operazione lato vicino</Text>
+    </Item>
+
+    <Item>
+        <TextId>8062</TextId>
+        <Text>Operazione lato lontano</Text>
+    </Item>
+
+    <Item><!-- Moment connection -->
+        <TextId>8063</TextId>
+        <Text>Giunto temporaneo arretramento fianco</Text>
+    </Item>
+
+    <!-- DIALOG LINES -->
+
+    <Item>
+        <TextId>10000</TextId>
+        <Text>Seleziona 2 punti per inserire l'elemento dentellato</Text>
+    </Item>
+
+    <Item>
+        <TextId>10001</TextId>
+        <Text>Aggiungi punto</Text>
+    </Item>
+
+    <Item>
+        <TextId>10002</TextId>
+        <Text>Seleziona polilinea premendo il pulsante "Punti"</Text>
+    </Item>
+
+    <Item>
+        <TextId>10005</TextId>
+        <Text>Inserisci nuovo punto via clic</Text>
+    </Item>
+
+    <Item>
+        <TextId>10006</TextId>
+        <Text>Seleziona punto inserimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>10007</TextId>
+        <Text>Seleziona primo punto inserimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>10008</TextId>
+        <Text>Seleziona secondo punto inserimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>10009</TextId>
+        <Text>Seleziona punto lungo direzione bullone</Text>
+    </Item>
+
+    <Item>
+        <TextId>10010</TextId>
+        <Text>Seleziona punto origine direzione bullone</Text>
+    </Item>
+
+    <Item>
+        <TextId>10011</TextId>
+        <Text>Seleziona primo punto inserimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>10012</TextId>
+        <Text>Seleziona secondo punto inserimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>10013</TextId>
+        <Text>Seleziona primo punto angolo</Text>
+    </Item>
+
+    <Item>
+        <TextId>10014</TextId>
+        <Text>Seleziona secondo punto angolo</Text>
+    </Item>
+
+    <Item>
+        <TextId>10015</TextId>
+        <Text>Seleziona punto inserimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>10016</TextId>
+        <Text>Seleziona primo punto inserimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>10017</TextId>
+        <Text>Seleziona secondo punto inserimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>10018</TextId>
+        <Text>Seleziona punto lungo direzione piastra</Text>
+    </Item>
+
+    <Item>
+        <TextId>10019</TextId>
+        <Text>Seleziona punto origine direzione piastra</Text>
+    </Item>
+
+    <Item>
+        <TextId>10020</TextId>
+        <Text>Seleziona punto inserimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>10021</TextId>
+        <Text>Seleziona polilinea</Text>
+    </Item>
+
+    <Item>
+        <TextId>10024</TextId>
+        <Text>Seleziona spessore via punto</Text>
+    </Item>
+
+    <Item>
+        <TextId>10027</TextId>
+        <Text>Seleziona punto inserimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>10028</TextId>
+        <Text>Seleziona primo punto inserimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>10029</TextId>
+        <Text>Seleziona punto inserimento successivo</Text>
+    </Item>
+
+    <Item>
+        <TextId>10030</TextId>
+        <Text>Seleziona elemento struttura a telaio</Text>
+    </Item>
+
+    <Item>
+        <TextId>10031</TextId>
+        <Text>Seleziona nuovo punto lungo la saldatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>10032</TextId>
+        <Text>Seleziona un profilo nella palette</Text>
+    </Item>
+
+    <Item>
+        <TextId>10033</TextId>
+        <Text> </Text>
+    </Item>
+
+    <Item>
+        <TextId>10034</TextId>
+        <Text>Seleziona grip, trascinalo e cambia i parametri saldatura</Text>
+    </Item>
+
+    <!-- POP-UP MESSAGE -->
+
+    <Item>
+        <TextId>11000</TextId>
+        <Text>Inserisci innanzitutto il bullone</Text>
+    </Item>
+
+    <Item>
+        <TextId>11001</TextId>
+        <Text>Questa non è una polilinea chiusa</Text>
+    </Item>
+
+    <Item>
+        <TextId>11002</TextId>
+        <Text>Non tutti i punti sono sullo stesso piano 3D</Text>
+    </Item>
+
+    <Item>
+        <TextId>11003</TextId>
+        <Text>Seleziona fra due punti esistenti</Text>
+    </Item>
+
+    <Item>
+        <TextId>11004</TextId>
+        <Text>Nessuna localizzazione disponibile.\n</Text>
+    </Item>
+
+    <Item>
+        <TextId>11005</TextId>
+        <Text>Questo PythonPart può essere eseguito solo con un file di localizzazione valido.\n</Text>
+    </Item>
+
+    <Item>
+        <TextId>11006</TextId>
+        <Text>Non verrà creata alcuna geometria.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11007</TextId>
+        <Text>Sono richiesti almeno 2 punti</Text>
+    </Item>
+
+    <Item>
+        <TextId>11008</TextId>
+        <Text>Seleziona innanzitutto un punto inserimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>11009</TextId>
+        <Text>Seleziona nuovamente un punto poiché i 2 punti selezionati non appartengono alla stessa superficie.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11010</TextId>
+        <Text>Seleziona innanzitutto una piastra oppure un elemento struttura a telaio</Text>
+    </Item>
+
+    <Item>
+        <TextId>11011</TextId>
+        <Text>Questa operazione cancella i fori con geometria non valida. Desideri procedere alla cancellazione?</Text>
+    </Item>
+
+    <Item>
+        <TextId>11012</TextId>
+        <Text>Il profilo dell'elemento selezionato non è compatibile con Connection Toolbox.
+Utilizza il catalogo profili Nemetschek.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11013</TextId>
+        <Text>Seleziona elemento struttura a telaio.</Text>
+    </Item>
+
+    <Item>
+        <TextId>11014</TextId>
+        <Text>Procedura non compatibile</Text>
+    </Item>
+
+    <Item>
+        <TextId>11015</TextId>
+        <Text>Tipo elemento non compatibile</Text>
+    </Item>
+
+    <Item>
+        <TextId>11016</TextId>
+        <Text>Questa funzione non è compatibile con la licenza corrente</Text>
+    </Item>
+
+    <Item>
+        <TextId>11017</TextId>
+        <Text>Questa funzione non è compatibile con la versione Allplan utilizzata</Text>
+    </Item>
+
+    <!-- NOT USED TO EXPRESS -->
+
+    <Item>
+        <TextId>12000</TextId>
+        <Text>Ox</Text>
+    </Item>
+
+    <Item>
+        <TextId>12001</TextId>
+        <Text>Oy</Text>
+    </Item>
+
+    <Item>
+        <TextId>12002</TextId>
+        <Text>Oz</Text>
+    </Item>
+
+    <Item>
+        <TextId>12003</TextId>
+        <Text>Ox: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12004</TextId>
+        <Text>Oy: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12005</TextId>
+        <Text>Oz: </Text>
+    </Item>
+
+    <Item>
+        <TextId>12006</TextId>
+        <Text>Foro</Text>
+    </Item>
+
+    <Item>
+        <TextId>12007</TextId>
+        <Text>Crea foro</Text>
+    </Item>
+
+    <Item>
+        <TextId>12008</TextId>
+        <Text>Raggio foro</Text>
+    </Item>
+
+    <Item>
+        <TextId>12009</TextId>
+        <Text>Lunghezza slot</Text>
+    </Item>
+
+    <Item>
+        <TextId>12010</TextId>
+        <Text>Angolo foro</Text>
+    </Item>
+
+    <Item>
+        <TextId>12011</TextId>
+        <Text>Distanza foro</Text>
+    </Item>
+
+    <Item>
+        <TextId>12012</TextId>
+        <Text>Posa</Text>
+    </Item>
+
+    <Item>
+        <TextId>12013</TextId>
+        <Text>Proprietà altezza</Text>
+    </Item>
+
+    <Item>
+        <TextId>12014</TextId>
+        <Text>Punto riferimento</Text>
+    </Item>
+
+    <Item>
+        <TextId>12015</TextId>
+        <Text>Punto inizio</Text>
+    </Item>
+
+    <Item>
+        <TextId>12016</TextId>
+        <Text>Punto fine</Text>
+    </Item>
+
+    <Item>
+        <TextId>12017</TextId>
+        <Text>2</Text>
+    </Item>
+
+    <Item>
+        <TextId>12018</TextId>
+        <Text>3</Text>
+    </Item>
+
+    <Item>
+        <TextId>12019</TextId>
+        <Text>Staffa</Text>
+    </Item>
+
+    <Item>
+        <TextId>12020</TextId>
+        <Text>Bullone</Text>
+    </Item>
+
+    <Item>
+        <TextId>12021</TextId>
+        <Text>Saldatura</Text>
+    </Item>
+
+    <Item>
+        <TextId>12022</TextId>
+        <Text>Punti</Text>
+    </Item>
+
+    <Item>
+        <TextId>12023</TextId>
+        <Text>Rinforzo</Text>
+    </Item>
+</Element>

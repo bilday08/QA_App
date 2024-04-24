@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+  <Item>
+    <TextId>1001</TextId>
+    <Text>Flux de lucru</Text>
+  </Item>
+  <Item>
+    <TextId>1002</TextId>
+    <Text>Pentru informatii apasati aici:</Text>
+  </Item>
+
+  <Item>
+    <TextId>1003</TextId>
+    <Text>Tutorial</Text>
+  </Item>
+
+  <Item>
+    <TextId>1004</TextId>
+    <Text>Elemente</Text>
+  </Item>
+
+  <Item>
+    <TextId>1005</TextId>
+    <Text>Armare</Text>
+  </Item>
+
+  <Item>
+    <TextId>1006</TextId>
+    <Text>Sectiune</Text>
+  </Item>
+
+  <Item>
+    <TextId>1007</TextId>
+    <Text>Creare</Text>
+  </Item>
+
+  <Item>
+    <TextId>1009</TextId>
+    <Text>Obiect 3D</Text>
+  </Item>
+
+  <Item>
+    <TextId>1011</TextId>
+    <Text>Selectie tip</Text>
+  </Item>
+
+  <Item>
+    <TextId>1012</TextId>
+    <Text>General</Text>
+  </Item>
+
+  <Item>
+    <TextId>1013</TextId>
+    <Text>Setari generale</Text>
+  </Item>
+
+  <Item>
+    <TextId>1020</TextId>
+    <Text>Acoperire cu beton</Text>
+  </Item>
+
+  <Item>
+    <TextId>1021</TextId>
+    <Text>Clasa beton</Text>
+  </Item>
+
+  <Item>
+    <TextId>1024</TextId>
+    <Text>Parametri armare</Text>
+  </Item>
+
+  <Item>
+    <TextId>1025</TextId>
+    <Text>Diametru min. armare orizontala</Text>
+  </Item>
+
+  <Item>
+    <TextId>1026</TextId>
+    <Text>Diametru min. armare verticala</Text>
+  </Item>
+
+  <Item>
+    <TextId>1027</TextId>
+    <Text>Distanta max. armare orizontala</Text>
+  </Item>
+
+  <Item>
+    <TextId>1028</TextId>
+    <Text>Distanta max. armare verticala</Text>
+  </Item>
+
+  <Item>
+    <TextId>1029</TextId>
+    <Text>Unghi carlig</Text>
+  </Item>
+
+  <Item>
+    <TextId>1030</TextId>
+    <Text>Lungime max. armare orizontala</Text>
+  </Item>
+
+  <Item>
+    <TextId>1031</TextId>
+    <Text>Suprapunere transv.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1032</TextId>
+    <Text>Unghiul de repartitie</Text>
+  </Item>
+
+  <Item>
+    <TextId>1033</TextId>
+    <Text>Tip plase</Text>
+  </Item>
+
+  <Item>
+    <TextId>1034</TextId>
+    <Text>Armare de rezistenta</Text>
+  </Item>
+
+  <Item>
+    <TextId>1035</TextId>
+    <Text>Armare cu bare</Text>
+  </Item>
+
+  <Item>
+    <TextId>1036</TextId>
+    <Text>Armare cu plase</Text>
+  </Item>
+
+  <Item>
+    <TextId>1037</TextId>
+    <Text>Parametri plasa</Text>
+  </Item>
+
+  <Item>
+    <TextId>1038</TextId>
+    <Text>Armare verticala</Text>
+  </Item>
+
+  <Item>
+    <TextId>1039</TextId>
+    <Text>Diametru</Text>
+  </Item>
+
+  <Item>
+    <TextId>1040</TextId>
+    <Text>Distanta</Text>
+  </Item>
+
+  <Item>
+    <TextId>1041</TextId>
+    <Text>Lungime bara inceput</Text>
+  </Item>
+
+  <Item>
+    <TextId>1042</TextId>
+    <Text>Armare orizontala</Text>
+  </Item>
+
+  <Item>
+    <TextId>1043</TextId>
+    <Text>Tip armatura</Text>
+  </Item>
+
+  <Item>
+    <TextId>1045</TextId>
+    <Text>Lungime suprapunere</Text>
+  </Item>
+
+  <Item>
+    <TextId>1046</TextId>
+    <Text>Armare capat perete</Text>
+  </Item>
+
+  <Item>
+    <TextId>1047</TextId>
+    <Text>Numar de bare</Text>
+  </Item>
+
+  <Item>
+    <TextId>1048</TextId>
+    <Text>Lungime inceput</Text>
+  </Item>
+
+  <Item>
+    <TextId>1049</TextId>
+    <Text>Latime inceput</Text>
+  </Item>
+
+  <Item>
+    <TextId>1050</TextId>
+    <Text>Suprapunere longit.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1051</TextId>
+    <Text>Directie repartitie</Text>
+  </Item>
+
+  <Item>
+    <TextId>1052</TextId>
+    <Text>Longitudinal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1053</TextId>
+    <Text>Python Part</Text>
+  </Item>
+
+  <Item>
+    <TextId>1054</TextId>
+    <Text>Armare deschidere perete</Text>
+  </Item>
+
+  <Item>
+    <TextId>1055</TextId>
+    <Text>Adaugare armare de bordaj</Text>
+  </Item>
+
+  <Item>
+    <TextId>1056</TextId>
+    <Text>Transversal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1057</TextId>
+    <Text>Decupare plasa</Text>
+  </Item>
+
+  <Item>
+    <TextId>1058</TextId>
+    <Text>Modificare directie repartitie</Text>
+  </Item>
+
+  <Item>
+    <TextId>1059</TextId>
+    <Text>Afisare plasa</Text>
+  </Item>
+
+  <Item>
+    <TextId>1060</TextId>
+    <Text>Etrier deschis</Text>
+  </Item>
+
+  <Item>
+    <TextId>1061</TextId>
+    <Text>Etrier deschis orizontal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1062</TextId>
+    <Text>Ca armarea de rezistenta</Text>
+  </Item>
+
+  <Item>
+    <TextId>1063</TextId>
+    <Text>Grupa plase</Text>
+  </Item>
+
+  <Item>
+    <TextId>1065</TextId>
+    <Text>Lungime etrier deschis</Text>
+  </Item>
+
+  <Item>
+    <TextId>1067</TextId>
+    <Text>Etrier deschis vertical</Text>
+  </Item>
+
+  <Item>
+    <TextId>1072</TextId>
+    <Text>Lungime suprapunere etrier</Text>
+  </Item>
+
+  <Item>
+    <TextId>1073</TextId>
+    <Text>Etrieri orizontali</Text>
+  </Item>
+
+  <Item>
+    <TextId>1077</TextId>
+    <Text>Etrier vertical</Text>
+  </Item>
+
+  <Item>
+    <TextId>1081</TextId>
+    <Text>Pozitionare sectiuni</Text>
+  </Item>
+
+  <Item>
+    <TextId>1082</TextId>
+    <Text>Selectare perete superior</Text>
+  </Item>
+
+  <Item>
+    <TextId>1083</TextId>
+    <Text>Selectare goluri</Text>
+  </Item>
+
+  <Item>
+    <TextId>1084</TextId>
+    <Text>Selectati primul perete</Text>
+  </Item>
+
+  <Item>
+    <TextId>1085</TextId>
+    <Text>Verificare si repartitie armatura</Text>
+  </Item>
+
+  <Item>
+    <TextId>1086</TextId>
+    <Text>Utilizare etrier orizontal pt. h &lt;</Text>
+  </Item>
+
+  <Item>
+    <TextId>1087</TextId>
+    <Text>Utilizare etrier vertical pt. h &lt;</Text>
+  </Item>
+
+  <Item>
+    <TextId>1088</TextId>
+    <Text>Extindere orizontala</Text>
+  </Item>
+
+  <Item>
+    <TextId>1089</TextId>
+    <Text>Extindere verticala</Text>
+  </Item>
+
+  <Item>
+    <TextId>1090</TextId>
+    <Text>Vedere</Text>
+  </Item>
+
+  <Item>
+    <TextId>1091</TextId>
+    <Text>Raza indoire armare de rezistenta</Text>
+  </Item>
+
+  <Item>
+    <TextId>1092</TextId>
+    <Text>Raza indoire etrier</Text>
+  </Item>
+
+  <Item>
+    <TextId>1094</TextId>
+    <Text>Sectiune verticala</Text>
+  </Item>
+
+  <Item>
+    <TextId>1098</TextId>
+    <Text>Sectiune orizontala</Text>
+  </Item>
+
+  <Item>
+    <TextId>1099</TextId>
+    <Text>Distanta sectiune  de la stanga</Text>
+  </Item>
+
+  <Item>
+    <TextId>1100</TextId>
+    <Text>Catalog sectiuni transv</Text>
+  </Item>
+
+  <Item>
+    <TextId>1104</TextId>
+    <Text>Lungime min. armare orizontala</Text>
+  </Item>
+
+  <Item>
+    <TextId>1105</TextId>
+    <Text>Lungime min. armare verticala.</Text>
+  </Item>
+
+  <Item>
+    <TextId>1113</TextId>
+    <Text>Distanta sectiune de jos</Text>
+  </Item>
+
+  <Item>
+    <TextId>1114</TextId>
+    <Text>Perete</Text>
+  </Item>
+
+  <Item>
+    <TextId>1115</TextId>
+    <Text>Descriere armatura</Text>
+  </Item>
+
+  <Item>
+    <TextId>1116</TextId>
+    <Text>Nume perete</Text>
+  </Item>
+
+  <Item>
+    <TextId>1117</TextId>
+    <Text>Descriere 1</Text>
+  </Item>
+
+  <Item>
+    <TextId>1118</TextId>
+    <Text>Descriere 2</Text>
+  </Item>
+
+  <Item>
+    <TextId>1119</TextId>
+    <Text>Sectiune 1-1</Text>
+  </Item>
+
+  <Item>
+    <TextId>1120</TextId>
+    <Text>Descriere</Text>
+  </Item>
+
+  <Item>
+    <TextId>1121</TextId>
+    <Text>Sectiune A-A</Text>
+  </Item>
+
+  <Item>
+    <TextId>1123</TextId>
+    <Text>Lungime carlig</Text>
+  </Item>
+
+  <Item>
+    <TextId>1124</TextId>
+    <Text>Valori armatura</Text>
+  </Item>
+
+  <Item>
+    <TextId>1125</TextId>
+    <Text>Manual</Text>
+  </Item>
+
+  <Item>
+    <TextId>1126</TextId>
+    <Text>Conf. normativ</Text>
+  </Item>
+
+  <Item>
+    <TextId>1127</TextId>
+    <Text>Toate egale</Text>
+  </Item>
+
+  <Item>
+    <TextId>1134</TextId>
+    <Text>Sus</Text>
+  </Item>
+
+  <Item>
+    <TextId>1135</TextId>
+    <Text>Jos</Text>
+  </Item>
+
+  <Item>
+    <TextId>1136</TextId>
+    <Text>Interior</Text>
+  </Item>
+
+  <Item>
+    <TextId>1137</TextId>
+    <Text>Stanga</Text>
+  </Item>
+
+  <Item>
+    <TextId>1138</TextId>
+    <Text>Dreapta</Text>
+  </Item>
+
+  <Item>
+    <TextId>1139</TextId>
+    <Text>Exterior</Text>
+  </Item>
+
+  <Item>
+    <TextId>1140</TextId>
+    <Text>Armare aditionala</Text>
+  </Item>
+
+  <Item>
+    <TextId>1141</TextId>
+    <Text>Distantier</Text>
+  </Item>
+
+  <Item>
+    <TextId>1142</TextId>
+    <Text>Inchis</Text>
+  </Item>
+
+  <Item>
+    <TextId>1143</TextId>
+    <Text>Agrafa</Text>
+  </Item>
+
+  <Item>
+    <TextId>1144</TextId>
+    <Text>Tip</Text>
+  </Item>
+
+  <Item>
+    <TextId>1145</TextId>
+    <Text>Orientare</Text>
+  </Item>
+
+  <Item>
+    <TextId>1146</TextId>
+    <Text>Vertical</Text>
+  </Item>
+
+  <Item>
+    <TextId>1147</TextId>
+    <Text>Orizontal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1148</TextId>
+    <Text>Sus</Text>
+  </Item>
+
+  <Item>
+    <TextId>1149</TextId>
+    <Text>Jos</Text>
+  </Item>
+
+  <Item>
+    <TextId>1150</TextId>
+    <Text>Dreapta</Text>
+  </Item>
+
+  <Item>
+    <TextId>1151</TextId>
+    <Text>Directie</Text>
+  </Item>
+
+  <Item>
+    <TextId>1152</TextId>
+    <Text>Stanga</Text>
+  </Item>
+
+  <Item>
+    <TextId>1153</TextId>
+    <Text> </Text>
+  </Item>
+
+  <Item>
+    <TextId>1154</TextId>
+    <Text> Distantieri pe metru patrat</Text>
+  </Item>
+
+  <Item>
+    <TextId>1155</TextId>
+    <Text> Distantieri pe yard patrat</Text>
+  </Item>
+
+  <Item>
+    <TextId>1156</TextId>
+    <Text> Agrafe pe metru patrat</Text>
+  </Item>
+
+  <Item>
+    <TextId>1157</TextId>
+    <Text> Agrafe pe yard patrat</Text>
+  </Item>
+
+  <Item>
+    <TextId>1158</TextId>
+    <Text>Numar pe unitatea de suprafata</Text>
+  </Item>
+
+  <Item>
+    <TextId>1159</TextId>
+    <Text>Valoarea nu poate fi afisata cu crearea multipla</Text>
+  </Item>
+
+  <Item>
+    <TextId>1160</TextId>
+    <Text>Format</Text>
+  </Item>
+
+  <Item>
+    <TextId>1161</TextId>
+    <Text>Armare</Text>
+  </Item>
+
+  <Item>
+    <TextId>1162</TextId>
+    <Text>Orizontala</Text>
+  </Item>
+
+  <Item>
+    <TextId>1163</TextId>
+    <Text>Verticala</Text>
+  </Item>
+
+  <Item>
+    <TextId>1164</TextId>
+    <Text>Plase</Text>
+  </Item>
+
+  <Item>
+    <TextId>1165</TextId>
+    <Text>Margine perete</Text>
+  </Item>
+
+  <Item>
+    <TextId>1166</TextId>
+    <Text>Gol perete</Text>
+  </Item>
+
+  <Item>
+    <TextId>1167</TextId>
+    <Text>Etrier</Text>
+  </Item>
+
+  <Item>
+    <TextId>1168</TextId>
+    <Text>Etrier deschis orizontal</Text>
+  </Item>
+
+  <Item>
+    <TextId>1169</TextId>
+    <Text>Etrier deschis vertical</Text>
+  </Item>
+
+  <Item>
+    <TextId>1170</TextId>
+    <Text>Etrieri orizontali</Text>
+  </Item>
+
+  <Item>
+    <TextId>1171</TextId>
+    <Text>Etrieri verticali</Text>
+  </Item>
+
+  <Item>
+    <TextId>1172</TextId>
+    <Text>Distantieri, agrafe</Text>
+  </Item>
+
+  <Item>
+    <TextId>4999</TextId>
+    <Text>Acest PythonPart va permite sa realizati automat armarea peretilor.\n\nVa rugam sa urmariti pasii de mai jos:\n 1) Selectati peretele pe care doriti sa-l armati.\n 2) Selectati al doilea perete deasupra primului perete. (Optional) \n 3) Selectati golurile din pereti. (Optional) \n 3) Definiti parametrii de armare perete din fiecare tab "General", "Armare de rezistenta", "Etrier deschis". \n     Click pe butonul "Creare" pt. verificarea si generarea armaturii peretelui. \n 4) Din tab-ul "Sectiuni" definiti parametrii de sectiune. \n     Click pe butonul "Creare" si pozitionati sectiunile.</Text>
+  </Item>
+
+  <Item>
+    <TextId>5000</TextId>
+    <Text>Selectati elementele la,</Text>
+  </Item>
+
+  <Item>
+    <TextId>5001</TextId>
+    <Text>acces la tab-ul "General".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5003</TextId>
+    <Text>acces la tab-ul "Armare de rezistenta".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5004</TextId>
+    <Text>accesati tab-ul "Armare aditionala".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5005</TextId>
+    <Text>acces la tab-ul "Etrier  deschis".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5007</TextId>
+    <Text>acces la tab-ul "Sectiune".</Text>
+  </Item>
+
+  <Item>
+    <TextId>5008</TextId>
+    <Text>accesati tab-ul "Format".</Text>
+  </Item>
+
+  <Item>
+    <TextId>10010</TextId>
+    <Text>Armatura nu se poate genera din cauza urmatoarelor erori: \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10016</TextId>
+    <Text>Peretele selectat contine deja armatura.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10018</TextId>
+    <Text>Va rugam sa generati armatura.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10019</TextId>
+    <Text>Faceti click in vederea plana pt. pozitionarea sectiunilor</Text>
+  </Item>
+
+  <Item>
+    <TextId>10020</TextId>
+    <Text>Diametrul barelor orizontale este mai mic decat Ømin = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10021</TextId>
+    <Text>Diametrul barelor verticale este mai mic decat Ømin = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10022</TextId>
+    <Text>Distanta dintre armaturile orizontale este mai mare decat Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10023</TextId>
+    <Text>Distanta dintre armaturile verticale este mai mare decat Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10024</TextId>
+    <Text>Distanta dintre etrierii orizontali este mai mare decat Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10025</TextId>
+    <Text>Distanta dintre etrierii verticali este mai mare decat Smax = {} mm \n</Text>
+  </Item>
+
+  <Item>
+    <TextId>10026</TextId>
+    <Text>Corectati automat acesti parametri?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10027</TextId>
+    <Text>Introduceti parametrii si faceti click pe Creare pt. generarea armaturii</Text>
+  </Item>
+
+  <Item>
+    <TextId>10028</TextId>
+    <Text>Va rugam sa selectati peretele in vederea 3D</Text>
+  </Item>
+
+  <Item>
+    <TextId>10029</TextId>
+    <Text>Procesul s-a finalizat. Faceti click pe butonul Inchidere sau apasati tasta ESC.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10030</TextId>
+    <Text>Introduceti parametrii si faceti click pe Creare pt. generarea sectiunilor</Text>
+  </Item>
+
+  <Item>
+    <TextId>10031</TextId>
+    <Text>Va rugam sa verificati previzualizarea armaturii din jurul golurilor. \n Armatura poate fi extinsa in afara geometriei peretelui.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10032</TextId>
+    <Text>Va rugam sa selectati obiectul din vederea 3D.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10035</TextId>
+    <Text>Grosimea peretilor selectati difera. Acest lucru ar putea avea ca rezultat repartitii gresite de armaturi. Doriti sa continuati?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10036</TextId>
+    <Text>+ Armatura de rezistenta nu s-a putut genera din cauza urmatorilor parametri:</Text>
+  </Item>
+
+  <Item>
+    <TextId>10037</TextId>
+    <Text> - Lungime dorn insuficienta</Text>
+  </Item>
+
+  <Item>
+    <TextId>10038</TextId>
+    <Text> - Lungime min. bara insuficienta</Text>
+  </Item>
+
+  <Item>
+    <TextId>10039</TextId>
+    <Text>Doriti sa omiteti aceasta atentionare si sa continuati cu generarea armaturii?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10040</TextId>
+    <Text>Acest PythonPart este conectat cu elementul de arhitectura cu care a fost generat.\nRetineti ca nu puteti copia acest Python Part intr-o alta locatie.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10041</TextId>
+    <Text>Parametrul a fost modificat.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10042</TextId>
+    <Text>Doriti sa actualizati numerele de marci pt. armatura?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10043</TextId>
+    <Text>Ati copiat Python Part conectat la un element de arhitectura.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10044</TextId>
+    <Text>Doriti sa-l asociati la un nou element de arhitectura?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10045</TextId>
+    <Text>+ Armarea de margine care urmeaza sa fie creata ar fi taiata, deoarece golurile sunt pana la marginea peretelui.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10046</TextId>
+    <Text>Doriti sa impartit armarea de margine in dreptul golurilor?</Text>
+  </Item>
+
+  <Item>
+    <TextId>10047</TextId>
+    <Text>Selectati peretele/peretii cu click stanga sau cu fereastra de selectie</Text>
+  </Item>
+
+  <Item>
+    <TextId>10048</TextId>
+    <Text>Nu s-a gasit niciun perete valid deasupra.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10049</TextId>
+    <Text>Aplicatia suporta doar pereti cu aceeasi grosime.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10050</TextId>
+    <Text>Aplicatia suporta doar peretii cu aceeasi proiectie in vederea plana.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10051</TextId>
+    <Text>Aplicatia suporta doar peretii cu acelasi unghi de rotire in vederea plana.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10052</TextId>
+    <Text>Selectati din nou peretele/peretii sau debifati al doilea perete de deasupra.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10053</TextId>
+    <Text>Selectie nevalida:</Text>
+  </Item>
+
+  <Item>
+    <TextId>10054</TextId>
+    <Text>Aplicatia suporta doar pereti cu o sectiune transversala orizontala, dreptunghiulara.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10055</TextId>
+    <Text>Aplicatia suporta doar pereti fara suprafete inclinate in partea de sus sau de jos.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10056</TextId>
+    <Text>Aplicati asuporta doar peretii fara suprafete inclinate.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10057</TextId>
+    <Text>Aplicatia suporta doar pereti fara decupaturi sau console.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10058</TextId>
+    <Text>Aplicatia suporta doar peretii a caror lungime este de 4 ori mai mare decat grosimea.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10059</TextId>
+    <Text>Va rugam sa selectati din nou peretele/peretii</Text>
+  </Item>
+
+  <Item>
+    <TextId>10060</TextId>
+    <Text>Aplicati anu a putut detecta un strat pt. introducerea armaturii prin lucrare sau grosime pt. unii pereti. \nPentru a imbunatati selectia, atribuiti lucrarea de "Beton si beton armat" straturilor de perete respective sau selectati individual straturile de pereti pe care doriti sa ii armati \cu ajutorul functiei Suma sau click-uri individuale in locul ferestrei de selectie.\nRepetati selectia.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10061</TextId>
+    <Text>Exista un gol in afara peretelui.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10062</TextId>
+    <Text>sau schimbati golul</Text>
+  </Item>
+
+  <Item>
+    <TextId>10063</TextId>
+    <Text>Cu selectia curenta, cel putin un perete pare sa nu aiba niciun perete deasupra lui. In acest caz nu se folosesc barele de legatura.</Text>
+  </Item>
+
+  <Item>
+    <TextId>10064</TextId>
+    <Text>Un gol nu se afla in intregime in peretele pe care l-ati selectat.</Text>
+  </Item>
+
+</Element>
